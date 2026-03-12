@@ -202,33 +202,33 @@ Help_Text_AnswerWhatShouldIBeDoing::
 	.string "$"
 
 Help_Text_AnswerCantGetOutOfRoom::
-	.string "On the stairs or the exits of a\n"
-	.string "building is a red mat. Move your\l"
-	.string "character to stand on top of the\l"
-	.string "red mat. Press the {PLUS} Control Pad \l"
-	.string "toward the stairs or the exit to\l"
-	.string "advance.$"
+	.string "Ved trapper eller udgangene i en\n"
+	.string "bygning er et roedt maatte. Flyt din\l"
+	.string "figur op paa det roede maatte.\l"
+	.string "Tryk paa {PLUS}-retningsknapperne\l"
+	.string "mod trapperne eller udgangen for\l"
+	.string "at komme videre.$"
 
 Help_Text_AnswerCantFindPersonIWant::
-	.string "This isn't something you should worry\n"
-	.string "about too much.\l"
-	.string "Talk to other people, check signs,\l"
-	.string "check things, and so on.\l"
-	.string "Sometimes, you may need to just move\l"
-	.string "to a new town or place.$"
+	.string "Det er ikke noget du behoever bekymre\n"
+	.string "dig for meget.\l"
+	.string "Snak med andre, tjek skilte,\l"
+	.string "undersoeg ting osv.\l"
+	.string "Undertiden skal du bare bevaege dig\l"
+	.string "til en ny by eller et nyt sted.$"
 
 Help_Text_AnswerTalkedToEveryoneNowWhat::
-	.string "Try moving on to a new road, town, or\n"
-	.string "place.$"
+	.string "Proev at gaa videre til en ny vej,\n"
+	.string "by eller et nyt sted.$"
 
 Help_Text_AnswerSomeoneBlockingMyWay::
-	.string "There could be something in the town\n"
-	.string "or inside a building that is the cause.\l"
-	.string "Try talking to the people in the area\l"
-	.string "again. If there is a problem that they\l"
-	.string "need solved, you may have to help.\l"
-	.string "Afterwards, try talking to the person\l"
-	.string "blocking your way again.$"
+	.string "Der kan vaere noget i byen eller\n"
+	.string "inde i en bygning som er aarsagen.\l"
+	.string "Proev at tale med folk i omraadet\l"
+	.string "igen. Hvis der er et problem de\l"
+	.string "skal have loest, maa du maaske hjaelpe.\l"
+	.string "Tal derefter med personen der\l"
+	.string "blokerer din vej igen.$"
 
 Help_Text_AnswerICantGoOn::
 	.string "Try talking to people by going up to\n"
@@ -1494,83 +1494,82 @@ Help_Text_DefineMoney2::
 	.string "enjoy shopping at POKeMON MARTS!$"
 
 Help_Text_DefineBadges2::
-	.string "This indicates the number of POKeMON\n"
-	.string "LEAGUE BADGES that you have won.\l"
-	.string "Earn BADGES by defeating GYM LEADERS\l"
-	.string "in various cities and towns.$"
+	.string "Dette viser antallet af POKeMON\n"
+	.string "LEAGUE BADGES du har vundet.\l"
+	.string "Tjen BADGES ved at besejre GYM LEDERE\l"
+	.string "i forskellige byer.$"
 
 Help_Text_TheHelpSystem::
-	.string "The HELP System$"
+	.string "HJAELP-systemet$"
 
 Help_Text_TheGame::
-	.string "The game$"
+	.string "Spillet$"
 
 Help_Text_WirelessAdapter::
-	.string "Wireless Adapter$"
+	.string "Traadloes adapter$"
 
 Help_Text_GameFundamentals1::
-	.string "Game fundamentals 1$"
+	.string "Spilgrunder 1$"
 
 Help_Text_GameFundamentals2::
-	.string "Game fundamentals 2$"
+	.string "Spilgrunder 2$"
 
 Help_Text_GameFundamentals3::
-	.string "Game fundamentals 3$"
+	.string "Spilgrunder 3$"
 
 Help_Text_WhatArePokemon::
-	.string "What are POKeMON?$"
+	.string "Hvad er POKeMON?$"
 
 Help_Text_DescTheHelpSystem::
-	.string "The help messages change depending on\n"
-	.string "how much you have progressed in the\l"
-	.string "game. They are designed to support you\l"
-	.string "when you need them. If there is\l"
-	.string "anything that you don't understand,\l"
-	.string "please look up the HELP System!$"
+	.string "Hjaelpebeskederne aendrer sig efter\n"
+	.string "hvor langt du er kommet i spillet.\l"
+	.string "De er lavet til at hjaelpe dig, naar\l"
+	.string "du har brug for det. Hvis der er\l"
+	.string "noget du ikke forstaar, slaa det op\l"
+	.string "i HJAELP-systemet!$"
 
 Help_Text_DescTheGame::
-	.string "You become the main character to\n"
-	.string "explore the world of POKeMON!\l"
-	.string "By talking to people and solving\l"
-	.string "mysteries, new paths will open to you.\l"
-	.string "Strive for the goal together with your\l"
-	.string "wonderful POKeMON!$"
+	.string "Du bliver hovedpersonen og udforsker\n"
+	.string "POKeMON-verdenen!\l"
+	.string "Ved at tale med folk og loese\l"
+	.string "mysterier aabner nye veje sig.\l"
+	.string "Straeb mod maalet sammen med dine\l"
+	.string "vidunderlige POKeMON!$"
 
 Help_Text_DescWirelessAdapter::
-	.string "This game communicates over a wireless\n"
-	.string "link using the Wireless Adapter.\p"
-	.string "Go wireless anywhere, anytime, and\n"
-	.string "with anybody!\p"
-	.string "Try playing with the Wireless Adapter\n"
-	.string "always attached!$"
+	.string "Dette spil kommunikerer traadloest\n"
+	.string "via Wireless Adapteren.\p"
+	.string "Vaer traadloes overalt, naar som helst\n"
+	.string "og med hvem som helst!\p"
+	.string "Proev at spille med Wireless Adapteren\n"
+	.string "altid tilsluttet!$"
 
 Help_Text_DescGameFundamentals1::
-	.string "Visit every city and town, travel every\n"
-	.string "road, explore every cave, and face\l"
-	.string "every challenge as you strive to\l"
-	.string "become the greatest TRAINER of\l"
-	.string "POKeMON!$"
+	.string "Besoeg hver by, rejs hver vej, udforsk\n"
+	.string "hver hule og tag imod hver udfordring\l"
+	.string "paa vej mod at blive den bedste\l"
+	.string "TRAENER af POKeMON!$"
 
 Help_Text_DescGameFundamentals2::
-	.string "On your adventure, you will be faced\n"
-	.string "with many obstacles. Every obstacle\l"
-	.string "can be overcome by doing something\l"
-	.string "or by solving mysteries. Some obstacles\l"
-	.string "are affected by something that happens\l"
-	.string "far away.$"
+	.string "Paa din rejse moeder du mange\n"
+	.string "forhindringer. Hver forhindring kan\l"
+	.string "overvindes ved at goere noget eller\l"
+	.string "loese mysterier. Nogle forhindringer\l"
+	.string "paavirkes af noget der sker langt\l"
+	.string "vaek.$"
 
 Help_Text_DescGameFundamentals3::
-	.string "Some of the obstacles in your way can\n"
-	.string "be removed once your POKeMON learn\l"
-	.string "specific moves.$"
+	.string "Nogle af forhindringerne kan fjernes\n"
+	.string "naar dine POKeMON laerer bestemte\l"
+	.string "angreb.$"
 
 Help_Text_DescWhatArePokemon::
-	.string "POKeMON are wondrous creatures that\n"
-	.string "are shrouded in mystery. You may meet\l"
-	.string "them all over the world…in tall\l"
-	.string "grass, caves, the sea, and more.\l"
-	.string "They appear to grow obedient to the\l"
-	.string "TRAINERS that caught them.$"
+	.string "POKeMON er vidunderlige vaesener\n"
+	.string "omgivet af mystik. Du moeder dem\l"
+	.string "overalt i verden…i hoejt graes,\l"
+	.string "huler, havet og mere.\l"
+	.string "De bliver lydige over for de\l"
+	.string "TRAENERE der fangede dem.$"
 
 Help_Text_UsingTypeMatchupList::
 	.string "Using the Type Matchup List$"
