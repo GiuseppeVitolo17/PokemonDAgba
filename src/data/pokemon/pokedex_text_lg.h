@@ -21,7 +21,7 @@ const u8 gIvysaurPokedexTextUnused[] = _("");
 
 const u8 gVenusaurPokedexText[] = _(
     "Planten blomstrer naar den optager\n"
-    "solenergi. Den holder sig i bevægelse for\n"
+    "solenergi. Den holder sig i bevaegelse for\n"
     "at soege sollys.");
 
 const u8 gVenusaurPokedexTextUnused[] = _(
@@ -57,7 +57,7 @@ const u8 gSquirtlePokedexTextUnused[] = _("");
 
 const u8 gWartortlePokedexText[] = _(
     "Den gemmer sig ofte i vand for at lure\n"
-    "uforsigtig bytte. Bevæger oerene for at\n"
+    "uforsigtig bytte. Bevaeger oerene for at\n"
     "holde balancen ved hurtig svomning.");
 
 const u8 gWartortlePokedexTextUnused[] = _("");

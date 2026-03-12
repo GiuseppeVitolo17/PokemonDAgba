@@ -1,4 +1,4 @@
-﻿#include "global.h"
+#include "global.h"
 #include "gflib.h"
 #include "battle.h"
 #include "battle_anim.h"
@@ -231,9 +231,9 @@ static const u8 sText_PkmnObtainedXYObtainedZ[] = _("{B_ATK_NAME_WITH_PREFIX} fi
 static const u8 sText_PkmnCopiedFoe[] = _("{B_ATK_NAME_WITH_PREFIX} kopierede\n{B_DEF_NAME_WITH_PREFIX}s {B_DEF_ABILITY}!");
 static const u8 sText_PkmnMadeWish[] = _("{B_ATK_NAME_WITH_PREFIX} oenskede!");
 static const u8 sText_PkmnWishCameTrue[] = _("{B_BUFF1}s OENSKE\ngik i opfyldelse!");
-static const u8 sText_PkmnPlantedRoots[] = _("{B_ATK_NAME_WITH_PREFIX} plantede rødder!");
-static const u8 sText_PkmnAbsorbedNutrients[] = _("{B_ATK_NAME_WITH_PREFIX} optog\nnaeringsstoffer med rødder!");
-static const u8 sText_PkmnAnchoredItself[] = _("{B_DEF_NAME_WITH_PREFIX} forankrede\nsig med rødder!");
+static const u8 sText_PkmnPlantedRoots[] = _("{B_ATK_NAME_WITH_PREFIX} plantede roedder!");
+static const u8 sText_PkmnAbsorbedNutrients[] = _("{B_ATK_NAME_WITH_PREFIX} optog\nnaeringsstoffer med roedder!");
+static const u8 sText_PkmnAnchoredItself[] = _("{B_DEF_NAME_WITH_PREFIX} forankrede\nsig med roedder!");
 static const u8 sText_PkmnWasMadeDrowsy[] = _("{B_ATK_NAME_WITH_PREFIX} gjorde\n{B_DEF_NAME_WITH_PREFIX} doesig!");
 static const u8 sText_PkmnKnockedOff[] = _("{B_ATK_NAME_WITH_PREFIX} slog\n{B_DEF_NAME_WITH_PREFIX}s {B_LAST_ITEM} af!");
 static const u8 sText_PkmnSwappedAbilities[] = _("{B_ATK_NAME_WITH_PREFIX} byttede evner\nmed modstander!");
@@ -502,7 +502,7 @@ static const u8 sText_PkmnHungOnWithX[] = _("{B_DEF_NAME_WITH_PREFIX} holdt sig\
 const u8 gText_EmptyString3[] = _("");
 static const u8 sText_PlayedFluteCatchyTune[] = _("{B_PLAYER_NAME} spillede {B_LAST_ITEM}.\pDet er en fed melodi!");
 static const u8 sText_PlayedThe[] = _("{B_PLAYER_NAME} spillede\n{B_LAST_ITEM}.");
-static const u8 sText_PkmnHearingFluteAwoke[] = _("POKeMON der hørte FLOEJTEN\nvaagnede!");
+static const u8 sText_PkmnHearingFluteAwoke[] = _("POKeMON der hoerte FLOEJTEN\nvaagnede!");
 static const u8 sText_YouThrowABallNowRight[] = _("Du kaster en BOLD nu, ikke?\nJeg… jeg goer mit bedste!");
 const u8 gText_ForPetesSake[] = _("OAK: Ah, for daen…\nSaadan traengende som altid.\p{B_PLAYER_NAME}.\pDu har aldrig haft en POKeMON-kamp\nfoer, vel?\pEn POKeMON-kamp er naar TRAENERe\nlader POKeMON kaempe mod hinanden.\p");
 const u8 gText_TheTrainerThat[] = _("The TRAINER that makes the other\nTRAINER's POKéMON faint by lowering\ltheir HP to “0,” wins.\p");
