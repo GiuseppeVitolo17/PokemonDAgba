@@ -610,7 +610,7 @@ const u8 gSeelPokedexTextUnused[] = _("");
 
 const u8 gDewgongPokedexText[] = _(
     "Den lagrer termisk energi i kroppen.\n"
-    "Den svommer med jævne otte knob selv i\n"
+    "Den svommer med jaevne otte knob selv i\n"
     "intenst kolde vande.");
 
 const u8 gDewgongPokedexTextUnused[] = _("");
@@ -881,7 +881,7 @@ const u8 gElectabuzzPokedexTextUnused[] = _("");
 
 const u8 gMagmarPokedexText[] = _(
     "Dens krop braender altid med et orange\n"
-    "skær der lader den skjule sig perfekt\n"
+    "skaer der lader den skjule sig perfekt\n"
     "blandt flammer.");
 
 const u8 gMagmarPokedexTextUnused[] = _("");
@@ -1203,7 +1203,7 @@ const u8 gLanturnPokedexTextUnused[] = _("");
 
 const u8 gPichuPokedexText[] = _(
     "Den er endnu ikke dygtig til at lagre\n"
-    "stroem. Den kan sende et stød hvis den\n"
+    "stroem. Den kan sende et stoed hvis den\n"
     "more sig eller bliver forskraekket.");
 
 const u8 gPichuPokedexTextUnused[] = _("");
@@ -1406,13 +1406,13 @@ const u8 gMisdreavusPokedexTextUnused[] = _("");
 const u8 gUnownPokedexText[] = _(
     "Deres former ligner hieroglyfer paa\n"
     "oldtids tavler. Det siges at de to paa\n"
-    "en eller anden maade er beslægtede.");
+    "en eller anden maade er beslaegetede.");
 
 const u8 gUnownPokedexTextUnused[] = _("");
 
 const u8 gWobbuffetPokedexText[] = _(
     "Den hader lys og chok. Hvis den angribes,\n"
-    "blaeser den kroppen op for at øge sin\n"
+    "blaeser den kroppen op for at oege sin\n"
     "modangreb.");
 
 const u8 gWobbuffetPokedexTextUnused[] = _("");
@@ -1621,7 +1621,7 @@ const u8 gPhanpyPokedexText[] = _(
 const u8 gPhanpyPokedexTextUnused[] = _("");
 
 const u8 gDonphanPokedexText[] = _(
-    "Den har skarpe, haarde stødtaender og et\n"
+    "Den har skarpe, haarde stoedtaender og et\n"
     "ruet skind. Dens TACKLE er staerk nok til\n"
     "at vaelte et hus.");
 
@@ -1782,7 +1782,7 @@ const u8 gSceptilePokedexTextUnused[] = _("");
 
 const u8 gTorchicPokedexText[] = _(
     "Den har en flammepose i maven der braender\n"
-    "evigt. Den føles varm naar den krammes.");
+    "evigt. Den foeles varm naar den krammes.");
 
 const u8 gTorchicPokedexTextUnused[] = _("");
 

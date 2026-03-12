@@ -111,7 +111,7 @@ ALIGNED(4) static const u8 sText_TrainerAppearsUnavailable[] = _("Den anden TRAE
 ALIGNED(4) const u8 gText_UR_PlayerSentBackOK[] = _("{STR_VAR_1} sent back an “OK”!");
 ALIGNED(4) const u8 gText_UR_PlayerOKdRegistration[] = _("{STR_VAR_1} OK'd your registration as\na member.");
 ALIGNED(4) static const u8 sText_PlayerRepliedNo[] = _("{STR_VAR_1} replied, “No…”\p");
-ALIGNED(4) const u8 gText_UR_AwaitingOtherMembers[] = _("{STR_VAR_1}!\nAwaiting other members!");
+ALIGNED(4) const u8 gText_UR_AwaitingOtherMembers[] = _("{STR_VAR_1}!\nVenter paa andre deltagere!");
 ALIGNED(4) const u8 gText_UR_QuitBeingMember[] = _("Vil du slutte som medlem?");
 ALIGNED(4) static const u8 sText_StoppedBeingMember[] = _("Du er ikke laengere medlem.\p");
 
@@ -207,7 +207,7 @@ const u8 *const gTexts_UR_PlayerContactedYou[] = {
     sText_PlayerHasContactedYou
 };
 
-ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer[] = _("Awaiting a response from\nthe other TRAINER…");
+ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer[] = _("Venter paa svar fra\nden anden TRAENER…");
 ALIGNED(4) static const u8 sText_AwaitingResponseFromPlayer[] = _("Venter paa svar fra\n{STR_VAR_1}…");
 
 const u8 *const gTexts_UR_AwaitingResponse[] = {
@@ -497,11 +497,11 @@ ALIGNED(4) const u8 gText_UR_SearchingForWirelessSystemWait[] = _("Searching for
 ALIGNED(4) static const u8 sText_MustHaveTwoMonsForDoubleBattle[] = _("ダブルバトルでは 2ひき いじょうの\nポケモンが ひつようです\p");
 ALIGNED(4) const u8 gText_UR_AwaitingPlayersResponse[] = _("Awaiting {STR_VAR_1}'s response…");
 ALIGNED(4) const u8 gText_UR_PlayerHasBeenAskedToRegisterYouPleaseWait[] = _("{STR_VAR_1} has been asked to register\nyou as a member. Please wait.");
-ALIGNED(4) const u8 gText_UR_AwaitingResponseFromWirelessSystem[] = _("Awaiting a response from the\nWIRELESS COMMUNICATION SYSTEM.");
+ALIGNED(4) const u8 gText_UR_AwaitingResponseFromWirelessSystem[] = _("Venter paa svar fra\nTRAADLOES KOMMUNIKATION.");
 ALIGNED(4) static const u8 sText_PleaseWaitForOtherTrainersToGather[] = _("ほかの さんかしゃが そろうまで\nしょうしょう おまちください");
 
-ALIGNED(4) static const u8 sText_NoCardsSharedRightNow[] = _("No CARDS appear to be shared \nright now.");
-ALIGNED(4) static const u8 sText_NoNewsSharedRightNow[] = _("No NEWS appears to be shared\nright now.");
+ALIGNED(4) static const u8 sText_NoCardsSharedRightNow[] = _("Ingen KORT deles lige nu.");
+ALIGNED(4) static const u8 sText_NoNewsSharedRightNow[] = _("Ingen NYHEDER deles lige nu.");
 
 const u8 *const gTexts_UR_NoWonderShared[] = {
     sText_NoCardsSharedRightNow,

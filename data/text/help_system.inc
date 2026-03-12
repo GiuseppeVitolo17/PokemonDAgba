@@ -1263,20 +1263,16 @@ Help_Text_DefineLevel::
 	.string "leveling up.$"
 
 Help_Text_DefineType::
-	.string "POKeMON and moves are classified by\n"
-	.string "type. Every type has advantageous and\l"
-	.string "disadvantageous matchups against\l"
-	.string "other types. For example, like a rock-\l"
-	.string "paper-scissors game, the WATER type is\l"
-	.string "strong against the FIRE type and weak\l"
-	.string "against the GRASS type.$"
+	.string "POKeMON og angreb inddeles i typer.\n"
+	.string "Hver type har fordele og ulemper\l"
+	.string "mod andre typer. Som sten-saks-pap:\l"
+	.string "VAND er staerk mod ILD og svag\l"
+	.string "mod GRAES.$"
 
 Help_Text_DefineOT::
-	.string "OT stands for “Original TRAINER,”\n"
-	.string "the first TRAINER to have caught the\l"
-	.string "selected POKeMON.\l"
-	.string "Even if the POKeMON is traded, the OT\l"
-	.string "name will remain unchanged.$"
+	.string "OT betyder Original TRAENER, den\l"
+	.string "foerste TRAENER der fangede POKeMON.\l"
+	.string "OT-navnet aendres ikke ved bytte.$"
 
 Help_Text_DefineItem::
 	.string "All POKeMON can be made to hold one\n"
@@ -1295,19 +1291,17 @@ Help_Text_DefineAbility::
 	.string "have more than one kind of ability.$"
 
 Help_Text_DefineMoney::
-	.string "Whenever you win a battle against a\n"
-	.string "TRAINER, you are given prize money.\l"
-	.string "Save up your prize money so you can\l"
-	.string "enjoy shopping at POKeMON MARTS!$"
+	.string "Naar du vinder mod en TRAENER,\l"
+	.string "faar du premiepenge. Spar op til\l"
+	.string "indkoeb i POKeMON MART!$"
 
 Help_Text_DefineMoveType::
 	.string "Moves are also classified by types.\n"
 	.string "If a POKeMON of a certain type uses\l"
 	.string "a move of the same type, the move's\l"
 	.string "power is boosted. If the move's type\l"
-	.string "has a matchup advantage against the\l"
-	.string "target, its effectiveness is also\l"
-	.string "boosted.$"
+	.string "har fordel mod maalet, oeges\l"
+	.string "effektiviteten ogsaa.$"
 
 Help_Text_DefineNature::
 	.string "All POKeMON have a personality,\n"

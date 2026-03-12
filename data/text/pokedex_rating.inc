@@ -11,7 +11,7 @@ PokedexRating_Text_SeenXOwnedY::
 
 PokedexRating_Text_LessThan10::
 	.string "Du har stadig meget at gore.\p"
-	.string "Ga ind i hver græsplet du ser\n"
+	.string "Ga ind i hver graesplet du ser\n"
 	.string "og led efter POKeMON!$"
 
 PokedexRating_Text_LessThan20::

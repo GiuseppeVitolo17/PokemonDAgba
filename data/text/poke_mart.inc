@@ -8,7 +8,7 @@ Text_FillOutQuestionnaire::
 
 Text_QuestionnaireThankYou::
 	.string "Tak fordi du tog dig tid til at\n"
-	.string "udfylde vores spoergeundersøgelse.\p"
+	.string "udfylde vores spoergeundersoegelse.\p"
 	.string "Din feedback bruges som\n"
 	.string "reference fremover.$"
 
@@ -17,7 +17,7 @@ Text_YouKnowThoseWords::
 	.string "Kender du de ord?\p"
 	.string "Det betyder at du maa kende\n"
 	.string "MYSTERY GIFT.\p"
-	.string "Fra nu af bør du modtage\n"
+	.string "Fra nu af boer du modtage\n"
 	.string "MYSTERY GIFTS!$"
 
 Text_YouCanAccessMysteryGift::

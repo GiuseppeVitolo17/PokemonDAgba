@@ -122,7 +122,7 @@ DayCare_Text_TakeYourMonBack::
 
 DayCare_Text_WhatWillYouBattleWith::
 	.string "Hvis du efterlader den POKeMON,\n"
-	.string "hvad vil du saa kæmpe med?\p"
+	.string "hvad vil du saa kaempe med?\p"
 	.string "Kom tilbage en anden gang.$"
 
 DayCare_Text_Huh::

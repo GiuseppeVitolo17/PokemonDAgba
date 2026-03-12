@@ -1,5 +1,5 @@
 Text_FirstShouldRestoreMonsHealth::
-	.string "Foerst bør du genoprette dine\n"
+	.string "Foerst boer du genoprette dine\n"
 	.string "POKeMON til fuld helbred.$"
 
 Text_MonsHealedShouldBuyPotions::
@@ -8,7 +8,7 @@ Text_MonsHealedShouldBuyPotions::
 	.string "Hvis dine POKeMONs energi, HP,\n"
 	.string "er lav, kom og besoeg os.\p"
 	.string "Hvis du planlaegger at rejse langt,\n"
-	.string "bør du koebe HELBREDELSES-\l"
+	.string "boer du koebe HELBREDELSES-\l"
 	.string "MIDLER i POKeMON-MARTEN.\p"
 	.string "Vi haaber du klarer dig godt!$"
 
@@ -22,13 +22,13 @@ Text_HadQuiteAnExperienceTakeRest::
 	.string "Velkommen hjem.\p"
 	.string "Det lyder som om du har haft\n"
 	.string "en oplevelse.\p"
-	.string "Maaske bør du tage en kort\n"
+	.string "Maaske boer du tage en kort\n"
 	.string "hvile.$"
 
 Text_MomExplainHPGetPotions::
 	.string "MOR: Oh, godt! Du og dine\n"
 	.string "POKeMON ser gode ud.\p"
-	.string "Jeg har lige hørt fra PROF. OAK.\p"
+	.string "Jeg har lige hoert fra PROF. OAK.\p"
 	.string "Han sagde at POKeMONs energi\n"
 	.string "maales i HP.\p"
 	.string "Hvis dine POKeMON mister HP,\n"
