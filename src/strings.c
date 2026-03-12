@@ -1,4 +1,4 @@
-﻿#include "global.h"
+#include "global.h"
 #include "strings.h"
 
 const u8 gExpandedPlaceholder_Empty[] = _("");
@@ -1060,8 +1060,8 @@ const u8 gText_PokemonOnHook[] = _("En POKeMON bid!{PAUSE_UNTIL_PRESS}");
 const u8 gText_NotEvenANibble[] = _("Ikke engang et nip‥{PAUSE_UNTIL_PRESS}");
 const u8 gText_ItGotAway[] = _("Den slap vaek‥{PAUSE_UNTIL_PRESS}");
 const u8 gText_Rooftop2[] = _("TAG");
-ALIGNED(4) const u8 gString_PokemonFireRed_Staff[] = _("Pokémon FireRed Version\nStaff");
-ALIGNED(4) const u8 gString_PokemonLeafGreen_Staff[] = _("Pokémon LeafGreen Version\nStaff");
+ALIGNED(4) const u8 gString_PokemonFireRed_Staff[] = _("POKeMON FireRed Version\nStaff");
+ALIGNED(4) const u8 gString_PokemonLeafGreen_Staff[] = _("POKeMON LeafGreen Version\nStaff");
 ALIGNED(4) const u8 gCreditsString_Director[] = _("\n\nDirector\n\n\n\n");
 ALIGNED(4) const u8 gCreditsString_Junichi_Masuda[] = _("\n\n\nJunichi Masuda\n\n\n");
 ALIGNED(4) const u8 gCreditsString_Art_Director_Battle_Director[] = _("\nArt Director\n\nBattle Director\n\n\n");

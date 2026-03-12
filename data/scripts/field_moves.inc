@@ -45,16 +45,14 @@ EventScript_DontCutTree::
 	end
 
 Text_CutTreeDown::
-	.string "This tree looks like it can be CUT\n"
-	.string "down!\p"
-	.string "Would you like to CUT it?$"
+	.string "Dette trae kan maaske faeldes med CUT!\p"
+	.string "Vil du bruge CUT?$"
 
 Text_MonUsedMove::
-	.string "{STR_VAR_1} used {STR_VAR_2}!$"
+	.string "{STR_VAR_1} brugte {STR_VAR_2}!$"
 
 Text_TreeCanBeCutDown::
-	.string "This tree looks like it can be CUT\n"
-	.string "down!$"
+	.string "Dette trae kan maaske faeldes med CUT!$"
 
 EventScript_RockSmash::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -109,12 +107,12 @@ EventScript_DontSmashRock::
 	end
 
 Text_UseRockSmash::
-	.string "This rock appears to be breakable.\n"
-	.string "Would you like to use ROCK SMASH?$"
+	.string "Stenen ser ud til at kunne smadres.\n"
+	.string "Vil du bruge ROCK SMASH?$"
 
 Text_MonMaySmashRock::
-	.string "It's a rugged rock, but a POKéMON\n"
-	.string "may be able to smash it.$"
+	.string "Det er en ru sten, men en POKeMON\n"
+	.string "kan maaske smadre den.$"
 
 EventScript_StrengthBoulder::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -158,7 +156,7 @@ EventScript_DontUseStrength::
 	end
 
 Text_UseStrength::
-	.string "It's a big boulder, but a POKéMON\n"
+	.string "It's a big boulder, but a POKeMON\n"
 	.string "may be able to push it aside.\p"
 	.string "Would you like to use STRENGTH?$"
 
@@ -168,7 +166,7 @@ Text_MonUsedStrengthCanMoveBoulders::
 	.string "possible to move boulders around!$"
 
 Text_MonMayPushBoulder::
-	.string "It's a big boulder, but a POKéMON\n"
+	.string "It's a big boulder, but a POKeMON\n"
 	.string "may be able to push it aside.$"
 
 Text_StrengthMadeMovingBouldersPossible::
@@ -197,15 +195,15 @@ EventScript_EndWaterfall:
 	end
 
 Text_WallOfWaterCrashingDown::
-	.string "A wall of water is crashing down\n"
-	.string "with a mighty roar.$"
+	.string "En vandvaeg styrteder ned\n"
+	.string "med et maegtigt brag.$"
 
 Text_UseWaterfall::
-	.string "It's a large waterfall.\n"
-	.string "Would you like to use WATERFALL?$"
+	.string "Det er et stort vandfald.\n"
+	.string "Vil du bruge WATERFALL?$"
 
 Text_MonUsedWaterfall::
-	.string "{STR_VAR_1} used WATERFALL.$"
+	.string "{STR_VAR_1} brugte WATERFALL.$"
 
 @ Unused leftover from R/S
 EventScript_DeepWater::
@@ -255,31 +253,31 @@ EventScript_EndSurface:
 	end
 
 Text_MonMayGoUnderwater::
-	.string "The sea is deep here. A POKéMON\n"
-	.string "may be able to go underwater.$"
+	.string "Havet er dybt her. En POKeMON\n"
+	.string "kan maaske dykke ned.$"
 
 Text_SeaIsDeepUseDive::
-	.string "The sea is deep here.\n"
-	.string "Would you like to use DIVE?$"
+	.string "Havet er dybt her.\n"
+	.string "Vil du bruge DIVE?$"
 
 Text_MonUsedDive::
-	.string "{STR_VAR_1} used DIVE.$"
+	.string "{STR_VAR_1} brugte DIVE.$"
 
 Text_MonMaySurface::
-	.string "Light is filtering down from above.\n"
-	.string "A POKéMON may be able to surface.$"
+	.string "Lys sipper ned ovenfra.\n"
+	.string "En POKeMON kan maaske stige op.$"
 
 Text_LightFilteringUseDive::
-	.string "Light is filtering down from above.\n"
-	.string "Would you like to use DIVE?$"
+	.string "Lys sipper ned ovenfra.\n"
+	.string "Vil du bruge DIVE?$"
 
 Text_DiveCantBeUsedHere::
-	.string "There is an obstacle above.\n"
-	.string "DIVE can't be used here.$"
+	.string "Der er en forhindring ovenover.\n"
+	.string "DIVE kan ikke bruges her.$"
 
 EventScript_FailSweetScent::
 	msgbox Text_LooksLikeNothingHere, MSGBOX_SIGN
 	end
 
 Text_LooksLikeNothingHere::
-	.string "Looks like there's nothing here…$"
+	.string "Der ser ikke ud til at vaere noget her…$"

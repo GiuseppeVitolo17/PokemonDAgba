@@ -2,29 +2,29 @@
 
 PalletTown_Text_HmmIsThatRight::
 	.string "Hmm…\n"
-	.string "Is that right…$"
+	.string "Er det rigtigt…$"
 
 PalletTown_Text_OhLookLook::
-	.string "Oh!\n"
-	.string "Look, look!$"
+	.string "Aah!\n"
+	.string "Se, se!$"
 
 PalletTown_Text_ReadItReadIt::
-	.string "Read it, read it!$"
+	.string "Laes det, laes det!$"
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
-	.string "TRAINER TIPS\p"
-	.string "Press START to open the MENU!$"
+	.string "TRAENER TIPS\p"
+	.string "Tryk paa START for at aabne MENUEN!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
-	.string "Signs are useful, aren't they?$"
+	.string "Skilte er nyttige, er de ikke?$"
 
 PalletTown_Text_LookCopiedTrainerTipsSign::
-	.string "Look, look!\p"
-	.string "I copied what it said on one of\n"
-	.string "those TRAINER TIPS signs!$"
+	.string "Se, se!\p"
+	.string "Jeg kopierede hvad der stod paa et af\n"
+	.string "de TRAENER TIPS-skilte!$"
 
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
-	.string "TRAINER TIPS!\p"
-	.string "Press START to open the MENU!$"
+	.string "TRAENER TIPS!\p"
+	.string "Tryk paa START for at aabne MENUEN!$"
