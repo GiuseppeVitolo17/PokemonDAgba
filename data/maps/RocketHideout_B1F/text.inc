@@ -1,53 +1,52 @@
 RocketHideout_B1F_Text_Grunt1Intro::
-    .string "Who are you?\n"
-    .string "How did you get here?$"
+    .string "Hvem er du?\n"
+    .string "Hvordan kom du her?$"
 
 RocketHideout_B1F_Text_Grunt1Defeat::
-    .string "Oww!\n"
-    .string "Beaten!$"
+    .string "Av!\n"
+    .string "Besejret!$"
 
 RocketHideout_B1F_Text_Grunt1PostBattle::
-    .string "Blast it… You're dissing TEAM\n"
-    .string "ROCKET, aren't you?$"
+    .string "Forbandede… Du disser TEAM\n"
+    .string "ROCKET, ikke?$"
 
 RocketHideout_B1F_Text_Grunt2Intro::
-    .string "You broke into TEAM ROCKET's\n"
-    .string "operation? What nerve!$"
+    .string "Du broed ind i TEAM ROCKETs\n"
+    .string "operation? Hvilken fraekhed!$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
     .string "Boom!$"
 
 RocketHideout_B1F_Text_Grunt2PostBattle::
-    .string "You're not going to get away with\n"
-    .string "this, brat!$"
+    .string "Du slipper ikke godt fra dette,\n"
+    .string "moegunge!$"
 
 RocketHideout_B1F_Text_Grunt3Intro::
-    .string "Intruder alert!$"
+    .string "Indtraenger alarm!$"
 
 RocketHideout_B1F_Text_Grunt3Defeat::
-    .string "I can't do it!$"
+    .string "Jeg kan ikke!$"
 
 RocketHideout_B1F_Text_Grunt3PostBattle::
     .string "SILPH SCOPE? Humph!\n"
-    .string "I don't know where it is.$"
+    .string "Jeg ved ikke hvor den er.$"
 
 RocketHideout_B1F_Text_Grunt4Intro::
-    .string "Why did you come here?$"
+    .string "Hvorfor kom du her?$"
 
 RocketHideout_B1F_Text_Grunt4Defeat::
-    .string "This won't do!$"
+    .string "Det duer ikke!$"
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
-    .string "Okay, I'll talk…\n"
-    .string "Take the elevator to see my BOSS.$"
+    .string "Okay, jeg snakker…\n"
+    .string "Tag elevatoren for at se min BOSS.$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
-    .string "Are you lost, you little mouse?$"
+    .string "Er du faret vild, din lille mus?$"
 
 RocketHideout_B1F_Text_Grunt5Defeat::
-    .string "Why…?$"
+    .string "Hvorfor…?$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
-    .string "Uh-oh, that ruckus somehow opened\n"
-    .string "the door!$"
-
+    .string "Uh-oh, den larm aabnede paa en eller\n"
+    .string "anden maade doeren!$"

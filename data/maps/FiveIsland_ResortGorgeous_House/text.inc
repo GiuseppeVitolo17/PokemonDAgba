@@ -1,68 +1,69 @@
 FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
-    .string "SELPHY: Oh?\n"
-    .string "Do I know you from somewhere?\p"
-    .string "Oh, but that doesn't matter.\p"
-    .string "I am exquisitely bored.\n"
-    .string "Please, hear my wish.$"
+    .string "SELPHY: Oeh?\n"
+    .string "Kender jeg dig et sted fra?\p"
+    .string "Men det er lige meget.\p"
+    .string "Jeg keder mig uendeligt.\n"
+    .string "Hoer venligst min oenskning.$"
 
 FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
-    .string "I wish to see a POKéMON.\n"
-    .string "A darling {STR_VAR_1}.\p"
-    .string "I want to see one right away.\n"
-    .string "Please, make my wish come true.$"
+    .string "Jeg vil gerne se en POKeMON.\n"
+    .string "En soed {STR_VAR_1}.\p"
+    .string "Jeg vil se en med det samme.\n"
+    .string "Opfyld venligst min oenskning.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
-    .string "SELPHY: Oh, I'm tired of this.\n"
-    .string "I'm tired of waiting for you.\p"
-    .string "I'll forgive you this time, but\n"
-    .string "please don't fail me next time.$"
+    .string "SELPHY: Av, jeg er traet af det.\n"
+    .string "Jeg er traet af at vente paa dig.\p"
+    .string "Jeg tilgiver dig denne gang, men\n"
+    .string "vaer venlig ikke at skuffe naeste gang.$"
 
 FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
-    .string "SELPHY: Oh, hello, there.\p"
-    .string "Oh, my gracious. That must be the\n"
-    .string "{STR_VAR_1} you caught for me.\p"
-    .string "Giggle…\n"
-    .string "I see a resemblance to you.\p"
-    .string "Thank you so kindly.\p"
+    .string "SELPHY: Oeh, hej.\p"
+    .string "Oeh, du godeste. Det maa vaere den\n"
+    .string "{STR_VAR_1}, du fangede til mig.\p"
+    .string "Fnise…\n"
+    .string "Den ligner dig.\p"
+    .string "Mange tak.\p"
     .string "… …  … …  … …\n"
-    .string "Is something the matter?\p"
-    .string "You may leave.\p"
+    .string "Er der noget galt?\p"
+    .string "Du maa gaa.\p"
     .string "… …  … …  … …\n"
-    .string "Oh, fine. I understand now.\p"
+    .string "Naaja, jeg forstaar nu.\p"
     .string "SEBASTIAN!\n"
-    .string "I need you here this instant!$"
+    .string "Jeg har brug for dig med det samme!$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
-    .string "Butler: Yes, my lady.$"
+    .string "Butler: Ja, min frue.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation::
-    .string "SELPHY: See to it that this person\n"
-    .string "is given a token of appreciation.$"
+    .string "SELPHY: Soerg for at denne person\n"
+    .string "faar en takkegaver.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
-    .string "Butler: I shall do as you bid,\n"
-    .string "my lady.$"
+    .string "Butler: Jeg goer som De befaler,\n"
+    .string "min frue.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
-    .string "Butler: I sincerely thank you for\n"
-    .string "pleasing Lady SELPHY.\p"
-    .string "Please accept this as her thanks…$"
+    .string "Butler: Jeg takker oprigtigt for at\n"
+    .string "De gjorde frue SELPHY tilpas.\p"
+    .string "Modtag venligst dette som hendes\n"
+    .string "tak…$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
-    .string "Butler: Your BAG appears to be\n"
-    .string "unfortunately full.$"
+    .string "Butler: Din TASKE lader til at vaere\n"
+    .string "desvaerre fuld.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
-    .string "Oh…\n"
-    .string "How disappointing.$"
+    .string "Oeh…\n"
+    .string "Saa skuffende.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck::
-    .string "SELPHY: I wish you the best of\n"
-    .string "luck.$"
+    .string "SELPHY: Jeg oensker dig al mulig\n"
+    .string "lykke.$"
 
 FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSun::
-    .string "Butler: The smile of Lady SELPHY\n"
-    .string "has the brilliance of the sun.\p"
-    .string "Please, I beg you to bring joy\n"
-    .string "to Lady SELPHY.$"
+    .string "Butler: Frue SELPHYs smil har\n"
+    .string "solens glans.\p"
+    .string "Jeg beder dig bringe glaede til\n"
+    .string "frue SELPHY.$"
 

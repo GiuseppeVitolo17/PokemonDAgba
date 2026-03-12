@@ -1,29 +1,28 @@
 PokemonTower_1F_Text_ErectedInMemoryOfDeadMons::
-    .string "POKéMON TOWER was erected in the\n"
-    .string "memory of POKéMON that died.$"
+    .string "POKeMON TOWER blev rejst til\n"
+    .string "minde om POKeMON der doede.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsSon::
-    .string "Did you come to pay respects?\p"
-    .string "Bless your POKéMON-loving heart,\n"
-    .string "son.$"
+    .string "Kom du for at vise respekt?\p"
+    .string "Velsign dit POKeMON-elskkende hjerte,\n"
+    .string "soen.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsGirl::
-    .string "Did you come to pay respects?\p"
-    .string "Bless your POKéMON-loving heart,\n"
-    .string "girl.$"
+    .string "Kom du for at vise respekt?\p"
+    .string "Velsign dit POKeMON-elskkende hjerte,\n"
+    .string "pige.$"
 
 PokemonTower_1F_Text_CameToPrayForDepartedClefairy::
-    .string "I came to pray for my dearly\n"
-    .string "departed CLEFAIRY.\p"
-    .string "Sniff!\n"
-    .string "I'm awash in tears…$"
+    .string "Jeg kom for at bede for min dybt\n"
+    .string "afdoede CLEFAIRY.\p"
+    .string "Snoeft!\n"
+    .string "Jeg er oversvoemmet af taarer…$"
 
 PokemonTower_1F_Text_GrowlitheWhyDidYouDie::
-    .string "My GROWLITHE…\n"
-    .string "Why did you die?$"
+    .string "Min GROWLITHE…\n"
+    .string "Hvorfor doede du?$"
 
 PokemonTower_1F_Text_SenseSpiritsUpToMischief::
-    .string "I am a CHANNELER.\p"
-    .string "There are spirits up to mischief.\n"
-    .string "I sense them high in the TOWER.$"
-
+    .string "Jeg er en CHANNELER.\p"
+    .string "Der er aander der laver ballade.\n"
+    .string "Jeg maerker dem hoejt i TAaRNET.$"

@@ -1,36 +1,36 @@
 PokemonTower_5F_Text_RestHereInPurifiedSpace::
-    .string "Come, child!\n"
-    .string "I have purified this space.\l"
-    .string "You can rest here.$"
+    .string "Kom, barn!\n"
+    .string "Jeg har renset dette sted.\l"
+    .string "Du kan hvile her.$"
 
 PokemonTower_5F_Text_TammyIntro::
-    .string "Give…me…\n"
-    .string "your…all…$"
+    .string "Giv…mig…\n"
+    .string "dit…alt…$"
 
 PokemonTower_5F_Text_TammyDefeat::
-    .string "Gasp!$"
+    .string "Gisp!$"
 
 PokemonTower_5F_Text_TammyPostBattle::
-    .string "I was under possession.$"
+    .string "Jeg var under besaettelse.$"
 
 PokemonTower_5F_Text_RuthIntro::
-    .string "You…shall…\n"
-    .string "join…us…$"
+    .string "Du…skal…\n"
+    .string "slutte…dig…til…os…$"
 
 PokemonTower_5F_Text_RuthDefeat::
-    .string "What a nightmare!$"
+    .string "Hvilket mareridt!$"
 
 PokemonTower_5F_Text_RuthPostBattle::
-    .string "I was possessed.$"
+    .string "Jeg var besat.$"
 
 PokemonTower_5F_Text_KarinaIntro::
-    .string "Zombies!$"
+    .string "Zombier!$"
 
 PokemonTower_5F_Text_KarinaDefeat::
     .string "Ha?$"
 
 PokemonTower_5F_Text_KarinaPostBattle::
-    .string "I regained my senses.$"
+    .string "Jeg genvandt mine sanser.$"
 
 PokemonTower_5F_Text_JanaeIntro::
     .string "Urgah…\n"
@@ -40,12 +40,11 @@ PokemonTower_5F_Text_JanaeDefeat::
     .string "Whoo!$"
 
 PokemonTower_5F_Text_JanaePostBattle::
-    .string "I fell to evil spirits despite my\n"
-    .string "training in the mountains…$"
+    .string "Jeg faldt for onde aander trods min\n"
+    .string "traening i bjergene…$"
 
 PokemonTower_5F_Text_PurifiedZoneMonsFullyHealed::
-    .string "Entered the purified and protected\n"
+    .string "Traadte ind i den rensede og beskyttede\n"
     .string "zone.\p"
-    .string "{PLAYER}'s POKéMON were fully\n"
-    .string "healed.$"
-
+    .string "{PLAYER}s POKeMON blev fuldt\n"
+    .string "helbredt.$"

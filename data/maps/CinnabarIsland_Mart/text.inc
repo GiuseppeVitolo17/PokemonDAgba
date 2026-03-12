@@ -1,9 +1,8 @@
 CinnabarIsland_Mart_Text_DontTheyHaveXAttack::
-    .string "Don't they have X ATTACK?\p"
-    .string "I like it because it raises the\n"
-    .string "ATTACK stat in battle.$"
+    .string "Har de ikke X ATTACK?\p"
+    .string "Jeg kan lide det fordi det oeger\n"
+    .string "ATTACK staten i kamp.$"
 
 CinnabarIsland_Mart_Text_ExtraItemsNeverHurt::
-    .string "It never hurts to have extra items.\n"
-    .string "You never know what might happen.$"
-
+    .string "Det skader aldrig at have ekstra ting.\n"
+    .string "Man ved aldrig hvad der kan ske.$"

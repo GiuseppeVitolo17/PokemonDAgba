@@ -1,73 +1,72 @@
 Route6_Text_RickyIntro::
-    .string "Who's there?\n"
-    .string "Quit listening in on us!$"
+    .string "Hvem er der?\n"
+    .string "Hold op med at lytte til os!$"
 
 Route6_Text_RickyDefeat::
-    .string "I just can't win!$"
+    .string "Jeg kan bare ikke vinde!$"
 
 Route6_Text_RickyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "Hvisken…\n"
+    .string "Hvisken…$"
 
 Route6_Text_NancyIntro::
-    .string "Excuse me!\n"
-    .string "This is a private conversation!$"
+    .string "Undskyld!\n"
+    .string "Det her er en privat samtale!$"
 
 Route6_Text_NancyDefeat::
     .string "Ugh!\n"
-    .string "I hate losing.$"
+    .string "Jeg hader at tabe.$"
 
 Route6_Text_NancyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "Hvisken…\n"
+    .string "Hvisken…$"
 
 Route6_Text_KeigoIntro::
-    .string "There aren't many bugs out here.$"
+    .string "Der er ikke mange insekter her.$"
 
 Route6_Text_KeigoDefeat::
-    .string "No!\n"
-    .string "You're kidding!$"
+    .string "Nej!\n"
+    .string "Du laver sjov!$"
 
 Route6_Text_KeigoPostBattle::
-    .string "I like bugs, so I'm going back to\n"
-    .string "VIRIDIAN FOREST.$"
+    .string "Jeg kan lide insekter, saa jeg tager\n"
+    .string "tilbage til VIRIDIAN FOREST.$"
 
 Route6_Text_JeffIntro::
-    .string "Huh?\n"
-    .string "You want to talk to me?$"
+    .string "Hvad?\n"
+    .string "Vil du tale med mig?$"
 
 Route6_Text_JeffDefeat::
-    .string "This stinks…\n"
-    .string "I couldn't beat your challenge…$"
+    .string "Det her stinker…\n"
+    .string "Jeg kunne ikke slaa din udfordring…$"
 
 Route6_Text_JeffPostBattle::
-    .string "I should bring more POKéMON with\n"
-    .string "me. I'll feel safer that way.$"
+    .string "Jeg burde tage flere POKeMON med.\n"
+    .string "Saadan foeler jeg mig mere sikker.$"
 
 Route6_Text_IsabelleIntro::
-    .string "Me?\n"
-    .string "Well, okay. I'll play!$"
+    .string "Mig?\n"
+    .string "Okay, jeg spiller med!$"
 
 Route6_Text_IsabelleDefeat::
-    .string "Things just didn't work…$"
+    .string "Det gik bare ikke…$"
 
 Route6_Text_IsabellePostBattle::
-    .string "I want to get stronger.\n"
-    .string "What's your secret?$"
+    .string "Jeg vil blive staerkere.\n"
+    .string "Hvad er din hemmelighed?$"
 
 Route6_Text_ElijahIntro::
-    .string "I've never seen you around.\n"
-    .string "Are you good?$"
+    .string "Jeg har aldrig set dig her.\n"
+    .string "Er du god?$"
 
 Route6_Text_ElijahDefeat::
-    .string "You're too good!$"
+    .string "Du er for god!$"
 
 Route6_Text_ElijahPostBattle::
-    .string "Are my POKéMON weak?\n"
-    .string "Or, am I just bad?\l"
-    .string "Which do you think?$"
+    .string "Er mine POKeMON svage?\n"
+    .string "Eller er jeg bare daarlig?\l"
+    .string "Hvad synes du?$"
 
 Route6_Text_UndergroundPathSign::
     .string "UNDERGROUND PATH\n"
     .string "CERULEAN CITY - VERMILION CITY$"
-

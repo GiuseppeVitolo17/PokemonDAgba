@@ -1,38 +1,37 @@
 CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked::
-    .string "I came to visit the CINNABAR GYM,\n"
-    .string "but the door is locked tight.\p"
-    .string "There should be a key for it\n"
-    .string "somewhere.\p"
-    .string "Could it be in that burned-out\n"
+    .string "Jeg kom for at besoege CINNABAR GYM,\n"
+    .string "men doeren er laaset godt til.\p"
+    .string "Der boer vaere en noegel til den\n"
+    .string "et sted.\p"
+    .string "Kunne den vaere i den nedbraendte\n"
     .string "mansion?\p"
-    .string "The GYM LEADER's friend used to\n"
-    .string "live there, they say.$"
+    .string "GYM LEADERens ven boede\n"
+    .string "der, siges det.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
-    .string "Do you have lots of friends?\p"
-    .string "Linking up with the usual friends\n"
-    .string "is fun, of course.\p"
-    .string "But how about visiting the\n"
-    .string "UNION ROOM every so often?\p"
-    .string "Who knows, you may end up making\n"
-    .string "new friends.\p"
-    .string "I think it would be worth your time\n"
-    .string "to check the UNION ROOM.$"
+    .string "Har du masser af venner?\p"
+    .string "At linke med de saedvanlige venner\n"
+    .string "er selvfoelgelig sjovt.\p"
+    .string "Men hvad med at besoege\n"
+    .string "UNION ROOM nu og da?\p"
+    .string "Hvem ved, du ender maaske med at\n"
+    .string "faa nye venner.\p"
+    .string "Jeg tror det ville vaere din tid vaerd\n"
+    .string "at tjekke UNION ROOM.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves::
-    .string "POKéMON can still learn techniques\n"
-    .string "after canceling evolution.\p"
-    .string "Evolution can wait until new moves\n"
-    .string "have been learned.$"
+    .string "POKeMON kan stadig laere teknikker\n"
+    .string "efter at have annulleret evolution.\p"
+    .string "Evolution kan vente til nye tricks\n"
+    .string "er laert.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_ReadyToSailToOneIsland::
-    .string "BILL: Hey, you kept me waiting!\n"
-    .string "Ready to set sail to ONE ISLAND?$"
+    .string "BILL: Hey, du fik mig til at vente!\n"
+    .string "Klar til at sejle til ONE ISLAND?$"
 
 CinnabarIsland_PokemonCenter_1F_Text_OhNotDoneYet::
-    .string "Oh, you're still not done yet?$"
+    .string "Oh, du er stadig ikke faerdig?$"
 
 CinnabarIsland_PokemonCenter_1F_Text_LetsGo::
-    .string "Well, that's it.\n"
-    .string "Let's go!$"
-
+    .string "Naar, det var det.\n"
+    .string "Lad os gaa!$"

@@ -1,16 +1,17 @@
 LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoney::
-    .string "TEAM ROCKET will do anything for\n"
-    .string "the sake of money!\p"
-    .string "There is no job too dirty, no deed\n"
-    .string "too heinous, no crime too wicked!$"
+    .string "TEAM ROCKET goer alt for\n"
+    .string "pengenes skyld!\p"
+    .string "Intet job er for beskidt, ingen\n"
+    .string "gerning for grusom, intet forbrydelse\l"
+    .string "for ond!$"
 
 LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets::
-    .string "I saw CUBONE's mother trying to\n"
-    .string "escape from TEAM ROCKET.\p"
-    .string "She was killed trying to get away…$"
+    .string "Jeg saa CUBONEs mor forsoege at\n"
+    .string "flygte fra TEAM ROCKET.\p"
+    .string "Hun blev draebt under flugten…$"
 
 LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkulls::
-    .string "You know how the CUBONE species\n"
-    .string "wears skulls, right?\p"
-    .string "People will pay a lot for one.$"
+    .string "Du ved hvordan CUBONE-arten\n"
+    .string "baerer kranier, ikke?\p"
+    .string "Folk betaler meget for et.$"
 

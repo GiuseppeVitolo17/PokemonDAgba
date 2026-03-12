@@ -1,26 +1,25 @@
 RocketHideout_B3F_Text_Grunt1Intro::
-    .string "Stop meddling in TEAM ROCKET's\n"
-    .string "affairs or else!$"
+    .string "Stop med at blande dig i TEAM ROCKETs\n"
+    .string "anliggender eller andet!$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
     .string "Oof!\n"
-    .string "Taken down!$"
+    .string "Nedlagt!$"
 
 RocketHideout_B3F_Text_Grunt1PostBattle::
     .string "SILPH SCOPE?\n"
-    .string "Oh, that machine the BOSS stole.\p"
-    .string "It's here somewhere.$"
+    .string "Aah, den maskine BOSS stjal.\p"
+    .string "Den er et sted her.$"
 
 RocketHideout_B3F_Text_Grunt2Intro::
-    .string "We got word from upstairs that you\n"
-    .string "were coming!$"
+    .string "Vi fik besked oppefra om at du\n"
+    .string "kom!$"
 
 RocketHideout_B3F_Text_Grunt2Defeat::
-    .string "What?\n"
-    .string "I lost? No!$"
+    .string "Hvad?\n"
+    .string "Jeg tabte? Nej!$"
 
 RocketHideout_B3F_Text_Grunt2PostBattle::
-    .string "Go ahead and go!\p"
-    .string "But you can't run the elevator\n"
-    .string "without the LIFT KEY.$"
-
+    .string "Fortsaet bare!\p"
+    .string "Men du kan ikke koere elevatoren\n"
+    .string "uden LIFT KEY.$"

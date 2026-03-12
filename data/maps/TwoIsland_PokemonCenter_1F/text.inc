@@ -1,14 +1,14 @@
 TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCorner::
-    .string "Have you visited the GAME CORNER\n"
-    .string "already?\p"
-    .string "It's no good to go alone.\n"
-    .string "You have to take a friend along.$"
+    .string "Har du besoegt GAME CORNER\n"
+    .string "allerede?\p"
+    .string "Det er ikke godt at tage af sted alene.\n"
+    .string "Du skal tage en ven med.$"
 
 TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCape::
-    .string "Not many people live on\n"
+    .string "Der bor ikke mange mennesker paa\n"
     .string "TWO ISLAND.\p"
-    .string "There is this old lady who lives\n"
-    .string "out on the cape.\p"
-    .string "She's been there since I don't know\n"
-    .string "when.$"
+    .string "Der er denne gamle dame der bor\n"
+    .string "ude paa naesset.\p"
+    .string "Hun har boet der siden jeg ikke\n"
+    .string "ved hvornaar.$"
 

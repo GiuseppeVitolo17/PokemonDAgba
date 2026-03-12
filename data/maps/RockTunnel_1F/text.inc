@@ -1,83 +1,81 @@
 RockTunnel_1F_Text_LennyIntro::
-    .string "This tunnel goes a long way, kid!$"
+    .string "Denne tunnel gaar langt, unge!$"
 
 RockTunnel_1F_Text_LennyDefeat::
     .string "Doh!\n"
-    .string "You win!$"
+    .string "Du vinder!$"
 
 RockTunnel_1F_Text_LennyPostBattle::
-    .string "Watch for ONIX.\n"
-    .string "They appear only occasionally.\p"
-    .string "High-level ones can put the\n"
-    .string "squeeze on you!$"
+    .string "Pas paa ONIX.\n"
+    .string "De dukker kun lejlighedsvis op.\p"
+    .string "Hoejt-niveau kan klemme dig!$"
 
 RockTunnel_1F_Text_OliverIntro::
     .string "Hmm.\n"
-    .string "Maybe I'm lost in here…$"
+    .string "Maaske er jeg faret vild her…$"
 
 RockTunnel_1F_Text_OliverDefeat::
-    .string "Ease up!\n"
-    .string "What am I doing?\l"
-    .string "Which way is out?$"
+    .string "Slap af!\n"
+    .string "Hvad laver jeg?\l"
+    .string "Hvilken vej er ud?$"
 
 RockTunnel_1F_Text_OliverPostBattle::
-    .string "That sleeping POKéMON on ROUTE 12\n"
-    .string "forced me to take this detour.$"
+    .string "Den sovende POKeMON paa ROUTE 12\n"
+    .string "tvang mig til at tage denne omvej.$"
 
 RockTunnel_1F_Text_LucasIntro::
-    .string "Outsiders like you need to show me\n"
-    .string "some respect!$"
+    .string "Udenforstaaende som dig skal vise mig\n"
+    .string "respekt!$"
 
 RockTunnel_1F_Text_LucasDefeat::
-    .string "I give!$"
+    .string "Jeg giver op!$"
 
 RockTunnel_1F_Text_LucasPostBattle::
-    .string "You're talented enough to hike!$"
+    .string "Du er talentfuld nok til at vandre!$"
 
 RockTunnel_1F_Text_AshtonIntro::
-    .string "POKéMON fight!\n"
-    .string "Ready, go!$"
+    .string "POKeMON kaemper!\n"
+    .string "Klar, start!$"
 
 RockTunnel_1F_Text_AshtonDefeat::
     .string "Game over!$"
 
 RockTunnel_1F_Text_AshtonPostBattle::
-    .string "Oh well, I'll get a ZUBAT as I go!$"
+    .string "Naa ja, jeg faar en ZUBAT paa vejen!$"
 
 RockTunnel_1F_Text_LeahIntro::
     .string "Eek!\p"
-    .string "Don't try anything funny in the\n"
-    .string "dark!$"
+    .string "Proev ikke noget morsomt i\n"
+    .string "moerket!$"
 
 RockTunnel_1F_Text_LeahDefeat::
-    .string "It was too dark…$"
+    .string "Det var for moerkt…$"
 
 RockTunnel_1F_Text_LeahPostBattle::
-    .string "I saw a MACHOP in this tunnel.$"
+    .string "Jeg saa en MACHOP i denne tunnel.$"
 
 RockTunnel_1F_Text_DanaIntro::
-    .string "I came this far looking for wild\n"
-    .string "POKéMON.$"
+    .string "Jeg kom saa langt for at lede efter vilde\n"
+    .string "POKeMON.$"
 
 RockTunnel_1F_Text_DanaDefeat::
-    .string "I'm out of POKéMON!$"
+    .string "Jeg har ikke flere POKeMON!$"
 
 RockTunnel_1F_Text_DanaPostBattle::
-    .string "You looked cute and harmless.\n"
-    .string "Was I ever wrong!$"
+    .string "Du saa soed og harmloes ud.\n"
+    .string "Hvor tog jeg fejl!$"
 
 RockTunnel_1F_Text_ArianaIntro::
-    .string "You have POKéMON!\n"
-    .string "Let's start!$"
+    .string "Du har POKeMON!\n"
+    .string "Lad os starte!$"
 
 RockTunnel_1F_Text_ArianaDefeat::
-    .string "You play hard!$"
+    .string "Du spiller haardt!$"
 
 RockTunnel_1F_Text_ArianaPostBattle::
-    .string "Whew!\n"
-    .string "I'm all sweaty now.$"
+    .string "Puha!\n"
+    .string "Jeg er helt svedig nu.$"
 
 RockTunnel_1F_Text_RouteSign::
     .string "ROCK TUNNEL\n"
     .string "CERULEAN CITY - LAVENDER TOWN$"
-

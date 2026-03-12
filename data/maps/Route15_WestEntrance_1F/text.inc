@@ -1,5 +1,4 @@
 Route15_WestEntrance_1F_Text_OaksAideCameByHere::
-    .string "Are you the kid who's working on\n"
-    .string "a POKéDEX?\p"
-    .string "PROF. OAK's AIDE came by here.$"
-
+    .string "Er du ungen der arbejder paa\n"
+    .string "en POKeDEX?\p"
+    .string "PROF. OAKs assistent kom forbi her.$"

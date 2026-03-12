@@ -1,16 +1,15 @@
 Route16_NorthEntrance_1F_Text_NoPedestriansOnCyclingRoad::
-    .string "No pedestrians are allowed on\n"
-    .string "CYCLING ROAD!$"
+    .string "Fodgaengere er ikke tilladt paa\n"
+    .string "CYKELVEJ!$"
 
 Route16_NorthEntrance_1F_Text_CyclingRoadIsDownhillCourse::
-    .string "CYCLING ROAD is a downhill course\n"
-    .string "by the sea. It's a great ride.$"
+    .string "CYKELVEJ er en nedadgaaende bane\n"
+    .string "ved havet. Det er en fantastisk tur.$"
 
 Route16_NorthEntrance_1F_Text_ExcuseMeWaitUp::
-    .string "Excuse me!\n"
-    .string "Wait up, please!$"
+    .string "Undskyld mig!\n"
+    .string "Vent, tak!$"
 
 Route16_NorthEntrance_1F_Text_HowdYouGetInGoodEffort::
-    .string "How'd you get in?\n"
-    .string "Good effort!$"
-
+    .string "Hvordan kom du ind?\n"
+    .string "God indsats!$"

@@ -1,33 +1,32 @@
 PokemonMansion_Text_PressSecretSwitch::
-    .string "A secret switch!\p"
-    .string "Press it?$"
+    .string "En hemmelig kontakt!\p"
+    .string "Tryk paa den?$"
 
 PokemonMansion_Text_WhoWouldnt::
-    .string "Who wouldn't?$"
+    .string "Hvem ville ikke?$"
 
 PokemonMansion_Text_NotQuiteYet::
-    .string "Not quite yet!$"
+    .string "Ikke helt endnu!$"
 
 PokemonMansion_1F_Text_ArnieIntro::
-    .string "I can't get out!\n"
-    .string "This old place is one big puzzle.$"
+    .string "Jeg kan ikke komme ud!\n"
+    .string "Dette gamle sted er et stort puslespil.$"
 
 PokemonMansion_1F_Text_ArnieDefeat::
-    .string "Oh, no!\n"
-    .string "My bag of loot!$"
+    .string "Aah nej!\n"
+    .string "Min pose med bytte!$"
 
 PokemonMansion_1F_Text_ArniePostBattle::
-    .string "The switches here open and close\n"
-    .string "alternating sets of doors.$"
+    .string "Kontakterne her aabner og lukker\n"
+    .string "vekslende saet doere.$"
 
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
-    .string "Diary: July 5\n"
-    .string "Guyana, South America\p"
-    .string "A new POKéMON was discovered deep\n"
-    .string "in the jungle.$"
+    .string "Dagbog: 5. juli\n"
+    .string "Guyana, Sydamerika\p"
+    .string "En ny POKeMON blev opdaget dybt\n"
+    .string "i junglen.$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
-    .string "Diary: July 10\n"
-    .string "We christened the newly discovered\l"
-    .string "POKéMON, MEW.$"
-
+    .string "Dagbog: 10. juli\n"
+    .string "Vi doebte den nylig opdagede\l"
+    .string "POKeMON, MEW.$"

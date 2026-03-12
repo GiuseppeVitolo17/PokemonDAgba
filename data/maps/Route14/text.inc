@@ -1,156 +1,155 @@
 Route14_Text_CarterIntro::
-    .string "You need to use TMs to teach good\n"
-    .string "moves to POKéMON.$"
+    .string "Du skal bruge TMs til at laere\n"
+    .string "gode angreb til POKeMON.$"
 
 Route14_Text_CarterDefeat::
-    .string "Not good enough quite yet.$"
+    .string "Ikke helt god nok endnu.$"
 
 Route14_Text_CarterPostBattle::
-    .string "You have some HMs, right? POKéMON\n"
-    .string "can't forget those moves easily.$"
+    .string "Du har nogle HMs, ikke? POKeMON\n"
+    .string "kan ikke glemme de angreb nemt.$"
 
 Route14_Text_MitchIntro::
-    .string "My bird POKéMON should be ready\n"
-    .string "for battle.$"
+    .string "Mine fugle-POKeMON burde vaere\n"
+    .string "klar til kamp.$"
 
 Route14_Text_MitchDefeat::
-    .string "Not ready yet!$"
+    .string "Ikke klar endnu!$"
 
 Route14_Text_MitchPostBattle::
-    .string "My bird POKéMON need to learn\n"
-    .string "better moves.$"
+    .string "Mine fugle-POKeMON skal laere\n"
+    .string "bedre angreb.$"
 
 Route14_Text_BeckIntro::
-    .string "They have TMs on sale at the\n"
+    .string "De har TMs til salg i\n"
     .string "CELADON DEPT. STORE.\p"
-    .string "TMs aren't really rare, but not\n"
-    .string "many people have HMs.$"
+    .string "TMs er ikke rigtig sjaeldne, men ikke\n"
+    .string "mange har HMs.$"
 
 Route14_Text_BeckDefeat::
-    .string "Aww, bummer!$"
+    .string "Av, aergerligt!$"
 
 Route14_Text_BeckPostBattle::
-    .string "Try teaching POKéMON a move that's\n"
-    .string "the same type as it.\p"
-    .string "That apparently boosts the power\n"
-    .string "of the move.$"
+    .string "Proev at laere POKeMON et angreb\n"
+    .string "af samme type som den.\p"
+    .string "Det boester tilsyneladende angrebets\n"
+    .string "styrke.$"
 
 Route14_Text_MarlonIntro::
-    .string "Have you taught your bird POKéMON\n"
-    .string "how to FLY?\p"
-    .string "You'll be able to soar with it into\n"
-    .string "the sky!$"
+    .string "Har du laert dine fugle-POKeMON\n"
+    .string "at FLY?\p"
+    .string "Du kan sveve med den op i\n"
+    .string "himlen!$"
 
 Route14_Text_MarlonDefeat::
-    .string "Shot down in flames!$"
+    .string "Skudt ned i flammer!$"
 
 Route14_Text_MarlonPostBattle::
-    .string "Bird POKéMON are my one true love.\n"
-    .string "I don't want to raise anything else.$"
+    .string "Fugle-POKeMON er min eneste sande\n"
+    .string "kaerlighed. Jeg vil ikke opdrage andet.$"
 
 Route14_Text_DonaldIntro::
-    .string "Have you heard the legend of the\n"
-    .string "winged mirages?$"
+    .string "Har du hort legenden om de\n"
+    .string "vingede luftspejlinger?$"
 
 Route14_Text_DonaldDefeat::
-    .string "Why?\n"
-    .string "Why'd I lose?$"
+    .string "Hvorfor?\n"
+    .string "Hvorfor tabte jeg?$"
 
 Route14_Text_DonaldPostBattle::
-    .string "Well, the winged mirages are the\n"
-    .string "legendary bird POKéMON.\p"
-    .string "There are three of them: ARTICUNO,\n"
-    .string "ZAPDOS, and MOLTRES.$"
+    .string "De vingede luftspejlinger er de\n"
+    .string "legendariske fugle-POKeMON.\p"
+    .string "Der er tre af dem: ARTICUNO,\n"
+    .string "ZAPDOS og MOLTRES.$"
 
 Route14_Text_BennyIntro::
-    .string "I'm not into it, but okay.\n"
-    .string "Let's go!$"
+    .string "Jeg er ikke til det, men okay.\n"
+    .string "Lad os gaa!$"
 
 Route14_Text_BennyDefeat::
-    .string "I knew it!$"
+    .string "Jeg vidste det!$"
 
 Route14_Text_BennyPostBattle::
-    .string "Winning, losing… It's insignificant\n"
-    .string "under this huge sky.$"
+    .string "At vinde, tabe... Det er uvaesentligt\n"
+    .string "under denne store himmel.$"
 
 Route14_Text_LukasIntro::
-    .string "C'mon, c'mon.\n"
-    .string "Let's go, let's go, let's go!$"
+    .string "Kom nu, kom nu.\n"
+    .string "Lad os gaa, lad os gaa!$"
 
 Route14_Text_LukasDefeat::
     .string "Arrg!\n"
-    .string "Lost! Get lost!$"
+    .string "Tabt! Forsvind!$"
 
 Route14_Text_LukasPostBattle::
-    .string "What, what, what?\n"
-    .string "What do you want still?$"
+    .string "Hvad, hvad, hvad?\n"
+    .string "Hvad vil du stadig?$"
 
 Route14_Text_IsaacIntro::
-    .string "I need to burn some time.\n"
-    .string "Shut up and battle.$"
+    .string "Jeg skal bruge tiden.\n"
+    .string "Hold kaeft og kaemp.$"
 
 Route14_Text_IsaacDefeat::
-    .string "What?\n"
-    .string "You!?$"
+    .string "Hvad?\n"
+    .string "Dig!?$"
 
 Route14_Text_IsaacPostBattle::
-    .string "Raising POKéMON is a drag, man.$"
+    .string "At opdrage POKeMON er kedeligt.$"
 
 Route14_Text_GeraldIntro::
-    .string "We ride out here because of the\n"
-    .string "wide-open spaces.$"
+    .string "Vi koerer herude pga. det\n"
+    .string "vide aabne land.$"
 
 Route14_Text_GeraldDefeat::
     .string "Wipeout!$"
 
 Route14_Text_GeraldPostBattle::
-    .string "It's cool you made your POKéMON so\n"
-    .string "strong.\p"
-    .string "Might is right!\n"
-    .string "And you know it!$"
+    .string "Det er sejt at du har gjort dine\n"
+    .string "POKeMON saa staerke.\p"
+    .string "Styrke er ret! Og det ved du!$"
 
 Route14_Text_MalikIntro::
-    .string "POKéMON battle?\n"
-    .string "Cool! Rumble!$"
+    .string "POKeMON kamp?\n"
+    .string "Sejt! Slagsmaal!$"
 
 Route14_Text_MalikDefeat::
-    .string "Blown away!$"
+    .string "Blaest vaek!$"
 
 Route14_Text_MalikPostBattle::
-    .string "You know who'd win, you and me\n"
-    .string "one-on-one!$"
+    .string "Du ved hvem der vinder, dig og mig\n"
+    .string "en mod en!$"
 
 Route14_Text_RouteSign::
     .string "ROUTE 14\n"
-    .string "West to FUCHSIA CITY$"
+    .string "Vest til FUCHSIA CITY$"
 
 Route14_Text_KiriIntro::
-    .string "KIRI: JAN, let's try really,\n"
-    .string "really hard together.$"
+    .string "KIRI: JAN, lad os virkelig\n"
+    .string "goere os umage sammen.$"
 
 Route14_Text_KiriDefeat::
-    .string "KIRI: Whimper…\n"
-    .string "We lost, didn't we?$"
+    .string "KIRI: Hulk...\n"
+    .string "Vi tabte, goer vi ikke?$"
 
 Route14_Text_KiriPostBattle::
-    .string "KIRI: Did we lose because of me?$"
+    .string "KIRI: Tabte vi pga. mig?$"
 
 Route14_Text_KiriNotEnoughMons::
-    .string "KIRI: We can battle if you have\n"
-    .string "two POKéMON.$"
+    .string "KIRI: Vi kan kaempe hvis du har\n"
+    .string "to POKeMON.$"
 
 Route14_Text_JanIntro::
-    .string "JAN: KIRI, here we go!\n"
-    .string "We have to try hard!$"
+    .string "JAN: KIRI, saa er vi i gang!\n"
+    .string "Vi skal goere os umage!$"
 
 Route14_Text_JanDefeat::
-    .string "JAN: Eeeeh!\n"
-    .string "No fair!$"
+    .string "JAN: Eeeh!\n"
+    .string "Unfair!$"
 
 Route14_Text_JanPostBattle::
-    .string "JAN: KIRI, don't cry!\n"
-    .string "We'll just try harder next time.$"
+    .string "JAN: KIRI, graed ikke!\n"
+    .string "Vi proever bare haardere naeste gang.$"
 
 Route14_Text_JanNotEnoughMons::
-    .string "JAN: You want to battle?\n"
-    .string "You don't have enough POKéMON.$"
+    .string "JAN: Vil du kaempe?\n"
+    .string "Du har ikke nok POKeMON.$"

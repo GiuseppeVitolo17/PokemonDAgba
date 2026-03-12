@@ -1,23 +1,23 @@
 SSAnne_B1F_Room4_Text_LeonardIntro::
-    .string "You know what they say about\n"
-    .string "sailors and battling!$"
+    .string "Du ved hvad de siger om\n"
+    .string "soemaend og kamp!$"
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
-    .string "Right!\n"
-    .string "Good battle, mate!$"
+    .string "Lige!\n"
+    .string "God kamp, kammerat!$"
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::
     .string "Hahaha!\n"
-    .string "Want to be a sailor, mate?$"
+    .string "Vil du vaere soemand, kammerat?$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
-    .string "Come on, then!\n"
-    .string "My sailor's pride is at stake!$"
+    .string "Kom saa!\n"
+    .string "Min soemandsstolthed staar paa spil!$"
 
 SSAnne_B1F_Room4_Text_DuncanDefeat::
-    .string "Your spirit sank me!$"
+    .string "Din aand saenkede mig!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
-    .string "Did you see the FISHING GURU in\n"
+    .string "Saa du FISHING GURU i\n"
     .string "VERMILION CITY?$"
 

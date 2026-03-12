@@ -1,92 +1,93 @@
 MtMoon_1F_Text_MarcosIntro::
     .string "WHOA!\n"
-    .string "You shocked me!\l"
-    .string "…Oh, you're just a kid!$"
+    .string "Du chokerede mig!\l"
+    .string "…Oeh, du er bare et barn!$"
 
 MtMoon_1F_Text_MarcosDefeat::
     .string "Wow!\n"
-    .string "Shocked again!$"
+    .string "Chokeret igen!$"
 
 MtMoon_1F_Text_MarcosPostBattle::
-    .string "Kids like you shouldn't be\n"
-    .string "wandering around here in the dark.$"
+    .string "Boern som dig boer ikke vandre\n"
+    .string "rundt her i moerket.$"
 
 MtMoon_1F_Text_JoshIntro::
-    .string "Did you come to explore the cave,\n"
-    .string "too?$"
+    .string "Kom du for at udforske hulen,\n"
+    .string "ogsaa?$"
 
 MtMoon_1F_Text_JoshDefeat::
-    .string "Losing stinks!\n"
-    .string "It's so uncool.$"
+    .string "At tabe stinker!\n"
+    .string "Saa uncool.$"
 
 MtMoon_1F_Text_JoshPostBattle::
-    .string "I came all the way down here to\n"
-    .string "show off to girls.$"
+    .string "Jeg kom hele vejen herned for at\n"
+    .string "vise mig frem over for piger.$"
 
 MtMoon_1F_Text_MiriamIntro::
-    .string "Wow! It's way bigger in here than\n"
-    .string "I thought!$"
+    .string "Wow! Det er meget stoerre herinde\n"
+    .string "end jeg troede!$"
 
 MtMoon_1F_Text_MiriamDefeat::
-    .string "Oh!\n"
-    .string "I lost it!$"
+    .string "Oeh!\n"
+    .string "Jeg tabte!$"
 
 MtMoon_1F_Text_MiriamPostBattle::
-    .string "How do you get out of here?\n"
-    .string "It's so big, I may get lost.$"
+    .string "Hvordan kommer man ud herfra?\n"
+    .string "Det er saa stort, jeg kan fare vild.$"
 
 MtMoon_1F_Text_JovanIntro::
-    .string "What!\n"
-    .string "Don't sneak up on me!$"
+    .string "Hvad!\n"
+    .string "Sneg dig ikke op paa mig!$"
 
 MtMoon_1F_Text_JovanDefeat::
-    .string "My POKéMON won't do!$"
+    .string "Mine POKeMON duer ikke!$"
 
 MtMoon_1F_Text_JovanPostBattle::
-    .string "I have to find stronger POKéMON.\n"
-    .string "Where might they be?$"
+    .string "Jeg maa finde staerkere POKeMON.\n"
+    .string "Hvor mon de er?$"
 
 MtMoon_1F_Text_IrisIntro::
-    .string "What?\n"
-    .string "I'm waiting for my friends to find\l"
-    .string "me here.$"
+    .string "Hvad?\n"
+    .string "Jeg venter paa mine venner finder\l"
+    .string "mig her.$"
 
 MtMoon_1F_Text_IrisDefeat::
-    .string "I lost?$"
+    .string "Jeg tabte?$"
 
 MtMoon_1F_Text_IrisPostBattle::
-    .string "I came because I heard there are\n"
-    .string "some very rare fossils here.$"
+    .string "Jeg kom fordi jeg hoerte der er\n"
+    .string "nogle meget sjaelde fossiler her.$"
 
 MtMoon_1F_Text_KentIntro::
-    .string "Suspicious men are in the cave.\n"
-    .string "What about you?$"
+    .string "Mistaenkelige maend er i hulen.\n"
+    .string "Hvad med dig?$"
 
 MtMoon_1F_Text_KentDefeat::
-    .string "You got me!$"
+    .string "Du fik mig!$"
 
 MtMoon_1F_Text_KentPostBattle::
-    .string "I saw them!\n"
-    .string "I'm sure they're from TEAM ROCKET!$"
+    .string "Jeg saa dem!\n"
+    .string "Jeg er sikker paa de er fra TEAM ROCKET!$"
 
 MtMoon_1F_Text_RobbyIntro::
-    .string "You need to go through this cave\n"
-    .string "to get to CERULEAN CITY.$"
+    .string "Du skal gennem denne hule for at\n"
+    .string "naa CERULEAN CITY.$"
 
 MtMoon_1F_Text_RobbyDefeat::
-    .string "I lost.$"
+    .string "Jeg tabte.$"
 
 MtMoon_1F_Text_RobbyPostBattle::
-    .string "ZUBAT is tough!\n"
-    .string "But if you can catch one, you'll\l"
-    .string "be able to count on it.$"
+    .string "ZUBAT er haard!\n"
+    .string "Men fanger du en, kan du regne\l"
+    .string "med den.$"
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
-    .string "Beware!\n"
-    .string "ZUBAT is a bloodsucker!$"
+    .string "Pas paa!\n"
+    .string "ZUBAT er en blodsuger!$"
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
-    .string "Hi, I'm excavating for fossils here\n"
+    .string "Hej, jeg udgraver fossiler her\n"
     .string "under MT. MOON.\p"
-    .string "Sometimes, BROCK of PEWTER GYM\n"
-    .string "lends me a hand.$"
+    .string "Nogle gange hjaelper BROCK fra\n"
+    .string "PEWTER GYM mig.$"
+

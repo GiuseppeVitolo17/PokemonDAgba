@@ -1,70 +1,69 @@
 CeruleanCity_House1_Text_AnyInterestInBerries::
-    .string "I concoct a variety of medicine\n"
-    .string "from BERRY POWDER.\p"
-    .string "Using good BERRY POWDER, I can\n"
-    .string "make any kind of medicine.\p"
-    .string "Now tell me, have you any interest\n"
-    .string "in BERRIES?$"
+    .string "Jeg blander en variation af medicin\n"
+    .string "af BERRY POWDER.\p"
+    .string "Med god BERRY POWDER kan jeg\n"
+    .string "lave enhver slags medicin.\p"
+    .string "Sig mig nu, har du interesse\n"
+    .string "i BERRIES?$"
 
 CeruleanCity_House1_Text_HaveJustTheThing::
-    .string "Ah, good! For you, then, I have\n"
-    .string "just the thing.$"
+    .string "Ah, godt! For dig har jeg saa\n"
+    .string "lige det rigtige.$"
 
 CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
-    .string "There's something new on the second\n"
-    .string "floor of POKéMON CENTERS, at the\l"
+    .string "Der er noget nyt paa anden sal\n"
+    .string "i POKeMON CENTERS, ved\l"
     .string "DIRECT CORNER.\p"
-    .string "They installed a Wireless Adapter\n"
-    .string "machine for crushing BERRIES.\p"
-    .string "This is where you come in.\p"
-    .string "I have a favor to ask, one that\n"
-    .string "I can entrust only to you.\p"
-    .string "Could you make BERRY POWDER for\n"
-    .string "me using that machine?\p"
-    .string "Don't forget, the machine is at the\n"
-    .string "DIRECT CORNER of POKéMON CENTERS.\p"
-    .string "I'll concoct medicine for you if\n"
-    .string "you bring me some BERRY POWDER.\p"
-    .string "Don't forget, crush BERRIES into\n"
-    .string "BERRY POWDER and bring it to me.$"
+    .string "De installerede en Wireless Adapter-\n"
+    .string "maskine til at knuse BERRIES.\p"
+    .string "Det er her du kommer ind.\p"
+    .string "Jeg har en tjeneste at bede om, een\n"
+    .string "jeg kun kan betro dig.\p"
+    .string "Kunne du lave BERRY POWDER til\n"
+    .string "mig med den maskine?\p"
+    .string "Glem ikke, maskinen er ved\n"
+    .string "DIRECT CORNER i POKeMON CENTERS.\p"
+    .string "Jeg laver medicin til dig hvis\n"
+    .string "du bringer mig noget BERRY POWDER.\p"
+    .string "Glem ikke, knus BERRIES til\n"
+    .string "BERRY POWDER og bring det til mig.$"
 
 CeruleanCity_House1_Text_WhyMustYouLieNoBerries::
-    .string "Why must you lie to me?\p"
-    .string "How many BERRIES do you have?\n"
-    .string "Not a one!$"
+    .string "Hvorfor maa du lyve for mig?\p"
+    .string "Hvor mange BERRIES har du?\n"
+    .string "Ikke een!$"
 
 CeruleanCity_House1_Text_TakeInterestInAllSortsOfThings::
-    .string "You have no interest in BERRIES?\p"
-    .string "Young one, it's important to take an\n"
-    .string "interest in all sorts of things.$"
+    .string "Du har ingen interesse i BERRIES?\p"
+    .string "Ungdom, det er vigtigt at vise\n"
+    .string "interesse for alle slags ting.$"
 
 CeruleanCity_House1_Text_HaveYouBroughtBerryPowder::
-    .string "Er-hem! Have you brought me some\n"
+    .string "Er-hem! Har du bragt mig noget\n"
     .string "BERRY POWDER?$"
 
 CeruleanCity_House5_Text_ExchangeWithWhat::
-    .string "With what would you like to \n"
-    .string "exchange it?$"
+    .string "Med hvad vil du\n"
+    .string "bytte det?$"
 
 CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem::
-    .string "Fine, you'll exchange your BERRY\n"
-    .string "POWDER for one {STR_VAR_1}?$"
+    .string "Fint, du bytter din BERRY\n"
+    .string "POWDER for een {STR_VAR_1}?$"
 
 CeruleanCity_House1_Text_DontHaveEnoughBerryPowder::
-    .string "Hm? You don't have enough\n"
+    .string "Hm? Du har ikke nok\n"
     .string "BERRY POWDER.$"
 
 CeruleanCity_House1_Text_TradeMoreBerryPowder::
-    .string "This is fine BERRY POWDER indeed.\n"
-    .string "It will make excellent medicine.\p"
-    .string "Would you like to trade more BERRY\n"
-    .string "POWDER for something else?$"
+    .string "Dette er virkelig fint BERRY POWDER.\n"
+    .string "Det bliver fremragende medicin.\p"
+    .string "Vil du bytte mere BERRY\n"
+    .string "POWDER for noget andet?$"
 
 CeruleanCity_House1_Text_HopeToSeeYouAgain::
-    .string "That's fine, then.\n"
-    .string "I'll hope to see you back again.$"
+    .string "Det er fint, saa.\n"
+    .string "Jeg haaber at se dig igen.$"
 
 CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder::
-    .string "Come see me if you'd like to trade\n"
-    .string "your BERRY POWDER.$"
-
+    .string "Kom til mig hvis du vil bytte\n"
+    .string "din BERRY POWDER.$"

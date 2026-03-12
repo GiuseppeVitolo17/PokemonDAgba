@@ -1,27 +1,27 @@
 ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
-    .string "Hey, there!\n"
-    .string "How's it going?\p"
-    .string "What am I doing here, you ask?\n"
-    .string "Why, I'm prospecting for gold!\p"
-    .string "When I strike it rich, I'm buying\n"
-    .string "a house in KANTO.$"
+    .string "Hej, der!\n"
+    .string "Hvordan gaar det?\p"
+    .string "Hvad laver jeg her, spoerger du?\n"
+    .string "Jeg leder efter guld!\p"
+    .string "Naar jeg finder rigdom, koebe jeg\n"
+    .string "et hus i KANTO.$"
 
 ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
-    .string "Hey, there! How's it going?\n"
-    .string "Did you hear? I've struck gold!\p"
-    .string "You remembered that I was\n"
-    .string "prospecting, didn't you?\p"
-    .string "You can't begin to imagine just\n"
-    .string "how happy I am.\p"
-    .string "So, I'll show you!\n"
-    .string "This is for you!$"
+    .string "Hej, der! Hvordan gaar det?\n"
+    .string "Hoerte du? Jeg har fundet guld!\p"
+    .string "Du huskede at jeg ledte efter det,\n"
+    .string "ikke?\p"
+    .string "Du kan ikke forestille dig hvor\n"
+    .string "glad jeg er.\p"
+    .string "Saa viser jeg dig!\n"
+    .string "Dette er til dig!$"
 
 ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
-    .string "That's a NUGGET!\p"
-    .string "I can't give you any nuggets of\n"
-    .string "wisdom, so that'll have to do!$"
+    .string "Det er en NUGGET!\p"
+    .string "Jeg kan ikke give dig nogen visdoms-\n"
+    .string "nuggets, saa det maa goere det!$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
-    .string "Whoops, your BAG is crammed full!\n"
-    .string "I'll give this to you later.$"
+    .string "Ups, din TASKE er proppet fuld!\n"
+    .string "Jeg giver dig den senere.$"
 

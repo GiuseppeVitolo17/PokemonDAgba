@@ -4,4 +4,3 @@ Route2_Text_RouteSign::
 
 Route2_Text_DiglettsCave::
     .string "DIGLETT'S CAVE$"
-

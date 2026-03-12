@@ -1,89 +1,88 @@
 Route12_FishingHouse_Text_DoYouLikeToFish::
-    .string "I'm the FISHING GURU's younger\n"
-    .string "brother.\p"
-    .string "I simply looove fishing!\n"
-    .string "I can't bear to go without.\p"
-    .string "Tell me, do you like to fish?$"
+    .string "Jeg er FISHING GURUs yngre\n"
+    .string "bror.\p"
+    .string "Jeg elsker bare at fiske!\n"
+    .string "Jeg kan ikke undvaere det.\p"
+    .string "Sig mig, kan du lide at fiske?$"
 
 Route12_FishingHouse_Text_TakeThisAndFish::
-    .string "Grand! I like your style.\n"
-    .string "I think we can be friends.\p"
-    .string "Take this and fish, young friend!$"
+    .string "Stort! Jeg kan lide din stil.\n"
+    .string "Jeg tror vi kan vaere venner.\p"
+    .string "Tag dette og fisk, unge ven!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
-    .string "{PLAYER} received a SUPER ROD from\n"
-    .string "the FISHING GURU's brother.$"
+    .string "{PLAYER} modtog en SUPER ROD fra\n"
+    .string "FISHING GURUs bror.$"
 
 Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
-    .string "Fishing is a way of life!\n"
-    .string "It is like the finest poetry.\p"
-    .string "From the seas to rivers, go out\n"
-    .string "and land the big one, my friend.\p"
-    .string "Now, I have a request.\p"
-    .string "If you catch a big MAGIKARP \n"
-    .string "with that ROD, I want to see it.\p"
-    .string "As much as I love to fish, I also\n"
-    .string "love seeing gigantic MAGIKARP.$"
+    .string "Fiskeri er en livsstil!\n"
+    .string "Det er som de fineste digte.\p"
+    .string "Fra havet til floder, ga ud og\n"
+    .string "fang den store en, min ven.\p"
+    .string "Nu har jeg en anmodning.\p"
+    .string "Hvis du fanger en stor MAGIKARP\n"
+    .string "med den ROD, vil jeg gerne se den.\p"
+    .string "Lige saa meget som jeg elsker at\n"
+    .string "fiske, elsker jeg at se kaempe MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhThatsDisappointing::
     .string "Oh…\n"
-    .string "That's so disappointing…$"
+    .string "Det er saa skuffende…$"
 
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
-    .string "Hello there, {PLAYER}!\n"
-    .string "Have you been fishing?\p"
-    .string "Try fishing with the SUPER ROD in\n"
-    .string "any body of water.\p"
-    .string "You'll find different POKéMON in\n"
-    .string "different places.\p"
-    .string "Oh, and don't forget to bring me\n"
-    .string "gigantic MAGIKARP.$"
+    .string "Hej der, {PLAYER}!\n"
+    .string "Har du fisket?\p"
+    .string "Proev at fiske med SUPER ROD i\n"
+    .string "enhver vandmasse.\p"
+    .string "Du finder forskellige POKeMON paa\n"
+    .string "forskellige steder.\p"
+    .string "Oh, og glem ikke at bringe mig\n"
+    .string "kaempe MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
     .string "Oh? {PLAYER}?\n"
-    .string "Why, if it isn't a MAGIKARP!\p"
-    .string "Allow me to see it, quick!$"
+    .string "Hvis det ikke er en MAGIKARP!\p"
+    .string "Lad mig se den, hurtigt!$"
 
 Route12_FishingHouse_Text_WhoaXInchesTakeThis::
     .string "… … …Whoa!\n"
-    .string "{STR_VAR_2} inches!\p"
-    .string "You have a rare appreciation for\n"
-    .string "the fine, poetic aspects of fishing!\p"
-    .string "You must take this.\n"
-    .string "I insist!$"
+    .string "{STR_VAR_2} tommer!\p"
+    .string "Du har en sjaelden forstaaelse for\n"
+    .string "fiskeriets fine, poetiske sider!\p"
+    .string "Du maa tage dette.\n"
+    .string "Jeg insisterer!$"
 
 Route12_FishingHouse_Text_LookForwardToGreaterRecords::
-    .string "I'll look forward to seeing greater\n"
-    .string "records from you!$"
+    .string "Jeg glaeder mig til at se stoerre\n"
+    .string "rekorder fra dig!$"
 
 Route12_FishingHouse_Text_HuhXInchesSameSizeAsLast::
-    .string "Huh?\n"
-    .string "{STR_VAR_2} inches?\p"
-    .string "This is the same size as the one\n"
-    .string "I saw before.$"
+    .string "Hvad?\n"
+    .string "{STR_VAR_2} tommer?\p"
+    .string "Det er samme stoerrelse som den\n"
+    .string "jeg saa sidst.$"
 
 Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUp::
     .string "Hmm…\n"
-    .string "This one is {STR_VAR_2} inches long.\p"
-    .string "It doesn't measure up to the\n"
-    .string "{STR_VAR_3}-inch one you brought before.$"
+    .string "Denne er {STR_VAR_2} tommer lang.\p"
+    .string "Den maaler ikke op til den\n"
+    .string "{STR_VAR_3}-tommers du bragte sidst.$"
 
 Route12_FishingHouse_Text_DoesntLookLikeMagikarp::
-    .string "Uh… That doesn't look much like\n"
-    .string "a MAGIKARP.$"
+    .string "Uh… Det ligner ikke rigtig\n"
+    .string "en MAGIKARP.$"
 
 Route12_FishingHouse_Text_NoRoomForGift::
-    .string "Oh, no!\p"
-    .string "I had a gift for you, but you have\n"
-    .string "no room for it.$"
+    .string "Oh, nej!\p"
+    .string "Jeg havde en gave til dig, men du\n"
+    .string "har ikke plads til den.$"
 
 Route12_FishingHouse_Text_MostGiganticMagikarpXInches::
-    .string "The most gigantic MAGIKARP\n"
-    .string "I have ever witnessed…\p"
-    .string "{STR_VAR_3} inches!$"
+    .string "Den mest gigantiske MAGIKARP\n"
+    .string "jeg nogensinde har set…\p"
+    .string "{STR_VAR_3} tommer!$"
 
 Route12_FishingHouse_Text_BlankChartOfSomeSort::
-    .string "It's a blank chart of some sort.\p"
-    .string "It has spaces for writing in\n"
-    .string "records of some kind.$"
-
+    .string "Det er et blankt diagram af en art.\p"
+    .string "Det har plads til at skrive\n"
+    .string "rekorder af en slags.$"

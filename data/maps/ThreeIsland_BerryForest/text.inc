@@ -1,43 +1,43 @@
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
-    .string "LOSTELLE: Whimper… Sniff…\n"
-    .string "Oh! Please, help!\p"
-    .string "A scary POKéMON appeared there\n"
-    .string "a little while ago.\p"
-    .string "It kept scaring.\n"
-    .string "It made LOSTELLE scared.\p"
-    .string "I'm too scared to move!\n"
-    .string "But I want to go home…$"
+    .string "LOSTELLE: Hulk… Snus…\n"
+    .string "Aah! Venligst hjaelp!\p"
+    .string "En skraemmende POKeMON dukkede op der\n"
+    .string "for et stykke tid siden.\p"
+    .string "Den blev ved med at skraemme.\n"
+    .string "Den skraemte LOSTELLE.\p"
+    .string "Jeg er for bange til at bevaege mig!\n"
+    .string "Men jeg vil hjem…$"
 
 ThreeIsland_BerryForest_Text_HereItComesAgain::
-    .string "Oh! Here it comes again!\n"
-    .string "No! Go away! It's scaring me!\p"
+    .string "Aah! Der kommer den igen!\n"
+    .string "Nej! Gaa vaek! Den skraemmer mig!\p"
     .string "Waaaaaaah!\n"
-    .string "I want my daddy!$"
+    .string "Jeg vil have min far!$"
 
 ThreeIsland_BerryForest_Text_ThankYouHaveThis::
-    .string "Ohh! That was so scary!\n"
-    .string "Thank you!\p"
-    .string "LOSTELLE came to pick some\n"
-    .string "BERRIES.\p"
-    .string "You can have this!$"
+    .string "Aaaah! Det var saa skraemmende!\n"
+    .string "Tak!\p"
+    .string "LOSTELLE kom for at plukke nogle\n"
+    .string "BAeR.\p"
+    .string "Du maa faa dette!$"
 
 ThreeIsland_BerryForest_Text_LetsGoHome::
-    .string "What's your name?\p"
-    .string "LOSTELLE's scared, so can I go\n"
-    .string "with you to my daddy's house?\p"
+    .string "Hvad hedder du?\p"
+    .string "LOSTELLE er bange, saa maa jeg gaa\n"
+    .string "med dig til min fars hus?\p"
     .string "Okay!\n"
-    .string "Let's go home!$"
+    .string "Lad os tage hjem!$"
 
 ThreeIsland_BerryForest_Text_BerryPouchIsFull::
-    .string "Your BERRY POUCH is full.\n"
-    .string "I guess you don't want this.$"
+    .string "Din BERRY POUCH er fuld.\n"
+    .string "Jeg gaetter paa at du ikke vil have dette.$"
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
-    .string "Welcome to the BERRY FOREST\p"
-    .string "Be friendly and share BERRIES with\n"
-    .string "others and POKéMON.$"
+    .string "Velkommen til BERRY FOREST\p"
+    .string "Vaer venlig og del BAeR med\n"
+    .string "andre og POKeMON.$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
-    .string "Beware of wild, BERRY-loving\n"
-    .string "POKéMON!$"
+    .string "Pas paa vilde, BAeR-elske\n"
+    .string "POKeMON!$"
 

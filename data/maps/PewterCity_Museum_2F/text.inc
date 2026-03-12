@@ -1,54 +1,52 @@
 Text_SeismicTossTeach::
-    .string "The secrets of space…\n"
-    .string "The mysteries of earth…\p"
-    .string "There are so many things about\n"
-    .string "which we know so little.\p"
-    .string "But that should spur us to study\n"
-    .string "harder, not toss in the towel.\p"
-    .string "The only thing you should toss…\p"
-    .string "Well, how about SEISMIC TOSS?\n"
-    .string "Should I teach that to a POKéMON?$"
+    .string "Rummet hemmeligheder…\n"
+    .string "Jordens mysterier…\p"
+    .string "Der er saa mange ting vi ved\n"
+    .string "saa lidt om.\p"
+    .string "Men det burde tilskynde os til at\n"
+    .string "studere hardere, ikke give op.\p"
+    .string "Det eneste du burde kaste…\p"
+    .string "Naa, hvad med SEISMIC TOSS?\n"
+    .string "Skal jeg laere det til en POKeMON?$"
 
 Text_SeismicTossDeclined::
-    .string "Is that so?\n"
-    .string "I'm sure you'll be back for it.$"
+    .string "Er det saa?\n"
+    .string "Jeg er sikker paa du kommer tilbage.$"
 
 Text_SeismicTossWhichMon::
-    .string "Which POKéMON wants to learn\n"
+    .string "Hvilken POKeMON vil laere\n"
     .string "SEISMIC TOSS?$"
 
 Text_SeismicTossTaught::
-    .string "I hope you won't toss in the towel.\n"
-    .string "Keep it up.$"
+    .string "Jeg haaber du ikke giver op.\n"
+    .string "Fortsaet.$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
-    .string "MOON STONE, huh?\p"
-    .string "What's so special about it?\n"
-    .string "Looks like an ordinary rock to me.$"
+    .string "MOON STONE, hva?\p"
+    .string "Hvad er saa specielt ved den?\n"
+    .string "Ser ud som en almindelig sten.$"
 
 PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding::
-    .string "July 20, 1969!\p"
-    .string "Humankind first set foot on the\n"
-    .string "moon that day.\p"
-    .string "I bought a color TV just so I\n"
-    .string "could watch that news.$"
+    .string "20. juli 1969!\p"
+    .string "Menneskeheden satte foerst foden paa\n"
+    .string "maanen den dag.\p"
+    .string "Jeg koebte et farvefjernsyn bare for at\n"
+    .string "se den nyhed.$"
 
 PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
-    .string "This month, we're running a space\n"
-    .string "exhibit.$"
+    .string "Denne maaned har vi en rumudstilling.$"
 
 PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu::
-    .string "I want a PIKACHU!\n"
-    .string "It's so cute!\p"
-    .string "I asked my daddy to catch me one!$"
+    .string "Jeg vil have en PIKACHU!\n"
+    .string "Den er saa nuttet!\p"
+    .string "Jeg bad min far om at fange een!$"
 
 PewterCity_Museum_1F_Text_PikachuSoonIPromise::
-    .string "Yeah, a PIKACHU soon, I promise!$"
+    .string "Ja, en PIKACHU snart, jeg lover!$"
 
 PewterCity_Museum_1F_Text_SpaceShuttle::
-    .string "Space Shuttle$"
+    .string "Rumfaerge$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
-    .string "A meteorite that fell on MT. MOON.\n"
-    .string "It is thought to be a MOON STONE.$"
-
+    .string "En meteorit der faldt paa MT. MOON.\n"
+    .string "Den antages at vaere en MOON STONE.$"

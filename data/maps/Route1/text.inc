@@ -1,28 +1,27 @@
 Route1_Text_WorkAtPokeMartTakeSample::
-    .string "Hi!\n"
-    .string "I work at a POKéMON MART.\p"
-    .string "It's part of a convenient chain\n"
-    .string "selling all sorts of items.\p"
-    .string "Please, visit us in VIRIDIAN CITY.\p"
-    .string "I know, I'll give you a sample.\n"
-    .string "Here you go!$"
+    .string "Hej!\n"
+    .string "Jeg arbejder i en POKeMON BUTIK.\p"
+    .string "Det er del af en kede, der saelger\n"
+    .string "alle mulige ting.\p"
+    .string "Besog os i VIRIDIAN CITY.\p"
+    .string "Jeg giver dig en proeve.\n"
+    .string "Vaersgo!$"
 
 Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
-    .string "Please come see us if you need\n"
-    .string "POKé BALLS for catching POKéMON.$"
+    .string "Kom forbi, hvis du har brug for\n"
+    .string "POKe BALLS til at fange POKeMON.$"
 
 Route1_Text_PutPotionAway::
-    .string "{PLAYER} put the POTION away in\n"
-    .string "the BAG's ITEMS POCKET.$"
+    .string "{PLAYER} lagde POTION i\n"
+    .string "TASKENS TING-Lomme.$"
 
 Route1_Text_CanJumpFromLedges::
-    .string "See those ledges along the road?\p"
-    .string "It's a bit scary, but you can jump\n"
-    .string "from them.\p"
-    .string "You can get back to PALLET TOWN\n"
-    .string "quicker that way.$"
+    .string "Ser du kanten langs vejen?\p"
+    .string "Det er lidt skraemmende, men du\n"
+    .string "kan hoppe ned fra dem.\p"
+    .string "Saadan kommer du hurtigere tilbage\n"
+    .string "til PALLET TOWN.$"
 
 Route1_Text_RouteSign::
     .string "ROUTE 1\n"
     .string "PALLET TOWN - VIRIDIAN CITY$"
-

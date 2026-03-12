@@ -1,24 +1,24 @@
 Text_ExplosionTeach::
-    .string "Can you imagine?\n"
-    .string "If this volcano were to erupt?\p"
-    .string "The explosion would be the end of\n"
-    .string "us. How terrifying is that?\p"
-    .string "While we're terrified, would you\n"
-    .string "like me to teach EXPLOSION?$"
+    .string "Kan du forestille dig?\n"
+    .string "Hvis denne vulkan udbroed?\p"
+    .string "Eksplosionen ville vaere vores ende.\n"
+    .string "Hvor skraemmende er det ikke?\p"
+    .string "Mens vi er bange, vil du have mig\n"
+    .string "til at laere EXPLOSION?$"
 
 Text_ExplosionDeclined::
-    .string "Yeah, you're right.\n"
-    .string "It is too terrifying.$"
+    .string "Ja, du har ret.\n"
+    .string "Det er for skraemmende.$"
 
 Text_ExplosionWhichMon::
-    .string "You're terribly brave!\p"
-    .string "Which POKéMON should I teach\n"
+    .string "Du er forfaerdeligt modig!\p"
+    .string "Hvilken POKeMON skal jeg laere\n"
     .string "EXPLOSION?$"
 
 Text_ExplosionTaught::
-    .string "Using EXPLOSION while on this\n"
-    .string "volcano…\p"
-    .string "What a terrifying thrill!$"
+    .string "At bruge EXPLOSION her paa denne\n"
+    .string "vulkan…\p"
+    .string "Hvilken skraemmende thrill!$"
 
 @ Below 4 are unused JP versions of the above texts
 Text_ExplosionTeachJP::
@@ -42,103 +42,103 @@ Text_ExplosionTaughtJP::
     .string "す　すごい　スリル！$"
 
 MtEmber_Exterior_Text_WellTryDiggingHere::
-    .string "Over here.\n"
-    .string "We'll try digging here.\p"
-    .string "That treasure the ADMINS've been\n"
-    .string "talking about should be here.$"
+    .string "Herovre.\n"
+    .string "Vi proever at grave her.\p"
+    .string "Skatten ADMIN'erne har talt om\n"
+    .string "skal vaere her.$"
 
 MtEmber_Exterior_Text_YoureInTheWayGetLost::
-    .string "What the…?\n"
-    .string "You're in the way. Get lost.$"
+    .string "Hvad…?\n"
+    .string "Du er i vejen. Forsvind.$"
 
 MtEmber_Exterior_Text_PunchedThroughAtLast::
-    .string "Whew, punched through at last.\n"
-    .string "Let's go treasure hunting!$"
+    .string "Puha, endelig gennembrudt.\n"
+    .string "Lad os skattejage!$"
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
-    .string "Any treasure we find, we haul back\n"
-    .string "to the WAREHOUSE, understood?\p"
-    .string "…Oh, and what're the passwords?\n"
-    .string "At the ROCKET WAREHOUSE, I mean.$"
+    .string "Al skat vi finder bringer vi tilbage\n"
+    .string "til LAGERET, forstaaet?\p"
+    .string "…Oeh, og hvad er adgangskoderne?\n"
+    .string "Ved ROCKET LAGERET, mener jeg.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
-    .string "What, you forgot the password?\n"
-    .string "There're actually two.\p"
-    .string "The first one's “GOLDEEN need\n"
-    .string "log.”\p"
-    .string "And the second one is…$"
+    .string "Hvad, du glemte adgangskoden?\n"
+    .string "Der er faktisk to.\p"
+    .string "Den foerste er GOLDEEN need\n"
+    .string "log.\p"
+    .string "Og den anden er…$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::
     .string "Hey!\n"
-    .string "This snoop's been listening in!$"
+    .string "Denne snus har lyttet med!$"
 
 MtEmber_Exterior_Text_Grunt1Intro::
-    .string "You've been eavesdropping on us,\n"
-    .string "haven't you?$"
+    .string "Du har lyttet med paa os,\n"
+    .string "har du ikke?$"
 
 MtEmber_Exterior_Text_Grunt1Defeat::
-    .string "Huh, what?$"
+    .string "Hvad, hvad?$"
 
 MtEmber_Exterior_Text_Grunt1PostBattle::
-    .string "Why'd you have to win?$"
+    .string "Hvorfor skulle du vinde?$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
-    .string "Trying to horn in on our treasure?\n"
-    .string "Don't bet on it!$"
+    .string "Prover du at komme ind paa vores\n"
+    .string "skat? Glem det!$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
-    .string "Wait!\n"
-    .string "But how?$"
+    .string "Vent!\n"
+    .string "Men hvordan?$"
 
 MtEmber_Exterior_Text_Grunt2PostBattle::
-    .string "Develop amnesia conveniently and\n"
-    .string "forget everything you heard!$"
+    .string "Faa beqvem hukommelsestab og\n"
+    .string "glem alt hvad du hoerte!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
-    .string "What a setback…\n"
-    .string "We'll have to regroup.\p"
-    .string "You! Don't even think about taking\n"
-    .string "a step inside here!\p"
-    .string "If you know what's good for you,\n"
-    .string "don't even think about this!$"
+    .string "Sikke et tilbageslag…\n"
+    .string "Vi maa samle os igen.\p"
+    .string "Du! Taenk ikke engang paa at\n"
+    .string "traede ind der!\p"
+    .string "Hvis du ved hvad der er godt for\n"
+    .string "dig, glem det helt!$"
 
 MtEmber_Exterior_Text_LoganIntro::
-    .string "An active volcano is one that's\n"
-    .string "erupting, or about to.$"
+    .string "En aktiv vulkan er een der\n"
+    .string "udbruder eller er ved at.$"
 
 MtEmber_Exterior_Text_LoganDefeat::
-    .string "Whew… That was hot!\n"
-    .string "Sweat's erupting from me!$"
+    .string "Puha… Det var varmt!\n"
+    .string "Sveden udbruder fra mig!$"
 
 MtEmber_Exterior_Text_LoganPostBattle::
-    .string "They say there're over 1,500\n"
-    .string "active volcanoes in the world.\p"
-    .string "Just thinking about them makes me\n"
-    .string "feel all hot and gooey inside!$"
+    .string "De siger der er over 1500 aktive\n"
+    .string "vulkaner i verden.\p"
+    .string "Bare tanken goer mig helt varm\n"
+    .string "inderst inde!$"
 
 MtEmber_Exterior_Text_BethIntro::
-    .string "Do you know how caves form inside\n"
-    .string "volcanoes?$"
+    .string "Ved du hvordan huler dannes inde i\n"
+    .string "vulkaner?$"
 
 MtEmber_Exterior_Text_BethDefeat::
     .string "Atchah!\n"
-    .string "You're shockingly good!$"
+    .string "Du er chokerende dygtig!$"
 
 MtEmber_Exterior_Text_BethPostBattle::
-    .string "When lava at the surface of magma\n"
-    .string "hardens, and the magma inside flows\l"
-    .string "out, caverns are left behind.$"
+    .string "Naar lava paa overfladen af magma\n"
+    .string "haerder, og magmaen inde flyder ud,\l"
+    .string "bliver der huler tilbage.$"
 
 MtEmber_Exterior_Text_JocelynIntro::
-    .string "I've been in training so I can mend\n"
-    .string "my broken heart…\p"
-    .string "It toughened me up physically at\n"
-    .string "least! Hi-yah!$"
+    .string "Jeg har traenet for at laeger mit\n"
+    .string "knuste hjerte…\p"
+    .string "Det haerdede mig i det mindste\n"
+    .string "fysisk! Hi-yah!$"
 
 MtEmber_Exterior_Text_JocelynDefeat::
-    .string "I think I tried to overdo it…$"
+    .string "Jeg tror jeg overdrev…$"
 
 MtEmber_Exterior_Text_JocelynPostBattle::
-    .string "The way you battle, it reminds me\n"
-    .string "of the guy who dumped me…$"
+    .string "Maaden du kaemper paa minder mig\n"
+    .string "om fyren der dumpede mig…$"
 

@@ -1,52 +1,51 @@
 CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
-    .string "There is nothing that I don't know,\n"
-    .string "like I wrote on the blackboard.\p"
-    .string "I know about the world of POKéMON\n"
-    .string "in your GAME BOY ADVANCE!\p"
-    .string "Get together with your friends and\n"
-    .string "enjoy trading POKéMON!$"
+    .string "Der er intet jeg ikke ved,\n"
+    .string "som jeg skrev paa tavlen.\p"
+    .string "Jeg ved alt om POKeMON-verdenen\n"
+    .string "i din GAME BOY ADVANCE!\p"
+    .string "Find sammen med dine venner og\n"
+    .string "nyd at bytte POKeMON!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
-    .string "{PLAYER} obtained an EEVEE!$"
+    .string "{PLAYER} fik en EEVEE!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
     .string "ポケモンが　いっぱいだ\n"
     .string "ボックスを　かえて　きなさい$"
 
 CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture::
-    .string "POKéMON Lecture\p"
-    .string "Playing with the Wireless Adapter$"
+    .string "POKeMON Forelaesning\p"
+    .string "At spille med Wireless Adapter$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading::
-    .string "Which heading do you want to read?$"
+    .string "Hvilket afsnit vil du laese?$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
-    .string "The POKéMON WIRELESS CLUB is\n"
-    .string "upstairs at any POKéMON CENTER.\p"
-    .string "Visit one to link up with friend(s)\n"
-    .string "using your Wireless Adapter.$"
+    .string "POKeMON WIRELESS CLUB er\n"
+    .string "ovenpaa i ethvert POKeMON CENTER.\p"
+    .string "Besoeg et for at linke med ven(ner)\n"
+    .string "med din Wireless Adapter.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
-    .string "To link only with a friend, go to\n"
-    .string "the DIRECT CORNER.\p"
-    .string "It is the right counter at the\n"
-    .string "POKéMON WIRELESS CLUB.\p"
-    .string "Go into the TRADE CORNER or the\n"
-    .string "COLOSSEUM with your friend.$"
+    .string "For kun at linke med en ven, gaa til\n"
+    .string "DIRECT CORNER.\p"
+    .string "Det er disken til hoejre i\n"
+    .string "POKeMON WIRELESS CLUB.\p"
+    .string "Gaa ind i TRADE CORNER eller\n"
+    .string "COLOSSEUM med din ven.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
-    .string "To link and communicate with\n"
-    .string "anyone, go to the UNION ROOM.\p"
-    .string "It is the left counter at the\n"
-    .string "POKéMON WIRELESS CLUB.\p"
-    .string "Go to the UNION ROOM and enjoy\n"
-    .string "meeting other TRAINERS.$"
+    .string "For at linke og kommunikere med\n"
+    .string "alle, gaa til UNION ROOM.\p"
+    .string "Det er disken til venstre i\n"
+    .string "POKeMON WIRELESS CLUB.\p"
+    .string "Gaa til UNION ROOM og nyd at\n"
+    .string "moede andre TRAINERS.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
-    .string "It's a pamphlet on TMs.\p"
+    .string "Det er en brochure om TMs.\p"
     .string "… …\p"
-    .string "There are fifty TMs in all.\p"
-    .string "There are also seven HMs that\n"
-    .string "can be used repeatedly.\p"
+    .string "Der er halvtreds TMs i alt.\p"
+    .string "Der er ogsaa syv HMs der\n"
+    .string "kan bruges gentagne gange.\p"
     .string "SILPH CO.$"
-

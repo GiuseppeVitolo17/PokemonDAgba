@@ -2,28 +2,28 @@ CeladonCity_Condominiums_1F_Text_Meowth::
     .string "MEOWTH: Meow!$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
-    .string "You shouldn't spend all your money\n"
-    .string "on drinks.\p"
-    .string "Try this instead.$"
+    .string "Du boer ikke bruge alle dine penge\n"
+    .string "paa drikkevarer.\p"
+    .string "Proev dette i stedet.$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
-    .string "Nothing beats thirst like some hot\n"
+    .string "Intet slaaer toerst som varm\n"
     .string "TEA.\p"
-    .string "It really is the best.$"
+    .string "Det er virkelig det bedste.$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-    .string "My dear POKéMON keep me company.\n"
-    .string "MEOWTH even brings money home!$"
+    .string "Mine kere POKeMON holder mig selskab.\n"
+    .string "MEOWTH braeger endda penge hjem!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
-    .string "Oh, hello, dearie.\n"
-    .string "Did you enjoy my TEA?\p"
-    .string "By the way, dear. Are you, by any\n"
-    .string "chance, from PALLET TOWN?\p"
-    .string "A girl from PALLET TOWN, DAISY,\n"
-    .string "she enjoys TEA every day.\p"
-    .string "She visits the CELADON DEPT. STORE\n"
-    .string "to buy some TEA.$"
+    .string "Aah, hej, kere.\n"
+    .string "Noed du min TEA?\p"
+    .string "For resten, kere. Er du tilfaeldigvis\n"
+    .string "fra PALLET TOWN?\p"
+    .string "En pige fra PALLET TOWN, DAISY,\n"
+    .string "hun nyder TEA hver dag.\p"
+    .string "Hun besoeger CELADON DEPT. STORE\n"
+    .string "for at koebe TEA.$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
     .string "CLEFAIRY: Pi pippippi!$"
@@ -34,4 +34,3 @@ CeladonCity_Condominiums_1F_Text_Nidoran::
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
     .string "CELADON MANSION\n"
     .string "Manager's Suite$"
-

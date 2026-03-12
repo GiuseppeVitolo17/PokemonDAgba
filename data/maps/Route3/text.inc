@@ -1,104 +1,103 @@
 Route3_Text_TunnelFromCeruleanTiring::
-    .string "Whew… I better take a rest…\n"
-    .string "Groan…\p"
-    .string "That tunnel from CERULEAN takes a\n"
-    .string "lot out of you!$"
+    .string "Puha… Jeg maa tage en pause…\n"
+    .string "Stoen…\p"
+    .string "Tunnelen fra CERULEAN tager alt\n"
+    .string "energien fra en!$"
 
 Route3_Text_ColtonIntro::
     .string "Hey!\n"
-    .string "I saw you in VIRIDIAN FOREST!$"
+    .string "Jeg sa dig i VIRIDIAN FOREST!$"
 
 Route3_Text_ColtonDefeat::
-    .string "You beat me again!$"
+    .string "Du slog mig igen!$"
 
 Route3_Text_ColtonPostBattle::
-    .string "There are other kinds of POKéMON\n"
-    .string "than the ones you find in forests.$"
+    .string "Der findes andre slags POKeMON\n"
+    .string "end dem du finder i skove.$"
 
 Route3_Text_BenIntro::
-    .string "Hi!\n"
-    .string "I like shorts!\p"
-    .string "They're delightfully comfy and\n"
-    .string "easy to wear!$"
+    .string "Hej!\n"
+    .string "Jeg kan lide shorts!\p"
+    .string "De er dejligt behagelige og\n"
+    .string "lette at have paa!$"
 
 Route3_Text_BenDefeat::
-    .string "I don't believe it!$"
+    .string "Det troer jeg ikke paa!$"
 
 Route3_Text_BenPostBattle::
-    .string "Are you using a POKéMON CENTER's\n"
-    .string "PC for storing your POKéMON?\p"
-    .string "Each BOX can hold up to\n"
-    .string "30 POKéMON.$"
+    .string "Bruger du et POKeMON CENTERs PC\n"
+    .string "til at opbevare dine POKeMON?\p"
+    .string "Hver BOX kan indeholde op til\n"
+    .string "30 POKeMON.$"
 
 Route3_Text_JaniceIntro::
-    .string "Excuse me!\n"
-    .string "You looked at me, didn't you?$"
+    .string "Undskyld!\n"
+    .string "Du kiggede paa mig, gjorde du ikke?$"
 
 Route3_Text_JaniceDefeat::
-    .string "You're mean!$"
+    .string "Du er ond!$"
 
 Route3_Text_JanicePostBattle::
-    .string "You shouldn't be staring if you\n"
-    .string "don't want to battle!$"
+    .string "Du burde ikke glo, hvis du ikke\n"
+    .string "vil kaempe!$"
 
 Route3_Text_GregIntro::
-    .string "Are you a TRAINER?\n"
-    .string "Let's get with it right away!$"
+    .string "Er du en TRAINER?\n"
+    .string "Lad os komme i gang med det samme!$"
 
 Route3_Text_GregDefeat::
-    .string "If I had new POKéMON, I would've\n"
-    .string "won!$"
+    .string "Havde jeg haft nye POKeMON, havde\n"
+    .string "jeg vundet!$"
 
 Route3_Text_GregPostBattle::
-    .string "If a POKéMON BOX on the PC gets\n"
-    .string "full, just switch to another BOX.$"
+    .string "Hvis en POKeMON BOX paa PC'en\n"
+    .string "bliver fuld, skift bare til en anden BOX.$"
 
 Route3_Text_SallyIntro::
-    .string "That look you gave me…\n"
-    .string "It's so intriguing!$"
+    .string "Det blik du gav mig…\n"
+    .string "Det er saaa spaendende!$"
 
 Route3_Text_SallyDefeat::
-    .string "Be nice!$"
+    .string "Vaer soed!$"
 
 Route3_Text_SallyPostBattle::
-    .string "You can avoid battles by not\n"
-    .string "letting TRAINERS see you.$"
+    .string "Du kan undgaa kampe ved ikke at\n"
+    .string "lade TRAINERs se dig.$"
 
 Route3_Text_CalvinIntro::
-    .string "Hey! You're not wearing shorts!\n"
-    .string "What's wrong with you?$"
+    .string "Hey! Du har ikke shorts paa!\n"
+    .string "Hvad er der galt med dig?$"
 
 Route3_Text_CalvinDefeat::
-    .string "Lost!\n"
-    .string "Lost! Lost!$"
+    .string "Tabt!\n"
+    .string "Tabt! Tabt!$"
 
 Route3_Text_CalvinPostBattle::
-    .string "I always wear shorts, even in\n"
-    .string "winter. That's my policy.$"
+    .string "Jeg har altid shorts paa, selv om\n"
+    .string "vinteren. Det er min politik.$"
 
 Route3_Text_JamesIntro::
-    .string "I'll battle you with the POKéMON\n"
-    .string "I just caught.$"
+    .string "Jeg kaemper mod dig med de POKeMON\n"
+    .string "jeg lige har fanget.$"
 
 Route3_Text_JamesDefeat::
-    .string "Done like dinner!$"
+    .string "Faerdig som aftensmad!$"
 
 Route3_Text_JamesPostBattle::
-    .string "Trained POKéMON are stronger than\n"
-    .string "the wild ones.$"
+    .string "Traenede POKeMON er staerkere end\n"
+    .string "de vilde.$"
 
 Route3_Text_RobinIntro::
-    .string "Eek!\n"
-    .string "Did you touch me?$"
+    .string "Av!\n"
+    .string "Roerte du mig?$"
 
 Route3_Text_RobinDefeat::
-    .string "That's it?$"
+    .string "Var det det?$"
 
 Route3_Text_RobinPostBattle::
-    .string "ROUTE 4 is at the foot of\n"
+    .string "ROUTE 4 er ved foden af\n"
     .string "MT. MOON.$"
 
 Route3_Text_RouteSign::
     .string "ROUTE 3\n"
-    .string "MT. MOON AHEAD$"
-
+    .string "MT. MOON LIGGER FORAN$"

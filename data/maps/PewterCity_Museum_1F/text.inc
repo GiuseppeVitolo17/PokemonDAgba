@@ -1,87 +1,86 @@
 PewterCity_Museum_1F_Text_Its50YForChildsTicket::
-    .string "Yes, yes.\n"
-    .string "It's ¥50 for a child's ticket.\p"
-    .string "Would you like to come in?$"
+    .string "Ja, ja.\n"
+    .string "Det er ¥50 for en boernebillet.\p"
+    .string "Vil du ind?$"
 
 PewterCity_Museum_1F_Text_ComeAgain::
-    .string "Come again!$"
+    .string "Kom igen!$"
 
 PewterCity_Museum_1F_Text_Right50YThankYou::
-    .string "Right, ¥50!\n"
-    .string "Thank you!$"
+    .string "Rigtigt, ¥50!\n"
+    .string "Tak!$"
 
 PewterCity_Museum_1F_Text_DontHaveEnoughMoney::
-    .string "You don't have enough money.$"
+    .string "Du har ikke nok penge.$"
 
 PewterCity_Museum_1F_Text_PleaseEnjoyYourself::
-    .string "Please enjoy yourself.$"
+    .string "Nyd dig selv.$"
 
 PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
-    .string "You can't sneak in the back way!\n"
-    .string "Nice try, kid, but no.\p"
-    .string "Oh, whatever!\n"
-    .string "Do you know what AMBER is?$"
+    .string "Du kan ikke snige dig ind bagvejen!\n"
+    .string "Godt forsoegt, unge, men nej.\p"
+    .string "Aah, whatever!\n"
+    .string "Ved du hvad AMBER er?$"
 
 PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
-    .string "AMBER contains the genetic matter\n"
-    .string "of ancient POKéMON.\p"
-    .string "There's a LAB somewhere trying to\n"
-    .string "resurrect POKéMON from AMBER.$"
+    .string "AMBER indeholder genetisk materiale\n"
+    .string "fra gamle POKeMON.\p"
+    .string "Der er et LAB et sted der proever at\n"
+    .string "genoplive POKeMON fra AMBER.$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
-    .string "AMBER is actually sap, that gooey\n"
-    .string "stuff that oozes from trees.\p"
-    .string "The ancient sap fossilized over\n"
-    .string "time to become rock-hard AMBER.$"
+    .string "AMBER er faktisk saft, den klaebede\n"
+    .string "ting der siver fra traeer.\p"
+    .string "Den gamle saft blev til fossil\n"
+    .string "over tid og blev stenhaard AMBER.$"
 
 @ Unused
 PewterCity_Museum_1F_Text_PleaseGoAround::
     .string "あちらへ　おまわりください$"
 
 PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
-    .string "I should be grateful for my long\n"
-    .string "life.\p"
-    .string "Never did I think I would get to\n"
-    .string "see the bones of a dragon!$"
+    .string "Jeg burde vaere taknemmelig for mit lange\n"
+    .string "liv.\p"
+    .string "Jeg troede aldrig jeg ville faa\n"
+    .string "at se benene af en drage!$"
 
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
-    .string "Ssh! Listen, I need to share a\n"
-    .string "secret with someone.\p"
-    .string "I think that this chunk of AMBER\n"
-    .string "contains POKéMON DNA!\p"
-    .string "It would be a shattering scientific\n"
-    .string "breakthrough if POKéMON could be\l"
-    .string "resurrected from it.\p"
-    .string "But, my colleagues just ignore\n"
-    .string "what I have to say.\p"
-    .string "So, I have a favor to ask!\p"
-    .string "I want you to get this examined at\n"
-    .string "a POKéMON LAB somewhere.$"
+    .string "Ssst! Hoer, jeg skal dele en\n"
+    .string "hemmelighed med nogen.\p"
+    .string "Jeg tror at dette stykke AMBER\n"
+    .string "indeholder POKeMON DNA!\p"
+    .string "Det ville vaere et rystende videnskabeligt\n"
+    .string "gennembrud hvis POKeMON kunne\l"
+    .string "genoplives fra det.\p"
+    .string "Men mine kollegaer ignorerer bare\n"
+    .string "hvad jeg har at sige.\p"
+    .string "Saa jeg har en tjeneste at bede om!\p"
+    .string "Jeg vil have dig til at faa dette undersoegt\n"
+    .string "ved et POKeMON LAB et sted.$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
-    .string "{PLAYER} received the OLD AMBER\n"
-    .string "from the man.$"
+    .string "{PLAYER} modtog OLD AMBER\n"
+    .string "fra manden.$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::
-    .string "Ssh!\n"
-    .string "Get the OLD AMBER checked!$"
+    .string "Ssst!\n"
+    .string "Fa OLD AMBER tjekket!$"
 
 PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
-    .string "You don't have space for this.$"
+    .string "Du har ikke plads til dette.$"
 
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
-    .string "We have two fossils of rare,\n"
-    .string "prehistoric POKéMON on exhibit.$"
+    .string "Vi har to fossiler af sjaeldne,\n"
+    .string "forhistoriske POKeMON udstillet.$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
-    .string "There is a beautiful piece of\n"
-    .string "AMBER in a clear gold color.$"
+    .string "Der er et smukt stykke\n"
+    .string "AMBER i klar guld farve.$"
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
     .string "AERODACTYL Fossil\n"
-    .string "A primitive and rare POKéMON.$"
+    .string "En primitiv og sjaelden POKeMON.$"
 
 PewterCity_Museum_1F_Text_KabutopsFossil::
     .string "KABUTOPS Fossil\n"
-    .string "A primitive and rare POKéMON.$"
-
+    .string "En primitiv og sjaelden POKeMON.$"

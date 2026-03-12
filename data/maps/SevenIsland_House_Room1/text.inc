@@ -1,67 +1,66 @@
 SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
-    .string "I may not look like much now,\n"
-    .string "but when I was younger…\p"
-    .string "I flew everywhere, challenging\n"
-    .string "TRAINERS wherever I found them.\p"
-    .string "Now, my only source of enjoyment\n"
-    .string "is reminiscing about the past while\l"
-    .string "watching battles.$"
+    .string "Jeg ser maaske ikke meget ud nu,\n"
+    .string "men da jeg var yngre…\p"
+    .string "Jeg floej overalt og udfordrede\n"
+    .string "TRAINERS hvor jeg fandt dem.\p"
+    .string "Nu er min eneste fornoejelse at\n"
+    .string "mindes fortiden mens jeg ser kampe.$"
 
 SevenIsland_House_Room1_Text_SlightBreezeAroundBox::
-    .string "There is a slight breeze blowing\n"
-    .string "around the box.$"
+    .string "Der blaeser en let brise omkring\n"
+    .string "kassen.$"
 
 SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
-    .string "Ah!\n"
-    .string "Welcome, my friend!\p"
-    .string "Let me tell you something. There's\n"
-    .string "a hidden room in the basement.\p"
-    .string "A TRAINER named {STR_VAR_1} is\n"
-    .string "waiting there now.\p"
-    .string "Tell me, you did come to challenge\n"
-    .string "{STR_VAR_1}, am I right?$"
+    .string "Aah!\n"
+    .string "Velkommen, min ven!\p"
+    .string "Lad mig fortaelle dig noget. Der er\n"
+    .string "et skjult rum i kaelderen.\p"
+    .string "En TRAINER ved navn {STR_VAR_1} venter\n"
+    .string "der nu.\p"
+    .string "Sig mig, du er kommet for at udfordre\n"
+    .string "{STR_VAR_1}, er du ikke?$"
 
 SevenIsland_House_Room1_Text_OhYouWontBattle::
-    .string "Oh…\n"
-    .string "You won't battle…\p"
-    .string "I see, I see.\n"
+    .string "Aah…\n"
+    .string "Du vil ikke kaempe…\p"
+    .string "Jeg forstaar, jeg forstaar.\n"
     .string "… …\p"
-    .string "Well, perhaps if you change your\n"
-    .string "mind, do come back.$"
+    .string "Tja, hvis du ombestemmer dig,\n"
+    .string "kom gerne tilbage.$"
 
 SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
-    .string "Ah!\n"
-    .string "You will battle for me?\p"
-    .string "It was worth my time moving the\n"
-    .string "box aside, then.\p"
+    .string "Aah!\n"
+    .string "Du vil kaempe for mig?\p"
+    .string "Saa var det min tid vaerd at\n"
+    .string "flytte kassen til side.\p"
     .string "… …\n"
-    .string "But there is one slight problem.\p"
-    .string "This hidden room is not built very\n"
-    .string "sturdy.\p"
-    .string "Can I get you to limit it to\n"
-    .string "battles of three POKéMON per side?$"
+    .string "Men der er et lille problem.\p"
+    .string "Dette skjulte rum er ikke bygget\n"
+    .string "saerlig solidt.\p"
+    .string "Kan jeg faa dig til at begraense det\n"
+    .string "til kampe med tre POKeMON per side?$"
 
 SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
-    .string "Fine! Before your battle, would\n"
-    .string "you like to save your game?$"
+    .string "Fint! Foer din kamp, vil du\n"
+    .string "gerne gemme spillet?$"
 
 SevenIsland_House_Room1_Text_DontHoldAnythingBack::
-    .string "All right.\n"
-    .string "Don't hold anything back!$"
+    .string "Okay.\n"
+    .string "Hold ikke noget tilbage!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_1::
     .string "{STR_VAR_1}$"
 
 SevenIsland_House_Room2_Text_MatchEndedUpDraw::
-    .string "The match ended up a draw.$"
+    .string "Kampen endte uafgjort.$"
 
 SevenIsland_House_Room1_Text_DrawWasIt::
-    .string "A draw, was it?\p"
-    .string "However, let me say that it was\n"
-    .string "a worthy spectacle.\p"
-    .string "I'd say it was a wonderful battle\n"
-    .string "with a real sense of depth!$"
+    .string "Uafgjort, var det?\p"
+    .string "Men lad mig sige at det var\n"
+    .string "et vaerdigt syn.\p"
+    .string "Jeg vil sige det var en vidunderlig\n"
+    .string "kamp med rigtig dybde!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_2::
@@ -69,27 +68,27 @@ SevenIsland_House_Room1_Text_StrVar1_2::
 
 SevenIsland_House_Room1_Text_AstoundingBattle::
     .string "Bravo!\p"
-    .string "Bravo, indeed!\n"
-    .string "What an astounding battle!\p"
-    .string "It was so astounding, why, it keeps\n"
-    .string "filling my eyes with tears!\p"
-    .string "The thrust and parry of expertly\n"
-    .string "used techniques!\p"
-    .string "The clash of power upon power!\p"
-    .string "Yes!\n"
-    .string "It was sheer magnificence!$"
+    .string "Bravo, ja!\n"
+    .string "Hvilken forbloeffende kamp!\p"
+    .string "Saa forbloeffende at den konstant\n"
+    .string "fylder mine oejne med taarer!\p"
+    .string "Stoed og parering af ekspert\n"
+    .string "brugte teknikker!\p"
+    .string "Klangen af kraft mod kraft!\p"
+    .string "Ja!\n"
+    .string "Det var ren storhed!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_3::
     .string "{STR_VAR_1}$"
 
 SevenIsland_House_Room1_Text_FeelYourDisappointment::
-    .string "Too bad!\n"
-    .string "I feel your disappointment.\p"
-    .string "However, that disappointment is\n"
-    .string "what will make you better.\p"
-    .string "Use it, learn from it, and make it\n"
-    .string "motivate you to seek greatness.\p"
-    .string "Forget not this disappointment\n"
-    .string "and redouble your training!$"
+    .string "Aergerligt!\n"
+    .string "Jeg foeler din skuffelse.\p"
+    .string "Men den skuffelse er det der\n"
+    .string "vil goere dig bedre.\p"
+    .string "Brug den, laer af den og lad den\n"
+    .string "motivere dig til storhed.\p"
+    .string "Glem ikke denne skuffelse og\n"
+    .string "fordoble din traening!$"
 

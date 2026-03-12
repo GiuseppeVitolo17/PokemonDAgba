@@ -1,93 +1,93 @@
 ViridianCity_School_Text_TryingToMemorizeNotes::
-    .string "Whew! I'm trying to memorize all my\n"
-    .string "notes.$"
+    .string "Puha! Jeg proever at memorere alle mine\n"
+    .string "noter.$"
 
 ViridianCity_School_Text_ReadBlackboardCarefully::
     .string "Okay!\p"
-    .string "Be sure to read what's on the\n"
-    .string "blackboard carefully!$"
+    .string "Soerg for at laese hvad der staar paa\n"
+    .string "tavlen omhyggeligt!$"
 
 ViridianCity_School_Text_NotebookFirstPage::
-    .string "Let's check out the notebook.\p"
-    .string "First page…\p"
-    .string "POKé BALLS are used to catch\n"
-    .string "POKéMON.\p"
-    .string "Up to six POKéMON can be carried\n"
-    .string "in your party.\p"
-    .string "People who raise and battle\n"
-    .string "with POKéMON are called TRAINERS.$"
+    .string "Lad os tjekke notesbogen.\p"
+    .string "Foerste side…\p"
+    .string "POKe BALLS bruges til at fange\n"
+    .string "POKeMON.\p"
+    .string "Op til seks POKeMON kan baeres\n"
+    .string "i din gruppe.\p"
+    .string "Folk der opfostrer og kaemper\n"
+    .string "med POKeMON kaldes TRAeNERE.$"
 
 ViridianCity_School_Text_NotebookSecondPage::
-    .string "Second page…\p"
-    .string "A healthy POKéMON may be hard to\n"
-    .string "catch, so weaken it first.\p"
-    .string "Poison, burn, or cause another\n"
-    .string "status problem to weaken it.$"
+    .string "Anden side…\p"
+    .string "En sund POKeMON kan vaere svaer at\n"
+    .string "fange, saa svaekk den foerst.\p"
+    .string "Forgift, braend eller foraarsag et andet\n"
+    .string "tilstandsproblem for at svaekke den.$"
 
 ViridianCity_School_Text_NotebookThirdPage::
-    .string "Third page…\p"
-    .string "POKéMON TRAINERS seek others to\n"
-    .string "engage in POKéMON battles.\p"
-    .string "To TRAINERS, the taste of victory\n"
-    .string "is sweet, indeed.\p"
-    .string "Battles are constantly waged at\n"
-    .string "POKéMON GYMS everywhere.$"
+    .string "Tredje side…\p"
+    .string "POKeMON TRAeNERE soeger andre til at\n"
+    .string "indgaa i POKeMON kampe.\p"
+    .string "For TRAeNERE er smagen af sejr\n"
+    .string "soed, sandelig.\p"
+    .string "Kampe udkaempes konstant paa\n"
+    .string "POKeMON GYMS overalt.$"
 
 ViridianCity_School_Text_NotebookFourthPage::
-    .string "Fourth page…\p"
-    .string "The ultimate goal for all POKéMON\n"
-    .string "TRAINERS is simple.\p"
-    .string "It is to defeat the top eight\n"
-    .string "POKéMON GYM LEADERS.\p"
-    .string "Do so to earn the right to face…\p"
-    .string "The ELITE FOUR of the POKéMON\n"
+    .string "Fjerde side…\p"
+    .string "Det ultimative maal for alle POKeMON\n"
+    .string "TRAeNERE er enkelt.\p"
+    .string "Det er at besejre de top otte\n"
+    .string "POKeMON GYM LEDERE.\p"
+    .string "Goer det for at fortjene retten til at moede…\p"
+    .string "ELITE FOUR af POKeMON\n"
     .string "LEAGUE!$"
 
 ViridianCity_School_Text_TurnThePage::
-    .string "Turn the page?$"
+    .string "Vende siden?$"
 
 ViridianCity_School_Text_HeyDontLookAtMyNotes::
-    .string "GIRL: Hey!\n"
-    .string "Don't look at my notes!$"
+    .string "PIGE: Hej!\n"
+    .string "Kig ikke paa mine noter!$"
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
-    .string "The blackboard lists POKéMON\n"
-    .string "STATUS problems during battles.$"
+    .string "Tavlen viser POKeMON\n"
+    .string "TILSTANDS problemer under kampe.$"
 
 ViridianCity_School_Text_ReadWhichTopic::
-    .string "Which topic do you want to read?$"
+    .string "Hvilket emne vil du laese?$"
 
 ViridianCity_School_Text_ExplainSleep::
-    .string "A POKéMON can't attack if it's\n"
-    .string "asleep.\p"
-    .string "POKéMON will stay asleep even\n"
-    .string "after battles.\p"
-    .string "Use AWAKENING to awaken one\n"
-    .string "from sleep.$"
+    .string "En POKeMON kan ikke angribe hvis den\n"
+    .string "sover.\p"
+    .string "POKeMON forbliver sovende selv\n"
+    .string "efter kampe.\p"
+    .string "Brug AWAKENING for at vaekke en\n"
+    .string "fra soevn.$"
 
 ViridianCity_School_Text_ExplainBurn::
-    .string "A burn reduces ATTACK power.\n"
-    .string "It also causes ongoing HP loss.\p"
-    .string "A burn remains after a battle.\n"
-    .string "Use BURN HEAL to cure a burn.$"
+    .string "En forbraendning reducerer ANGREBS styrke.\n"
+    .string "Den foraarsager ogsaa loebende HP-tab.\p"
+    .string "En forbraendning forbliver efter en kamp.\n"
+    .string "Brug BURN HEAL for at helbrede en forbraendning.$"
 
 ViridianCity_School_Text_ExplainPoison::
-    .string "When poisoned, a POKéMON's health\n"
-    .string "steadily drops.\p"
-    .string "Poison lingers after battles.\n"
-    .string "Use an ANTIDOTE to cure poison!$"
+    .string "Naar den er forgiftet, falder en POKeMONs\n"
+    .string "sundhed jaevnt.\p"
+    .string "Gift vedvarer efter kampe.\n"
+    .string "Brug et ANTIDOTE for at helbrede gift!$"
 
 ViridianCity_School_Text_ExplainFreeze::
-    .string "A frozen POKéMON becomes\n"
-    .string "helplessly immobile.\p"
-    .string "It stays frozen even after the\n"
-    .string "battle ends.\p"
-    .string "Use ICE HEAL to thaw out the\n"
-    .string "suffering POKéMON.$"
+    .string "En frossen POKeMON bliver\n"
+    .string "hjaelpeloest ubevaegelig.\p"
+    .string "Den forbliver frossen selv efter\n"
+    .string "kampen slutter.\p"
+    .string "Brug ICE HEAL for at toe op den\n"
+    .string "lidende POKeMON.$"
 
 ViridianCity_School_Text_ExplainParalysis::
-    .string "Paralysis reduces SPEED and may\n"
-    .string "prevent the POKéMON from moving.\p"
-    .string "Paralysis remains after battles.\n"
-    .string "Use PARLYZ HEAL for treatment.$"
+    .string "Lammelse reducerer HASTIGHED og kan\n"
+    .string "forhindre POKeMON i at bevaege sig.\p"
+    .string "Lammelse forbliver efter kampe.\n"
+    .string "Brug PARLYZ HEAL til behandling.$"
 

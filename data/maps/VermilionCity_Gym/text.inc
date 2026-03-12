@@ -1,140 +1,139 @@
 VermilionCity_Gym_Text_LtSurgeIntro::
-    .string "Hey, kid! What do you think you're\n"
-    .string "doing here?\p"
-    .string "You won't live long in combat!\n"
-    .string "Not with your puny power!\p"
-    .string "I tell you, kid, electric POKéMON\n"
-    .string "saved me during the war!\p"
-    .string "They zapped my enemies into\n"
-    .string "paralysis!\p"
-    .string "The same as I'll do to you!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "Hey, unge! Hvad tror du du laver\n"
+    .string "her?\p"
+    .string "Du overlever ikke laenge i kamp!\n"
+    .string "Ikke med din svage styrke!\p"
+    .string "Jeg siger dig, unge, elektriske POKeMON\n"
+    .string "reddede mig under krigen!\p"
+    .string "De chokkede mine fjender til\n"
+    .string "lammelse!\p"
+    .string "Det samme goer jeg ved dig!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 VermilionCity_Gym_Text_LtSurgePostBattle::
-    .string "A little word of advice, kid!\p"
-    .string "Electricity is sure powerful!\p"
-    .string "But, it's useless against GROUND-\n"
-    .string "type POKéMON!$"
+    .string "Et lille ord af raad, unge!\p"
+    .string "Elektricitet er virkelig kraftfuld!\p"
+    .string "Men den er nytteloes mod JORD-\n"
+    .string "type POKeMON!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
-    .string "The THUNDERBADGE cranks up your\n"
-    .string "POKéMON's SPEED!\p"
-    .string "It also lets your POKéMON FLY\n"
-    .string "lightning-quick anytime, kid!\p"
-    .string "You're special, kid!\n"
-    .string "Take this!$"
+    .string "THUNDERBADGE oeger din\n"
+    .string "POKeMONs HASTIGHED!\p"
+    .string "Den lader ogsaa din POKeMON FLYVE\n"
+    .string "lynhurtigt naar som helst, unge!\p"
+    .string "Du er speciel, unge!\n"
+    .string "Tag dette!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
-    .string "{PLAYER} received TM34\n"
-    .string "from LT. SURGE.$"
+    .string "{PLAYER} modtog TM34\n"
+    .string "fra LT. SURGE.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
-    .string "TM34 contains SHOCK WAVE!\p"
-    .string "Teach it to an ELECTRIC POKéMON!$"
+    .string "TM34 indeholder SHOCK WAVE!\p"
+    .string "Laer det til en ELEKTRISK POKeMON!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
-    .string "Yo, kid, make room in your BAG!$"
+    .string "Yo, unge, goer plads i din TASKE!$"
 
 VermilionCity_Gym_Text_LtSurgeDefeat::
-    .string "Now that's a shocker!\p"
-    .string "You're the real deal, kid!\p"
-    .string "Fine, then, take the THUNDERBADGE!$"
+    .string "Det var en choker!\p"
+    .string "Du er den rigtige vare, unge!\p"
+    .string "Okay, saa tag THUNDERBADGE!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
-    .string "When I was in the Army, LT. SURGE\n"
-    .string "was my strict CO.\p"
-    .string "He was a hard taskmaster.$"
+    .string "Da jeg var i haeren, var LT. SURGE\n"
+    .string "min strenge befalingsmand.\p"
+    .string "Han var en haard taskmaster.$"
 
 VermilionCity_Gym_Text_TuckerDefeat::
     .string "Stop!\n"
-    .string "You're very good!$"
+    .string "Du er meget dygtig!$"
 
 VermilionCity_Gym_Text_TuckerPostBattle::
-    .string "It's not easy opening that door.\p"
-    .string "LT. SURGE was always famous for\n"
-    .string "his cautious nature in the Army.$"
+    .string "Det er ikke nemt at aabne den doer.\p"
+    .string "LT. SURGE var altid beroemt for\n"
+    .string "sin forsigtige natur i haeren.$"
 
 VermilionCity_Gym_Text_BailyIntro::
-    .string "I'm a lightweight, but I'm good\n"
-    .string "with electricity!\p"
-    .string "That's why I joined this GYM.$"
+    .string "Jeg er letvaegts, men jeg er god\n"
+    .string "med elektricitet!\p"
+    .string "Derfor sluttede jeg mig til dette GYM.$"
 
 VermilionCity_Gym_Text_BailyDefeat::
-    .string "Fried!$"
+    .string "Stegt!$"
 
 VermilionCity_Gym_Text_BailyPostBattle::
-    .string "Okay, I'll talk!\p"
-    .string "LT. SURGE said he hid door\n"
-    .string "switches inside something.$"
+    .string "Okay, jeg snakker!\p"
+    .string "LT. SURGE sagde han gemte doer-\n"
+    .string "kontakter inde i noget.$"
 
 VermilionCity_Gym_Text_DwayneIntro::
-    .string "This is no place for kids!\n"
-    .string "Not even if you're good!$"
+    .string "Dette er ikke et sted for boern!\n"
+    .string "Ikke engang hvis du er god!$"
 
 VermilionCity_Gym_Text_DwayneDefeat::
     .string "Wow!\n"
-    .string "Surprised me!$"
+    .string "Overraskede mig!$"
 
 VermilionCity_Gym_Text_DwaynePostBattle::
-    .string "LT. SURGE installed the traps in\n"
-    .string "the GYM himself.\p"
-    .string "He set up double locks everywhere.\n"
-    .string "Let me give you a hint.\p"
-    .string "When you open the first lock, the\n"
-    .string "second lock is right next to it.$"
+    .string "LT. SURGE installerede faeldrene i\n"
+    .string "GYM selv.\p"
+    .string "Han satte dobbelte laase overalt.\n"
+    .string "Lad mig give dig et tip.\p"
+    .string "Naar du aabner den foerste laas, er\n"
+    .string "den anden laas lige ved siden af.$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
-    .string "Champ in the making!\p"
-    .string "LT. SURGE has a nickname.\p"
-    .string "People refer to him as the\n"
-    .string "Lightning American!\p"
-    .string "He's an expert on electric\n"
-    .string "POKéMON.\p"
-    .string "BIRD/WATER-type POKéMON match\n"
-    .string "poorly against the ELECTRIC type.\p"
-    .string "Beware of paralysis, too.\p"
-    .string "LT. SURGE is very cautious.\p"
-    .string "He's locked himself in, so it won't\n"
-    .string "be easy getting to him.$"
+    .string "Champion i gaere!\p"
+    .string "LT. SURGE har et oegenavn.\p"
+    .string "Folk kalder ham\n"
+    .string "den amerikanske lynkaster!\p"
+    .string "Han er ekspert i elektriske\n"
+    .string "POKeMON.\p"
+    .string "FUGL/VAND-type POKeMON matcher\n"
+    .string "daarligt mod ELEKTRISK type.\p"
+    .string "Pas ogsaa paa lammelse.\p"
+    .string "LT. SURGE er meget forsigtig.\p"
+    .string "Han har laast sig selv inde, saa det bliver\n"
+    .string "ikke nemt at komme til ham.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
-    .string "Whew!\n"
-    .string "That match was electric!$"
+    .string "Puha!\n"
+    .string "Den kamp var elektrisk!$"
 
 VermilionCity_Gym_Text_GymStatue::
-    .string "VERMILION POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\p"
-    .string "WINNING TRAINERS:\n"
+    .string "VERMILION POKeMON GYM\n"
+    .string "LEDER: LT. SURGE\p"
+    .string "VINDENDE TRAeNERE:\n"
     .string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-    .string "VERMILION POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\p"
-    .string "WINNING TRAINERS:\n"
+    .string "VERMILION POKeMON GYM\n"
+    .string "LEDER: LT. SURGE\p"
+    .string "VINDENDE TRAeNERE:\n"
     .string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
-    .string "Nope!\n"
-    .string "There's only trash here.$"
+    .string "Nix!\n"
+    .string "Der er kun affald her.$"
 
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
-    .string "Hey! There's a switch under the\n"
-    .string "trash! Turn it on!\p"
-    .string "The first electric lock opened!$"
+    .string "Hey! Der er en kontakt under\n"
+    .string "affaldet! Taend den!\p"
+    .string "Den foerste elektriske laas aabnede!$"
 
 VermilionCity_Gym_Text_AnotherSwitchInTrash::
-    .string "ガサゴソ‥！\n"
-    .string "おっと！　ゴミばこの　そこに\l"
-    .string "また　スイッチが　あった！\l"
-    .string "おして　みよう！　‥　ポチッとな$"
+    .string "Hey! Der er endnu en kontakt i\n"
+    .string "affaldet! Tryk paa den!\p"
+    .string "… Klik!$"
 
 VermilionCity_Gym_Text_SecondLockOpened::
-    .string "The second electric lock opened!\n"
-    .string "The motorized door opened!$"
+    .string "Den anden elektriske laas aabnede!\n"
+    .string "Motordoeren aabnede!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
-    .string "Nope!\n"
-    .string "There's only trash here.\p"
+    .string "Nix!\n"
+    .string "Der er kun affald her.\p"
     .string "Hey!\n"
-    .string "The electric locks were reset!$"
+    .string "De elektriske laase blev nulstillet!$"
 

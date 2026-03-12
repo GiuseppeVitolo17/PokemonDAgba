@@ -1,7 +1,7 @@
 SSAnne_B1F_Room5_Text_MachokeHasStrengthToMoveRocks::
-    .string "My buddy MACHOKE is super strong!\p"
-    .string "He has enough STRENGTH to move\n"
-    .string "big rocks!$"
+    .string "Min kammerat MACHOKE er super staerk!\p"
+    .string "Han har nok STRENGTH til at flytte\n"
+    .string "store sten!$"
 
 SSAnne_B1F_Room5_Text_Machoke::
     .string "MACHOKE: Gwoh! Goggoh!$"

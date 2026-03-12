@@ -1,6 +1,6 @@
 SixIsland_WaterPath_House2_Text_MyNeighborMeasuredMe::
-    .string "My height is 67.0 inches on the\n"
-    .string "button.\p"
-    .string "I know it is this precisely because\n"
-    .string "my neighbor measured me.$"
+    .string "Min hoejde er 67,0 tommer paa\n"
+    .string "knappen.\p"
+    .string "Jeg ved det saa praecist fordi min\n"
+    .string "nabo maalte mig.$"
 

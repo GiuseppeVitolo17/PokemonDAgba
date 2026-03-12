@@ -1,73 +1,72 @@
 FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
-    .string "Welcome to the SAFARI ZONE!$"
+    .string "Velkommen til SAFARI ZONE!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
-    .string "For just ¥500, you can play the\n"
+    .string "For kun ¥500 kan du spille\n"
     .string "SAFARI GAME.\p"
-    .string "You can roam the wide-open safari\n"
-    .string "and catch what you like.\p"
-    .string "Would you like to play?$"
+    .string "Du kan vandre i det vidtstrakte\n"
+    .string "safari og fange hvad du vil.\p"
+    .string "Vil du spille?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
-    .string "That'll be ¥500, please!\p"
-    .string "We only use a special kind of \n"
-    .string "POKé BALLS here.$"
+    .string "Det bliver ¥500!\p"
+    .string "Vi bruger kun en saerlig slags\n"
+    .string "POKe BALLS her.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
-    .string "{PLAYER} received 30 SAFARI BALLS\n"
-    .string "from the attendant.$"
+    .string "{PLAYER} modtog 30 SAFARI BALLS\n"
+    .string "fra betjenten.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
-    .string "We'll call you on the PA when you\n"
-    .string "run out of time or SAFARI BALLS.\p"
-    .string "Well, I'll wish you the best of\n"
-    .string "luck!$"
+    .string "Vi kalder dig paa hoejtaleren naar du\n"
+    .string "loeber toer for tid eller SAFARI BALLS.\p"
+    .string "Jeg oensker dig held og lykke!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
     .string "Okay.\n"
-    .string "Please come again!$"
+    .string "Kom igen!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney::
-    .string "Oops!\n"
-    .string "Not enough money!$"
+    .string "Ups!\n"
+    .string "Ikke nok penge!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
-    .string "Are you going to leave the\n"
-    .string "SAFARI ZONE early?$"
+    .string "Vil du forlade SAFARI ZONE\n"
+    .string "tidligt?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
-    .string "Please return any SAFARI BALLS\n"
-    .string "you may have left.$"
+    .string "Returner venligst eventuelle\n"
+    .string "SAFARI BALLS du har til overs.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
-    .string "Good luck!$"
+    .string "Held og lykke!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
-    .string "Did you catch your fair share?\n"
-    .string "Come again!$"
+    .string "Fangede du din andel?\n"
+    .string "Kom igen!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
-    .string "Hi! Is it your first time here at\n"
-    .string "the SAFARI ZONE?$"
+    .string "Hej! Er det din foerste gang her i\n"
+    .string "SAFARI ZONE?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
-    .string "The SAFARI ZONE actually has\n"
-    .string "four zones in it.\p"
-    .string "Each zone has different kinds of\n"
-    .string "POKéMON, even some rare ones.\p"
-    .string "Use the supplied SAFARI BALLS to\n"
-    .string "catch them.\p"
-    .string "You can also throw BAIT or ROCKS\n"
-    .string "besides the SAFARI BALLS.\p"
-    .string "If you throw BAIT, the POKéMON\n"
-    .string "becomes less likely to flee, but\l"
-    .string "harder to catch.\p"
-    .string "If you throw ROCKS, the POKéMON\n"
-    .string "becomes more likely to flee, but\l"
-    .string "easier to catch.\p"
-    .string "When you run out of time or SAFARI\n"
-    .string "BALLS, it's game over for you!$"
+    .string "SAFARI ZONE har faktisk fire\n"
+    .string "zoner.\p"
+    .string "Hver zone har forskellige POKeMON,\n"
+    .string "ogsaa nogle sjaelde.\p"
+    .string "Brug de udleverede SAFARI BALLS\n"
+    .string "til at fange dem.\p"
+    .string "Du kan ogsaa kaste BAIT eller\n"
+    .string "STEN udover SAFARI BALLS.\p"
+    .string "Kaster du BAIT, bliver POKeMON\n"
+    .string "mindre tilboejelig til at flygte, men\l"
+    .string "svaerere at fange.\p"
+    .string "Kaster du STEN, bliver POKeMON\n"
+    .string "mere tilboejelig til at flygte, men\l"
+    .string "lettere at fange.\p"
+    .string "Naar du loeber toer for tid eller\n"
+    .string "SAFARI BALLS, er spillet slut!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
-    .string "Sorry, you're a regular here!$"
+    .string "Beklager, du er stamgaest her!$"
 

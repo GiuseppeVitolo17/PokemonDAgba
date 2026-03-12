@@ -1,4 +1,4 @@
 UndergroundPath_WestEntrance_Text_SleepyMonNearCeladon::
-    .string "I heard a sleepy POKéMON appeared\n"
-    .string "out near CELADON CITY, too.$"
+    .string "Jeg hoerte at en soevnig POKeMON dukkede\n"
+    .string "op ved CELADON CITY ogsaa.$"
 

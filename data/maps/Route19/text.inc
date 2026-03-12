@@ -1,154 +1,152 @@
 Route19_Text_RichardIntro::
-    .string "I have to exercise and warm up\n"
-    .string "before going out for a swim.$"
+    .string "Jeg skal motionere og varme op\n"
+    .string "foer jeg svoemmer ud.$"
 
 Route19_Text_RichardDefeat::
-    .string "All warmed up!$"
+    .string "Varmet ordentligt op!$"
 
 Route19_Text_RichardPostBattle::
-    .string "Thanks, kid!\n"
-    .string "I'm ready for a swim.$"
+    .string "Tak, unge!\n"
+    .string "Jeg er klar til at svoemme.$"
 
 Route19_Text_ReeceIntro::
-    .string "Wait! Slow down!\n"
-    .string "You'll have a heart attack!$"
+    .string "Vent! Langsomt!\n"
+    .string "Du faar et hjerteanfald!$"
 
 Route19_Text_ReeceDefeat::
     .string "Ooh!\n"
-    .string "That's chilly!$"
+    .string "Det er koldt!$"
 
 Route19_Text_ReecePostBattle::
-    .string "Watch out for TENTACOOL.\n"
-    .string "They sting so painfully.$"
+    .string "Pas paa TENTACOOL.\n"
+    .string "De stikker saa smertefuldt.$"
 
 Route19_Text_MatthewIntro::
-    .string "I love swimming!\n"
-    .string "What about you?$"
+    .string "Jeg elsker at svoemme!\n"
+    .string "Hvad med dig?$"
 
 Route19_Text_MatthewDefeat::
-    .string "Belly flop!$"
+    .string "Maveplasker!$"
 
 Route19_Text_MatthewPostBattle::
-    .string "I can beat even marine POKéMON\n"
-    .string "at swimming.$"
+    .string "Jeg kan slaa selv hav-POKeMON\n"
+    .string "i svoemning.$"
 
 Route19_Text_DouglasIntro::
-    .string "What's beyond the horizon?$"
+    .string "Hvad er der bag horisonten?$"
 
 Route19_Text_DouglasDefeat::
     .string "Glub!$"
 
 Route19_Text_DouglasPostBattle::
-    .string "I see a couple of islands over\n"
-    .string "yonder!$"
+    .string "Jeg kan se et par oer derude!$"
 
 Route19_Text_DavidIntro::
-    .string "I tried diving for POKéMON, but it\n"
-    .string "was a no-go.$"
+    .string "Jeg proevede at dykke efter\n"
+    .string "POKeMON, men det lykkedes ikke.$"
 
 Route19_Text_DavidDefeat::
-    .string "Help!$"
+    .string "Hjaelp!$"
 
 Route19_Text_DavidPostBattle::
-    .string "I guess you have to fish for sea\n"
-    .string "POKéMON.$"
+    .string "Jeg gaetter paa man skal fiske efter\n"
+    .string "hav-POKeMON.$"
 
 Route19_Text_TonyIntro::
-    .string "I look at the sea to forget all\n"
-    .string "the bad things that happened.$"
+    .string "Jeg kigger paa havet for at glemme\n"
+    .string "alt det daarlige der skete.$"
 
 Route19_Text_TonyDefeat::
     .string "Ooh!\n"
-    .string "Traumatic!$"
+    .string "Traumatisk!$"
 
 Route19_Text_TonyPostBattle::
-    .string "I'm looking at the sea to forget\n"
-    .string "the bad thing that happened!$"
+    .string "Jeg kigger paa havet for at glemme\n"
+    .string "det daarlige der skete!$"
 
 Route19_Text_AnyaIntro::
-    .string "Oh, I just love your ride!\n"
-    .string "Can I have it if I win?$"
+    .string "Aa, jeg elsker bare dit koeretoej!\n"
+    .string "Ma jeg faa den hvis jeg vinder?$"
 
 Route19_Text_AnyaDefeat::
-    .string "Oh! I lost!$"
+    .string "Aa! Jeg tabte!$"
 
 Route19_Text_AnyaPostBattle::
-    .string "It's still a long way to go to\n"
-    .string "SEAFOAM ISLANDS…\p"
-    .string "I want to go back to FUCHSIA…$"
+    .string "Det er stadig langt til\n"
+    .string "SEAFOAM ISLANDS...\p"
+    .string "Jeg vil tilbage til FUCHSIA...$"
 
 Route19_Text_AliceIntro::
-    .string "Swimming's great!\n"
-    .string "Sunburns aren't!$"
+    .string "Svoemning er fantastisk!\n"
+    .string "Solbraend er ikke!$"
 
 Route19_Text_AliceDefeat::
-    .string "Shocker!$"
+    .string "Chokerende!$"
 
 Route19_Text_AlicePostBattle::
-    .string "My boyfriend wanted to swim to\n"
+    .string "Min kaereste ville svoemme til\n"
     .string "SEAFOAM ISLANDS.$"
 
 Route19_Text_AxleIntro::
-    .string "Ahoy, there!\n"
-    .string "These waters are treacherous!$"
+    .string "Ahoy der!\n"
+    .string "Disse farvande er farlige!$"
 
 Route19_Text_AxleDefeat::
     .string "Ooh!\n"
-    .string "Dangerous!$"
+    .string "Farligt!$"
 
 Route19_Text_AxlePostBattle::
-    .string "M-my legs! They cramped up!\n"
-    .string "Glub, glub…$"
+    .string "M-mine ben! De krampede!\n"
+    .string "Glub, glub...$"
 
 Route19_Text_ConnieIntro::
-    .string "I swam here with my friends…\n"
-    .string "I'm tired…$"
+    .string "Jeg svoemmede hertil med mine\n"
+    .string "venner... Jeg er traet...$"
 
 Route19_Text_ConnieDefeat::
-    .string "I'm exhausted…$"
+    .string "Jeg er udmattet...$"
 
 Route19_Text_ConniePostBattle::
-    .string "If I were to ride a POKéMON on\n"
-    .string "the sea, I'd like a LAPRAS.\p"
-    .string "LAPRAS is so big, I bet it\n"
-    .string "would keep me dry on water.$"
+    .string "Hvis jeg skulle ride paa en POKeMON\n"
+    .string "paa havet, ville jeg vaelge LAPRAS.\p"
+    .string "LAPRAS er saa stor, den holder\n"
+    .string "mig sikkert toer paa vandet.$"
 
 Route19_Text_RouteSign::
-    .string "SEA ROUTE 19\n"
+    .string "HAVROUTE 19\n"
     .string "FUCHSIA CITY - SEAFOAM ISLANDS$"
 
 Route19_Text_LiaIntro::
-    .string "LIA: I'm looking after my brother.\n"
-    .string "He just became a TRAINER.$"
+    .string "LIA: Jeg passer min bror.\n"
+    .string "Han er lige blevet TRAINER.$"
 
 Route19_Text_LiaDefeat::
-    .string "LIA: That's no way to treat my\n"
-    .string "little brother!$"
+    .string "LIA: Saadan behandler man ikke min\n"
+    .string "lillebror!$"
 
 Route19_Text_LiaPostBattle::
-    .string "LIA: Do you have a younger\n"
-    .string "brother?\p"
-    .string "I hope you're teaching him all\n"
-    .string "sorts of things.$"
+    .string "LIA: Har du en yngre bror?\p"
+    .string "Jeg haaber du laerer ham alt\n"
+    .string "muligt.$"
 
 Route19_Text_LiaNotEnoughMons::
-    .string "LIA: I want to battle together\n"
-    .string "with my little brother.\p"
-    .string "Don't you have two POKéMON?$"
+    .string "LIA: Jeg vil kaempe sammen\n"
+    .string "med min lillebror.\p"
+    .string "Har du ikke to POKeMON?$"
 
 Route19_Text_LucIntro::
-    .string "LUC: My big sis taught me how\n"
-    .string "to swim and train POKéMON.$"
+    .string "LUC: Min storesoester laerte mig at\n"
+    .string "svoemme og traene POKeMON.$"
 
 Route19_Text_LucDefeat::
-    .string "LUC: Oh, wow!\n"
-    .string "Someone tougher than my big sis!$"
+    .string "LUC: Aa, wow!\n"
+    .string "En der er staerkere end min storesoester!$"
 
 Route19_Text_LucPostBattle::
-    .string "LUC: My big sis is strong and nice.\n"
-    .string "I think she's awesome!$"
+    .string "LUC: Min storesoester er staerk og\n"
+    .string "rar. Hun er fantastisk!$"
 
 Route19_Text_LucNotEnoughMons::
-    .string "LUC: I don't want to if I can't\n"
-    .string "battle you with my big sis.\p"
-    .string "Don't you have two POKéMON?$"
+    .string "LUC: Jeg vil ikke hvis jeg ikke kan\n"
+    .string "kaempe dig med min storesoester.\p"
+    .string "Har du ikke to POKeMON?$"

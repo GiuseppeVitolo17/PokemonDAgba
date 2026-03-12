@@ -1,37 +1,36 @@
 CeladonCity_Restaurant_Text_TakingBreakRightNow::
-    .string "Hi!\p"
-    .string "Sorry, but we're taking a break\n"
-    .string "right now.$"
+    .string "Hej!\p"
+    .string "Beklager, men vi holder pause\n"
+    .string "lige nu.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-    .string "My POKéMON are weak, so I often\n"
-    .string "have to go to the DRUGSTORE.$"
+    .string "Mine POKeMON er svaekke, saa jeg maa ofte\n"
+    .string "til DRUGSTORE.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-    .string "Psst! There's a basement under the\n"
-    .string "GAME CORNER, I hear.$"
+    .string "Psst! Der er en kaelder under\n"
+    .string "GAME CORNER, har jeg hoert.$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
     .string "Munch…\p"
-    .string "The man at that table lost it all\n"
-    .string "at the slots.$"
+    .string "Manden ved det bord tabte det hele\n"
+    .string "ved spilleautomaterne.$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-    .string "Go ahead! Laugh!\n"
-    .string "I'm flat-out busted!\p"
-    .string "No more slots for me!\n"
-    .string "I'm going straight!\p"
-    .string "Here!\n"
-    .string "I won't be needing this anymore!$"
+    .string "Gaar du bare! Grin!\n"
+    .string "Jeg er helt flad!\p"
+    .string "Ikke flere spilleautomater!\n"
+    .string "Jeg bliver ordentlig!\p"
+    .string "Her!\n"
+    .string "Jeg har ikke brug for dette mere!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-    .string "{PLAYER} received a COIN CASE\n"
-    .string "from the man.$"
+    .string "{PLAYER} modtog en COIN CASE\n"
+    .string "fra manden.$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
-    .string "Make room for this!$"
+    .string "Lav plads til dette!$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
-    .string "I always thought I was going to\n"
-    .string "win it back…$"
-
+    .string "Jeg troede altid jeg skulle\n"
+    .string "vinde det tilbage…$"

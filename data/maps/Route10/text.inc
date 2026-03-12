@@ -1,86 +1,85 @@
 Route10_Text_MarkIntro::
-    .string "Wow, you came all the way here?\n"
-    .string "Maybe you're a POKéMANIAC, too?\l"
-    .string "Want to see my collection?$"
+    .string "Wow, du kom hele vejen her?\n"
+    .string "Maaske er du ogsaa POKeMANIAC?\l"
+    .string "Vil du se min samling?$"
 
 Route10_Text_MarkDefeat::
     .string "Humph.\n"
-    .string "I'm not angry!$"
+    .string "Jeg er ikke vred!$"
 
 Route10_Text_MarkPostBattle::
-    .string "I have more rare POKéMON at home!$"
+    .string "Jeg har flere sjaeldne POKeMON derhjemme!$"
 
 Route10_Text_ClarkIntro::
     .string "Ha-hahah-ah-ha!$"
 
 Route10_Text_ClarkDefeat::
     .string "Ha-haha!\n"
-    .string "Not laughing!\l"
-    .string "Ha-hay fever! Haha-ha-choo!$"
+    .string "Griner ikke!\l"
+    .string "Ha-hay feber! Haha-ha-tjo!$"
 
 Route10_Text_ClarkPostBattle::
-    .string "Haha-ha-choo!\n"
-    .string "Ha-choo!\l"
-    .string "Snort! Snivel!$"
+    .string "Haha-ha-tjo!\n"
+    .string "Ha-tjo!\l"
+    .string "Snue! Snoevlen!$"
 
 Route10_Text_HermanIntro::
-    .string "Hi, kid!\n"
-    .string "Want to see my POKéMON?$"
+    .string "Hej, unge!\n"
+    .string "Vil du se mine POKeMON?$"
 
 Route10_Text_HermanDefeat::
-    .string "Oh, no!\n"
-    .string "My POKéMON!$"
+    .string "Oh, nej!\n"
+    .string "Mine POKeMON!$"
 
 Route10_Text_HermanPostBattle::
-    .string "I don't like you.\n"
-    .string "I don't like anyone better than me!$"
+    .string "Jeg kan ikke lide dig.\n"
+    .string "Jeg kan ikke lide nogen bedre end mig!$"
 
 Route10_Text_HeidiIntro::
-    .string "I've been out at a POKéMON GYM\n"
-    .string "a few times.\p"
-    .string "…But I always lose.$"
+    .string "Jeg har vaeret ved et POKeMON GYM\n"
+    .string "et par gange.\p"
+    .string "…Men jeg taber altid.$"
 
 Route10_Text_HeidiDefeat::
     .string "Ohh!\n"
-    .string "After all my training!$"
+    .string "Efter al min traening!$"
 
 Route10_Text_HeidiPostBattle::
-    .string "I noticed some POKéMANIACS\n"
-    .string "prowling around.\p"
-    .string "Can you imagine? Them?\n"
-    .string "Up here in the mountains?$"
+    .string "Jeg lagde maerke til nogle POKeMANIACs\n"
+    .string "der strejfede omkring.\p"
+    .string "Kan du forestille dig? Dem?\n"
+    .string "Her oppe i bjergene?$"
 
 Route10_Text_TrentIntro::
     .string "Ah!\n"
-    .string "This mountain air is delicious!$"
+    .string "Denne bjergluft er delikat!$"
 
 Route10_Text_TrentDefeat::
-    .string "That cleared my head!$"
+    .string "Det ryddede hovedet!$"
 
 Route10_Text_TrentPostBattle::
-    .string "I feel bloated on mountain air!$"
+    .string "Jeg foeler mig oppustet af bjergluft!$"
 
 Route10_Text_CarolIntro::
-    .string "I'm feeling a bit faint.\n"
-    .string "I haven't hiked in some time.$"
+    .string "Jeg foeler mig lidt svag.\n"
+    .string "Jeg har ikke vandret i lang tid.$"
 
 Route10_Text_CarolDefeat::
-    .string "I'm too tired.\n"
-    .string "I wasn't up for it.$"
+    .string "Jeg er for traet.\n"
+    .string "Jeg var ikke klar til det.$"
 
 Route10_Text_CarolPostBattle::
-    .string "The POKéMON here in the mountains\n"
-    .string "are so chunky…\p"
-    .string "I wish there were pink POKéMON\n"
-    .string "with a floral pattern!$"
+    .string "POKeMON her i bjergene er saa\n"
+    .string "tunge…\p"
+    .string "Jeg ville oenske der var lyseroede\n"
+    .string "POKeMON med blomstermoenster!$"
 
 Route10_Text_RockTunnelDetourToLavender::
     .string "ROCK TUNNEL\n"
-    .string "Detour to LAVENDER TOWN$"
+    .string "Omvej til LAVENDER TOWN$"
 
 Route10_Text_RockTunnel::
     .string "ROCK TUNNEL$"
 
 Route10_Text_PowerPlant::
     .string "POWER PLANT$"
-

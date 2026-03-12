@@ -1,6 +1,5 @@
 Route2_House_Text_FaintedMonsCanUseFieldMoves::
-    .string "A fainted POKéMON just has no\n"
-    .string "energy left to battle.\p"
-    .string "It can still use moves like CUT\n"
-    .string "outside of battle.$"
-
+    .string "En besvimet POKeMON har bare ikke\n"
+    .string "energi nok til at kaempe.\p"
+    .string "Den kan stadig bruge traek som CUT\n"
+    .string "uden for kamp.$"

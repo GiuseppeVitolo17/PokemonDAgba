@@ -1,31 +1,31 @@
 SSAnne_1F_Room2_Text_TylerIntro::
-    .string "I love POKéMON!\n"
-    .string "Do you?$"
+    .string "Jeg elsker POKeMON!\n"
+    .string "Goer du?$"
 
 SSAnne_1F_Room2_Text_TylerDefeat::
-    .string "Wow! \n"
-    .string "You're great!$"
+    .string "Wow!\n"
+    .string "Du er fantastisk!$"
 
 SSAnne_1F_Room2_Text_TylerPostBattle::
-    .string "Listen, listen!\n"
-    .string "Let me be your friend, okay?\p"
-    .string "Then we can trade POKéMON and\n"
-    .string "do stuff.$"
+    .string "Hoer, hoer!\n"
+    .string "Lad mig vaere din ven, okay?\p"
+    .string "Saa kan vi bytte POKeMON og\n"
+    .string "saa videre.$"
 
 SSAnne_1F_Room2_Text_AnnIntro::
-    .string "I collected these POKéMON\n"
-    .string "from all around the world!$"
+    .string "Jeg har samlet disse POKeMON\n"
+    .string "fra hele verden!$"
 
 SSAnne_1F_Room2_Text_AnnDefeat::
-    .string "Oh, no!\n"
-    .string "I went around the world for these!$"
+    .string "Aah, nej!\n"
+    .string "Jeg rejste verden rundt for dem!$"
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
-    .string "You hurt my poor POKéMON!\p"
-    .string "I demand that you heal them at a\n"
-    .string "POKéMON CENTER!$"
+    .string "Du skadede mine stakkels POKeMON!\p"
+    .string "Jeg kraever at du helbreder dem paa\n"
+    .string "et POKeMON CENTER!$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::
-    .string "We are cruising around the world,\n"
-    .string "my children and I.$"
+    .string "Vi sejler rundt i verden,\n"
+    .string "mine boern og jeg.$"
 

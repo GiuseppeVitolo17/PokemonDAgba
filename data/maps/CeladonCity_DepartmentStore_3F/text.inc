@@ -1,70 +1,70 @@
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
-    .string "Captured POKéMON are registered\n"
-    .string "with an ID No. and the OT.\p"
-    .string "OT stands for “Original TRAINER” -\n"
-    .string "the TRAINER that caught it first.$"
+    .string "Fangede POKeMON registreres\n"
+    .string "med et ID No. og OT.\p"
+    .string "OT staaer for Original TRAINER -\n"
+    .string "TRAINERen der fangede den foerst.$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
-    .string "All right!\p"
-    .string "My buddy's going to trade me his\n"
-    .string "KANGASKHAN for my HAUNTER!$"
+    .string "Okay!\p"
+    .string "Min kammerat bytter sin\n"
+    .string "KANGASKHAN for min HAUNTER!$"
 
 CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
-    .string "Come on, HAUNTER!\p"
-    .string "I love HAUNTER!\n"
-    .string "I collect them!\p"
-    .string "Huh?\p"
-    .string "HAUNTER turned into a different\n"
-    .string "POKéMON while being traded!$"
+    .string "Kom nu, HAUNTER!\p"
+    .string "Jeg elsker HAUNTER!\n"
+    .string "Jeg samler paa dem!\p"
+    .string "Hva?\p"
+    .string "HAUNTER blev til en anden\n"
+    .string "POKeMON under byttehandlen!$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-    .string "You can identify POKéMON you get\n"
-    .string "in trades by their ID Numbers.$"
+    .string "Du kan genkende POKeMON du faar\n"
+    .string "ved bytte paa deres ID-numre.$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
-    .string "It's a Super NES.$"
+    .string "Det er en Super NES.$"
 
 CeladonCity_DepartmentStore_3F_Text_AnRPG::
-    .string "An RPG!\n"
-    .string "There's no time for that!$"
+    .string "Et RPG!\n"
+    .string "Der er ikke tid til det!$"
 
 CeladonCity_DepartmentStore_3F_Text_SportsGame::
-    .string "A sports game!\n"
-    .string "Dad'll like that!$"
+    .string "Et sportsspil!\n"
+    .string "Far vil kunne lide det!$"
 
 CeladonCity_DepartmentStore_3F_Text_PuzzleGame::
-    .string "A puzzle game!\n"
-    .string "Looks addictive!$"
+    .string "Et puslespil!\n"
+    .string "Ser vanedannende ud!$"
 
 CeladonCity_DepartmentStore_3F_Text_FightingGame::
-    .string "A fighting game!\n"
-    .string "Looks tough!$"
+    .string "Et kaempespil!\n"
+    .string "Ser haardt ud!$"
 
 CeladonCity_DepartmentStore_3F_Text_TVGameShop::
     .string "3F: TV GAME SHOP$"
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
-    .string "Red and Green!\n"
-    .string "Both are POKéMON!$"
+    .string "Roed og Groen!\n"
+    .string "Begge er POKeMON!$"
 
 Text_CounterTeach::
-    .string "Oh, hi!\n"
-    .string "I finally finished POKéMON.\p"
-    .string "Not done yet? How about I teach\n"
-    .string "you a good move?\p"
-    .string "The move I have in mind is\n"
+    .string "Aah, hej!\n"
+    .string "Jeg er endelig faerdig med POKeMON.\p"
+    .string "Ikke faerdig endnu? Skal jeg laere dig\n"
+    .string "et godt trick?\p"
+    .string "Tricket jeg taenker paa er\n"
     .string "COUNTER.\p"
-    .string "Not like the one I'm leaning on,\n"
-    .string "mind you!$"
+    .string "Ikke som den jeg laener mig op ad,\n"
+    .string "bemaerk!$"
 
 Text_CounterDeclined::
-    .string "You're not interested? Come see\n"
-    .string "me if you change your mind.$"
+    .string "Du er ikke interesseret? Kom til mig\n"
+    .string "hvis du ombestemmer dig.$"
 
 Text_CounterWhichMon::
-    .string "Which POKéMON should I teach\n"
-    .string "COUNTER to?$"
+    .string "Hvilken POKeMON skal jeg laere\n"
+    .string "COUNTER?$"
 
 Text_CounterTaught::
-    .string "Are you using that COUNTER move\n"
-    .string "I taught your POKéMON?$"
+    .string "Bruger du det COUNTER-trick\n"
+    .string "jeg laerte din POKeMON?$"

@@ -4,11 +4,11 @@ PokemonTower_3F_Text_HopeIntro::
 
 PokemonTower_3F_Text_HopeDefeat::
     .string "Hwa!\n"
-    .string "I'm saved!$"
+    .string "Jeg er reddet!$"
 
 PokemonTower_3F_Text_HopePostBattle::
-    .string "The ghosts can be identified by\n"
-    .string "the SILPH SCOPE.$"
+    .string "Spoegelserne kan identificeres med\n"
+    .string "SILPH SCOPE.$"
 
 PokemonTower_3F_Text_CarlyIntro::
     .string "Kekeke…\n"
@@ -16,21 +16,20 @@ PokemonTower_3F_Text_CarlyIntro::
 
 PokemonTower_3F_Text_CarlyDefeat::
     .string "Hmm?\n"
-    .string "What am I doing?$"
+    .string "Hvad laver jeg?$"
 
 PokemonTower_3F_Text_CarlyPostBattle::
-    .string "Sorry!\n"
-    .string "I was possessed!$"
+    .string "Undskyld!\n"
+    .string "Jeg var besat!$"
 
 PokemonTower_3F_Text_PatriciaIntro::
-    .string "Be gone!\n"
-    .string "Malevolent spirit!$"
+    .string "Forsvind!\n"
+    .string "Ondskaabsfuld aand!$"
 
 PokemonTower_3F_Text_PatriciaDefeat::
-    .string "Whew!\n"
-    .string "The spirit left!$"
+    .string "Puha!\n"
+    .string "Aanden forlod!$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-    .string "The others above…\n"
-    .string "They must have been possessed.$"
-
+    .string "De andre ovenpaa…\n"
+    .string "De maa have vaeret besat.$"

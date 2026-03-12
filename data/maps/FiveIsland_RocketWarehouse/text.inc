@@ -1,137 +1,136 @@
 FiveIsland_RocketWarehouse_Text_ManyMonsLockedInPen::
-    .string "There are many POKéMON locked\n"
-    .string "away in the pen…$"
+    .string "Der er mange POKeMON lukket inde\n"
+    .string "i folden…$"
 
 FiveIsland_RocketWarehouse_Text_PenUnlockedMonsFled::
-    .string "The pen door is unlocked.\n"
-    .string "The POKéMON appear to have fled.$"
+    .string "Folddoeren er laast op.\n"
+    .string "POKeMON ser ud til at vaere flygtet.$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Intro::
-    .string "Did you come here knowing it's\n"
-    .string "TEAM ROCKET's WAREHOUSE?$"
+    .string "Kom du her velvidende om at det er\n"
+    .string "TEAM ROCKETs LAGER?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Defeat::
-    .string "What do you think you're doing?!$"
+    .string "Hvad bilder du dig ind?!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2PostBattle::
-    .string "TEAM ROCKET broke up?\n"
-    .string "What planet are you from?$"
+    .string "TEAM ROCKET er oploest?\n"
+    .string "Hvilken planet kommer du fra?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Intro::
-    .string "Oh, now your POKéMON look strong.\n"
-    .string "You're willing to sell them?\p"
-    .string "Oh?\n"
-    .string "You wanted to battle?$"
+    .string "Oeh, dine POKeMON ser staerke ud.\n"
+    .string "Vil du saelge dem?\p"
+    .string "Oeh?\n"
+    .string "Du ville kaempe?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Defeat::
-    .string "Oh, but…\n"
-    .string "Too much!$"
+    .string "Oeh, men…\n"
+    .string "For meget!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1PostBattle::
-    .string "We can give you a great price.\n"
-    .string "Sell us your POKéMON!$"
+    .string "Vi kan give dig et godt tilbud.\n"
+    .string "Saelg os dine POKeMON!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3Intro::
-    .string "I got word about you from the\n"
-    .string "others.\p"
-    .string "But there's no way a kid like you'd\n"
-    .string "know our BOSS GIOVANNI!$"
+    .string "Jeg har hoert om dig fra de andre.\p"
+    .string "Men en unge som dig kan umuligt\n"
+    .string "kende vores CHEF GIOVANNI!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3Defeat::
-    .string "Don't…you…dare…laugh…$"
+    .string "Vov… ikke… at… grine…$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3PostBattle::
-    .string "Don't mess in the doings of adults,\n"
-    .string "you jumped-up pip-squeak!$"
+    .string "Bland dig uden om voksnes sager,\n"
+    .string "din forvovne pygmae!$"
 
 FiveIsland_RocketWarehouse_Text_Admin1Intro::
-    .string "I don't know or care if what I'm\n"
-    .string "doing is right or wrong…\p"
-    .string "I just put my faith in GIOVANNI\n"
-    .string "and do as I am told.$"
+    .string "Jeg ved ikke eller bryder mig ikke om\n"
+    .string "om det jeg goer er rigtigt eller galt…\p"
+    .string "Jeg stoler bare paa GIOVANNI og\n"
+    .string "goer som jeg faar besked paa.$"
 
 FiveIsland_RocketWarehouse_Text_Admin1Defeat::
-    .string "I…\n"
-    .string "I'm shattered…$"
+    .string "Jeg…\n"
+    .string "Jeg er knust…$"
 
 FiveIsland_RocketWarehouse_Text_Admin1PostBattle::
-    .string "You're doing things according to\n"
-    .string "your beliefs and morals.\p"
-    .string "I understand now…$"
+    .string "Du goer ting efter dine overbevisninger\n"
+    .string "og moral.\p"
+    .string "Jeg forstaar nu…$"
 
 FiveIsland_RocketWarehouse_Text_MadeItSoYouCanComeBackThrough::
-    .string "I've made it so you can come back\n"
-    .string "in through there.\p"
-    .string "Why don't you go get rested and\n"
-    .string "refreshed for what lies ahead?\p"
-    .string "The ADMIN after me outranks me\n"
-    .string "thoroughly as a TRAINER.\p"
-    .string "You'd better steel yourself for one\n"
-    .string "harsh challenge.$"
+    .string "Jeg har soerget for at du kan komme\n"
+    .string "tilbage ind der.\p"
+    .string "Hvorfor ikke hvile og blive frisk\n"
+    .string "til det der venter?\p"
+    .string "ADMIN'en efter mig er langt over\n"
+    .string "mig som TRAINER.\p"
+    .string "Du boer goere dig klar til en haard\n"
+    .string "udfordring.$"
 
 FiveIsland_RocketWarehouse_Text_Admin2Intro::
-    .string "That's quite enough of you \n"
-    .string "playing the hero, kid.\p"
-    .string "Spreading lies about how TEAM\n"
-    .string "ROCKET has disbanded…\p"
-    .string "It's such an obvious attempt to\n"
-    .string "cause confusion in our ranks.\p"
-    .string "Fortunately, we're not so ignorant\n"
-    .string "to fall for the lies of a child!\p"
-    .string "And now, I'll show you how scary\n"
-    .string "an angry adult can be!$"
+    .string "Nu er det nok med at du\n"
+    .string "spiller helt, unge.\p"
+    .string "Spreder loegne om at TEAM ROCKET\n"
+    .string "er oploest…\p"
+    .string "Det er et saa tydeligt forsoeg paa at\n"
+    .string "skabe forvirring i vores raekker.\p"
+    .string "Heldigvis er vi ikke saa naive at\n"
+    .string "falde for en unges loegne!\p"
+    .string "Og nu viser jeg dig hvor skraemmende\n"
+    .string "en vred voksen kan vaere!$"
 
 FiveIsland_RocketWarehouse_Text_Admin2Defeat::
     .string "Urgh…\n"
-    .string "You were too strong…\p"
+    .string "Du var for staerk…\p"
     .string "…\n"
-    .string "Th-that's GIOVANNI's BADGE!\p"
-    .string "So it's true?\n"
-    .string "TEAM ROCKET really has disbanded?$"
+    .string "D-det er GIOVANNIs BADGE!\p"
+    .string "Saa det er sandt?\n"
+    .string "TEAM ROCKET er virkelig oploest?$"
 
 FiveIsland_RocketWarehouse_Text_Admin2PostBattle::
-    .string "We will abandon this WAREHOUSE…\p"
-    .string "But don't think this is over.\n"
-    .string "I won't let this be the end.\p"
-    .string "I will find GIOVANNI.\n"
-    .string "And I will resurrect TEAM ROCKET!\l"
-    .string "I will…\p"
-    .string "Until then, farewell!$"
+    .string "Vi forlader dette LAGER…\p"
+    .string "Men tro ikke det er slut.\n"
+    .string "Jeg lader ikke det vaere enden.\p"
+    .string "Jeg finder GIOVANNI.\n"
+    .string "Og jeg genopliver TEAM ROCKET!\l"
+    .string "Det vil jeg…\p"
+    .string "Til da, farvel!$"
 
 FiveIsland_RocketWarehouse_Text_ReportWithGraphsAndText::
-    .string "A report with graphs and text is on\n"
-    .string "the PC monitor.\p"
-    .string "“The Influence of Magnetic Waves\n"
-    .string "on POKéMON Evolution”…\p"
+    .string "En rapport med grafer og tekst er\n"
+    .string "paa PC-skaermen.\p"
+    .string "Magnetiske bolgers indflydelse paa\n"
+    .string "POKeMON-evolution.\p"
     .string "… … … … … …\p"
-    .string "It's too difficult to understand…$"
+    .string "Det er for svaert at forstaa…$"
 
 FiveIsland_RocketWarehouse_Text_GideonIntro::
-    .string "I almost managed to sell the\n"
-    .string "SAPPHIRE for huge money…\p"
-    .string "Then, you just had to come along\n"
-    .string "and blow the whole deal apart!\p"
+    .string "Jeg naesten solgte SAPPHIREN for\n"
+    .string "en formue…\p"
+    .string "Saa maatte du bare komme og\n"
+    .string "oedelaegge hele handlen!\p"
     .string "Fufu… Fufufufu…\n"
-    .string "There's no forgiveness for you!$"
+    .string "Der er ingen tilgivelse for dig!$"
 
 FiveIsland_RocketWarehouse_Text_GideonDefeat::
-    .string "Gah! Darn!\n"
-    .string "Darn! Darn!$"
+    .string "Gah! Pokkers!\n"
+    .string "Pokkers! Pokkers!$"
 
 FiveIsland_RocketWarehouse_Text_GideonPostBattle::
-    .string "If I can't sell it, it's worthless!\n"
-    .string "Go ahead, take it!$"
+    .string "Hvis jeg ikke kan saelge den, er den\n"
+    .string "vaerdiloes! Vaersgo, tag den!$"
 
 FiveIsland_RocketWarehouse_Text_GetLostLeaveMeBe::
-    .string "What do you want now?\n"
-    .string "Go on, get lost, leave me be.$"
+    .string "Hvad vil du nu?\n"
+    .string "Forsvind, lad mig vaere i fred.$"
 
 FiveIsland_RocketWarehouse_Text_GiovannisKidHasRedHair::
-    .string "What, you again?\p"
-    .string "You… You're not GIOVANNI's kid,\n"
-    .string "are you?\p"
-    .string "No, that can't be right!\n"
-    .string "GIOVANNI's kid has red hair.\p"
-    .string "You don't have any reasons for\n"
-    .string "bugging me. Leave me alone!$"
+    .string "Hvad, dig igen?\p"
+    .string "Du… Du er vel ikke GIOVANNIs\n"
+    .string "barn?\p"
+    .string "Nej, det kan ikke vaere rigtigt!\n"
+    .string "GIOVANNIs barn har roedt haar.\p"
+    .string "Du har ingen grunde til at\n"
+    .string "gener mig. Lad mig vaere!$"
 

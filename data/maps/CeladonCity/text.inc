@@ -1,114 +1,112 @@
 CeladonCity_Text_GotMyKoffingInCinnabar::
-    .string "I got my KOFFING in CINNABAR.\p"
-    .string "It's usually nice, but it breathes\n"
-    .string "poison when it's angry.$"
+    .string "Jeg fik min KOFFING i CINNABAR.\p"
+    .string "Den er som regel venlig, men den aander\n"
+    .string "gift naar den er vred.$"
 
 CeladonCity_Text_GymIsGreatFullOfWomen::
-    .string "Heheh! This GYM is great!\n"
-    .string "It's full of women!$"
+    .string "Heheh! Denne GYM er fantastisk!\n"
+    .string "Den er fuld af kvinder!$"
 
 CeladonCity_Text_GameCornerIsBadForCitysImage::
-    .string "CELADON takes pride in its efforts\n"
-    .string "to keep the city beautiful.\p"
-    .string "That's why the new GAME CORNER is\n"
-    .string "bad for our city's image.$"
+    .string "CELADON er stolt af sine bestraebelser\n"
+    .string "paa at holde byen smuk.\p"
+    .string "Derfor er den nye GAME CORNER\n"
+    .string "daarlig for vores byens image.$"
 
 CeladonCity_Text_BlewItAllAtSlots::
-    .string "Moan…\n"
-    .string "I blew it all at the slots!\p"
-    .string "I knew I should have cashed in my\n"
-    .string "COINS for prizes!$"
+    .string "Stoen…\n"
+    .string "Jeg tabte det hele ved spilleautomaterne!\p"
+    .string "Jeg vidste jeg skulle have indloest mine\n"
+    .string "COINS for praemier!$"
 
 CeladonCity_Text_MyTrustedPalPoliwrath::
-    .string "This is my trusted pal, POLIWRATH.\p"
-    .string "It evolved from a POLIWHIRL when\n"
-    .string "I used a WATER STONE.$"
+    .string "Dette er min pal, POLIWRATH.\p"
+    .string "Den udviklede sig fra en POLIWHIRL da\n"
+    .string "jeg brugte en WATER STONE.$"
 
 CeladonCity_Text_Poliwrath::
     .string "POLIWRATH: Ribi ribit!$"
 
 CeladonCity_Text_GetLostOrIllPunchYou::
-    .string "What are you staring at?\n"
-    .string "Get lost, or I'll punch you.$"
+    .string "Hvad glor du paa?\n"
+    .string "Forsvind, ellers slaaer jeg dig.$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
-    .string "Keep out of TEAM ROCKET's way!$"
+    .string "Hold dig ude af TEAM ROCKETs vej!$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
     .string "TRAINER TIPS\p"
-    .string "X ACCURACY boosts the accuracy of\n"
-    .string "techniques.\p"
-    .string "DIRE HIT jacks up the likelihood\n"
-    .string "of critical hits.\p"
-    .string "Get your items at the CELADON\n"
+    .string "X ACCURACY oeger praecisionen af\n"
+    .string "teknikker.\p"
+    .string "DIRE HIT oeger sandsynligheden for\n"
+    .string "kritiske traef.\p"
+    .string "Koeb dine ting i CELADON\n"
     .string "DEPT. STORE!$"
 
 CeladonCity_Text_CitySign::
     .string "CELADON CITY\n"
-    .string "The City of Rainbow Dreams$"
+    .string "Regnbuens Drommes By$"
 
 CeladonCity_Text_GymSign::
-    .string "CELADON CITY POKéMON GYM\n"
+    .string "CELADON CITY POKeMON GYM\n"
     .string "LEADER: ERIKA\l"
-    .string "The Nature-Loving Princess!$"
+    .string "Den Naturkaerlige Prinsesse!$"
 
 CeladonCity_Text_MansionSign::
     .string "CELADON MANSION$"
 
 CeladonCity_Text_DeptStoreSign::
-    .string "Find what you need at the\n"
+    .string "Find hvad du har brug for i\n"
     .string "CELADON DEPT. STORE!$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
     .string "TRAINER TIPS\p"
-    .string "GUARD SPEC. protects POKéMON\n"
-    .string "from status-reduction moves during\l"
-    .string "battle.\p"
-    .string "Get your items at the\n"
+    .string "GUARD SPEC. beskytter POKeMON\n"
+    .string "mod status-reduktions-trin under\l"
+    .string "kamp.\p"
+    .string "Koeb dine ting i\n"
     .string "CELADON DEPT. STORE!$"
 
 CeladonCity_Text_PrizeExchangeSign::
-    .string "COINS exchanged for prizes!\n"
-    .string "PRIZE EXCHANGE$"
+    .string "COINS indloeses for praemier!\n"
+    .string "PRAEMIE UDSTYNNING$"
 
 CeladonCity_Text_GameCornerSign::
     .string "ROCKET GAME CORNER\n"
-    .string "The playground for grown-ups!$"
+    .string "Legepladsen for voksne!$"
 
 CeladonCity_Text_ScaldedTongueOnTea::
-    .string "Aaaagh, ow…\n"
-    .string "I scalded my tongue!\p"
-    .string "This nice old lady in the MANSION\n"
-    .string "gave me some TEA.\p"
-    .string "But it was boiling hot!\n"
-    .string "Gotta cool it to drink it.$"
+    .string "Aaaagh, av…\n"
+    .string "Jeg braendte min tunge!\p"
+    .string "Den rare gamle dame i MANSION\n"
+    .string "gav mig noget TEA.\p"
+    .string "Men det var kogende varmt!\n"
+    .string "Skal afkoele det for at drikke det.$"
 
 Text_SoftboiledTeach::
-    .string "Hello, there!\p"
-    .string "I've seen you about, but I never\n"
-    .string "had a chance to chat.\p"
-    .string "It must be good luck that brought\n"
-    .string "us together finally.\p"
-    .string "I'd like to celebrate by teaching\n"
-    .string "you the move SOFTBOILED.$"
+    .string "Hej der!\p"
+    .string "Jeg har set dig, men jeg fik aldrig\n"
+    .string "en chance for at snakke.\p"
+    .string "Det maa vaere held der bragte\n"
+    .string "os sammen endelig.\p"
+    .string "Jeg vil fejre det ved at laere dig\n"
+    .string "tricket SOFTBOILED.$"
 
 Text_SoftboiledDeclined::
-    .string "I'll always be keeping an eye out\n"
-    .string "for you.\p"
-    .string "I hope we can chat again.$"
+    .string "Jeg vil altid holde oje med dig.\p"
+    .string "Jeg haaber vi kan snakke igen.$"
 
 Text_SoftboiledWhichMon::
-    .string "So, who's the POKéMON that gets\n"
-    .string "the chance to learn SOFTBOILED?$"
+    .string "Sa hvem er den POKeMON der faar\n"
+    .string "chancen for at laere SOFTBOILED?$"
 
 Text_SoftboiledTaught::
-    .string "I wish you the best of luck!$"
+    .string "Jeg oensker dig al mulig held!$"
 
 CeladonCity_Text_SomeoneStoleSilphScope::
-    .string "Oh, what am I to do…\p"
-    .string "Someone stole our SILPH SCOPE.\p"
-    .string "The thief came running this way,\n"
-    .string "I'm sure of it.\p"
-    .string "But I lost sight of him!\n"
-    .string "Where'd he go?$"
-
+    .string "Aah, hvad skal jeg goere…\p"
+    .string "Nogen stjal vores SILPH SCOPE.\p"
+    .string "Tyven kom lobende denne vej,\n"
+    .string "det er jeg sikker paa.\p"
+    .string "Men jeg mistede ham af syne!\n"
+    .string "Hvor gik han hen?$"

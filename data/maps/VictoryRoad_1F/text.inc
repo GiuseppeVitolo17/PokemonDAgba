@@ -1,22 +1,22 @@
 VictoryRoad_1F_Text_NaomiIntro::
-    .string "I wonder if you are good enough\n"
-    .string "for me?$"
+    .string "Jeg spekulerer paa om du er god nok\n"
+    .string "for mig?$"
 
 VictoryRoad_1F_Text_NaomiDefeat::
-    .string "I lost out…$"
+    .string "Jeg tabte…$"
 
 VictoryRoad_1F_Text_NaomiPostBattle::
-    .string "I never wanted to lose to anybody,\n"
-    .string "especially to a younger kid…$"
+    .string "Jeg ville aldrig tabe til nogen,\n"
+    .string "isaer ikke til et yngre barn…$"
 
 VictoryRoad_1F_Text_RolandoIntro::
-    .string "I can see you're good.\n"
-    .string "Let me see exactly how good!$"
+    .string "Jeg kan se du er god.\n"
+    .string "Lad mig se praecis hvor god!$"
 
 VictoryRoad_1F_Text_RolandoDefeat::
-    .string "I had a chance…$"
+    .string "Jeg havde en chance…$"
 
 VictoryRoad_1F_Text_RolandoPostBattle::
     .string "Tch!\n"
-    .string "I concede, you are better than I!$"
+    .string "Jeg indroemmer, du er bedre end mig!$"
 

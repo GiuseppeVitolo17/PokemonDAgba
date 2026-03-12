@@ -1,95 +1,94 @@
 RockTunnel_B1F_Text_SofiaIntro::
-    .string "Do you know how you can avoid\n"
-    .string "getting lost in the mountains?\p"
-    .string "You can bend twigs as trail\n"
-    .string "markers.$"
+    .string "Ved du hvordan du undgaar at fare vild\n"
+    .string "i bjergene?\p"
+    .string "Du kan boeje kviste som\n"
+    .string "stimmaerkninger.$"
 
 RockTunnel_B1F_Text_SofiaDefeat::
-    .string "Ohhh!\n"
-    .string "I did my best!$"
+    .string "Aahh!\n"
+    .string "Jeg gjorde mit bedste!$"
 
 RockTunnel_B1F_Text_SofiaPostBattle::
-    .string "I want to go home!$"
+    .string "Jeg vil hjem!$"
 
 RockTunnel_B1F_Text_DudleyIntro::
     .string "Hahaha!\n"
-    .string "Can you beat my power?$"
+    .string "Kan du slaa min styrke?$"
 
 RockTunnel_B1F_Text_DudleyDefeat::
-    .string "Oops!\n"
-    .string "Outmuscled!$"
+    .string "Ups!\n"
+    .string "Overmandet!$"
 
 RockTunnel_B1F_Text_DudleyPostBattle::
-    .string "I go for power because I hate\n"
-    .string "thinking.$"
+    .string "Jeg gaar efter styrke fordi jeg hader\n"
+    .string "at taenke.$"
 
 RockTunnel_B1F_Text_CooperIntro::
-    .string "You have a POKéDEX?\n"
-    .string "I want one, too.$"
+    .string "Du har en POKeDEX?\n"
+    .string "Jeg vil ogsaa have een.$"
 
 RockTunnel_B1F_Text_CooperDefeat::
     .string "Shoot!\n"
-    .string "I am so jealous!$"
+    .string "Jeg er saa misundelig!$"
 
 RockTunnel_B1F_Text_CooperPostBattle::
-    .string "When you finish your POKéDEX,\n"
-    .string "can I have it?$"
+    .string "Naar du er faerdig med din POKeDEX,\n"
+    .string "kan jeg faa den?$"
 
 RockTunnel_B1F_Text_SteveIntro::
-    .string "Um… Do you know about POKéMON\n"
+    .string "Oeh… Ved du noget om POKeMON\n"
     .string "cosplay?$"
 
 RockTunnel_B1F_Text_SteveDefeat::
-    .string "Well, that's that.$"
+    .string "Naa, det var det.$"
 
 RockTunnel_B1F_Text_StevePostBattle::
-    .string "POKéMON cosplay is dressing up as\n"
-    .string "POKéMON for fun.\p"
-    .string "CLEFAIRY is a favorite.$"
+    .string "POKeMON cosplay er at klaede sig ud som\n"
+    .string "POKeMON for sjov.\p"
+    .string "CLEFAIRY er en favorit.$"
 
 RockTunnel_B1F_Text_AllenIntro::
-    .string "My POKéMON techniques will leave\n"
-    .string "you crying!$"
+    .string "Mine POKeMON teknikker vil faa\n"
+    .string "dig til at graede!$"
 
 RockTunnel_B1F_Text_AllenDefeat::
-    .string "I give!\n"
-    .string "You're a better technician!$"
+    .string "Jeg giver op!\n"
+    .string "Du er en bedre tekniker!$"
 
 RockTunnel_B1F_Text_AllenPostBattle::
-    .string "In mountains, you'll often find\n"
-    .string "ROCK-type POKéMON.$"
+    .string "I bjerge finder du ofte\n"
+    .string "ROCK-type POKeMON.$"
 
 RockTunnel_B1F_Text_MarthaIntro::
-    .string "I don't often come here, but I will\n"
-    .string "battle you.$"
+    .string "Jeg kommer ikke ofte her, men jeg\n"
+    .string "vil kaempe mod dig.$"
 
 RockTunnel_B1F_Text_MarthaDefeat::
-    .string "Oh!\n"
-    .string "I lost!$"
+    .string "Aah!\n"
+    .string "Jeg tabte!$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-    .string "I like tiny POKéMON.\n"
-    .string "Big ones are too scary!$"
+    .string "Jeg kan lide smaa POKeMON.\n"
+    .string "Store er for skraemmende!$"
 
 RockTunnel_B1F_Text_EricIntro::
-    .string "Hit me with your best shot!$"
+    .string "Ram mig med dit bedste skud!$"
 
 RockTunnel_B1F_Text_EricDefeat::
-    .string "Fired away!$"
+    .string "Afskaffet!$"
 
 RockTunnel_B1F_Text_EricPostBattle::
-    .string "I'll raise my POKéMON to beat\n"
-    .string "yours, kid.$"
+    .string "Jeg opdrager mine POKeMON til at slaa\n"
+    .string "dine, unge.$"
 
 RockTunnel_B1F_Text_WinstonIntro::
-    .string "I draw illustrations of POKéMON\n"
-    .string "when I'm home.$"
+    .string "Jeg tegner illustrationer af POKeMON\n"
+    .string "naar jeg er hjemme.$"
 
 RockTunnel_B1F_Text_WinstonDefeat::
-    .string "Whew…\n"
-    .string "I'm exhausted…$"
+    .string "Puha…\n"
+    .string "Jeg er udmattet…$"
 
 RockTunnel_B1F_Text_WinstonPostBattle::
-    .string "I'm an artist, not a fighter.\n"
-    .string "I'll go home to draw.$"
-
+    .string "Jeg er kunstner, ikke kaemper.\n"
+    .string "Jeg gaar hjem for at tegne.$"

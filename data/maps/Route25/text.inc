@@ -1,119 +1,117 @@
 Route25_Text_JoeyIntro::
-    .string "Local TRAINERS come here to\n"
-    .string "practice.$"
+    .string "Lokale TRAINERS kommer her for at\n"
+    .string "oeve.$"
 
 Route25_Text_JoeyDefeat::
-    .string "You're decent.$"
+    .string "Du er okay.$"
 
 Route25_Text_JoeyPostBattle::
-    .string "All POKéMON have weaknesses.\n"
-    .string "Even the strongest ones.\p"
-    .string "That's why it's best to raise\n"
-    .string "POKéMON of different types.$"
+    .string "Alle POKeMON har svagheder.\n"
+    .string "Selv de staerkeste.\p"
+    .string "Derfor er det bedst at opdrage\n"
+    .string "POKeMON af forskellige typer.$"
 
 Route25_Text_DanIntro::
-    .string "Dad took me to a great party on\n"
-    .string "the S.S. ANNE at VERMILION CITY.$"
+    .string "Far tog mig med til en fest paa\n"
+    .string "S.S. ANNE i VERMILION CITY.$"
 
 Route25_Text_DanDefeat::
-    .string "I'm not mad!$"
+    .string "Jeg er ikke vred!$"
 
 Route25_Text_DanPostBattle::
-    .string "On the S.S. ANNE, I saw TRAINERS\n"
-    .string "from around the world.$"
+    .string "Paa S.S. ANNE saa jeg TRAINERS\n"
+    .string "fra hele verden.$"
 
 Route25_Text_FlintIntro::
-    .string "I'm a cool guy.\n"
-    .string "I've got a girlfriend!$"
+    .string "Jeg er en sej fyr.\n"
+    .string "Jeg har en kaereste!$"
 
 Route25_Text_FlintDefeat::
-    .string "Aww, darn…$"
+    .string "Aa, pokker...$"
 
 Route25_Text_FlintPostBattle::
-    .string "Oh, well.\n"
-    .string "My girlfriend will cheer me up.$"
+    .string "Aaa, ja.\n"
+    .string "Min kaereste opmuntrer mig.$"
 
 Route25_Text_KelseyIntro::
-    .string "Hi!\n"
-    .string "My boyfriend is cool!$"
+    .string "Hej!\n"
+    .string "Min kaereste er sej!$"
 
 Route25_Text_KelseyDefeat::
-    .string "My conditioning isn't the best…$"
+    .string "Min form er ikke den bedste...$"
 
 Route25_Text_KelseyPostBattle::
-    .string "I wish my boyfriend was as good\n"
-    .string "as you.$"
+    .string "Jeg ville oenske min kaereste var\n"
+    .string "saa god som dig.$"
 
 Route25_Text_ChadIntro::
-    .string "I had this feeling…\n"
-    .string "I knew I had to battle you!$"
+    .string "Jeg havde en fornemmelse...\n"
+    .string "Jeg vidste jeg maatte kaempe dig!$"
 
 Route25_Text_ChadDefeat::
-    .string "I knew I'd lose, too!$"
+    .string "Jeg vidste ogsaa jeg ville tabe!$"
 
 Route25_Text_ChadPostBattle::
-    .string "If your POKéMON gets confused,\n"
-    .string "switch it out.\p"
-    .string "That's a good tactic.$"
+    .string "Hvis din POKeMON bliver forvirret,\n"
+    .string "skift den ud.\p"
+    .string "Det er en god taktik.$"
 
 Route25_Text_HaleyIntro::
-    .string "My friend has many cute POKéMON.\n"
-    .string "I'm so jealous!$"
+    .string "Min veninde har mange soede POKeMON.\n"
+    .string "Jeg er saa misundelig!$"
 
 Route25_Text_HaleyDefeat::
-    .string "I'm not so jealous!$"
+    .string "Jeg er ikke saa misundelig!$"
 
 Route25_Text_HaleyPostBattle::
-    .string "You came from MT. MOON?\n"
-    .string "May I have a CLEFAIRY?$"
+    .string "Kom du fra MT. MOON?\n"
+    .string "Ma jeg faa en CLEFAIRY?$"
 
 Route25_Text_FranklinIntro::
-    .string "I just got down from MT. MOON,\n"
-    .string "but I've still got gas in the tank!$"
+    .string "Jeg kom lige ned fra MT. MOON,\n"
+    .string "men jeg har stadig energi!$"
 
 Route25_Text_FranklinDefeat::
-    .string "You worked hard!$"
+    .string "Du arbejdede haardt!$"
 
 Route25_Text_FranklinPostBattle::
-    .string "Drat!\n"
-    .string "A ZUBAT bit me back in that cave.$"
+    .string "Pokker!\n"
+    .string "En ZUBAT bed mig i grotten.$"
 
 Route25_Text_NobIntro::
-    .string "I'm off to see a POKéMANIAC's\n"
-    .string "collection at the cape.$"
+    .string "Jeg er paa vej for at se en\n"
+    .string "POKeMANIACs samling paa odden.$"
 
 Route25_Text_NobDefeat::
-    .string "You done got me, and real good,\n"
-    .string "too!$"
+    .string "Du fik mig, og rigtig godt!$"
 
 Route25_Text_NobPostBattle::
-    .string "The POKéMANIAC sure lives up to\n"
-    .string "his name.\p"
-    .string "His collection includes many rare\n"
-    .string "species of POKéMON.$"
+    .string "POKeMANIAC lever virkelig op til\n"
+    .string "sit navn.\p"
+    .string "Hans samling indeholder mange\n"
+    .string "sjaeldne POKeMON-arter.$"
 
 Route25_Text_WayneIntro::
-    .string "You're going to see BILL?\n"
-    .string "First, we battle!$"
+    .string "Skal du til BILL?\n"
+    .string "Foerst kaemper vi!$"
 
 Route25_Text_WayneDefeat::
-    .string "You're something.$"
+    .string "Du er noget saerligt.$"
 
 Route25_Text_WaynePostBattle::
-    .string "The trail below is a shortcut to\n"
+    .string "Stien nedenunder er en genvej til\n"
     .string "CERULEAN CITY.$"
 
 Route25_Text_SeaCottageSign::
     .string "SEA COTTAGE\n"
-    .string "BILL lives here!$"
+    .string "BILL bor her!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
-    .string "This cape is a famous date spot.\p"
-    .string "MISTY, the GYM LEADER, has high\n"
-    .string "hopes about this place.$"
+    .string "Denne odde er et kendt staevnemoedested.\p"
+    .string "MISTY, GYM LEADER, har store\n"
+    .string "forhaabninger til dette sted.$"
 
 Route25_Text_AreYouHereAlone::
-    .string "Hello, are you here alone?\p"
-    .string "If you're out at CERULEAN's cape…\n"
-    .string "Well, it should be as a couple.$"
-
+    .string "Hej, er du her alene?\p"
+    .string "Hvis du er ude paa CERULEANs odde...\n"
+    .string "Ja, saa burde det vaere som par.$"

@@ -1,21 +1,21 @@
 @ The 5 texts below are supposed to be in FourIsland_House1
 Text_BodySlamTeach::
-    .string "Ready?\n"
+    .string "Klar?\n"
     .string "Boing!\p"
-    .string "We're having a BODY SLAM match\n"
-    .string "to see who wimps out first.\p"
-    .string "If you were to join us, you'd be\n"
-    .string "squashed like a bug, though…\p"
-    .string "How about I teach BODY SLAM to\n"
-    .string "a POKéMON of yours instead?$"
+    .string "Vi har en BODY SLAM-kamp for at\n"
+    .string "se hvem der giver op foerst.\p"
+    .string "Hvis du deltog, ville du blive\n"
+    .string "mast som en bille…\p"
+    .string "Hvad med at jeg laerer BODY SLAM\n"
+    .string "til en af dine POKeMON i stedet?$"
 
 Text_BodySlamDeclined::
-    .string "Come again!\n"
+    .string "Kom igen!\n"
     .string "Boing!$"
 
 Text_BodySlamWhichMon::
-    .string "Which POKéMON wants to learn how\n"
-    .string "to BODY SLAM?$"
+    .string "Hvilken POKeMON vil laere at\n"
+    .string "bruge BODY SLAM?$"
 
 Text_BodySlamTaught::
     .string "Boioing!$"
@@ -25,21 +25,21 @@ FourIsland_House1_Text_FatMan::
     .string "おまえ　おもいなあー！$"
 
 FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
-    .string "There's a rare kind of ICE POKéMON\n"
-    .string "that lives in the cave.\p"
-    .string "We get a lot of visitors hoping to\n"
-    .string "see that POKéMON.$"
+    .string "Der er en sjaelden slags IS-\n"
+    .string "POKeMON der lever i hulen.\p"
+    .string "Vi faar mange besoegende der\n"
+    .string "haaber at se den POKeMON.$"
 
 FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
-    .string "Oh? A POKéMON EGG?\n"
-    .string "…I have no idea.\p"
-    .string "…Oh, wait. The DAY-CARE people\n"
-    .string "in town were saying something.\p"
-    .string "They said that they'd found EGGS\n"
-    .string "before on their property.$"
+    .string "Oeh? Et POKeMON-AeG?\n"
+    .string "…Jeg har ingen anelse.\p"
+    .string "…Oeh, vent. DAY-CARE-folkene i\n"
+    .string "byen sagde noget.\p"
+    .string "De sagde at de havde fundet AeG\n"
+    .string "foer paa deres grund.$"
 
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
-    .string "What's this?\p"
-    .string "The new POKéMON JOURNAL hasn't\n"
-    .string "arrived on this island?$"
+    .string "Hvad er det her?\p"
+    .string "Det nye POKeMON JOURNAL er ikke\n"
+    .string "ankommet til denne oe?$"
 

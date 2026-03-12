@@ -1,160 +1,159 @@
 SaffronCity_Gym_Text_SabrinaIntro::
-    .string "I had a vision of your arrival.\p"
-    .string "I have had psychic powers since\n"
-    .string "I was a child.\p"
-    .string "It started when a spoon I\n"
-    .string "carelessly tossed, bent.\p"
-    .string "I dislike battling, but if you wish,\n"
-    .string "I will show you my powers!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "Jeg havde en vision om din ankomst.\p"
+    .string "Jeg har haft psykiske kraefter siden\n"
+    .string "jeg var barn.\p"
+    .string "Det startede da en ske jeg\n"
+    .string "uagtsomt kastede, bojede.\p"
+    .string "Jeg kan ikke lide at kaempe, men hvis du vil,\n"
+    .string "viser jeg dig mine kraefter!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 SaffronCity_Gym_Text_SabrinaDefeat::
-    .string "This loss shocks me!\n"
-    .string "But, a loss is a loss.\p"
-    .string "I admit, I didn't work hard enough\n"
-    .string "to win.\p"
-    .string "Your victory has earned you the\n"
+    .string "Dette nederlag chokerer mig!\n"
+    .string "Men et nederlag er et nederlag.\p"
+    .string "Jeg indroemmer, jeg arbejdede ikke\n"
+    .string "haardt nok for at vinde.\p"
+    .string "Din sejr har fortjent dig\n"
     .string "MARSHBADGE.$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle::
-    .string "Psychic power isn't something that\n"
-    .string "only a few people have.\p"
-    .string "Everyone has psychic power.\n"
-    .string "People just don't realize it.$"
+    .string "Psykisk kraft er ikke noget kun\n"
+    .string "fa mennesker har.\p"
+    .string "Alle har psykisk kraft.\n"
+    .string "Folk er bare ikke klar over det.$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-    .string "The MARSHBADGE makes POKéMON up\n"
-    .string "to Lv. 70 obey you.\p"
-    .string "Stronger POKéMON will become wild,\n"
-    .string "ignoring your orders in battle.\p"
-    .string "Just don't raise your POKéMON too\n"
-    .string "much to avoid that problem.\p"
-    .string "Wait, please take this TM with you.$"
+    .string "MARSHBADGE faar POKeMON op til\n"
+    .string "Lv. 70 til at adlyde dig.\p"
+    .string "Staerkere POKeMON bliver vilde og\n"
+    .string "ignorerer dine ordre i kamp.\p"
+    .string "Opdrag bare ikke dine POKeMON for\n"
+    .string "meget for at undgaa det problem.\p"
+    .string "Vent, tag venligst denne TM med.$"
 
 SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
-    .string "{PLAYER} received TM04 from\n"
+    .string "{PLAYER} modtog TM04 fra\n"
     .string "SABRINA.$"
 
 SaffronCity_Gym_Text_ExplainTM04::
-    .string "TM04 is CALM MIND.\p"
-    .string "It makes the POKéMON concentrate\n"
-    .string "to raise both SP. ATK and SP. DEF.$"
+    .string "TM04 er CALM MIND.\p"
+    .string "Den faar POKeMON til at koncentrere sig\n"
+    .string "for at oge baade SP. ATK og SP. DEF.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
-    .string "Your BAG is full of other items.$"
+    .string "Din TASKE er fuld af andre ting.$"
 
 SaffronCity_Gym_Text_AmandaIntro::
-    .string "SABRINA is far younger than I,\n"
-    .string "but she has earned my respect.$"
+    .string "SABRINA er langt yngre end mig,\n"
+    .string "men hun har fortjent min respekt.$"
 
 SaffronCity_Gym_Text_AmandaDefeat::
-    .string "Not good enough!$"
+    .string "Ikke godt nok!$"
 
 SaffronCity_Gym_Text_AmandaPostBattle::
-    .string "In a battle of equals, the one\n"
-    .string "with the stronger will wins.\p"
-    .string "If you wish to beat SABRINA, focus\n"
-    .string "and will yourself to victory.$"
+    .string "I en kamp mellem lige staerke vinder\n"
+    .string "den med staerkeste vilje.\p"
+    .string "Hvis du vil besejre SABRINA, fokuser\n"
+    .string "og vil dig til sejr.$"
 
 SaffronCity_Gym_Text_JohanIntro::
-    .string "Does our unseen power scare you?$"
+    .string "Skraemmer vores usynlige kraft dig?$"
 
 SaffronCity_Gym_Text_JohanDefeat::
-    .string "I never foresaw this!$"
+    .string "Det forudsa jeg aldrig!$"
 
 SaffronCity_Gym_Text_JohanPostBattle::
-    .string "PSYCHIC POKéMON fear only ghosts\n"
-    .string "and bugs!$"
+    .string "PSYCHIC POKeMON frygter kun spoegelser\n"
+    .string "og insekter!$"
 
 SaffronCity_Gym_Text_StacyIntro::
-    .string "POKéMON take on the appearance of\n"
-    .string "their TRAINERS.\p"
-    .string "Your POKéMON must be tough, then!$"
+    .string "POKeMON antager udseendet af\n"
+    .string "deres TRAINERE.\p"
+    .string "Dine POKeMON maa vaere haarde, da!$"
 
 SaffronCity_Gym_Text_StacyDefeat::
-    .string "I knew it!$"
+    .string "Jeg vidste det!$"
 
 SaffronCity_Gym_Text_StacyPostBattle::
-    .string "I have much to learn still…\p"
-    .string "I must master PSYCHIC and teach it\n"
-    .string "to my POKéMON…$"
+    .string "Jeg har meget at laere endnu…\p"
+    .string "Jeg maa mestre PSYCHIC og laere det\n"
+    .string "til mine POKeMON…$"
 
 SaffronCity_Gym_Text_TyronIntro::
-    .string "You understand, don't you?\p"
-    .string "That power alone isn't enough to\n"
-    .string "win in the world of POKéMON?$"
+    .string "Du forstaar, ikke?\p"
+    .string "At kraft alene ikke er nok til at\n"
+    .string "vinde i POKeMON-verdenen?$"
 
 SaffronCity_Gym_Text_TyronDefeat::
-    .string "I don't believe this!$"
+    .string "Det tror jeg ikke paa!$"
 
 SaffronCity_Gym_Text_TyronPostBattle::
-    .string "SABRINA just wiped out the KARATE\n"
-    .string "MASTER next door.$"
+    .string "SABRINA udslettede lige KARATE\n"
+    .string "MESTEREN ved siden af.$"
 
 SaffronCity_Gym_Text_TashaIntro::
-    .string "You and I, our POKéMON shall\n"
-    .string "battle!$"
+    .string "Du og jeg, vores POKeMON skal\n"
+    .string "kaempe!$"
 
 SaffronCity_Gym_Text_TashaDefeat::
-    .string "I lost after all!$"
+    .string "Jeg tabte alligevel!$"
 
 SaffronCity_Gym_Text_TashaPostBattle::
-    .string "I knew that this was going to take\n"
-    .string "place.$"
+    .string "Jeg vidste at dette ville ske.$"
 
 SaffronCity_Gym_Text_CameronIntro::
-    .string "SABRINA is young, but she's also\n"
-    .string "our highly skilled LEADER.\p"
-    .string "You won't reach her easily!$"
+    .string "SABRINA er ung, men hun er ogsaa\n"
+    .string "vores meget dygtige LEADER.\p"
+    .string "Du naar ikke let til hende!$"
 
 SaffronCity_Gym_Text_CameronDefeat::
-    .string "Ow!\n"
-    .string "Down and out!$"
+    .string "Av!\n"
+    .string "Ned og ude!$"
 
 SaffronCity_Gym_Text_CameronPostBattle::
-    .string "There used to be two POKéMON GYMS\n"
-    .string "in SAFFRON.\p"
-    .string "The FIGHTING DOJO next door lost\n"
-    .string "its GYM status, though.\p"
-    .string "We simply creamed them when we\n"
-    .string "decided to have just one GYM.$"
+    .string "Der var engang to POKeMON GYMS\n"
+    .string "i SAFFRON.\p"
+    .string "FIGHTING DOJO ved siden af mistede\n"
+    .string "sin GYM-status, dog.\p"
+    .string "Vi tromlede dem bare ned da vi\n"
+    .string "besluttede at have kun eet GYM.$"
 
 SaffronCity_Gym_Text_PrestonIntro::
-    .string "SAFFRON POKéMON GYM is famous for\n"
-    .string "training psychics.\p"
-    .string "You want to see SABRINA, don't\n"
-    .string "you? I can tell!$"
+    .string "SAFFRON POKeMON GYM er kendt for\n"
+    .string "at traene psykikere.\p"
+    .string "Du vil se SABRINA, ikke?\n"
+    .string "Jeg kan maerke det!$"
 
 SaffronCity_Gym_Text_PrestonDefeat::
     .string "Arrrgh!$"
 
 SaffronCity_Gym_Text_PrestonPostBattle::
-    .string "That's right! I used telepathy to\n"
-    .string "read your mind!$"
+    .string "Praecis! Jeg brugte telepati til at\n"
+    .string "laese dine tanker!$"
 
 SaffronCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
-    .string "Champ in the making!\p"
-    .string "SABRINA's POKéMON use psychic\n"
-    .string "power instead of force.\p"
-    .string "FIGHTING POKéMON are especially\n"
-    .string "weak against PSYCHIC POKéMON.\p"
-    .string "They'll get destroyed before they\n"
-    .string "can even aim a punch!$"
+    .string "Champion under opsejling!\p"
+    .string "SABRINAs POKeMON bruger psykisk\n"
+    .string "kraft i stedet for magt.\p"
+    .string "FIGHTING POKeMON er saerligt\n"
+    .string "svaage over for PSYCHIC POKeMON.\p"
+    .string "De bliver odelagt foer de overhovedet\n"
+    .string "kan sigte et stoed!$"
 
 SaffronCity_Gym_Text_GymGuyPostVictory::
-    .string "Psychic power, huh?\p"
-    .string "If I had that, I'd make a bundle\n"
-    .string "at the slots!$"
+    .string "Psykisk kraft, hva?\p"
+    .string "Hvis jeg havde det, ville jeg tjene\n"
+    .string "en formue paa spilleautomaterne!$"
 
 SaffronCity_Gym_Text_GymStatue::
-    .string "SAFFRON POKéMON GYM\n"
+    .string "SAFFRON POKeMON GYM\n"
     .string "LEADER: SABRINA\p"
-    .string "WINNING TRAINERS:\n"
+    .string "VINDENDE TRAINERE:\n"
     .string "{RIVAL}$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-    .string "SAFFRON POKéMON GYM\n"
+    .string "SAFFRON POKeMON GYM\n"
     .string "LEADER: SABRINA\p"
-    .string "WINNING TRAINERS:\n"
+    .string "VINDENDE TRAINERE:\n"
     .string "{RIVAL}, {PLAYER}$"
 

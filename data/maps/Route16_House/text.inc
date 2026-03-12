@@ -1,21 +1,20 @@
 Route16_House_Text_FoundMySecretRetreat::
-    .string "Oh, dear.\n"
-    .string "You've found my secret retreat.\p"
-    .string "Please don't tell anyone I'm here.\n"
-    .string "I'll make it up to you with this!$"
+    .string "Aa, kaere.\n"
+    .string "Du har fundet mit hemmelige tilflugtssted.\p"
+    .string "Fortael det ikke til nogen.\n"
+    .string "Jeg goer det godt med dette!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
-    .string "{PLAYER} received HM02\n"
-    .string "from the girl.$"
+    .string "{PLAYER} modtog HM02\n"
+    .string "fra pigen.$"
 
 Route16_House_Text_ExplainHM02::
-    .string "HM02 is FLY.\n"
-    .string "It's a wonderfully convenient move.\p"
-    .string "Please, put it to good use.$"
+    .string "HM02 er FLY.\n"
+    .string "Det er et vidunderligt bekvemt angreb.\p"
+    .string "Brug det venligst godt.$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
-    .string "You don't have any room for this.$"
+    .string "Du har ikke plads til dette.$"
 
 Route16_House_Text_Fearow::
     .string "FEAROW: Kyueen!$"
-

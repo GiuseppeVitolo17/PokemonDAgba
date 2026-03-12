@@ -1,38 +1,37 @@
 PokemonTower_2F_Text_RivalIntro::
     .string "{RIVAL}: Hey, {PLAYER}!\n"
-    .string "What brings you here?\l"
-    .string "Is your POKéMON dead?\p"
-    .string "Hey! It's alive!\p"
-    .string "I can at least make them faint!\n"
-    .string "Let's go!$"
+    .string "Hvad bringer dig her?\l"
+    .string "Er din POKeMON doed?\p"
+    .string "Hey! Den lever!\p"
+    .string "Jeg kan i det mindste faa dem til at besvime!\n"
+    .string "Kom saa!$"
 
 PokemonTower_2F_Text_RivalDefeat::
-    .string "What?\n"
-    .string "You stinker!\p"
-    .string "I took it easy on you, too!$"
+    .string "Hvad?\n"
+    .string "Din stinker!\p"
+    .string "Jeg tog det ogsaa let paa dig!$"
 
 @ Unused. Translated below
 @ Aw, man! They really kicked the bucket! Weak! Do them a favor and raise them more properly.
 PokemonTower_2F_Text_RivalVictory::
-    .string "{RIVAL}“あーあ‥！\n"
+    .string "{RIVAL}あーあ‥！\n"
     .string "ほんとに　くたばっちまったぞ！\l"
     .string "よわいなー！\l"
     .string "もっと　ちゃんと　そだてて　やれよ$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-    .string "How's your POKéDEX coming?\n"
-    .string "I just caught a CUBONE!\p"
-    .string "I can't find the bigger MAROWAK.\n"
-    .string "Where could they be?\p"
-    .string "I bet there aren't any left!\p"
-    .string "Well, I better get going.\n"
-    .string "I've got a lot to accomplish,\l"
-    .string "unlike you.\p"
-    .string "Smell ya later!$"
+    .string "Hvordan kommer din POKeDEX?\n"
+    .string "Jeg fangede lige en CUBONE!\p"
+    .string "Jeg kan ikke finde den stoerre MAROWAK.\n"
+    .string "Hvor kan de vaere?\p"
+    .string "Jeg vedder paa der ikke er flere!\p"
+    .string "Naa, jeg boer komme afsted.\n"
+    .string "Jeg har meget at udrette,\l"
+    .string "til forskel fra dig.\p"
+    .string "Vi ses!$"
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
-    .string "Even we could not identify the\n"
-    .string "wayward ghosts.\p"
-    .string "A SILPH SCOPE might be able to\n"
-    .string "unmask them.$"
-
+    .string "Selv vi kunne ikke identificere de\n"
+    .string "vildfarne spoegelser.\p"
+    .string "Et SILPH SCOPE kunne maaske\n"
+    .string "afsloere dem.$"

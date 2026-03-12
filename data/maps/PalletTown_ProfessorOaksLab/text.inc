@@ -1,357 +1,356 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
-    .string "{RIVAL}: What, it's only {PLAYER}?\n"
-    .string "Gramps isn't around.$"
+    .string "{RIVAL}: Hvad, det er kun {PLAYER}?\n"
+    .string "Bedstefar er ikke her.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
-    .string "{RIVAL}: Gramps!\n"
-    .string "I'm fed up with waiting!$"
+    .string "{RIVAL}: Bedstefar!\n"
+    .string "Jeg er traet af at vente!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
-    .string "{RIVAL}: Hey! Gramps! No fair!\n"
-    .string "What about me?$"
+    .string "{RIVAL}: Hey! Bedstefar! Det er uretfaerdigt!\n"
+    .string "Hvad med mig?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
-    .string "{RIVAL}: Heh, I don't need to be\n"
-    .string "greedy like you. I'm mature!\p"
-    .string "Go ahead and choose, {PLAYER}!$"
+    .string "{RIVAL}: Heh, jeg behoever ikke vaerre\n"
+    .string "graadig som dig. Jeg er moden!\p"
+    .string "Vaeg du og vaelg, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
-    .string "{RIVAL}: I'll take this one, then!$"
+    .string "{RIVAL}: Saa tager jeg den her!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
-    .string "{RIVAL} received the {STR_VAR_1}\n"
-    .string "from PROF. OAK!$"
+    .string "{RIVAL} modtog {STR_VAR_1}\n"
+    .string "fra PROF. OAK!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
-    .string "{RIVAL}: My POKéMON looks a lot\n"
-    .string "tougher than yours.$"
+    .string "{RIVAL}: Min POKeMON ser meget\n"
+    .string "staerkere ud end din.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
-    .string "{RIVAL}: Wait, {PLAYER}!\n"
-    .string "Let's check out our POKéMON!\p"
-    .string "Come on, I'll take you on!$"
+    .string "{RIVAL}: Vent, {PLAYER}!\n"
+    .string "Lad os tjekke vores POKeMON!\p"
+    .string "Kom saa, jeg tager imod dig!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalDefeat::
-    .string "WHAT?\n"
-    .string "Unbelievable!\l"
-    .string "I picked the wrong POKéMON!$"
+    .string "HVAD?\n"
+    .string "Utroligt!\l"
+    .string "Jeg valgte den forkerte POKeMON!$"
 
 @ Also used for early Route 22 battle
 Text_RivalVictory::
-    .string "{RIVAL}: Yeah!\n"
-    .string "Am I great or what?$"
+    .string "{RIVAL}: Ja!\n"
+    .string "Er jeg ikke fantastisk?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
-    .string "{RIVAL}: Okay! I'll make my\n"
-    .string "POKéMON battle to toughen it up!\p"
-    .string "{PLAYER}! Gramps!\n"
-    .string "Smell you later!$"
+    .string "{RIVAL}: Okay! Jeg vil laade min\n"
+    .string "POKeMON kaempe for at staerke den!\p"
+    .string "{PLAYER}! Bedstefar!\n"
+    .string "Vi ses!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGramps::
-    .string "{RIVAL}: Gramps!$"
+    .string "{RIVAL}: Bedstefar!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor::
-    .string "{RIVAL}: I almost forgot!\n"
-    .string "What did you call me for?$"
+    .string "{RIVAL}: Jeg glemte naesten!\n"
+    .string "Hvad kaldte du mig for?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
-    .string "{RIVAL}: All right, Gramps!\n"
-    .string "Leave it all to me!$"
+    .string "{RIVAL}: Okay, bedstefar!\n"
+    .string "Lad det hele vaere op til mig!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
-    .string "{PLAYER}, I hate to say it, but you\n"
-    .string "won't be necessary for this.\p"
-    .string "I know! I'll borrow a TOWN MAP\n"
-    .string "from my sis!\p"
-    .string "I'll tell her not to lend you one,\n"
-    .string "{PLAYER}! Hahaha!\p"
-    .string "Don't bother coming around to\n"
-    .string "my place after this!$"
+    .string "{PLAYER}, jeg hader at sige det, men du\n"
+    .string "bliver ikke noedvendig til dette.\p"
+    .string "Jeg ved det! Jeg laaner et BYKORT\n"
+    .string "fra min soester!\p"
+    .string "Jeg siger til hende, at hun ikke maa\n"
+    .string "laane dig et, {PLAYER}! Hahaha!\p"
+    .string "Gaet ikke og besoeg mig\n"
+    .string "efter dette!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
     .string "OAK: {RIVAL}?\n"
-    .string "Let me think…\p"
-    .string "Oh, that's right, I told you to\n"
-    .string "come! Just wait!\p"
-    .string "Here, {PLAYER}.\p"
-    .string "There are three POKéMON here.\p"
+    .string "Lad mig taenke…\p"
+    .string "Aah, det er rigtigt, jeg bad dig\n"
+    .string "komme! Bare vent!\p"
+    .string "Her, {PLAYER}.\p"
+    .string "Der er tre POKeMON her.\p"
     .string "Haha!\p"
-    .string "The POKéMON are held inside\n"
-    .string "these POKé BALLS.\p"
-    .string "When I was young, I was a serious\n"
-    .string "POKéMON TRAINER.\p"
-    .string "But now, in my old age, I have\n"
-    .string "only these three left.\p"
-    .string "You can have one.\n"
-    .string "Go on, choose!$"
+    .string "POKeMON er inde i\n"
+    .string "disse POKe BALLS.\p"
+    .string "Da jeg var ung, var jeg en serioes\n"
+    .string "POKeMON TRAeNER.\p"
+    .string "Men nu, i min alderdom, har jeg\n"
+    .string "kun disse tre tilbage.\p"
+    .string "Du maa tage een.\n"
+    .string "Kom nu, vaelg!$"
 
 PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
-    .string "OAK: Be patient, {RIVAL}.\n"
-    .string "You can have one, too!$"
+    .string "OAK: Vaer taalmodig, {RIVAL}.\n"
+    .string "Du maa ogsaa faa een!$"
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
-    .string "OAK: Now, {PLAYER}.\p"
-    .string "Inside those three POKé BALLS are\n"
-    .string "POKéMON.\p"
-    .string "Which one will you choose for\n"
-    .string "yourself?$"
+    .string "OAK: Nu, {PLAYER}.\p"
+    .string "I de tre POKe BALLS er der\n"
+    .string "POKeMON.\p"
+    .string "Hvilken vil du vaelge til\n"
+    .string "dig selv?$"
 
 PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
     .string "OAK: Hey!\n"
-    .string "Don't go away yet!$"
+    .string "Gaet ikke endnu!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
-    .string "Ah! CHARMANDER is your choice.\n"
-    .string "You should raise it patiently.\p"
-    .string "So, {PLAYER}, you're claiming the\n"
-    .string "FIRE POKéMON CHARMANDER?$"
+    .string "Ah! CHARMANDER er dit valg.\n"
+    .string "Du boer opdrage den taalmodigt.\p"
+    .string "Saa, {PLAYER}, du tager den\n"
+    .string "ILD POKeMON CHARMANDER?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
-    .string "Hm! SQUIRTLE is your choice.\n"
-    .string "It's one worth raising.\p"
-    .string "So, {PLAYER}, you've decided on the\n"
-    .string "WATER POKéMON SQUIRTLE?$"
+    .string "Hm! SQUIRTLE er dit valg.\n"
+    .string "Den er vaerd at opdrage.\p"
+    .string "Saa, {PLAYER}, du har valgt den\n"
+    .string "VAND POKeMON SQUIRTLE?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
-    .string "I see! BULBASAUR is your choice.\n"
-    .string "It's very easy to raise.\p"
-    .string "So, {PLAYER}, you want to go with\n"
-    .string "the GRASS POKéMON BULBASAUR?$"
+    .string "Jeg forstaar! BULBASAUR er dit valg.\n"
+    .string "Den er meget nem at opdrage.\p"
+    .string "Saa, {PLAYER}, du vil have den\n"
+    .string "GRAeS POKeMON BULBASAUR?$"
 
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
-    .string "This POKéMON is really quite\n"
-    .string "energetic!$"
+    .string "Denne POKeMON er virkelig ret\n"
+    .string "energisk!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
-    .string "{PLAYER} received the {STR_VAR_1}\n"
-    .string "from PROF. OAK!$"
+    .string "{PLAYER} modtog {STR_VAR_1}\n"
+    .string "fra PROF. OAK!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
-    .string "OAK: If a wild POKéMON appears,\n"
-    .string "your POKéMON can battle it.\p"
-    .string "With it at your side, you should be\n"
-    .string "able to reach the next town.$"
+    .string "OAK: Hvis en vild POKeMON dukker op,\n"
+    .string "kan din POKeMON kaempe mod den.\p"
+    .string "Med den ved din side burde du\n"
+    .string "kunne naa naeste by.$"
 
 PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrow::
-    .string "OAK: {PLAYER}, raise your young\n"
-    .string "POKéMON by making it battle.\p"
-    .string "It has to battle for it to grow.$"
+    .string "OAK: {PLAYER}, opdrag din unge\n"
+    .string "POKeMON ved at laade den kaempe.\p"
+    .string "Den maa kaempe for at vokse.$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
-    .string "OAK: Oh, {PLAYER}!\n"
-    .string "How is my old POKéMON?\p"
-    .string "Well, it seems to be growing more\n"
-    .string "attached to you.\p"
-    .string "You must be talented as a POKéMON\n"
-    .string "TRAINER.\p"
-    .string "What's that?\n"
-    .string "You have something for me?$"
+    .string "OAK: Aah, {PLAYER}!\n"
+    .string "Hvordan har min gamle POKeMON det?\p"
+    .string "Naa, den synes at blive mere\n"
+    .string "knyttet til dig.\p"
+    .string "Du maa vaere talentfuld som\n"
+    .string "POKeMON TRAeNER.\p"
+    .string "Hvad er det?\n"
+    .string "Du har noget til mig?$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-    .string "{PLAYER} delivered OAK'S PARCEL.$"
+    .string "{PLAYER} afleverede OAKS PAKKE.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
-    .string "Ah! \n"
-    .string "It's the custom POKé BALL!\p"
-    .string "I had it on order.\n"
-    .string "Thank you!$"
+    .string "Ah!\n"
+    .string "Det er den speciallavede POKe BALL!\p"
+    .string "Jeg havde bestilt den.\n"
+    .string "Tak!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
-    .string "OAK: Oh, right!\n"
-    .string "I have a request for you two.$"
+    .string "OAK: Aah, rigtigt!\n"
+    .string "Jeg har en anmodning til jer to.$"
 
 PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
-    .string "On the desk there is my invention,\n"
-    .string "the POKéDEX!\p"
-    .string "It automatically records data on\n"
-    .string "POKéMON you've seen or caught.\p"
-    .string "It's a high-tech encyclopedia!$"
+    .string "Paa bordet er min opfindelse,\n"
+    .string "POKeDEX!\p"
+    .string "Den registrerer automatisk data om\n"
+    .string "POKeMON du har set eller fanget.\p"
+    .string "Det er en hojteknologisk encyklopaedi!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
-    .string "OAK: {PLAYER} and {RIVAL}.\n"
-    .string "Take these with you.$"
+    .string "OAK: {PLAYER} og {RIVAL}.\n"
+    .string "Tag disse med.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
-    .string "{PLAYER} received the POKéDEX\n"
-    .string "from PROF. OAK.$"
+    .string "{PLAYER} modtog POKeDEX\n"
+    .string "fra PROF. OAK.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
-    .string "OAK: You can't get detailed data\n"
-    .string "on POKéMON by just seeing them.\p"
-    .string "You must catch them to obtain\n"
-    .string "complete data.\p"
-    .string "So, here are some tools for\n"
-    .string "catching wild POKéMON.$"
+    .string "OAK: Du kan ikke faa detaljerede data\n"
+    .string "om POKeMON ved bare at se dem.\p"
+    .string "Du maa fange dem for at faa\n"
+    .string "komplette data.\p"
+    .string "Saa her er nogle redskaber til at\n"
+    .string "fange vilde POKeMON.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
-    .string "{PLAYER} received five POKé BALLS.$"
+    .string "{PLAYER} modtog fem POKe BALLS.$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
-    .string "When a wild POKéMON appears,\n"
-    .string "it's fair game.\p"
-    .string "Just throw a POKé BALL at it and\n"
-    .string "try to catch it!\p"
-    .string "This won't always work, however.\p"
-    .string "A healthy POKéMON can escape.\n"
-    .string "You have to be lucky!$"
+    .string "Naar en vild POKeMON dukker op,\n"
+    .string "er det frit spil.\p"
+    .string "Bare kast en POKe BALL efter den og\n"
+    .string "proev at fange den!\p"
+    .string "Det virker dog ikke altid.\p"
+    .string "En rask POKeMON kan slippe vaek.\n"
+    .string "Du maa have held!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
-    .string "To make a complete guide on all\n"
-    .string "the POKéMON in the world…\p"
-    .string "That was my dream!\p"
-    .string "But, I'm too old.\n"
-    .string "I can't get the job done.\p"
-    .string "So, I want you two to fulfill my\n"
-    .string "dream for me.\p"
-    .string "Get moving, you two.\p"
-    .string "This is a great undertaking in\n"
-    .string "POKéMON history!$"
+    .string "At lave en komplet guide over alle\n"
+    .string "POKeMON i verden…\p"
+    .string "Det var min drom!\p"
+    .string "Men jeg er for gammel.\n"
+    .string "Jeg kan ikke faa jobbet gjort.\p"
+    .string "Saa jeg vil have jer to til at\n"
+    .string "opfylde min drom for mig.\p"
+    .string "Kom i gang, I to.\p"
+    .string "Dette er et stort foretagende i\n"
+    .string "POKeMON historien!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
-    .string "POKéMON around the world wait for\n"
-    .string "you, {PLAYER}!$"
+    .string "POKeMON rundt om i verden venter\n"
+    .string "paa dig, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
     .string "Ah, {PLAYER}!\n"
-    .string "How is your POKéDEX shaping up?\p"
-    .string "{RIVAL} has already caught some\n"
-    .string "POKéMON and added to the data.\p"
-    .string "So, {PLAYER}, let's have a look at\n"
-    .string "your POKéDEX.\p"
-    .string "…What's the matter?\n"
-    .string "You've added no new data at all.\p"
-    .string "I'll give you these, so do try a\n"
-    .string "little harder.$"
+    .string "Hvordan ser din POKeDEX ud?\p"
+    .string "{RIVAL} har allerede fanget nogle\n"
+    .string "POKeMON og tilfojet til dataene.\p"
+    .string "Saa, {PLAYER}, lad os se paa\n"
+    .string "din POKeDEX.\p"
+    .string "…Hvad er der galt?\n"
+    .string "Du har ikke tilfojet nye data.\p"
+    .string "Jeg giver dig disse, saa proev lidt\n"
+    .string "hardere.$"
 
 PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime::
-    .string "OAK: Come see me sometime.\p"
-    .string "After all, I want to know how your\n"
-    .string "POKéDEX is coming along.$"
+    .string "OAK: Kom og besoeg mig engang.\p"
+    .string "Jeg vil gerne vide, hvordan din\n"
+    .string "POKeDEX kommer fremad.$"
 
 PalletTown_ProfessorOaksLab_Text_BlankEncyclopedia::
-    .string "It's like an encyclopedia, but the\n"
-    .string "pages are blank.$"
+    .string "Det er som en encyklopaedi, men\n"
+    .string "siderne er tomme.$"
 
 PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::
-    .string "Those are POKé BALLS.\n"
-    .string "They contain POKéMON!$"
+    .string "Det er POKe BALLS.\n"
+    .string "De indeholder POKeMON!$"
 
 PalletTown_ProfessorOaksLab_Text_OaksLastMon::
-    .string "That's PROF. OAK's last POKéMON.$"
+    .string "Det er PROF. OAKs sidste POKeMON.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
-    .string "Press START to open the MENU!$"
+    .string "Tryk START for at aabne MENUEN!$"
 
 PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu::
-    .string "The SAVE option is on the MENU.\n"
-    .string "Use it regularly.$"
+    .string "GEM-muligheden er i MENUEN.\n"
+    .string "Brug den regelmaessigt.$"
 
 PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::
-    .string "All POKéMON types have strong and\n"
-    .string "weak points against others.$"
+    .string "Alle POKeMON-typer har staerker og\n"
+    .string "svagheder over for andre.$"
 
 PalletTown_ProfessorOaksLab_Text_EmailMessage::
-    .string "There's an e-mail message here.\p"
+    .string "Der er en e-mail her.\p"
     .string "…\p"
-    .string "Finally!\n"
-    .string "The ultimate TRAINERS of the\l"
-    .string "POKéMON LEAGUE are ready to\l"
-    .string "take on all comers!\p"
-    .string "Bring your best POKéMON and see\n"
-    .string "how you rate as a TRAINER!\p"
-    .string "POKéMON LEAGUE HQ\n"
+    .string "Endelig!\n"
+    .string "De ultimative TRAeNERE fra\l"
+    .string "POKeMON LEAGUE er klar til\l"
+    .string "at modtage alle udfordrere!\p"
+    .string "Medbring dine bedste POKeMON og se\n"
+    .string "hvordan du rangerer som TRAeNER!\p"
+    .string "POKeMON LEAGUE HQ\n"
     .string "INDIGO PLATEAU\p"
-    .string "PROF. OAK, please visit us!\n"
+    .string "PROF. OAK, besoeg os venligst!\n"
     .string "…$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
-    .string "I study POKéMON as PROF. OAK's\n"
-    .string "AIDE.$"
+    .string "Jeg studerer POKeMON som PROF. OAKs\n"
+    .string "ASSISTENT.$"
 
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
-    .string "Hi, {PLAYER}. I bet you've become\n"
-    .string "good friends with your POKéMON.\p"
-    .string "By the way, did you know about\n"
+    .string "Hej, {PLAYER}. Jeg ved du er blevet\n"
+    .string "gode venner med din POKeMON.\p"
+    .string "For oevrigt, vidste du om\n"
     .string "DAISY?\p"
-    .string "If you show DAISY your POKéMON,\n"
-    .string "she can tell how much it likes you.\p"
-    .string "Occasionally, she will even groom\n"
-    .string "a POKéMON for you.\p"
-    .string "This is a secret, so please don't\n"
-    .string "tell anyone.$"
+    .string "Hvis du viser DAISY din POKeMON,\n"
+    .string "kan hun sige hvor meget den kan lide dig.\p"
+    .string "Lejlighedsvis vil hun endda pusle\n"
+    .string "en POKeMON for dig.\p"
+    .string "Det er en hemmelighed, saa fortael\n"
+    .string "det ikke til nogen.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
-    .string "PROF. OAK is going to have his own\n"
-    .string "radio show soon.\p"
-    .string "The program will be called PROF.\n"
-    .string "OAK's POKéMON SEMINAR.$"
+    .string "PROF. OAK faar snart sit eget\n"
+    .string "radioprogram.\p"
+    .string "Programmet hedder PROF.\n"
+    .string "OAKs POKeMON SEMINAR.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
-    .string "PROF. OAK may not look like much,\n"
-    .string "but he's the authority on POKéMON.\p"
-    .string "Many POKéMON TRAINERS hold him in\n"
-    .string "high regard.$"
+    .string "PROF. OAK ser maaske ikke ud af meget,\n"
+    .string "men han er autoriteten paa POKeMON.\p"
+    .string "Mange POKeMON TRAeNERE holder\n"
+    .string "ham i hoej anseelse.$"
 
 PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
-    .string "Ah, now this is excellent!\p"
-    .string "{PLAYER}, I have another important\n"
-    .string "favor to ask of you.\p"
-    .string "I need you to listen closely.$"
+    .string "Ah, nu er dette fremragende!\p"
+    .string "{PLAYER}, jeg har endnu en vigtig\n"
+    .string "tjeneste at bede dig om.\p"
+    .string "Jeg har brug for at du lytter noje.$"
 
 PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
-    .string "Recently, there have been sightings\n"
-    .string "of many rare POKéMON species.\p"
-    .string "I'm talking about POKéMON that\n"
-    .string "have never been seen in KANTO.\p"
-    .string "I would love to go see things for\n"
-    .string "myself, but I'm much too old.\p"
-    .string "Since I can't do it, {PLAYER}, I'd\n"
-    .string "like you to go in my place.$"
+    .string "For nylig har der vaeret observationer\n"
+    .string "af mange sjaeldne POKeMON-arter.\p"
+    .string "Jeg taler om POKeMON der\n"
+    .string "aldrig er set i KANTO.\p"
+    .string "Jeg ville elske at se det selv,\n"
+    .string "men jeg er for gammel.\p"
+    .string "Da jeg ikke kan goere det, {PLAYER},\n"
+    .string "vil jeg have dig til at ga i mit sted.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
-    .string "{RIVAL}: Hey, I heard that!\p"
-    .string "Gramps, what's with favoring\n"
-    .string "{PLAYER} over me all the time?\p"
-    .string "I went and collected more POKéMON,\n"
-    .string "and faster, too.\p"
-    .string "You should just let me handle\n"
-    .string "everything.$"
+    .string "{RIVAL}: Hey, det hoerte jeg!\p"
+    .string "Bedstefar, hvorfor foretraekker du\n"
+    .string "{PLAYER} frem for mig hele tiden?\p"
+    .string "Jeg har samlet flere POKeMON,\n"
+    .string "og hurtigere ogsaa.\p"
+    .string "Du burde bare lade mig tage\n"
+    .string "sig af alt.$"
 
 PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
-    .string "OAK: I know, I know.\n"
-    .string "Of course I need your help, too.\p"
-    .string "Now, I need to see both your\n"
-    .string "POKéDEXES.$"
+    .string "OAK: Jeg ved det, jeg ved det.\n"
+    .string "Selvfoelgelig har jeg brug for din hjaelp ogsaa.\p"
+    .string "Nu har jeg brug for at se jeres\n"
+    .string "POKeDEX.$"
 
 PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
-    .string "PROF. OAK took both POKéDEX\n"
-    .string "units.$"
+    .string "PROF. OAK tog begge POKeDEX\n"
+    .string "enheder.$"
 
 PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
     .string "… … …  … … …\p"
     .string "… … …  … … …\p"
-    .string "…And that's done!\p"
-    .string "Now these units can record data on\n"
-    .string "a lot more POKéMON.$"
+    .string "…Og det er gjort!\p"
+    .string "Nu kan disse enheder registrere data om\n"
+    .string "meget flere POKeMON.$"
 
 PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded::
-    .string "{PLAYER}'s POKéDEX was upgraded!$"
+    .string "{PLAYER}s POKeDEX blev opgraderet!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
-    .string "Now, {PLAYER} and {RIVAL}!\p"
-    .string "This time, you really must work\n"
-    .string "towards filling your POKéDEXES.\p"
-    .string "I urge you to make them the best\n"
-    .string "and the most complete of all time!\p"
-    .string "Truly, this is a monumentally great\n"
-    .string "undertaking in POKéMON history!$"
+    .string "Nu, {PLAYER} og {RIVAL}!\p"
+    .string "Denne gang maa I virkelig arbejde\n"
+    .string "paa at udfylde jeres POKeDEX.\p"
+    .string "Jeg opfordrer jer til at goere dem til de\n"
+    .string "bedste og mest komplette nogensinde!\p"
+    .string "Dette er virkelig et monumentalt stort\n"
+    .string "foretagende i POKeMON historien!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex::
-    .string "{RIVAL}: Gramps, calm down.\n"
-    .string "Don't get so excited.\p"
-    .string "I'll get the POKéDEX completed,\n"
-    .string "don't you worry about a thing.\p"
-    .string "I think I'll try looking around\n"
-    .string "ONE ISLAND first…\p"
-    .string "Anyways, I'm outta here!$"
-
+    .string "{RIVAL}: Bedstefar, tag det roligt.\n"
+    .string "Bliv ikke saa begejstret.\p"
+    .string "Jeg faar POKeDEX fuldendt,\n"
+    .string "bare rolig.\p"
+    .string "Jeg taenker jeg proever at kigge\n"
+    .string "rundt paa ONE ISLAND foerst…\p"
+    .string "Anyway, jeg smutter!$"

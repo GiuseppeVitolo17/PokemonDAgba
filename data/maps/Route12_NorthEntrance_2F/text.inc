@@ -1,36 +1,33 @@
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "Mine POKeMONs aske opbevares i\n"
+    .string "POKeMON TOWER.\p"
+    .string "Du maa faa denne TM.\n"
+    .string "Jeg har ikke brug for den laengere…$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "Mine POKeMONs aske opbevares i\n"
+    .string "POKeMON TOWER.\p"
+    .string "Du maa faa denne TM.\n"
+    .string "Jeg har ikke brug for den laengere…$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-    .string "{PLAYER} received TM27\n"
-    .string "from the little girl.$"
+    .string "{PLAYER} modtog TM27\n"
+    .string "fra den lille pige.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-    .string "TM27 is a move called RETURN…\p"
-    .string "If you treat your POKéMON good,\n"
-    .string "it will return your love by working\l"
-    .string "its hardest in battle.$"
+    .string "TM27 er et traek kaldt RETURN…\p"
+    .string "Hvis du behandler din POKeMON godt,\n"
+    .string "returnerer den din kaerlighed ved at\l"
+    .string "arbejde haardest i kamp.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-    .string "You don't have room for this.$"
+    .string "Du har ikke plads til dette.$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There's a man fishing!$"
+    .string "Lad os se hvad kikkerten viser…\p"
+    .string "Der er en mand der fisker!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "It's POKéMON TOWER!$"
-
+    .string "Lad os se hvad kikkerten viser…\p"
+    .string "Det er POKeMON TOWER!$"

@@ -1,42 +1,41 @@
 CeladonCity_Condominiums_3F_Text_ImTheProgrammer::
-    .string "Me?\n"
-    .string "I'm the programmer!$"
+    .string "Mig?\n"
+    .string "Jeg er programmoeren!$"
 
 CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
-    .string "I'm the graphic artist!\n"
-    .string "I drew you!$"
+    .string "Jeg er grafikeren!\n"
+    .string "Jeg tegnede dig!$"
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
-    .string "I wrote the story!\n"
-    .string "Isn't ERIKA cute?\p"
-    .string "I like MISTY a lot, too!\n"
-    .string "Oh, and SABRINA, I like her!$"
+    .string "Jeg skrev historien!\n"
+    .string "Er ERIKA ikke soed?\p"
+    .string "Jeg kan ogsaa godt lide MISTY!\n"
+    .string "Aah, og SABRINA, jeg kan lide hende!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
-    .string "Is that right?\p"
-    .string "I'm the game designer!\p"
-    .string "Filling up your POKéDEX is tough,\n"
-    .string "but don't quit!\p"
-    .string "When you finish, come tell me!$"
+    .string "Er det rigtigt?\p"
+    .string "Jeg er spildesigneren!\p"
+    .string "At udfylde din POKeDEX er svaert,\n"
+    .string "men giv ikke op!\p"
+    .string "Naar du er faerdig, kom og sig det til mig!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
-    .string "Wow! Excellent!\n"
-    .string "You completed your POKéDEX!\l"
-    .string "Congratulations!\l"
+    .string "Wow! Fremragende!\n"
+    .string "Du fuldfoerte din POKeDEX!\l"
+    .string "Tillykke!\l"
     .string "…$"
 
 CeladonCity_Condominiums_3F_Text_ItsTheGameProgram::
-    .string "It's the game program! Messing with\n"
-    .string "it could bug out the game!$"
+    .string "Det er spilprogrammet! At pille ved det\n"
+    .string "kunne give fejl i spillet!$"
 
 CeladonCity_Condominiums_3F_Text_SomeonesPlayingGame::
-    .string "Someone's playing a game instead of\n"
-    .string "working!$"
+    .string "Nogen spiller et spil i stedet for\n"
+    .string "at arbejde!$"
 
 CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
-    .string "It's the script!\n"
-    .string "Better not look at the ending!$"
+    .string "Det er manuskriptet!\n"
+    .string "Se hellere ikke paa slutningen!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
-    .string "GAME FREAK Development Room$"
-
+    .string "GAME FREAK Udviklingslokale$"

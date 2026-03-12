@@ -1,24 +1,24 @@
 SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
-    .string "This ship, she is a luxury liner for\n"
-    .string "TRAINERS of the world!\p"
-    .string "At every port, we hold parties with\n"
-    .string "invited TRAINERS.$"
+    .string "Dette skib er en luksusliner for\n"
+    .string "TRAINERS fra hele verden!\p"
+    .string "Ved hver havn holder vi fester med\n"
+    .string "inviterede TRAINERS.$"
 
 SSAnne_2F_Corridor_Text_RivalIntro::
     .string "{RIVAL}: Bonjour!\n"
     .string "{PLAYER}!\p"
-    .string "Imagine seeing you here!\n"
-    .string "{PLAYER}, were you really invited?\p"
-    .string "So how's your POKéDEX coming?\p"
-    .string "I already caught 40 kinds, pal.\n"
-    .string "Different kinds are everywhere.\p"
-    .string "Crawl around in grassy areas, and\n"
-    .string "look hard for them.$"
+    .string "Taenk at moede dig her!\n"
+    .string "{PLAYER}, var du virkelig inviteret?\p"
+    .string "Hvordan kommer din POKeDEX?\p"
+    .string "Jeg har allerede fanget 40 slags, makker.\n"
+    .string "Forskellige slags er overalt.\p"
+    .string "Krav rundt i graesomraader og\n"
+    .string "kig grundigt efter dem.$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
     .string "Humph!\p"
-    .string "At least you're raising your\n"
-    .string "POKéMON!$"
+    .string "I det mindste opdrager du dine\n"
+    .string "POKeMON!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
     .string "{PLAYER}‥！\n"
@@ -27,11 +27,11 @@ SSAnne_2F_Corridor_Text_RivalVictory::
     .string "きたえた　ほうが　いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
-    .string "{RIVAL}: I heard there was a CUT\n"
-    .string "master on board.\p"
-    .string "But he was just a seasick old man!\p"
-    .string "CUT itself is really useful.\n"
-    .string "Yup, it'll be handy.\p"
-    .string "You should go see him, too.\n"
-    .string "Smell ya!$"
+    .string "{RIVAL}: Jeg hoerte at der var en CUT-\n"
+    .string "mester om bord.\p"
+    .string "Men han var bare en soesyg gammel mand!\p"
+    .string "CUT selv er virkelig nyttig.\n"
+    .string "Ja, den vil vaere handy.\p"
+    .string "Du boer ogsaa gaa og se ham.\n"
+    .string "Vi ses!$"
 

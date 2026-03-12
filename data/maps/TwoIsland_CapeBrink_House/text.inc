@@ -1,53 +1,53 @@
 Text_UltimateMoveThatMon::
-    .string "I perfected the ultimate move of\n"
-    .string "its type…\p"
-    .string "But will no one take it for\n"
-    .string "future use?\p"
+    .string "Jeg perfektionerede det ultimative traek\n"
+    .string "af sin type…\p"
+    .string "Men vil ingen tage det til\n"
+    .string "fremtidig brug?\p"
     .string "…Hm? Hmmm!\p"
-    .string "Y-you…\n"
-    .string "Th-that {STR_VAR_1}…$"
+    .string "D-dig…\n"
+    .string "D-den {STR_VAR_1}…$"
 
 Text_JustMistaken::
-    .string "…No…\n"
-    .string "I was just mistaken.$"
+    .string "…Nej…\n"
+    .string "Jeg tog fejl.$"
 
 Text_AllowMeToTeachMonUltimateMove::
-    .string "Oh! This is the one!\n"
-    .string "This is the POKéMON!\p"
-    .string "This {STR_VAR_1} is worthy of\n"
-    .string "learning my ultimate move!\p"
-    .string "Will you allow it?\p"
-    .string "Will you allow your {STR_VAR_1} to\n"
-    .string "learn my {STR_VAR_2}?$"
+    .string "Aah! Det er den!\n"
+    .string "Det er POKeMON!\p"
+    .string "Denne {STR_VAR_1} er vaerdig til at\n"
+    .string "laere mit ultimative traek!\p"
+    .string "Tillader du det?\p"
+    .string "Tillader du din {STR_VAR_1} at\n"
+    .string "laere mit {STR_VAR_2}?$"
 
 Text_YouRejectIt::
-    .string "Gaah! You reject it?\n"
-    .string "No, I won't be dissuaded!$"
+    .string "Gaah! Du afviser det?\n"
+    .string "Nej, jeg lader mig ikke overtale!$"
 
 Text_LetMeConferUltimateMove::
-    .string "You will allow it?\p"
-    .string "Then, let me confer my ultimate\n"
-    .string "{STR_VAR_2} on your {STR_VAR_1}.\p"
+    .string "Du tillader det?\p"
+    .string "Saa lader jeg mig overbringe mit\n"
+    .string "ultimative {STR_VAR_2} til din {STR_VAR_1}.\p"
     .string "Ggggrah-awooo!$"
 
 Text_TaughtMove::
-    .string "Gasp, gasp, gasp…\p"
-    .string "I didn't think I could teach that\n"
-    .string "move while I still lived…$"
+    .string "Gisp, gisp, gisp…\p"
+    .string "Jeg troede ikke jeg kunne laere det\n"
+    .string "traek mens jeg stadig lever…$"
 
 Text_MakeBestUseOfMove::
-    .string "I implore you to make the best\n"
-    .string "use of that move and gain power!$"
+    .string "Jeg beder dig bruge det traek\n"
+    .string "bedst muligt og vinde kraft!$"
 
 Text_PassedOnEverythingIKnow::
-    .string "Gasp, gasp, gasp…\p"
-    .string "I have no regrets now.\n"
-    .string "I've passed on everything I know.\p"
-    .string "Now I can live out my life knowing\n"
-    .string "my work is done.$"
+    .string "Gisp, gisp, gisp…\p"
+    .string "Jeg har ingen anger nu.\n"
+    .string "Jeg har givet videre alt hvad jeg ved.\p"
+    .string "Nu kan jeg leve mit liv vidende om\n"
+    .string "at mit arbejde er gjort.$"
 
 Text_FeelRejuvenated::
-    .string "After I passed on my knowledge to\n"
-    .string "you, I felt so much relief.\p"
-    .string "In fact, I feel rejuvenated,\n"
-    .string "as if I were younger again!$"
+    .string "Efter jeg gav mine kundskaber videre til\n"
+    .string "dig, foelte jeg saa meget lettelse.\p"
+    .string "Faktisk foeler jeg mig forynget,\n"
+    .string "som om jeg var yngre igen!$"

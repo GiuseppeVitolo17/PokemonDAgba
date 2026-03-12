@@ -1,56 +1,55 @@
 RocketHideout_B4F_Text_GiovanniIntro::
-    .string "So! I must say, I am impressed you\n"
-    .string "got here.\p"
-    .string "TEAM ROCKET captures POKéMON from\n"
-    .string "around the world.\p"
-    .string "They're important tools for keeping\n"
-    .string "our criminal enterprise going.\p"
-    .string "I am the leader, GIOVANNI!\p"
-    .string "For your insolence, you will feel a\n"
-    .string "world of pain!$"
+    .string "Saa! Jeg maa sige, jeg er imponeret over\n"
+    .string "at du kom her.\p"
+    .string "TEAM ROCKET fanger POKeMON fra\n"
+    .string "hele verden.\p"
+    .string "De er vigtige vaerktoejer til at holde\n"
+    .string "vores kriminelle foretagenhed i gang.\p"
+    .string "Jeg er lederen, GIOVANNI!\p"
+    .string "For din fraekhed vil du maerke en\n"
+    .string "verden af smerte!$"
 
 RocketHideout_B4F_Text_GiovanniDefeat::
-    .string "WHAT!\n"
-    .string "This can't be!$"
+    .string "HVAD!\n"
+    .string "Det kan ikke vaere!$"
 
 RocketHideout_B4F_Text_GiovanniPostBattle::
-    .string "I see that you raise POKéMON with\n"
-    .string "utmost care.\p"
-    .string "A child like you would never\n"
-    .string "understand what I hope to achieve.\p"
-    .string "I shall step aside this time!\p"
-    .string "I hope we meet again…$"
+    .string "Jeg ser at du opdrager POKeMON med\n"
+    .string "stoerste omhu.\p"
+    .string "Et barn som dig ville aldrig\n"
+    .string "forstaa hvad jeg haaber at opnaa.\p"
+    .string "Jeg traeder til side denne gang!\p"
+    .string "Jeg haaber vi moedes igen…$"
 
 RocketHideout_B4F_Text_Grunt2Intro::
-    .string "I know you!\n"
-    .string "You ruined our plans at MT. MOON!$"
+    .string "Jeg kender dig!\n"
+    .string "Du oedelagde vores planer ved MT. MOON!$"
 
 RocketHideout_B4F_Text_Grunt2Defeat::
-    .string "Burned again!$"
+    .string "Braendt igen!$"
 
 RocketHideout_B4F_Text_Grunt2PostBattle::
-    .string "Do you have something against TEAM\n"
+    .string "Har du noget imod TEAM\n"
     .string "ROCKET?$"
 
 RocketHideout_B4F_Text_Grunt3Intro::
-    .string "How can you not see the beauty of\n"
-    .string "our evil?$"
+    .string "Hvordan kan du ikke se skoenheden i\n"
+    .string "vores ondskab?$"
 
 RocketHideout_B4F_Text_Grunt3Defeat::
     .string "Ayaya!$"
 
 RocketHideout_B4F_Text_Grunt3PostBattle::
     .string "BOSS!\n"
-    .string "I'm sorry I failed you!$"
+    .string "Undskyld at jeg svigtede dig!$"
 
 RocketHideout_B4F_Text_Grunt1Intro::
-    .string "The elevator doesn't work?\n"
-    .string "Who has the LIFT KEY?$"
+    .string "Elevatoren virker ikke?\n"
+    .string "Hvem har LIFT KEY?$"
 
 RocketHideout_B4F_Text_Grunt1Defeat::
-    .string "No!$"
+    .string "Nej!$"
 
 RocketHideout_B4F_Text_Grunt1PostBattle::
-    .string "Oh, no!\n"
-    .string "I dropped the LIFT KEY!$"
-
+    .string "Aah nej!\n"
+    .string "Jeg tabte LIFT KEY!$"

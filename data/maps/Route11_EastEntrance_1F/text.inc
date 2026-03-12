@@ -1,21 +1,19 @@
 @ Unclear where this is originally from
 Route11_EastEntrance_1F_Text_BagIsFull::
-    .string "{PLAYER}{KUN}の　バッグ\n"
-    .string "いっぱい　みたい　だね$"
+    .string "{PLAYER}s taske ser fuld ud.$"
 
 Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
-    .string "Don't you think it's hard to think\n"
-    .string "up good names for POKéMON?\p"
-    .string "Especially if you've caught a\n"
-    .string "whole bunch?\p"
-    .string "In LAVENDER TOWN, there's a man\n"
-    .string "who rates POKéMON nicknames.\p"
-    .string "He can even help you rename your\n"
-    .string "POKéMON, too.$"
+    .string "Synes du ikke det er svaert at finde\n"
+    .string "paa gode navne til POKeMON?\p"
+    .string "Isaer hvis du har fanget en hel\n"
+    .string "flok?\p"
+    .string "I LAVENDER TOWN er der en mand\n"
+    .string "der bedoemmer POKeMON-kaelenavne.\p"
+    .string "Han kan endda hjaelpe dig med at\n"
+    .string "omdoebe dine POKeMON.$"
 
 Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
-    .string "If you're aiming to reach LAVENDER\n"
-    .string "TOWN, take ROCK TUNNEL.\p"
-    .string "You can get to ROCK TUNNEL from\n"
+    .string "Hvis du vil til LAVENDER TOWN,\n"
+    .string "tag ROCK TUNNEL.\p"
+    .string "Du kan naa ROCK TUNNEL fra\n"
     .string "CERULEAN CITY.$"
-

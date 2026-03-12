@@ -1,100 +1,100 @@
 Route24_Text_JustEarnedFabulousPrize::
-    .string "Congratulations! You beat our\n"
-    .string "five contest TRAINERS!\p"
-    .string "You just earned a fabulous prize!$"
+    .string "Tillykke! Du slog vores fem\n"
+    .string "konkurrence-TRAINERS!\p"
+    .string "Du har lige tjent en fantastisk praemie!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-    .string "{PLAYER} received a NUGGET\n"
-    .string "from the mystery TRAINER!$"
+    .string "{PLAYER} modtog et NUGGET\n"
+    .string "fra den mystiske TRAINER!$"
 
 Route24_Text_YouDontHaveAnyRoom::
-    .string "You don't have any room!$"
+    .string "Du har ikke plads!$"
 
 Route24_Text_JoinTeamRocket::
-    .string "By the way, how would you like to\n"
-    .string "join TEAM ROCKET?\p"
-    .string "We're a group of professional\n"
-    .string "criminals specializing in POKéMON!\p"
-    .string "Want to join?\p"
-    .string "Are you sure?\p"
-    .string "Come on, join us!\p"
-    .string "I'm telling you to join!\p"
-    .string "…Okay, you need convincing!\p"
-    .string "I'll make you an offer you can't\n"
-    .string "refuse!$"
+    .string "For resten, hvad siger du til at\n"
+    .string "bli med i TEAM ROCKET?\p"
+    .string "Vi er en gruppe professionelle\n"
+    .string "kriminelle der specialiserer sig i POKeMON!\p"
+    .string "Vil du vaere med?\p"
+    .string "Er du sikker?\p"
+    .string "Kom nu, vaer med os!\p"
+    .string "Jeg siger du skal vaere med!\p"
+    .string "...Okay, du har brug for overbevisning!\p"
+    .string "Jeg giver dig et tilbud du ikke\n"
+    .string "kan sige nej til!$"
 
 Route24_Text_RocketDefeat::
     .string "Arrgh!\n"
-    .string "You are good!$"
+    .string "Du er god!$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
-    .string "With your ability, you'd become\n"
-    .string "a top leader in TEAM ROCKET.\p"
-    .string "Come on, think of the opportunity!\n"
-    .string "Don't let this chance go to waste.$"
+    .string "Med dine evner ville du blive\n"
+    .string "en top-leder i TEAM ROCKET.\p"
+    .string "Kom nu, taenk paa muligheden!\n"
+    .string "Spild ikke denne chance.$"
 
 Route24_Text_ShaneIntro::
-    .string "I saw your feat from the grass!$"
+    .string "Jeg saa din bedrift fra graesset!$"
 
 Route24_Text_ShaneDefeat::
-    .string "I thought not!$"
+    .string "Som jeg taenkte!$"
 
 Route24_Text_ShanePostBattle::
-    .string "I hid because the people on the\n"
-    .string "bridge frightened me.$"
+    .string "Jeg gemte mig fordi folkene paa\n"
+    .string "broen skraemte mig.$"
 
 Route24_Text_EthanIntro::
-    .string "Okay! I'm No. 5!\n"
-    .string "I'll stomp you!$"
+    .string "Okay! Jeg er nr. 5!\n"
+    .string "Jeg tramper dig!$"
 
 Route24_Text_EthanDefeat::
     .string "Whoa!\n"
-    .string "Too much!$"
+    .string "For meget!$"
 
 Route24_Text_EthanPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Jeg gjorde mit bedste. Ingen fortrydelser!$"
 
 Route24_Text_ReliIntro::
-    .string "I'm No. 4!\n"
-    .string "Getting tired?$"
+    .string "Jeg er nr. 4!\n"
+    .string "Bliver du traet?$"
 
 Route24_Text_ReliDefeat::
-    .string "I lost, too!$"
+    .string "Jeg tabte ogsaa!$"
 
 Route24_Text_ReliPostBattle::
-    .string "I did my best, so I've no regrets!$"
+    .string "Jeg gjorde mit bedste, saa jeg\n"
+    .string "har ingen fortrydelser!$"
 
 Route24_Text_TimmyIntro::
-    .string "Here's No. 3!\n"
-    .string "I won't be easy!$"
+    .string "Her er nr. 3!\n"
+    .string "Jeg bliver ikke nem!$"
 
 Route24_Text_TimmyDefeat::
-    .string "Ow!\n"
-    .string "Stomped flat!$"
+    .string "Av!\n"
+    .string "Fladet helt!$"
 
 Route24_Text_TimmyPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Jeg gjorde mit bedste. Ingen fortrydelser!$"
 
 Route24_Text_AliIntro::
-    .string "I'm second!\n"
-    .string "Now it's serious!$"
+    .string "Jeg er nr. 2!\n"
+    .string "Nu bliver det alvorligt!$"
 
 Route24_Text_AliDefeat::
-    .string "How could I lose?$"
+    .string "Hvordan kunne jeg tabe?$"
 
 Route24_Text_AliPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Jeg gjorde mit bedste. Ingen fortrydelser!$"
 
 Route24_Text_CaleIntro::
-    .string "People call this the NUGGET\n"
-    .string "BRIDGE!\p"
-    .string "Beat us five TRAINERS and win\n"
-    .string "a fabulous prize!\p"
-    .string "Think you got what it takes?$"
+    .string "Folk kalder dette NUGGET BROEN!\p"
+    .string "Slaa os fem TRAINERS og vind\n"
+    .string "en fantastisk praemie!\p"
+    .string "Tror du du har hvad det kraever?$"
 
 Route24_Text_CaleDefeat::
     .string "Whoo!\n"
-    .string "Good stuff!$"
+    .string "Godt gaaet!$"
 
 Route24_Text_CalePostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "Jeg gjorde mit bedste. Ingen fortrydelser!$"

@@ -1,34 +1,34 @@
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-    .string "I'm the FISHING GURU!\p"
-    .string "I simply looove fishing!\n"
-    .string "I can't bear to go without.\p"
-    .string "Tell me, do you like to fish?$"
+    .string "Jeg er FISKE-GURUEN!\p"
+    .string "Jeg elsker simpelthen at fiske!\n"
+    .string "Jeg kan ikke undvaere det.\p"
+    .string "Sig mig, kan du lide at fiske?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
-    .string "Grand! I like your style.\n"
-    .string "I think we can be friends.\p"
-    .string "Take this and fish, young friend!$"
+    .string "Fremragende! Jeg kan lide din stil.\n"
+    .string "Jeg tror vi kan blive venner.\p"
+    .string "Tag dette og fisk, unge ven!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-    .string "{PLAYER} received an OLD ROD from\n"
-    .string "the FISHING GURU.$"
+    .string "{PLAYER} modtog en GAMMEL ROD fra\n"
+    .string "FISKE-GURUEN.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
-    .string "Fishing is a way of life!\n"
-    .string "It is like the finest poetry.\p"
-    .string "From the seas to rivers, go out\n"
-    .string "and land the big one, my friend.$"
+    .string "Fiskeri er en livsstil!\n"
+    .string "Det er som den fineste poesi.\p"
+    .string "Fra havet til floder, gaa ud\n"
+    .string "og fang den store, min ven.$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
-    .string "Oh…\n"
-    .string "That's so disappointing…$"
+    .string "Aah…\n"
+    .string "Det er saa skuffende…$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
-    .string "Hello there, {PLAYER}!\p"
-    .string "How are the fish biting?$"
+    .string "Hej med dig, {PLAYER}!\p"
+    .string "Hvordan bider fiskene?$"
 
 VermilionCity_House1_Text_NoRoomForNiceGift::
-    .string "Oh, no!\p"
-    .string "I had a nice gift for you, but you\n"
-    .string "have no room for it!$"
+    .string "Aah nej!\p"
+    .string "Jeg havde en fin gave til dig, men du\n"
+    .string "har ikke plads til den!$"
 

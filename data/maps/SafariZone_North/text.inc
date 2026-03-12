@@ -1,21 +1,20 @@
 SafariZone_North_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "HVILESTED$"
 
 SafariZone_North_Text_SecretHouseStillAhead::
     .string "TRAINER TIPS\p"
-    .string "The SECRET HOUSE is still ahead.$"
+    .string "DET HEMMELIGE HUS er stadig foran.$"
 
 SafariZone_North_Text_Area2::
-    .string "AREA 2$"
+    .string "OMRAADE 2$"
 
 SafariZone_North_Text_ZigzagThroughTallGrass::
     .string "TRAINER TIPS\p"
-    .string "POKéMON hide in tall grass.\p"
-    .string "Zigzag through grassy areas to\n"
-    .string "flush them out.$"
+    .string "POKeMON gemmer sig i hoejt graes.\p"
+    .string "Snoev gennem graesomraader for at\n"
+    .string "jage dem frem.$"
 
 SafariZone_North_Text_WinFreeHMFindSecretHouse::
     .string "TRAINER TIPS\p"
-    .string "Win a free HM for finding the\n"
-    .string "SECRET HOUSE.$"
-
+    .string "Vind en gratis HM for at finde\n"
+    .string "DET HEMMELIGE HUS.$"

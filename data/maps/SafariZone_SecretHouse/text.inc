@@ -1,28 +1,27 @@
 SafariZone_SecretHouse_Text_CongratsYouveWon::
-    .string "Ah! Finally!\p"
-    .string "You're the first person to reach\n"
-    .string "the SECRET HOUSE!\p"
-    .string "Although I made a campaign\n"
-    .string "for our grand opening,\p"
-    .string "I was getting worried that no one\n"
-    .string "would win our campaign prize.\p"
-    .string "Congratulations!\n"
-    .string "You have won!$"
+    .string "Ah! Endelig!\p"
+    .string "Du er den foerste der naaede\n"
+    .string "DET HEMMELIGE HUS!\p"
+    .string "Selv om jeg lavede en kampagne\n"
+    .string "til vor store aabning,\p"
+    .string "begyndte jeg at bekymre mig for at\n"
+    .string "ingen ville vinde vores kampagnepraemie.\p"
+    .string "Tillykke!\n"
+    .string "Du har vundet!$"
 
 SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
-    .string "{PLAYER} received HM03\n"
-    .string "from the attendant!$"
+    .string "{PLAYER} modtog HM03\n"
+    .string "fra betjenten!$"
 
 SafariZone_SecretHouse_Text_ExplainSurf::
-    .string "HM03 is SURF.\p"
-    .string "POKéMON will be able to ferry you\n"
-    .string "across water using it.\p"
-    .string "And, this HM isn't disposable, so\n"
-    .string "you can use it over and over.\p"
-    .string "You're super lucky for winning this\n"
-    .string "fabulous prize!$"
+    .string "HM03 er SURF.\p"
+    .string "POKeMON kan faerge dig over vand\n"
+    .string "med den.\p"
+    .string "Og denne HM er ikke engangsbrug,\n"
+    .string "saa du kan bruge den igen og igen.\p"
+    .string "Du er super heldig at vinde denne\n"
+    .string "fantastiske praemie!$"
 
 SafariZone_SecretHouse_Text_DontHaveRoomForPrize::
-    .string "You don't have room for this\n"
-    .string "fabulous prize!$"
-
+    .string "Du har ikke plads til denne\n"
+    .string "fantastiske praemie!$"

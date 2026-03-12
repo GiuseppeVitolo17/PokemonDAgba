@@ -1,11 +1,11 @@
 SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
-    .string "Have you gone to the SAFARI ZONE\n"
-    .string "in FUCHSIA CITY?\p"
-    .string "There are many kinds of rare\n"
-    .string "POKéMON.$"
+    .string "Har du vaeret i SAFARI ZONE\n"
+    .string "i FUCHSIA CITY?\p"
+    .string "Der er mange slags sjaeldne\n"
+    .string "POKeMON.$"
 
 SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::
-    .string "Me and my daddy think the SAFARI\n"
-    .string "ZONE is awesome!\l"
-    .string "I wish we could go there again.$"
+    .string "Mig og min far synes SAFARI\n"
+    .string "ZONE er fantastisk!\l"
+    .string "Jeg ville oenske vi kunne tage derhen igen.$"
 

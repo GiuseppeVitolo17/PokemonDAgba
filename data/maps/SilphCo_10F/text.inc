@@ -1,33 +1,33 @@
 SilphCo_10F_Text_GruntIntro::
-    .string "Welcome to 10F!\n"
-    .string "So good of you to join me!$"
+    .string "Velkommen til 10. sal!\n"
+    .string "Sa godt at du sluttede dig til mig!$"
 
 SilphCo_10F_Text_GruntDefeat::
-    .string "I'm stunned!$"
+    .string "Jeg er lamslaaet!$"
 
 SilphCo_10F_Text_GruntPostBattle::
-    .string "Nice try, but the boardroom is up\n"
-    .string "one more floor.$"
+    .string "Godt forsoeg, men modesalen er eet\n"
+    .string "sal op.$"
 
 SilphCo_10F_Text_TravisIntro::
-    .string "Enough of your silly games!$"
+    .string "Nok af jeres taabelige spil!$"
 
 SilphCo_10F_Text_TravisDefeat::
-    .string "No continues left!$"
+    .string "Ingen continues tilbage!$"
 
 SilphCo_10F_Text_TravisPostBattle::
-    .string "Are you satisfied with beating me?\n"
-    .string "Then go on home!$"
+    .string "Er du tilfreds med at besejre mig?\n"
+    .string "Sa ga hjem!$"
 
 SilphCo_10F_Text_WaaaImScared::
     .string "Waaaaa!\n"
-    .string "I'm scared!$"
+    .string "Jeg er bange!$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::
-    .string "About me crying…\n"
-    .string "Please keep it a secret.$"
+    .string "At jeg graed…\n"
+    .string "Hold det venligst hemmeligt.$"
 
 SilphCo_10F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "10F$"
+    .string "SILPH CO. HOVEDKONTOR\n"
+    .string "10. SAL$"
 

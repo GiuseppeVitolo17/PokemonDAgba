@@ -1,18 +1,17 @@
 OneIsland_TreasureBeach_Text_AmaraIntro::
-    .string "Lying back, rocked by the waves…\n"
-    .string "It's exquisite.$"
+    .string "Liggende tilbage, vugget af boelgerne…\n"
+    .string "Det er udsoegt.$"
 
 OneIsland_TreasureBeach_Text_AmaraDefeat::
-    .string "I lost…\n"
-    .string "It feels awful.$"
+    .string "Jeg tabte…\n"
+    .string "Det foeles forfaerdeligt.$"
 
 OneIsland_TreasureBeach_Text_AmaraPostBattle::
-    .string "The sea is pleasantly warm in these\n"
-    .string "parts.$"
+    .string "Havet er behageligt varmt her.$"
 
 OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
-    .string "Good things get washed up by the\n"
-    .string "ocean current onto this beach.\p"
-    .string "That's why I often come here for\n"
-    .string "some beachcombing.$"
+    .string "Gode ting bliver skyllet op af\n"
+    .string "havstroemmen paa denne strand.\p"
+    .string "Derfor kommer jeg ofte her for at\n"
+    .string "soege efter skatte paa stranden.$"
 

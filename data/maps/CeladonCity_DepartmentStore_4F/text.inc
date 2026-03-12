@@ -1,18 +1,18 @@
 CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
-    .string "I'm getting a present for my\n"
-    .string "girlfriend.\p"
-    .string "I guess a POKé DOLL will be it.\n"
-    .string "It's the popular thing.$"
+    .string "Jeg koeber en gave til min\n"
+    .string "kaereste.\p"
+    .string "Jeg taenker en POKe DOLL bliver det.\n"
+    .string "Det er det populaere.$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
-    .string "I heard something useful.\p"
-    .string "If a wild POKéMON appears, you can\n"
-    .string "distract it with a POKé DOLL.\p"
-    .string "You can run away while the wild\n"
-    .string "POKéMON is distracted.$"
+    .string "Jeg hoerte noget nyttigt.\p"
+    .string "Hvis en vild POKeMON dukker op, kan du\n"
+    .string "distrahere den med en POKe DOLL.\p"
+    .string "Du kan loebe vaek mens den vilde\n"
+    .string "POKeMON er distraheret.$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
-    .string "Express yourself with gifts!\n"
+    .string "Udtryk dig med gaver!\n"
     .string "4F: WISE MAN GIFTS\p"
-    .string "Evolution Special!\n"
-    .string "Element STONES on sale now!$"
+    .string "Evolution tilbud!\n"
+    .string "Element STONES til salg nu!$"

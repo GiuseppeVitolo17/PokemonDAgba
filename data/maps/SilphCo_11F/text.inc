@@ -1,94 +1,95 @@
 SilphCo_11F_Text_ThanksForSavingMeDearBoy::
-    .string "PRESIDENT: Oh, dear boy!\n"
-    .string "Thank you for saving SILPH.\p"
-    .string "I will never forget you saved us in\n"
-    .string "our moment of peril.\p"
-    .string "I have to thank you in some way.\p"
-    .string "Because I am rich, I can give you\n"
-    .string "anything.\p"
-    .string "Here, maybe this will do.$"
+    .string "PRESIDENT: Oh, kaere dreng!\n"
+    .string "Tak for at redde SILPH.\p"
+    .string "Jeg glemmer aldrig at du reddede os i\n"
+    .string "vores farefulde oejeblik.\p"
+    .string "Jeg maa takke dig paa en eller anden\n"
+    .string "maade.\p"
+    .string "Fordi jeg er rig, kan jeg give dig\n"
+    .string "hvad som helst.\p"
+    .string "Her, maaske kan dette goere det.$"
 
 SilphCo_11F_Text_ThanksForSavingMeDearGirl::
-    .string "PRESIDENT: Oh, dear girl!\n"
-    .string "Thank you for saving SILPH.\p"
-    .string "I will never forget you saved us in\n"
-    .string "our moment of peril.\p"
-    .string "I have to thank you in some way.\p"
-    .string "Because I am rich, I can give you\n"
-    .string "anything.\p"
-    .string "Here, maybe this will do.$"
+    .string "PRESIDENT: Oh, kaere pige!\n"
+    .string "Tak for at redde SILPH.\p"
+    .string "Jeg glemmer aldrig at du reddede os i\n"
+    .string "vores farefulde oejeblik.\p"
+    .string "Jeg maa takke dig paa en eller anden\n"
+    .string "maade.\p"
+    .string "Fordi jeg er rig, kan jeg give dig\n"
+    .string "hvad som helst.\p"
+    .string "Her, maaske kan dette goere det.$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
-    .string "{PLAYER} obtained a MASTER BALL\n"
-    .string "from the PRESIDENT!$"
+    .string "{PLAYER} fik en MASTER BALL\n"
+    .string "fra PRESIDENTEN!$"
 
 SilphCo_11F_Text_ThatsOurSecretPrototype::
-    .string "PRESIDENT: You can't buy that\n"
-    .string "anywhere.\p"
-    .string "It's our secret prototype MASTER\n"
-    .string "BALL.\p"
-    .string "It will catch any POKéMON without\n"
-    .string "fail!\p"
-    .string "You should be quiet about using it,\n"
-    .string "though.$"
+    .string "PRESIDENT: Du kan ikke koebe den\n"
+    .string "nogen steder.\p"
+    .string "Det er vores hemmelige prototype\n"
+    .string "MASTER BALL.\p"
+    .string "Den fanger ethvert POKeMON uden\n"
+    .string "at fejle!\p"
+    .string "Du boer dog vaere stille om at bruge den.$"
 
 SilphCo_11F_Text_YouHaveNoRoomForThis::
-    .string "You have no room for this.$"
+    .string "Du har ikke plads til dette.$"
 
 SilphCo_11F_Text_ThanksForRescuingUs::
-    .string "SECRETARY: Thank you for rescuing\n"
-    .string "all of us.\p"
-    .string "We, from the PRESIDENT down,\n"
-    .string "are indebted to you.$"
+    .string "SEKRETAER: Tak for at redde\n"
+    .string "os alle.\p"
+    .string "Vi, fra PRESIDENTEN og ned,\n"
+    .string "staar i gaeld til dig.$"
 
 SilphCo_11F_Text_GiovanniIntro::
     .string "Ah, {PLAYER}!\n"
-    .string "So we meet again!\p"
-    .string "The PRESIDENT and I are discussing\n"
-    .string "a vital business proposition.\p"
-    .string "Keep your nose out of grown-up\n"
-    .string "matters…\p"
-    .string "Or, experience a world of pain!$"
+    .string "Saa moedes vi igen!\p"
+    .string "PRESIDENTEN og jeg diskuterer\n"
+    .string "et vigtigt forretningsforslag.\p"
+    .string "Hold din naese ude af voksne\n"
+    .string "anliggender…\p"
+    .string "Eller oplev en verden af smerte!$"
 
 SilphCo_11F_Text_GiovanniDefeat::
     .string "Arrgh!!\n"
-    .string "I lost again!?$"
+    .string "Jeg tabte igen!?$"
 
 SilphCo_11F_Text_GiovanniPostBattle::
-    .string "Blast it all!\n"
-    .string "You ruined our plans for SILPH!\p"
-    .string "But, TEAM ROCKET will never fall!\p"
-    .string "{PLAYER}! Never forget that all\n"
-    .string "POKéMON exist for TEAM ROCKET!\p"
-    .string "I must go, but I shall return!$"
+    .string "Forbandet!\n"
+    .string "Du oedelagde vores planer for SILPH!\p"
+    .string "Men TEAM ROCKET falder aldrig!\p"
+    .string "{PLAYER}! Glem aldrig at alle\n"
+    .string "POKeMON eksisterer for TEAM ROCKET!\p"
+    .string "Jeg maa ga, men jeg vender tilbage!$"
 
 SilphCo_11F_Text_Grunt2Intro::
-    .string "Stop right there!\n"
-    .string "Don't you move!$"
+    .string "Stop lige der!\n"
+    .string "Bevaeg dig ikke!$"
 
 SilphCo_11F_Text_Grunt2Defeat::
-    .string "Don't…\n"
-    .string "Please!$"
+    .string "Ikke…\n"
+    .string "Venligst!$"
 
 SilphCo_11F_Text_Grunt2PostBattle::
-    .string "So, you want to see my BOSS?$"
+    .string "Saa du vil se min BOSS?$"
 
 SilphCo_11F_Text_Grunt1Intro::
-    .string "Halt! Do you have an appointment\n"
-    .string "with my BOSS?$"
+    .string "Stop! Har du en aftale\n"
+    .string "med min BOSS?$"
 
 SilphCo_11F_Text_Grunt1Defeat::
     .string "Gaah!\n"
-    .string "Demolished!$"
+    .string "Oedelaagt!$"
 
 SilphCo_11F_Text_Grunt1PostBattle::
-    .string "Watch your step…\n"
-    .string "My BOSS likes his POKéMON tough!$"
+    .string "Pas paa…\n"
+    .string "Min BOSS kan lide sine POKeMON haarde!$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
-    .string "The monitor has POKéMON on it!$"
+    .string "Skaermen har POKeMON paa den!$"
 
 SilphCo_11F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "11F$"
+    .string "SILPH CO. HOVEDKONTOR\n"
+    .string "11. SAL$"
 

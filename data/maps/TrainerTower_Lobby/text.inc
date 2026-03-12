@@ -1,120 +1,120 @@
 @ All Trainer Tower text (Lobby and Roof) is interleaved here
 
 TrainerTower_Lobby_Text_WelcomeToTrainerTower::
-    .string "Hello!\p"
-    .string "Welcome to TRAINER TOWER where\n"
-    .string "TRAINERS gather from all over!$"
+    .string "Hej!\p"
+    .string "Velkommen til TRAINER TOWER hvor\n"
+    .string "TRAINERS samles fra hele verden!$"
 
 TrainerTower_Lobby_Text_TrainersUpToFloorNum::
-    .string "TRAINERS from all over the world\n"
-    .string "gather here to battle.\p"
-    .string "Let me see…\p"
-    .string "Right now, there are TRAINERS only\n"
-    .string "up to Floor {STR_VAR_1}.$"
+    .string "TRAINERS fra hele verden\n"
+    .string "samles her for at kaempe.\p"
+    .string "Lad mig se…\p"
+    .string "Lige nu er der kun TRAINERS\n"
+    .string "op til etage {STR_VAR_1}.$"
 
 TrainerTower_Lobby_Text_TrainersUpEighthFloor::
-    .string "TRAINERS are awaiting your\n"
-    .string "challenge up to the eighth floor.$"
+    .string "TRAINERS venter paa din\n"
+    .string "udfordring op til ottende etage.$"
 
 TrainerTower_Lobby_Text_LikeToChallengeTrainers::
-    .string "Would you like to challenge the\n"
-    .string "waiting TRAINERS?$"
+    .string "Vil du udfordre de\n"
+    .string "ventende TRAINERS?$"
 
 TrainerTower_Lobby_Text_StartClockGetSetGo::
-    .string "Okay, I'll get the clock started,\n"
-    .string "so give it everything you have.\p"
-    .string "On your marks…\p"
-    .string "Get set…\p"
+    .string "Okay, jeg starter uret,\n"
+    .string "saa giv den gas.\p"
+    .string "Paa plads…\p"
+    .string "Klar…\p"
     .string "Go!$"
 
 TrainerTower_Lobby_Text_PleaseVisitUsAgain::
-    .string "Please do visit us again!$"
+    .string "Besoeg os gerne igen!$"
 
 TrainerTower_Lobby_Text_TooBadComeBackTryAgain::
-    .string "That was too bad.\p"
-    .string "I think you put in a tremendous\n"
-    .string "effort in your battling.\p"
-    .string "Please come back and try again!$"
+    .string "Det var aergerligt.\p"
+    .string "Jeg synes du lagde en enorm\n"
+    .string "indsats i din kamp.\p"
+    .string "Kom tilbage og proev igen!$"
 
 TrainerTower_Lobby_Text_GiveItYourBest::
-    .string "I hope you give it your best.$"
+    .string "Jeg haaber du giver den bedste.$"
 
 TrainerTower_Lobby_Text_MoveCounterHereWhenTrainersSwitch::
-    .string "When the TRAINERS switch places,\n"
-    .string "the movement can be hectic.\p"
-    .string "To avoid the stampede, we moved\n"
-    .string "the reception counter here.\p"
-    .string "I'm sorry for the inconvenience.$"
+    .string "Naar TRAINERS skifter plads,\n"
+    .string "kan det blive hektisk.\p"
+    .string "For at undgaa stampede flyttede vi\n"
+    .string "receptionsbordet herhen.\p"
+    .string "Undskyld ulejligheden.$"
 
 TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
-    .string "Hello…\p"
-    .string "I am the owner of this TOWER…\p"
-    .string "How the sky soars above this\n"
-    .string "rooftop…\p"
-    .string "The caress of the winds up here…\p"
-    .string "It's all so perfect…\p"
-    .string "The way you battled…\n"
-    .string "It, too, was perfection…$"
+    .string "Hej…\p"
+    .string "Jeg er ejeren af dette TOWER…\p"
+    .string "Hvor himlen svejfer over dette\n"
+    .string "tag…\p"
+    .string "Beroeringen af vinden heroppe…\p"
+    .string "Alt er saa perfekt…\p"
+    .string "Maaden du kaempede paa…\n"
+    .string "Ogsaa det var perfektion…$"
 
 TrainerTower_Roof_Text_ThisIsForYou::
-    .string "This is for you…$"
+    .string "Dette er til dig…$"
 
 TrainerTower_Roof_Text_DoneItInRecordTime::
-    .string "Oh!\n"
-    .string "Stupendous!\p"
-    .string "It's marvelous how you've come up\n"
-    .string "here so quickly.\p"
-    .string "The fact is, you've done it in\n"
-    .string "record time…\p"
-    .string "I'll have your record posted at\n"
-    .string "the reception counter.$"
+    .string "Aah!\n"
+    .string "Fantastisk!\p"
+    .string "Det er vidunderligt at du er\n"
+    .string "kommet herop saa hurtigt.\p"
+    .string "Faktum er at du har gjort det paa\n"
+    .string "rekordtid…\p"
+    .string "Jeg lader din rekord blive vist ved\n"
+    .string "receptionsbordet.$"
 
 TrainerTower_Roof_Text_TookSweetTimeGettingHere::
-    .string "You seem to have taken your sweet\n"
-    .string "time getting here…$"
+    .string "Du har taget dig god tid\n"
+    .string "med at komme her…$"
 
 TrainerTower_Roof_Text_IdLikeToSeeBetterTime::
-    .string "What I would like to see is a\n"
-    .string "better time out of you…\p"
-    .string "I'm counting on you.\p"
-    .string "Until then, farewell…$"
+    .string "Hvad jeg gerne vil se er en\n"
+    .string "bedre tid fra dig…\p"
+    .string "Jeg regner med dig.\p"
+    .string "Indtil da, farvel…$"
 
 TrainerTower_Text_XMinYZSec::
-    .string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.$"
+    .string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sek.$"
 
 TrainerTower_Lobby_Text_HereAreTheResults::
     .string "せいせきひょうです$"
 
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
-    .string "This is a two-on-two battle.\p"
-    .string "You may not battle unless you have\n"
-    .string "at least two POKéMON.$"
+    .string "Dette er en to-mod-to kamp.\p"
+    .string "Du maa ikke kaempe medmindre du har\n"
+    .string "mindst to POKeMON.$"
 
 TrainerTower_Lobby_Text_ExplainTrainerTower::
-    .string "Here at TRAINER TOWER, there is an\n"
-    .string "event called TIME ATTACK.\p"
-    .string "You will be timed on how quickly\n"
-    .string "you can get from the reception\l"
-    .string "counter to the OWNER on the roof.\p"
-    .string "The best times will be recorded on\n"
-    .string "the Time Board.\p"
-    .string "Try competing with friends to see\n"
-    .string "who can beat it the fastest.\p"
-    .string "You will not earn any EXP. Points\n"
-    .string "or money by beating TRAINERS here.$"
+    .string "Her i TRAINER TOWER er der en\n"
+    .string "begivenhed kaldet TIME ATTACK.\p"
+    .string "Du bliver tidsmaalt paa hvor hurtigt\n"
+    .string "du kan komme fra receptionsbordet\l"
+    .string "til EJEREN paa taget.\p"
+    .string "De bedste tider bliver noteret paa\n"
+    .string "Tidstavlen.\p"
+    .string "Proev at konkurrere med venner om\n"
+    .string "hvem der kan slaa den hurtigst.\p"
+    .string "Du faar ikke nogen EXP. Point eller\n"
+    .string "penge ved at besejre TRAINERS her.$"
 
 TrainerTower_Lobby_Text_ThanksForCompeting::
-    .string "Thank you for competing!$"
+    .string "Tak fordi du deltog!$"
 
 TrainerTower_Lobby_Text_WonderWhatKindsOfTrainers::
-    .string "I'm here to see how good I am.\p"
-    .string "I wonder what kinds of TRAINERS\n"
-    .string "are waiting for me?\p"
-    .string "It's nerve-racking!$"
+    .string "Jeg er her for at se hvor god jeg er.\p"
+    .string "Jeg spekulerer paa hvilke slags\n"
+    .string "TRAINERS der venter paa mig?\p"
+    .string "Det er nervepirrende!$"
 
 TrainerTower_Lobby_Text_StairsTougherThanAnyBattle::
-    .string "Gasp, gasp…\n"
-    .string "Gasp…\p"
-    .string "Never mind battling! These stairs…\n"
-    .string "They're tougher than any battle…$"
+    .string "Gisp, gisp…\n"
+    .string "Gisp…\p"
+    .string "Glem kamp! Disse trapper…\n"
+    .string "De er haardere end nogen kamp…$"
 

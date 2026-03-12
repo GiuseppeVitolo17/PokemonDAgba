@@ -1,20 +1,19 @@
 Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
-    .string "Many POKéMON live only in forests \n"
-    .string "and caves.\p"
-    .string "You need to be persistent and look\n"
-    .string "everywhere to get different kinds.$"
+    .string "Mange POKeMON lever kun i skove\n"
+    .string "og huler.\p"
+    .string "Du skal vaere vedholdende og kigge\n"
+    .string "overalt for at faa forskellige slags.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
-    .string "Have you noticed the skinny trees\n"
-    .string "on the roadside?\p"
-    .string "They can be cut down by a special\n"
-    .string "POKéMON move, I hear.$"
+    .string "Har du lagt maerke til de tynde traeer\n"
+    .string "ved vejsiden?\p"
+    .string "De kan faeldes med et specielt\n"
+    .string "POKeMON-traek, har jeg hoert.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::
-    .string "Do you know the evolution-cancel\n"
-    .string "technique?\p"
-    .string "When a POKéMON is evolving, you\n"
-    .string "can stop the process.\p"
-    .string "It's a technique for raising\n"
-    .string "POKéMON the way they are.$"
-
+    .string "Kender du evolution-annullerings-\n"
+    .string "teknikken?\p"
+    .string "Naar en POKeMON udvikler sig, kan\n"
+    .string "du stoppe processen.\p"
+    .string "Det er en teknik til at opdrage\n"
+    .string "POKeMON som de er.$"

@@ -1,18 +1,17 @@
 CeladonCity_Hotel_Text_ThisHotelIsForPeople::
-    .string "POKéMON?\n"
-    .string "No, this is a hotel for people.\p"
-    .string "We're full up, unfortunately.$"
+    .string "POKeMON?\n"
+    .string "Nej, dette er et hotel for mennesker.\p"
+    .string "Vi er desvaerre fuldt booket.$"
 
 CeladonCity_Hotel_Text_OnVacationWithBrotherAndBoyfriend::
-    .string "I'm on vacation with my brother and\n"
-    .string "boyfriend.\p"
-    .string "CELADON is such a pretty city!$"
+    .string "Jeg er paa ferie med min bror og\n"
+    .string "kaereste.\p"
+    .string "CELADON er saa flot en by!$"
 
 CeladonCity_Hotel_Text_WhyDidSheBringBrother::
-    .string "Why?\n"
-    .string "Why did she bring her brother?$"
+    .string "Hvorfor?\n"
+    .string "Hvorfor tog hun sin bror med?$"
 
 CeladonCity_Hotel_Text_SisBroughtMeOnVacation::
-    .string "Yippee! I'm on vacation!\n"
-    .string "My sis brought me along! Awesome!$"
-
+    .string "Yippee! Jeg er paa ferie!\n"
+    .string "Min soester tog mig med! Fedt!$"

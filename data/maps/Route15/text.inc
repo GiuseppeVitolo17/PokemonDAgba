@@ -1,154 +1,155 @@
 Route15_Text_KindraIntro::
-    .string "I just got some POKéMON in trades.\n"
-    .string "Can I try them out on you?$"
+    .string "Jeg har lige faaet nogle POKeMON i\n"
+    .string "bytte. Ma jeg proeve dem paa dig?$"
 
 Route15_Text_KindraDefeat::
-    .string "Not good enough!$"
+    .string "Ikke god nok!$"
 
 Route15_Text_KindraPostBattle::
-    .string "You can't change the nickname of\n"
-    .string "any POKéMON you get in a trade.\p"
-    .string "Only the Original TRAINER can get\n"
-    .string "the nickname changed.$"
+    .string "Du kan ikke aendre kaldenavnet paa\n"
+    .string "POKeMON du faar i et bytte.\p"
+    .string "Kun den oprindelige TRAINER kan\n"
+    .string "faa kaldenavnet aendret.$"
 
 Route15_Text_BeckyIntro::
-    .string "You look gentle, so I think I can\n"
-    .string "beat you.\p"
-    .string "I'll give it a go!$"
+    .string "Du ser blid ud, saa jeg tror jeg\n"
+    .string "kan slaa dig.\p"
+    .string "Jeg proever!$"
 
 Route15_Text_BeckyDefeat::
-    .string "No, wrong!$"
+    .string "Nej, forkert!$"
 
 Route15_Text_BeckyPostBattle::
-    .string "I'm afraid of BIKERS. They look so\n"
-    .string "ugly and mean!$"
+    .string "Jeg er bange for BIKERS. De ser saa\n"
+    .string "grimme og onde ud!$"
 
 Route15_Text_EdwinIntro::
-    .string "When I whistle, I can summon bird\n"
-    .string "POKéMON.$"
+    .string "Naar jeg floejter, kan jeg tilkalde\n"
+    .string "fugle-POKeMON.$"
 
 Route15_Text_EdwinDefeat::
-    .string "Ow!\n"
-    .string "That's tragic!$"
+    .string "Av!\n"
+    .string "Det er tragisk!$"
 
 Route15_Text_EdwinPostBattle::
-    .string "Maybe I'm not cut out for battles.\n"
-    .string "I'm not the right type, I guess.$"
+    .string "Maaske er jeg ikke skabt til kampe.\n"
+    .string "Jeg er ikke den rigtige type.$"
 
 Route15_Text_ChesterIntro::
-    .string "Hmm? My birds are shivering!\n"
-    .string "You're good, aren't you?$"
+    .string "Hmm? Mine fugle ryster!\n"
+    .string "Du er god, er du ikke?$"
 
 Route15_Text_ChesterDefeat::
-    .string "Just as I thought!$"
+    .string "Som jeg taenkte!$"
 
 Route15_Text_ChesterPostBattle::
-    .string "This is so obvious, you should know\n"
-    .string "this, but…\p"
-    .string "Moves like EARTHQUAKE and FISSURE\n"
-    .string "have no effect on bird POKéMON.$"
+    .string "Det her er saa indlysende, du burde\n"
+    .string "vide det, men...\p"
+    .string "Angreb som EARTHQUAKE og FISSURE\n"
+    .string "har ingen effekt paa fugle-POKeMON.$"
 
 Route15_Text_GraceIntro::
-    .string "Oh, you're a little cutie!\n"
-    .string "So like a darling POKéMON!$"
+    .string "Aa, du er saa soed!\n"
+    .string "Som en soed POKeMON!$"
 
 Route15_Text_GraceDefeat::
-    .string "You looked so cute, too!$"
+    .string "Du saa ogsaa saa soed ud!$"
 
 Route15_Text_GracePostBattle::
-    .string "I forgive you.\n"
-    .string "I can take it.\l"
-    .string "I'm a big girl now.$"
+    .string "Jeg tilgiver dig.\n"
+    .string "Jeg kan tage det.\l"
+    .string "Jeg er en stor pige nu.$"
 
 Route15_Text_OliviaIntro::
-    .string "I raise POKéMON for protection\n"
-    .string "because I live alone.$"
+    .string "Jeg opdrager POKeMON til beskyttelse\n"
+    .string "fordi jeg bor alene.$"
 
 Route15_Text_OliviaDefeat::
-    .string "POKéMON isn't about winning or\n"
-    .string "losing for me.$"
+    .string "POKeMON handler ikke om at vinde\n"
+    .string "eller tabe for mig.$"
 
 Route15_Text_OliviaPostBattle::
-    .string "I love having my POKéMON greet me\n"
-    .string "when I get home.\p"
-    .string "It's so reassuring.$"
+    .string "Jeg elsker at mine POKeMON hilser\n"
+    .string "mig naar jeg kommer hjem.\p"
+    .string "Det er saa betryggende.$"
 
 Route15_Text_ErnestIntro::
-    .string "Hey, kid! C'mon!\n"
-    .string "I just got these off some loser!$"
+    .string "Hey, unge! Kom!\n"
+    .string "Jeg fik dem lige fra en taber!$"
 
 Route15_Text_ErnestDefeat::
-    .string "Why not?$"
+    .string "Hvorfor ikke?$"
 
 Route15_Text_ErnestPostBattle::
-    .string "Life's too short.\n"
-    .string "It's cool to live as an outlaw.\l"
-    .string "TEAM ROCKET RULES!$"
+    .string "Livet er for kort.\n"
+    .string "Det er sejt at leve som outlaw.\l"
+    .string "TEAM ROCKET REGLER!$"
 
 Route15_Text_AlexIntro::
-    .string "Fork over all your cash when you\n"
-    .string "lose to me, kid!$"
+    .string "Aflever alle dine penge naar du\n"
+    .string "taber til mig, unge!$"
 
 Route15_Text_AlexDefeat::
-    .string "That can't be true!$"
+    .string "Det kan ikke vaere sandt!$"
 
 Route15_Text_AlexPostBattle::
-    .string "I was just joking about the money.\n"
-    .string "Don't take me all serious.$"
+    .string "Jeg jokede bare med pengene.\n"
+    .string "Tag mig ikke saa alvorligt.$"
 
 Route15_Text_CeliaIntro::
-    .string "What's cool and happening?\n"
-    .string "Trading POKéMON!$"
+    .string "Hvad er sejt og sker?\n"
+    .string "At bytte POKeMON!$"
 
 Route15_Text_CeliaDefeat::
-    .string "I said trade!$"
+    .string "Jeg sagde bytte!$"
 
 Route15_Text_CeliaPostBattle::
-    .string "I trade POKéMON with my friends\n"
-    .string "all the time.$"
+    .string "Jeg bytter POKeMON med mine\n"
+    .string "venner hele tiden.$"
 
 Route15_Text_YazminIntro::
-    .string "Want to play with my POKéMON?$"
+    .string "Vil du lege med mine POKeMON?$"
 
 Route15_Text_YazminDefeat::
-    .string "I was too impatient!$"
+    .string "Jeg var for utaalmodig!$"
 
 Route15_Text_YazminPostBattle::
-    .string "I'll go train with weaker people.$"
+    .string "Jeg tager hen og traener med\n"
+    .string "svagere folk.$"
 
 Route15_Text_RouteSign::
     .string "ROUTE 15\n"
-    .string "West to FUCHSIA CITY$"
+    .string "Vest til FUCHSIA CITY$"
 
 Route15_Text_MyaIntro::
-    .string "MYA: You're perfect.\n"
-    .string "Help me train my little brother?$"
+    .string "MYA: Du er perfekt.\n"
+    .string "Hjaelp mig med at traene min lillebror?$"
 
 Route15_Text_MyaDefeat::
-    .string "MYA: RON, you have to focus!\n"
-    .string "Concentrate on what you're doing!$"
+    .string "MYA: RON, du skal fokusere!\n"
+    .string "Konsentrer dig om hvad du goer!$"
 
 Route15_Text_MyaPostBattle::
-    .string "MYA: Okay, we'll turn it up.\n"
-    .string "I'll add to our training menu!$"
+    .string "MYA: Okay, vi skruer op.\n"
+    .string "Jeg tilfoejer til vores traeningsmenu!$"
 
 Route15_Text_MyaNotEnoughMons::
-    .string "MYA: Do you want to challenge us?\n"
-    .string "You'll need two POKéMON, though.$"
+    .string "MYA: Vil du udfordre os?\n"
+    .string "Du skal bruge to POKeMON, dog.$"
 
 Route15_Text_RonIntro::
-    .string "RON: My sister gets scary when we\n"
-    .string "lose.$"
+    .string "RON: Min soester bliver skraemmende\n"
+    .string "naar vi taber.$"
 
 Route15_Text_RonDefeat::
-    .string "RON: Oh, no, no…\n"
-    .string "Sis, I'm sorry!$"
+    .string "RON: Aa, nej, nej...\n"
+    .string "Soes, undskyld!$"
 
 Route15_Text_RonPostBattle::
-    .string "RON: Oh, bleah…\n"
-    .string "I wish I had a nice sister…$"
+    .string "RON: Aa, boev...\n"
+    .string "Jeg ville oenske jeg havde en rar soester...$"
 
 Route15_Text_RonNotEnoughMons::
-    .string "RON: Did you want to battle with\n"
-    .string "my sister and me?\p"
-    .string "You need two POKéMON, then.$"
+    .string "RON: Ville du kaempe med min\n"
+    .string "soester og mig?\p"
+    .string "Du skal bruge to POKeMON, saa.$"

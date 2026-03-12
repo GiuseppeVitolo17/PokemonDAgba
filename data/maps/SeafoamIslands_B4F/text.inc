@@ -1,29 +1,29 @@
 Text_RockSlideTeach::
-    .string "When you're up on a rocky mountain\n"
-    .string "like this, rockslides are a threat.\p"
-    .string "Can you imagine?\n"
-    .string "Boulders tumbling down on you?\p"
-    .string "That'd be, like, waaaaaaaaaaah!\n"
-    .string "Total terror!\p"
-    .string "You don't seem to be scared.\n"
-    .string "Want to try using ROCK SLIDE?$"
+    .string "Naar du er oppe paa et bjerg med sten\n"
+    .string "som her, er stenskred en trussel.\p"
+    .string "Kan du forestille dig?\n"
+    .string "Kampesten der vaelter ned over dig?\p"
+    .string "Det ville vaere, ligesom, waaaaaaaaaaah!\n"
+    .string "Total skraek!\p"
+    .string "Du ser ikke bange ud.\n"
+    .string "Vil du praeve at bruge ROCK SLIDE?$"
 
 Text_RockSlideDeclined::
-    .string "Oh, so you are scared after all.$"
+    .string "Ah, saa du er bange alligevel.$"
 
 Text_RockSlideWhichMon::
-    .string "Which POKéMON should I teach\n"
+    .string "Hvilket POKeMON skal jeg laere\n"
     .string "ROCK SLIDE?$"
 
 Text_RockSlideTaught::
-    .string "It might be scary to use it in this\n"
-    .string "tunnel…$"
+    .string "Det kan vaere skraemmende at bruge det\n"
+    .string "i denne tunnel…$"
 
 SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
-    .string "Hint: Boulders might change the\n"
-    .string "flow of water.$"
+    .string "Hint: Kampesten kan aendre\n"
+    .string "vandstroemmen.$"
 
 SeafoamIslands_B4F_Text_DangerFastCurrent::
-    .string "DANGER\n"
-    .string "Fast current!$"
+    .string "FARE\n"
+    .string "Hurtig stroem!$"
 

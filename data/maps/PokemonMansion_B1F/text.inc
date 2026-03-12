@@ -1,28 +1,27 @@
 PokemonMansion_B1F_Text_LewisIntro::
     .string "Uh-oh…\n"
-    .string "Where am I now?$"
+    .string "Hvor er jeg nu?$"
 
 PokemonMansion_B1F_Text_LewisDefeat::
     .string "Awooh!$"
 
 PokemonMansion_B1F_Text_LewisPostBattle::
-    .string "You can find stuff lying around.\n"
-    .string "The residents must've left them.$"
+    .string "Du kan finde ting der ligger.\n"
+    .string "Beboerne maa have efterladt dem.$"
 
 PokemonMansion_B1F_Text_IvanIntro::
-    .string "This place is ideal for a lab.\n"
-    .string "Look at all this space.$"
+    .string "Dette sted er ideelt til et lab.\n"
+    .string "Se al denne plads.$"
 
 PokemonMansion_B1F_Text_IvanDefeat::
-    .string "What was that for?$"
+    .string "Hvad var det for?$"
 
 PokemonMansion_B1F_Text_IvanPostBattle::
-    .string "I like it here.\n"
-    .string "It's conducive to my studies.$"
+    .string "Jeg kan lide det her.\n"
+    .string "Det er godt for mine studier.$"
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
-    .string "Diary: Sept. 1\n"
-    .string "MEWTWO is far too powerful.\p"
-    .string "We have failed to curb its vicious\n"
-    .string "tendencies…$"
-
+    .string "Dagbog: 1. sept\n"
+    .string "MEWTWO er langt for kraeftig.\p"
+    .string "Vi har ikke formaaet at daempe dens\n"
+    .string "ondskabsfulde tendenser…$"

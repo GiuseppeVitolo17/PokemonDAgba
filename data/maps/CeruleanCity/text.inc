@@ -1,46 +1,46 @@
 CeruleanCity_Text_RivalIntro::
     .string "{RIVAL}: Yo! {PLAYER}!\p"
-    .string "You're still struggling along back\n"
-    .string "here?\p"
-    .string "I'm doing great! I caught a bunch\n"
-    .string "of strong and smart POKéMON!\p"
-    .string "Here, let me see what you caught,\n"
+    .string "Du kaemper stadig dig frem her\n"
+    .string "bagved?\p"
+    .string "Jeg har det fantastisk! Jeg fangede en masse\n"
+    .string "staerke og kloge POKeMON!\p"
+    .string "Her, lad mig se hvad du fangede,\n"
     .string "{PLAYER}!$"
 
 CeruleanCity_Text_RivalDefeat::
     .string "Hey!\n"
-    .string "Take it easy!\l"
-    .string "You won already!$"
+    .string "Tag det roligt!\l"
+    .string "Du har allerede vundet!$"
 
 CeruleanCity_Text_RivalPostBattle::
-    .string "{RIVAL}: Hey, guess what?\p"
-    .string "I went to BILL's and got him to\n"
-    .string "show me his rare POKéMON.\p"
-    .string "That added a lot of pages to my\n"
-    .string "POKéDEX!\p"
-    .string "After all, BILL's world famous as a\n"
-    .string "POKéMANIAC.\p"
-    .string "He invented the POKéMON Storage\n"
-    .string "System on PC, too.\p"
-    .string "Since you're using his system,\n"
-    .string "you should go thank him.\p"
-    .string "Well, I better get rolling!\n"
-    .string "Smell ya later!$"
+    .string "{RIVAL}: Hey, gaet hvad?\p"
+    .string "Jeg var hos BILL og fik ham til at\n"
+    .string "vise mig sine sjaeldne POKeMON.\p"
+    .string "Det tilfoejede mange sider til min\n"
+    .string "POKeDEX!\p"
+    .string "BILL er trods alt verdensberoemt som\n"
+    .string "POKeMANIAC.\p"
+    .string "Han opfandt ogsaa POKeMON Storage\n"
+    .string "System paa PC.\p"
+    .string "Siden du bruger hans system,\n"
+    .string "boer du takke ham.\p"
+    .string "Naa, jeg maa videre!\n"
+    .string "Vi ses!$"
 
 CeruleanCity_Text_OhRightLittlePresentAsFavor::
-    .string "Oh, yeah, right.\p"
-    .string "I feel sorry for you. No, really.\n"
-    .string "You're always plodding behind me.\p"
-    .string "So here, I'll give you a little\n"
-    .string "present as a favor.$"
+    .string "Aah, ja, lige det.\p"
+    .string "Jeg har ondt af dig. Nej, virkelig.\n"
+    .string "Du pladrer altid bag mig.\p"
+    .string "Sa her, jeg giver dig en lille\n"
+    .string "gave som tjeneste.$"
 
 CeruleanCity_Text_ExplainFameCheckerSmellYa::
-    .string "A chatty gossip like you…\n"
-    .string "That thing's perfect.\p"
-    .string "I don't need it because I don't\n"
-    .string "give a hoot about others.\p"
-    .string "All right, this time I really am\n"
-    .string "gone. Smell ya!$"
+    .string "En sladderhank som dig…\n"
+    .string "Den ting er perfekt.\p"
+    .string "Jeg har ikke brug for den for jeg\n"
+    .string "bryder mig ikke om andre.\p"
+    .string "Okay, denne gang er jeg virkelig\n"
+    .string "vaek. Vi ses!$"
 
 @ RB translation: "Heh! You're no match for my genius!"
 CeruleanCity_Text_RivalVictory::
@@ -48,135 +48,134 @@ CeruleanCity_Text_RivalVictory::
     .string "おれは　てんさい　だからよ！$"
 
 CeruleanCity_Text_GruntIntro::
-    .string "Hey! Stay out!\n"
-    .string "It's not your yard!\p"
-    .string "…Huh?\n"
-    .string "Me?\p"
-    .string "I'm an innocent bystander!\n"
-    .string "Don't you believe me?{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
+    .string "Hey! Hold dig vaek!\n"
+    .string "Det er ikke din have!\p"
+    .string "…Hva?\n"
+    .string "Mig?\p"
+    .string "Jeg er et uskyldigt vidne!\n"
+    .string "Tror du ikke paa mig?{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
 
 CeruleanCity_Text_GruntDefeat::
-    .string "GRUNT: Stop! I give up!\n"
-    .string "I'll leave quietly!$"
+    .string "GRUNT: Stop! Jeg giver op!\n"
+    .string "Jeg gaaer stille!$"
 
 CeruleanCity_Text_OkayIllReturnStolenTM::
     .string "…Okay.\n"
-    .string "I'll return the TM I stole.$"
+    .string "Jeg returnerer TM'en jeg stjal.$"
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::
-    .string "{PLAYER} recovered TM28 from\n"
-    .string "the TEAM ROCKET GRUNT.$"
+    .string "{PLAYER} genvandt TM28 fra\n"
+    .string "TEAM ROCKET GRUNT.$"
 
 CeruleanCity_Text_BetterGetMovingBye::
-    .string "I better get moving!\n"
-    .string "Bye!$"
+    .string "Jeg maa videre!\n"
+    .string "Hej hej!$"
 
 CeruleanCity_Text_MakeRoomForThisCantRun::
-    .string "Make room for this!\n"
-    .string "I can't run until I give it to you!$"
+    .string "Lav plads til dette!\n"
+    .string "Jeg kan ikke loebe foer jeg har givet dig det!$"
 
 CeruleanCity_Text_TrainerLifeIsToughIsntIt::
-    .string "You're a TRAINER, too?\p"
-    .string "Collecting, battling…\n"
-    .string "It's a tough life, isn't it?$"
+    .string "Du er ogsaa TRAINER?\p"
+    .string "Samle, kaempe…\n"
+    .string "Det er et haardt liv, er det ikke?$"
 
 CeruleanCity_Text_YouCanCutDownSmallTrees::
-    .string "Did you know that you can CUT down\n"
-    .string "small trees?\p"
-    .string "Even that small tree in front of\n"
-    .string "the shop can be CUT down.\p"
-    .string "I think there's a way around it,\n"
-    .string "though.$"
+    .string "Vidste du at du kan CUT ned\n"
+    .string "smaa traeer?\p"
+    .string "Selv det lille trae foran\n"
+    .string "butikken kan CUTtes ned.\p"
+    .string "Jeg tror der er en vej rundt om det,\n"
+    .string "dog.$"
 
 CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
-    .string "If that SLOWBRO wasn't there, you\n"
-    .string "could CUT down the small tree.\p"
-    .string "That way, you could get to the\n"
-    .string "other side.\p"
-    .string "I think there's a way around it,\n"
-    .string "though.$"
+    .string "Hvis den SLOWBRO ikke var der, kunne du\n"
+    .string "CUTte det lille trae ned.\p"
+    .string "Saadan kunne du naa den\n"
+    .string "anden side.\p"
+    .string "Jeg tror der er en vej rundt om det,\n"
+    .string "dog.$"
 
 CeruleanCity_Text_PokemonEncyclopediaAmusing::
-    .string "You're making an encyclopedia on\n"
-    .string "POKéMON? That sounds amusing.$"
+    .string "Du laver en leksikon om\n"
+    .string "POKeMON? Det lyder morsomt.$"
 
 CeruleanCity_Text_PeopleHereWereRobbed::
-    .string "The people here were robbed.\p"
-    .string "It's obvious that TEAM ROCKET is\n"
-    .string "behind this most heinous crime!\p"
-    .string "Even our POLICE FORCE has\n"
-    .string "trouble with the ROCKETS!$"
+    .string "Folkene her blev roevet.\p"
+    .string "Det er tydeligt at TEAM ROCKET er\n"
+    .string "bag denne grufulde forbrydelse!\p"
+    .string "Selv vores POLITI har\n"
+    .string "besvaer med ROCKETs!$"
 
 CeruleanCity_Text_SlowbroUseSonicboom::
     .string "Okay! SLOWBRO!\n"
-    .string "Use SONICBOOM!$"
+    .string "Brug SONICBOOM!$"
 
 CeruleanCity_Text_SlowbroPayAttention::
-    .string "Come on, SLOWBRO, pay attention!$"
+    .string "Kom nu, SLOWBRO, vaer opmaerksom!$"
 
 CeruleanCity_Text_SlowbroPunch::
-    .string "SLOWBRO, punch!$"
+    .string "SLOWBRO, slaa!$"
 
 CeruleanCity_Text_NoYouBlewItAgain::
-    .string "No!\n"
-    .string "You blew it again!$"
+    .string "Nej!\n"
+    .string "Du oedelagde det igen!$"
 
 CeruleanCity_Text_SlowbroWithdraw::
     .string "SLOWBRO, WITHDRAW!$"
 
 CeruleanCity_Text_HardToControlMonsObedience::
-    .string "No! That's wrong!\n"
-    .string "It's so hard to control POKéMON!\p"
-    .string "Your POKéMON's obedience depends\n"
-    .string "on your abilities as a TRAINER.$"
+    .string "Nej! Det er forkert!\n"
+    .string "Det er saa svaert at kontrollere POKeMON!\p"
+    .string "Din POKeMONs lydighed afhaenger af\n"
+    .string "dine evner som TRAINER.$"
 
 CeruleanCity_Text_SlowbroTookSnooze::
-    .string "SLOWBRO took a snooze…$"
+    .string "SLOWBRO tog en lur…$"
 
 CeruleanCity_Text_SlowbroLoafingAround::
-    .string "SLOWBRO is loafing around…$"
+    .string "SLOWBRO driver…$"
 
 CeruleanCity_Text_SlowbroTurnedAway::
-    .string "SLOWBRO turned away…$"
+    .string "SLOWBRO vendte sig vaek…$"
 
 CeruleanCity_Text_SlowbroIgnoredOrders::
-    .string "SLOWBRO ignored orders…$"
+    .string "SLOWBRO ignorerede ordrer…$"
 
 CeruleanCity_Text_WantBrightRedBicycle::
-    .string "I want a bright red bicycle.\p"
-    .string "I'll keep it at home, so it won't\n"
-    .string "get dirty.$"
+    .string "Jeg vil have en skinnende roed cykel.\p"
+    .string "Jeg holder den hjemme, saa den ikke\n"
+    .string "bliver beskidt.$"
 
 CeruleanCity_Text_ThisIsCeruleanCave::
-    .string "This is CERULEAN CAVE.\p"
-    .string "Horribly strong POKéMON live inside\n"
-    .string "there.\p"
-    .string "It takes a very special TRAINER to\n"
-    .string "be allowed inside there.\p"
-    .string "You'd have to be strong enough to\n"
-    .string "become the POKéMON LEAGUE\l"
-    .string "CHAMPION for starters.\p"
-    .string "And, you would have to have\n"
-    .string "made a great achievement.$"
+    .string "Dette er CERULEAN CAVE.\p"
+    .string "Forfaerdeligt staerke POKeMON bor\n"
+    .string "derinde.\p"
+    .string "Det kraever en meget speciel TRAINER\n"
+    .string "for at faa lov til at komme ind.\p"
+    .string "Du skal i det mindste vaere staerk nok\n"
+    .string "til at blive POKeMON LEAGUE\l"
+    .string "CHAMPION for at starte.\p"
+    .string "Og du skal have gjort en stor\n"
+    .string "bedrift.$"
 
 CeruleanCity_Text_CitySign::
     .string "CERULEAN CITY\n"
-    .string "A Mysterious, Blue Aura Surrounds\l"
-    .string "It$"
+    .string "En mystisk, blaa aura omgiver\l"
+    .string "den$"
 
 CeruleanCity_Text_TrainerTipsHeldItems::
     .string "TRAINER TIPS\p"
-    .string "A POKéMON can be made to hold\n"
-    .string "an item.\p"
-    .string "Some items can even be used by\n"
-    .string "the holding POKéMON in battle.$"
+    .string "En POKeMON kan faa et item at\n"
+    .string "holde.\p"
+    .string "Nogle items kan endda bruges af\n"
+    .string "den holdende POKeMON i kamp.$"
 
 CeruleanCity_Text_BikeShopSign::
-    .string "Grass and caves handled easily!\n"
+    .string "Graes og huler haandteres nemt!\n"
     .string "BIKE SHOP$"
 
 CeruleanCity_Text_GymSign::
-    .string "CERULEAN CITY POKéMON GYM\n"
+    .string "CERULEAN CITY POKeMON GYM\n"
     .string "LEADER: MISTY\l"
-    .string "The Tomboyish Mermaid!$"
-
+    .string "Den drengede Havfrue!$"

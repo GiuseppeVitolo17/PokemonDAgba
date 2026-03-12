@@ -1,38 +1,37 @@
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All boys leave home someday.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "MOR: …Lige saa.\n"
+    .string "Alle drenge forlader hjemmet en dag.\l"
+    .string "Saa staar der i TV.\p"
+    .string "Oh ja. PROF. OAK, ved siden af,\n"
+    .string "ledte efter dig.$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All girls dream of traveling.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "MOR: …Lige saa.\n"
+    .string "Alle piger droemmer om at rejse.\l"
+    .string "Saa staar der i TV.\p"
+    .string "Oh ja. PROF. OAK, ved siden af,\n"
+    .string "ledte efter dig.$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
-    .string "MOM: {PLAYER}!\n"
-    .string "You should take a quick rest.$"
+    .string "MOR: {PLAYER}!\n"
+    .string "Du boer tage en kort hvile.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
-    .string "MOM: Oh, good! You and your\n"
-    .string "POKéMON are looking great.\l"
-    .string "Take care now!$"
+    .string "MOR: Oh, godt! Du og dine\n"
+    .string "POKeMON ser godt ud.\l"
+    .string "Pas paa dig selv!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::
-    .string "There's a movie on TV.\n"
-    .string "Four boys are walking on railroad\l"
-    .string "tracks.\p"
-    .string "…I better go, too.$"
+    .string "Der er en film i TV.\n"
+    .string "Fire drenge gaar paa jernbanen.\l"
+    .string "…Jeg maa hellere gaa ogsaa.$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVGirlOnBrickRoad::
-    .string "There's a movie on TV.\n"
-    .string "A girl with her hair in pigtails is\l"
-    .string "walking up a brick road.\p"
-    .string "…I better go, too.$"
+    .string "Der er en film i TV.\n"
+    .string "En pige med fletninger gaar op ad\l"
+    .string "en brostensbelagt vej.\p"
+    .string "…Jeg maa hellere gaa ogsaa.$"
 
 PalletTown_PlayersHouse_1F_Text_OopsWrongSide::
-    .string "Oops, wrong side…$"
+    .string "Ups, forkert side…$"
 

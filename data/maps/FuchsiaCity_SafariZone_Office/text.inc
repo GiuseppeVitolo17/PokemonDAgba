@@ -1,25 +1,25 @@
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-    .string "We nicknamed the WARDEN\n"
-    .string "“SLOWPOKE.”\p"
-    .string "You know, he has that vacant look\n"
-    .string "like a SLOWPOKE.$"
+    .string "Vi gav VOGTEREN tilnavnet\n"
+    .string "SLOWPOKE.\p"
+    .string "Han har det fravaerende blik\n"
+    .string "som en SLOWPOKE.$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
-    .string "WARDEN SLOWPOKE is very\n"
-    .string "knowledgeable about POKéMON.\p"
-    .string "He even has some fossils of rare,\n"
-    .string "extinct POKéMON.$"
+    .string "VOGTER SLOWPOKE er meget\n"
+    .string "velinformeret om POKeMON.\p"
+    .string "Han har endda fossiler af sjaelde,\n"
+    .string "uddoede POKeMON.$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
-    .string "WARDEN SLOWPOKE came in, but\n"
-    .string "I couldn't understand him.\p"
-    .string "I think he's got a speech problem!$"
+    .string "VOGTER SLOWPOKE kom ind, men\n"
+    .string "jeg kunne ikke forstaa ham.\p"
+    .string "Jeg tror han har et taleproblem!$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
-    .string "WARDEN SLOWPOKE is running a\n"
-    .string "promotion campaign right now.\p"
-    .string "Try to get to the farthest corner\n"
-    .string "of the SAFARI ZONE.\p"
-    .string "If you can make it, you'll win a\n"
-    .string "very convenient prize.$"
+    .string "VOGTER SLOWPOKE koerer en\n"
+    .string "kampagne lige nu.\p"
+    .string "Proev at naa det fjerneste hjoerne\n"
+    .string "af SAFARI ZONE.\p"
+    .string "Hvis du kan, vinder du en meget\n"
+    .string "praktisk praemie.$"
 
