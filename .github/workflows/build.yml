@@ -19,6 +19,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Ensure no ROM in repo
+        run: |
+          if [ -n "$(git ls-files '*.gba')" ]; then
+            echo "::error::ROM files (.gba) must not be committed to the repo"
+            exit 1
+          fi
+          if [ -n "$(git ls-files '*.elf')" ]; then
+            echo "::error::Build artifacts (.elf) must not be committed"
+            exit 1
+          fi
+          echo "No ROM or build artifacts in repo - OK"
+
       - name: Checkout agbcc
         uses: actions/checkout@v4
         with:
