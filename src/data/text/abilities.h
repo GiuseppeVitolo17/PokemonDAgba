@@ -1,5 +1,5 @@
 static const u8 sNoneDescription[] = _("Ingen saerlig evne.");
-static const u8 sStenchDescription[] = _("Hjaelper med at drive vilde POKéMON vaek.");
+static const u8 sStenchDescription[] = _("Hjaelper med at drive vilde POKeMON vaek.");
 static const u8 sDrizzleDescription[] = _("Tilkalder regn i kamp.");
 static const u8 sSpeedBoostDescription[] = _("OEger HASTIGHED gradvist.");
 static const u8 sBattleArmorDescription[] = _("Blokerer kritiske traeffere.");
@@ -40,7 +40,7 @@ static const u8 sPoisonPointDescription[] = _("Forgifter fjende ved beroering.")
 static const u8 sInnerFocusDescription[] = _("Forhindrer at vige.");
 static const u8 sMagmaArmorDescription[] = _("Forhindrer frysning.");
 static const u8 sWaterVeilDescription[] = _("Forhindrer forbraending.");
-static const u8 sMagnetPullDescription[] = _("Fanger STAAL-type POKéMON.");
+static const u8 sMagnetPullDescription[] = _("Fanger STAAL-type POKeMON.");
 static const u8 sSoundproofDescription[] = _("Undgaar lyd-baserede angreb.");
 static const u8 sRainDishDescription[] = _("Lille KP-genvinding i regn.");
 static const u8 sSandStreamDescription[] = _("Tilkalder sandstorm.");

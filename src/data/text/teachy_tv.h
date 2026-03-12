@@ -1,7 +1,7 @@
 const u8 gTeachyTvString_TeachBattle[] = _("Laer mig at kaempe.");
 const u8 gTeachyTvString_StatusProblems[] = _("Hvad er statusproblemer?");
 const u8 gTeachyTvString_TypeMatchups[] = _("Hvad er type-matchups?");
-const u8 gTeachyTvString_CatchPkmn[] = _("Jeg vil fange POKéMON.");
+const u8 gTeachyTvString_CatchPkmn[] = _("Jeg vil fange POKeMON.");
 const u8 gTeachyTvString_AboutTMs[] = _("Fortael mig om TM'er.");
 const u8 gTeachyTvString_RegisterItem[] = _("Hvordan registrerer jeg en genstand?");
 const u8 gTeachyTvString_Cancel[] = _("ANNULLER");
@@ -11,71 +11,71 @@ const u8 gTeachyTvText_PokedudeSaysHello[] = _(
     "……… ……… ………\p"
     "Kom nu, lad mig here jer!\n"
     "HALLO, TRAENERE!\l"
-    "Det er mig, POKé DUDE'en!\p");
+    "Det er mig, POKe DUDE'en!\p");
 const u8 gTeachyTvText_BattleScript1[] = _(
-    "I dag er POKé DUDE her for at\n"
+    "I dag er POKe DUDE her for at\n"
     "fortaelle om, hvordan du kaemper\l"
-    "mod POKéMON!\p"
+    "mod POKeMON!\p"
     "Sig du er ude at ga, da der\n"
-    "pludselig dukker en vild POKéMON op!\p"
+    "pludselig dukker en vild POKeMON op!\p"
     "Det er op til dig at bruge dine\n"
-    "POKéMON og deres angreb smart til\l"
+    "POKeMON og deres angreb smart til\l"
     "at reducere modstanderens KP til nul\l"
     "og vinde!\p"
     "Jeg viser dig hvordan, personligt\n"
     "og helt sikkert!\p"
     "Okay, sa gaar vi!\p"
     "Hold ojnene rettet mod det super\n"
-    "POKé DUDE SHOW!");
+    "POKe DUDE SHOW!");
 const u8 gTeachyTvText_BattleScript2[] = _(
     "Na, forstod I det?\p"
-    "Selv hvis din POKéMONs KP falder\n"
+    "Selv hvis din POKeMONs KP falder\n"
     "til nul og den ikke kan kaempe,\l"
     "er der ingen grund til bekymring!\p"
-    "Bare tag den til et POKéMON\n"
+    "Bare tag den til et POKeMON\n"
     "CENTER og hel den!\p"
     "Okay, vi ses!\p"
     "Husk, TRAENERE: en god gerning\n"
     "om dagen giver lykke at blive!");
 const u8 gTeachyTvText_StatusScript1[] = _(
-    "I dag er POKé DUDE her for at\n"
+    "I dag er POKe DUDE her for at\n"
     "fortaelle om statusproblemer!\p"
     "Statusproblemer inkluderer forgiftning,\n"
     "lammelse, soevn, forbraendinger…\p"
     "Der er et par til, men de\n"
     "er virkelig besvaerlige.\p"
-    "Faar du een, kan din POKéMON\n"
+    "Faar du een, kan din POKeMON\n"
     "blive ubrugelig i kamp.\p"
-    "Det goer ondt paa POKé DUDE\n"
-    "at se en POKéMON lide…\p"
+    "Det goer ondt paa POKe DUDE\n"
+    "at se en POKeMON lide…\p"
     "Sa hvad goer du, hvis din\n"
-    "POKéMON faar et statusproblem?\p"
+    "POKeMON faar et statusproblem?\p"
     "Du har mig til at vise dig!\p"
     "Okay, sa gaar vi!\p"
     "Hold ojnene rettet mod det super\n"
-    "POKé DUDE SHOW!");
+    "POKe DUDE SHOW!");
 const u8 gTeachyTvText_StatusScript2[] = _(
     "Forgiftning eller lammelse forsvinder\n"
     "ikke efter en kamp.\p"
-    "Hvis en POKéMON er forgiftet, mister\n"
+    "Hvis en POKeMON er forgiftet, mister\n"
     "den KP selv mens du gaar.\p"
-    "Du boer helbrede POKéMON for saadanne\n"
+    "Du boer helbrede POKeMON for saadanne\n"
     "problemer med det samme.\p"
     "Brug en genstand, eller kom til et\n"
-    "POKéMON CENTER for helbredelse.\p"
+    "POKeMON CENTER for helbredelse.\p"
     "Det var ikke svaert, vel?\n"
     "Okay, vi ses!\p"
     "Husk, TRAENERE: en god gerning\n"
     "om dagen giver lykke at blive!");
 const u8 gTeachyTvText_MatchupsScript1[] = _(
     "Ved alle om type-matchups?\p"
-    "POKéMON og deres angreb tilhoerer\n"
+    "POKeMON og deres angreb tilhoerer\n"
     "alle bestemte typer.\p"
     "For eksempel findes typer som\n"
     "GRAES og VAND.\p"
     "Du skal taenke paa typen af\n"
     "angrebet der bruges…\p"
-    "Og typen af den POKéMON der\n"
+    "Og typen af den POKeMON der\n"
     "bliver ramt af angrebet.\p"
     "Afhaengigt af hvordan de to typer\n"
     "matcher, kan skaden aendres.\p"
@@ -87,26 +87,26 @@ const u8 gTeachyTvText_MatchupsScript1[] = _(
     "jeg mener.\p"
     "Okay, sa gaar vi!\p"
     "Hold ojnene rettet mod det super\n"
-    "POKé DUDE SHOW!");
+    "POKe DUDE SHOW!");
 const u8 gTeachyTvText_MatchupsScript2[] = _(
     "Er det muligt at starte et angreb\n"
     "der tilfoeger stor skade?\p"
-    "Udgoer modstanderens POKéMON en\n"
-    "trussel mod din POKéMON?\p"
+    "Udgoer modstanderens POKeMON en\n"
+    "trussel mod din POKeMON?\p"
     "Er der chance for at den har\n"
     "farligt staerke angreb?\p"
     "Hold oje med type-matchups for at\n"
     "faa overhaand!\p"
     "Okay, vi ses!\p"
-    "Oh, for COOL-type POKé DUDE matcher\n"
+    "Oh, for COOL-type POKe DUDE matcher\n"
     "AWESOME-type boern som jer\l"
     "perfekt!\p"
     "Husk: en god gerning om dagen\n"
     "giver lykke at blive!");
 const u8 gTeachyTvText_CatchingScript1[] = _(
-    "I dag viser POKé DUDE dig\n"
-    "hvordan man fanger POKéMON!\p"
-    "Forestil dig… en fed POKéMON der\n"
+    "I dag viser POKe DUDE dig\n"
+    "hvordan man fanger POKeMON!\p"
+    "Forestil dig… en fed POKeMON der\n"
     "pludselig dukker op i naturen!\p"
     "Ah, du vil have den!\n"
     "Du kan ikke laade vaere!\p"
@@ -115,11 +115,11 @@ const u8 gTeachyTvText_CatchingScript1[] = _(
     "Lad mig vise hvordan du goer det!\p"
     "Okay, sa gaar vi!\p"
     "Hold ojnene rettet mod det super\n"
-    "POKé DUDE SHOW!");
+    "POKe DUDE SHOW!");
 const u8 gTeachyTvText_CatchingScript2[] = _(
-    "Hvis din foerste POKé BOLD ikke\n"
-    "fanger POKéMON, giv ikke op!\p"
-    "Bliv ved med at kaste POKé BOLD…\n"
+    "Hvis din foerste POKe BOLD ikke\n"
+    "fanger POKeMON, giv ikke op!\p"
+    "Bliv ved med at kaste POKe BOLD…\n"
     "Det virker sikkert paa et tidspunkt!\p"
     "Okay, vi ses!\p"
     "Husk, TRAENERE: en god gerning\n"
@@ -129,7 +129,7 @@ const u8 gTeachyTvText_TMsScript1[] = _(
     "Har I alle TM'er?\p"
     "En TM, Technical Machine, er en\n"
     "fantastisk genstand!\p"
-    "Den laerer en POKéMON et angreb som\n"
+    "Den laerer en POKeMON et angreb som\n"
     "den maaske ikke laerer ved level up!\p"
     "Er det ikke bare fedt? Sikke en\n"
     "praktisk verden vi lever i!\p"
@@ -137,25 +137,25 @@ const u8 gTeachyTvText_TMsScript1[] = _(
     "TM'er du har.\p"
     "Du kan ogsaa tjekke dem i detaljer.");
 const u8 gPokedudeText_TMTypes[] = _(
-    "POKé DUDE: NORMAL, VAND, GRAES…\n"
+    "POKe DUDE: NORMAL, VAND, GRAES…\n"
     "TM'er har ogsaa typer.\p"
     "Tjek typen og laer den til en\n"
-    "POKéMON der matcher godt.\p"
+    "POKeMON der matcher godt.\p"
     "For eksempel er VAND PULS\n"
-    "egnet til VAND-type POKéMON.\p"
+    "egnet til VAND-type POKeMON.\p"
     "BULLET SEED er et angreb som de\n"
-    "fleste GRAES-type POKéMON kan laere.\p"
+    "fleste GRAES-type POKeMON kan laere.\p"
     "Der er endnu een ting!");
 const u8 gPokedudeText_ReadTMDescription[] = _(
     "Kig ikke kun paa typen, laes\n"
     "ogsaa beskrivelsen.\p"
     "Den indeholder hints om hvilke\n"
-    "POKéMON der kan laere angrebet.\p"
+    "POKeMON der kan laere angrebet.\p"
     "Tag for eksempel et angreb som\n"
     "FOCUS PUNCH.\p"
     "Det lyder ikke som noget en\n"
-    "fugl eller fisk POKéMON kan laere.\p"
-    "Sa proev at bruge det paa POKéMON\n"
+    "fugl eller fisk POKeMON kan laere.\p"
+    "Sa proev at bruge det paa POKeMON\n"
     "med arme der kan slaa!");
 const u8 gTeachyTvText_TMsScript2[] = _(
     "Wow, jeg snakkede meget i dag!\n"
@@ -175,7 +175,7 @@ const u8 gTeachyTvText_RegisterScript1[] = _(
     "brug, og jeg viser dig hvordan!\p"
     "Okay, sa gaar vi!\p"
     "Hold ojnene rettet mod det naesten\n"
-    "super POKé DUDE SHOW!");
+    "super POKe DUDE SHOW!");
 const u8 gTeachyTvText_RegisterScript2[] = _(
     "Og nu er dit TEACHY TV\n"
     "registreret.\p"

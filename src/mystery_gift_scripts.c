@@ -6,7 +6,7 @@
 extern const struct MysteryGiftServerCmd gServerScript_ClientCanceledCard[];
 
 // Unreferenced
-static const u8 sText_CollectedAllStamps[] = _("You have collected all STAMPs!\nWant to input a CARD as a prize?");
+static const u8 sText_CollectedAllStamps[] = _("Du har samlet alle STAMPs!\nVil du indtaste et CARD som praemie?");
 
 //==================
 // Client scripts
