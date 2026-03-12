@@ -1,106 +1,103 @@
 PokedexRating_Text_HowIsPokedexComingAlong::
-	.string "OAK: Good to see you!\n"
-	.string "How is your POKéDEX coming along?\p"
-	.string "Here, let me take a look.$"
+	.string "OAK: Godt at se dig!\n"
+	.string "Hvordan gaar det med din POKeDEX?\p"
+	.string "Lad mig tage et kig.$"
 
 PokedexRating_Text_SeenXOwnedY::
-	.string "The amount of progress you've made\n"
-	.string "on your POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.\p"
-	.string "{FONT_NORMAL}PROF. OAK's rating:$"
+	.string "Din fremgang i POKeDEX er:\p"
+	.string "{STR_VAR_1} POKeMON set og\n"
+	.string "{STR_VAR_2} POKeMON ejet.\p"
+	.string "{FONT_NORMAL}PROF. OAKs vurdering:$"
 
 PokedexRating_Text_LessThan10::
-	.string "You still have lots to do.\p"
-	.string "Go into every patch of grass you\n"
-	.string "see and look for POKéMON!$"
+	.string "Du har stadig meget at gore.\p"
+	.string "Ga ind i hver græsplet du ser\n"
+	.string "og led efter POKeMON!$"
 
 PokedexRating_Text_LessThan20::
-	.string "It looks as if you're getting on\n"
-	.string "the right track!\p"
-	.string "I've given one of my AIDES a FLASH\n"
-	.string "HM. Make sure you go get it!$"
+	.string "Det ser ud til at du er paa rette\n"
+	.string "vej!\p"
+	.string "Jeg har givet en af mine assistenter\n"
+	.string "en FLASH-HM. Haent den!$"
 
 PokedexRating_Text_LessThan30::
-	.string "Your POKéDEX could use a bit more\n"
-	.string "volume still!\p"
-	.string "Try to catch other species of\n"
-	.string "POKéMON!$"
+	.string "Din POKeDEX kunne bruge lidt mere\n"
+	.string "indhold!\p"
+	.string "Forsoeg at fange andre POKeMON-\n"
+	.string "arter!$"
 
 PokedexRating_Text_LessThan40::
-	.string "Good, it's apparent that you're\n"
-	.string "trying hard!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "ITEMFINDER. Be sure to collect it!$"
+	.string "Godt, det er tydeligt at du\n"
+	.string "goer dig umage!\p"
+	.string "Jeg har givet en af mine assistenter\n"
+	.string "en GENSTANDSFINDER. Haent den!$"
 
 PokedexRating_Text_LessThan50::
-	.string "Your POKéDEX is coming along quite\n"
-	.string "well!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "AMULET COIN. Be sure to get it!$"
+	.string "Din POKeDEX kommer godt fra sted!\p"
+	.string "Jeg har givet en af mine assistenter\n"
+	.string "et AMULET-MOENT. Haent det!$"
 
 PokedexRating_Text_LessThan60::
-	.string "Ah, you've finally topped 50\n"
-	.string "species!\p"
-	.string "I've given one of my AIDES an EXP.\n"
-	.string "SHARE. Be sure to go get it!$"
+	.string "Ah, du har endelig over 50 arter!\p"
+	.string "Jeg har givet en af mine assistenter\n"
+	.string "et EXP.-DELER. Haent det!$"
 
 PokedexRating_Text_LessThan70::
-	.string "Hoho! This is turning into quite the\n"
-	.string "respectable POKéDEX!$"
+	.string "Hoho! Det her bliver en rigtig\n"
+	.string "respektabel POKeDEX!$"
 
 PokedexRating_Text_LessThan80::
-	.string "Very good!\p"
-	.string "I think you'll collect even more\n"
-	.string "POKéMON by going fishing!$"
+	.string "Meget godt!\p"
+	.string "Jeg tror du fanger endnu flere\n"
+	.string "POKeMON ved at fiske!$"
 
 PokedexRating_Text_LessThan90::
-	.string "Wonderful! Let me guess… You\n"
-	.string "like to collect things, don't you?$"
+	.string "Vidunderligt! Lad mig gaette… Du\n"
+	.string "kan godt lide at samle, ikke?$"
 
 PokedexRating_Text_LessThan100::
-	.string "I'm impressed!\n"
-	.string "It must have been difficult to do!$"
+	.string "Jeg er imponeret!\n"
+	.string "Det maa have vaeret svaert!$"
 
 PokedexRating_Text_LessThan110::
-	.string "You've finally hit 100 species!\n"
-	.string "I can't believe how good you are!$"
+	.string "Du har endelig naaet 100 arter!\n"
+	.string "Utroligt hvor dygtig du er!$"
 
 PokedexRating_Text_LessThan120::
-	.string "You even have the evolved forms\n"
-	.string "of POKéMON! Super!$"
+	.string "Du har endda udviklede former\n"
+	.string "af POKeMON! Super!$"
 
 PokedexRating_Text_LessThan130::
-	.string "Excellent! Trade with friends to\n"
-	.string "get some more!$"
+	.string "Fremragende! Bytt med venner for\n"
+	.string "at faa flere!$"
 
 PokedexRating_Text_LessThan140::
-	.string "Outstanding!\n"
-	.string "You've become a real pro at this!$"
+	.string "Enestaende!\n"
+	.string "Du er blevet en rigtig ekspert!$"
 
 PokedexRating_Text_LessThan150::
-	.string "I have nothing left to say!\n"
-	.string "You're the POKéMON PROFESSOR now!$"
+	.string "Jeg har intet mere at sige!\n"
+	.string "Du er POKeMON-professoren nu!$"
 
 PokedexRating_Text_Complete::
-	.string "Your POKéDEX is entirely complete!\n"
-	.string "Congratulations!!$"
+	.string "Din POKeDEX er helt faerdig!\n"
+	.string "Tillykke!!$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
-	.string "And your NATIONAL POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.$"
+	.string "Og din NATIONAL POKeDEX er:\p"
+	.string "{STR_VAR_1} POKeMON set og\n"
+	.string "{STR_VAR_2} POKeMON ejet.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
-	.string "I'll be looking forward to seeing\n"
-	.string "you fill the NATIONAL POKéDEX!$"
+	.string "Jeg glaeder mig til at se dig\n"
+	.string "udfylde NATIONAL POKeDEX!$"
 
 PokedexRating_Text_YouveCompletedDex::
-	.string "Finally…\p"
-	.string "You've finally completed the\n"
-	.string "POKéDEX!\p"
-	.string "It's magnificent!\n"
-	.string "Truly, this is a fantastic feat!$"
+	.string "Endelig…\p"
+	.string "Du har endelig faerdiggjort\n"
+	.string "POKeDEX!\p"
+	.string "Det er storslaaet!\n"
+	.string "Virkelig en fantastisk bedrift!$"
 
 PokedexRating_Text_Wroooaaarrr::
 	.string "Wroooooooaaaaaarrrr!$"
@@ -109,15 +106,15 @@ PokedexRating_Text_HaHa::
 	.string "はあ はあ‥$"
 
 PokedexRating_Text_ThankYouMadeDreamReality::
-	.string "Thank you, {PLAYER}!\n"
-	.string "Sincerely, thank you!\l"
-	.string "You've made my dream a reality!$"
+	.string "Tak, {PLAYER}!\n"
+	.string "Oprigtig tak!\l"
+	.string "Du har virkeliggjort min drom!$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
-	.string "OAK: Ah, welcome!\p"
-	.string "Tell me, how is your POKéDEX\n"
-	.string "coming along?\p"
+	.string "OAK: Ah, velkommen!\p"
+	.string "Sig mig, hvordan gaar det med\n"
+	.string "din POKeDEX?\p"
 	.string "Wahaha!\p"
-	.string "Actually, I know how it is, but I\n"
-	.string "love seeing it anyway!\p"
-	.string "Let's see…$"
+	.string "Faktisk ved jeg hvordan det er,\n"
+	.string "men jeg elsker at se den alligevel!\p"
+	.string "Lad os se…$"

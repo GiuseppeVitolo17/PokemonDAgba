@@ -1,4 +1,4 @@
-#include "global.h"
+﻿#include "global.h"
 #include "gflib.h"
 #include "battle.h"
 #include "battle_anim.h"
@@ -505,11 +505,11 @@ static const u8 sText_PlayedThe[] = _("{B_PLAYER_NAME} spillede\n{B_LAST_ITEM}."
 static const u8 sText_PkmnHearingFluteAwoke[] = _("POKeMON der hoerte FLOEJTEN\nvaagnede!");
 static const u8 sText_YouThrowABallNowRight[] = _("Du kaster en BOLD nu, ikke?\nJeg… jeg goer mit bedste!");
 const u8 gText_ForPetesSake[] = _("OAK: Ah, for daen…\nSaadan traengende som altid.\p{B_PLAYER_NAME}.\pDu har aldrig haft en POKeMON-kamp\nfoer, vel?\pEn POKeMON-kamp er naar TRAENERe\nlader POKeMON kaempe mod hinanden.\p");
-const u8 gText_TheTrainerThat[] = _("The TRAINER that makes the other\nTRAINER's POKéMON faint by lowering\ltheir HP to “0,” wins.\p");
+const u8 gText_TheTrainerThat[] = _("TRAENERen der faar den anden\nTRAENERs POKeMON til at besvime ved at\lsaenke deres KP til “0,” 0, vinder.\p");
 const u8 gText_TryBattling[] = _("Men i stedet for at snakke laerer\ndu mere af at proeve.\pProev at kaempe og se selv.\p");
 const u8 gText_InflictingDamageIsKey[] = _("OAK: At tilfoeje skade paa fjenden\ner noeglen til enhver kamp.\p");
 const u8 gText_LoweringStats[] = _("OAK: At saenke fjendens stat\ngiver dig en fordel.\p");
-const u8 gText_KeepAnEyeOnHP[] = _("OAK: Keep your eyes on your\nPOKéMON's HP.\pIt will faint if the HP drops to\n“0.”\p");
+const u8 gText_KeepAnEyeOnHP[] = _("OAK: Hold oje med din POKeMONs\nKP.\pDen besvimer hvis KP falder til\n“0.”\p");
 const u8 gText_OakNoRunningFromATrainer[] = _("OAK: Nej! Man kan ikke flygte\nfra en TRAENER POKeMON-kamp!\p");
 const u8 gText_WinEarnsPrizeMoney[] = _("OAK: Hm! Fremragende!\pVinder du faar du premiepenge\nog din POKeMON vokser!\pKaemp mod andre TRAENERe og goer\ndine POKeMON staerke!\p");
 const u8 gText_HowDissapointing[] = _("OAK: Hm… Saadan skuffende…\pVinder du faar du premiepenge\nog POKeMON vokser.\pTaber du, {B_PLAYER_NAME}, maa du\nbetale premiepenge…\pMen da du ikke fik advarsel denne\ngang, betaler jeg for dig.\pSaadan bliver det ikke naar du\ngaar ud ad doeren.\pStaerk dine POKeMON ved at kaempe\nmod vilde POKeMON.\p");

@@ -1,29 +1,29 @@
 Text_MayIHelpYou::
-	.string "Hi, there!\n"
-	.string "May I help you?$"
+	.string "Hej!\n"
+	.string "Kan jeg hjaelpe dig?$"
 
 Text_FillOutQuestionnaire::
-	.string "There is a questionnaire.\n"
-	.string "Would you like to fill it out?$"
+	.string "Der er en spoergeundersoegelse.\n"
+	.string "Vil du udfylde den?$"
 
 Text_QuestionnaireThankYou::
-	.string "Thank you for taking the time to\n"
-	.string "fill out our questionnaire.\p"
-	.string "Your feedback will be used for\n"
-	.string "future reference.$"
+	.string "Tak fordi du tog dig tid til at\n"
+	.string "udfylde vores spoergeundersøgelse.\p"
+	.string "Din feedback bruges som\n"
+	.string "reference fremover.$"
 
 Text_YouKnowThoseWords::
-	.string "Oh, hello!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY GIFT.\p"
-	.string "From now on, you should be\n"
-	.string "receiving MYSTERY GIFTS!$"
+	.string "Oh, hej!\n"
+	.string "Kender du de ord?\p"
+	.string "Det betyder at du maa kende\n"
+	.string "MYSTERY GIFT.\p"
+	.string "Fra nu af bør du modtage\n"
+	.string "MYSTERY GIFTS!$"
 
 Text_YouCanAccessMysteryGift::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY GIFT.$"
+	.string "Naar du har gemt spillet, kan du\n"
+	.string "tilgaa MYSTERY GIFT.$"
 
 Text_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+	.string "Tak fordi du tilgaaede\n"
+	.string "MYSTERY GIFT-systemet.$"

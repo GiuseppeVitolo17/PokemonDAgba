@@ -1,26 +1,26 @@
 gText_WouldYouLikeToSaveTheGame::
-	.string "Would you like to save the game?$"
+	.string "Vil du gemme spillet?$"
 
 gText_AlreadySaveFile_WouldLikeToOverwrite::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "Der findes allerede en gemt fil.\n"
+	.string "Er det okay at overskrive den?$"
 
 gText_SavingDontTurnOffThePower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "GEMmer…\n"
+	.string "SLUK IKKE FOR STROEMMEN.$"
 
 gText_PlayerSavedTheGame::
-	.string "{PLAYER} saved the game.$"
+	.string "{PLAYER} gemte spillet.$"
 
 gText_SaveFailed2::
 	.string "セーブに　しっぱい　しました‥$"
 
 gText_DifferentGameFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+	.string "ADVARSEL!\p"
+	.string "Der er en anden spilfil der allerede\n"
+	.string "er gemt.\p"
+	.string "Hvis du gemmer nu, vil den anden\n"
+	.string "fils eventyr, inkl. genstande og\l"
+	.string "POKeMON, ga tabt.\p"
+	.string "Er du sikker paa at du vil gemme nu\n"
+	.string "og overskrive den anden gemte fil?$"
