@@ -12,7 +12,22 @@ So in-game text can use real **æ, ø, å** (and **Æ, Ø, Å**) and the preproc
 
 ## Font graphics (so they appear correctly in-game)
 
-The game’s **Latin font** is built from PNGs. To have Æ, Ø, Å, æ, ø, å **draw** correctly (instead of Œ, Ì, Î, œ, Ò, Ï), you need to **edit the font images** and redraw those glyph slots:
+### Option 1: Use the patch script (easiest)
+
+From the repo root:
+
+```bash
+python3 scripts/patch_danish_font.py
+make
+```
+
+This patches **latin_normal.png** with built-in 16×16 pixel glyphs for Æ, Ø, Å, æ, ø, å, then you rebuild the font and ROM. No download required. For a different Latin font PNG use `--font graphics/fonts/latin_small.png`.
+
+(Pokemon Red's [PokemonDA](https://github.com/GiuseppeVitolo17/PokemonDA) font is 8×8 and only 128 tiles; the Danish letters there use higher tile indices that aren't in the single `font.png`, so we use built-in glyphs instead of grabbing from that repo.)
+
+### Option 2: Edit the font images by hand
+
+The game’s **Latin font** is built from PNGs. To have Æ, Ø, Å, æ, ø, å **draw** correctly (instead of Œ, Ì, Î, œ, Ò, Ï), you can **edit the font images** and redraw those glyph slots:
 
 | Byte | Current glyph | Replace with |
 |------|----------------|--------------|
