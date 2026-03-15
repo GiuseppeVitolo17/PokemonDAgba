@@ -28,8 +28,10 @@ except ImportError:
     sys.exit(1)
 
 # FireRed Latin font: 256 wide, 16 glyphs per row, each glyph 16x16.
+# latin_normal/male/female are 256x512; latin_small is 256x256.
 # Palette: 0=bg, 1=fg (dark), 2=shadow (light), 3=white. We use 0,1,2.
-W, H = 256, 512
+W = 256
+VALID_HEIGHTS = (256, 512)
 GLYPH_W, GLYPH_H = 16, 16
 COLS = 16
 
@@ -202,8 +204,8 @@ def main():
         sys.exit(1)
 
     im = Image.open(font_path).convert("P")
-    if im.size != (W, H):
-        print("Unexpected size %s; expected %dx%d" % (im.size, W, H), file=sys.stderr)
+    if im.size[0] != W or im.size[1] not in VALID_HEIGHTS:
+        print("Unexpected size %s; expected %dx256 or %dx512" % (im.size, W, W), file=sys.stderr)
         sys.exit(1)
 
     if args.fetch_pokemonda:
