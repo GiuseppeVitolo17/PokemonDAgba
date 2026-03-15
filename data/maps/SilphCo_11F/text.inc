@@ -1,53 +1,53 @@
 SilphCo_11F_Text_ThanksForSavingMeDearBoy::
-    .string "PRESIDENT: Oh, käre dreng!\n"
+    .string "PRESIDENT: Oh, kære dreng!\n"
     .string "Tak for at redde SILPH.\p"
     .string "Jeg glemmer aldrig at du reddede os i\n"
-    .string "vores farefulde öjeblik.\p"
+    .string "vores farefulde øjeblik.\p"
     .string "Jeg mâ takke dig pâ en eller anden\n"
     .string "mâde.\p"
     .string "Fordi jeg er rig, kan jeg give dig\n"
     .string "hvad som helst.\p"
-    .string "Her, mâske kan dette göre det.$"
+    .string "Her, mâske kan dette gøre det.$"
 
 SilphCo_11F_Text_ThanksForSavingMeDearGirl::
-    .string "PRESIDENT: Oh, käre pige!\n"
+    .string "PRESIDENT: Oh, kære pige!\n"
     .string "Tak for at redde SILPH.\p"
     .string "Jeg glemmer aldrig at du reddede os i\n"
-    .string "vores farefulde öjeblik.\p"
+    .string "vores farefulde øjeblik.\p"
     .string "Jeg mâ takke dig pâ en eller anden\n"
     .string "mâde.\p"
     .string "Fordi jeg er rig, kan jeg give dig\n"
     .string "hvad som helst.\p"
-    .string "Her, mâske kan dette göre det.$"
+    .string "Her, mâske kan dette gøre det.$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
     .string "{PLAYER} fik en MASTER BALL\n"
     .string "fra PRESIDENTEN!$"
 
 SilphCo_11F_Text_ThatsOurSecretPrototype::
-    .string "PRESIDENT: Du kan ikke köbe den\n"
+    .string "PRESIDENT: Du kan ikke købe den\n"
     .string "nogen steder.\p"
     .string "Det er vores hemmelige prototype\n"
     .string "MASTER BALL.\p"
     .string "Den fanger ethvert POKéMON uden\n"
     .string "at fejle!\p"
-    .string "Du bör dog väre stille om at bruge den.$"
+    .string "Du bør dog være stille om at bruge den.$"
 
 SilphCo_11F_Text_YouHaveNoRoomForThis::
     .string "Du har ikke plads til dette.$"
 
 SilphCo_11F_Text_ThanksForRescuingUs::
-    .string "SEKRETÄR: Tak for at redde\n"
+    .string "SEKRETÆR: Tak for at redde\n"
     .string "os alle.\p"
     .string "Vi, fra PRESIDENTEN og ned,\n"
-    .string "stâr i gäld til dig.$"
+    .string "stâr i gæld til dig.$"
 
 SilphCo_11F_Text_GiovanniIntro::
     .string "Ah, {PLAYER}!\n"
-    .string "Sâ mödes vi igen!\p"
+    .string "Sâ mødes vi igen!\p"
     .string "PRESIDENTEN og jeg diskuterer\n"
     .string "et vigtigt forretningsforslag.\p"
-    .string "Hold din näse ude af voksne\n"
+    .string "Hold din næse ude af voksne\n"
     .string "anliggender…\p"
     .string "Eller oplev en verden af smerte!$"
 
@@ -57,7 +57,7 @@ SilphCo_11F_Text_GiovanniDefeat::
 
 SilphCo_11F_Text_GiovanniPostBattle::
     .string "Forbandet!\n"
-    .string "Du ödelagde vores planer for SILPH!\p"
+    .string "Du ødelagde vores planer for SILPH!\p"
     .string "Men TEAM ROCKET falder aldrig!\p"
     .string "{PLAYER}! Glem aldrig at alle\n"
     .string "POKéMON eksisterer for TEAM ROCKET!\p"
@@ -65,7 +65,7 @@ SilphCo_11F_Text_GiovanniPostBattle::
 
 SilphCo_11F_Text_Grunt2Intro::
     .string "Stop lige der!\n"
-    .string "Beväg dig ikke!$"
+    .string "Bevæg dig ikke!$"
 
 SilphCo_11F_Text_Grunt2Defeat::
     .string "Ikke…\n"
@@ -87,7 +87,7 @@ SilphCo_11F_Text_Grunt1PostBattle::
     .string "Min BOSS kan lide sine POKéMON hârde!$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
-    .string "Skärmen har POKéMON pâ den!$"
+    .string "Skærmen har POKéMON pâ den!$"
 
 SilphCo_11F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

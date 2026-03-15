@@ -7,5 +7,5 @@ SSAnne_1F_Room7_Text_ThomasDefeat::
     .string "Mine, mine venner…$"
 
 SSAnne_1F_Room7_Text_ThomasPostBattle::
-    .string "Du bör väre venlig mod venner!$"
+    .string "Du bør være venlig mod venner!$"
 

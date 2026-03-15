@@ -1,5 +1,5 @@
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
-    .string "Jeg er törst!\n"
+    .string "Jeg er tørst!\n"
     .string "Jeg vil have noget at drikke!\p"
     .string "{FONT_NORMAL}Giv hende en drink?$"
 
@@ -18,7 +18,7 @@ Text_ReceivedItemFromLittleGirl::
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
     .string "TM16 indeholder LIGHT SCREEN.\p"
-    .string "Det er et trick der sväkker kräfterne\n"
+    .string "Det er et trick der svækker kræfterne\n"
     .string "af specialangreb fra din modstander.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
@@ -40,7 +40,7 @@ CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
     .string "TM33 indeholder REFLECT.\p"
-    .string "Det er et trick der sväkker kräfterne\n"
+    .string "Det er et trick der svækker kræfterne\n"
     .string "af fysiske angreb fra din modstander.$"
 
 CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
@@ -48,15 +48,15 @@ CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
 
 CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
     .string "Nej tak!\n"
-    .string "Jeg er slet ikke törst alligevel!$"
+    .string "Jeg er slet ikke tørst alligevel!$"
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
-    .string "Min söster er TRAINER, tro det eller ej.\p"
+    .string "Min søster er TRAINER, tro det eller ej.\p"
     .string "Men hun er sâ umoden, hun driver\n"
     .string "mig til vanvid!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
-    .string "Jeg er törst!\n"
+    .string "Jeg er tørst!\n"
     .string "Jeg vil have noget at drikke!$"
 
 CeladonCity_DepartmentStore_Roof_Text_FloorSign::
@@ -77,4 +77,4 @@ CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff::
     .string "Der er ikke mere plads til ting!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotThirsty::
-    .string "Ikke törst!$"
+    .string "Ikke tørst!$"

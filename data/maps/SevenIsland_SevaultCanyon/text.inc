@@ -10,8 +10,8 @@ SevenIsland_SevaultCanyon_Text_CyndyPostBattle::
     .string "vente med TRAINER TOWER…$"
 
 SevenIsland_SevaultCanyon_Text_EvanIntro::
-    .string "Det gör ikke noget hvis du tilfäldigvis\n"
-    .string "har de stärkeste POKéMON…\p"
+    .string "Det gør ikke noget hvis du tilfældigvis\n"
+    .string "har de stærkeste POKéMON…\p"
     .string "Det betyder intet hvis du ikke\n"
     .string "ved hvordan man bruger dem ordentligt!$"
 
@@ -21,13 +21,13 @@ SevenIsland_SevaultCanyon_Text_EvanDefeat::
 SevenIsland_SevaultCanyon_Text_EvanPostBattle::
     .string "Man ser dem ind imellem,\n"
     .string "TRAINERS med fantastiske POKéMON\l"
-    .string "der ikke aner hvad de skal göre.\p"
-    .string "För man träner POKéMON, skal\n"
+    .string "der ikke aner hvad de skal gøre.\p"
+    .string "Før man træner POKéMON, skal\n"
     .string "TRAINERS selv vokse.$"
 
 SevenIsland_SevaultCanyon_Text_JacksonIntro::
-    .string "Jeg arbejder for at beskytte miljöet.\n"
-    .string "Til gengäld beskytter naturen mig!$"
+    .string "Jeg arbejder for at beskytte miljøet.\n"
+    .string "Til gengæld beskytter naturen mig!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonDefeat::
     .string "Whoa! Du er hârd!\n"
@@ -43,48 +43,48 @@ SevenIsland_SevaultCanyon_Text_KatelynIntro::
     .string "De sko du har er ret flotte.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynDefeat::
-    .string "Du er fed trods dit söde udseende.$"
+    .string "Du er fed trods dit søde udseende.$"
 
 SevenIsland_SevaultCanyon_Text_KatelynPostBattle::
-    .string "Köbte din mor de flotte\n"
-    .string "RUNNING SHÖS til dig?\p"
+    .string "Købte din mor de flotte\n"
+    .string "RUNNING SHØS til dig?\p"
     .string "Hun mâ elske dig.$"
 
 SevenIsland_SevaultCanyon_Text_LeroyIntro::
-    .string "Du ser stärk ud.\n"
-    .string "Lad mig kämpe mod dig!$"
+    .string "Du ser stærk ud.\n"
+    .string "Lad mig kæmpe mod dig!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyDefeat::
     .string "Jeg vidste det!\n"
-    .string "Du er sâ hârd som jeg tröde!$"
+    .string "Du er sâ hârd som jeg trøde!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyPostBattle::
-    .string "Mâden du kämper pâ har givet mig\n"
+    .string "Mâden du kæmper pâ har givet mig\n"
     .string "en masse brugbare data.\p"
     .string "Mange tak!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleIntro::
     .string "Jeg fik den bedste mulige\n"
-    .string "uddannelse for at blive sâ stärk.\p"
+    .string "uddannelse for at blive sâ stærk.\p"
     .string "Jeg vil ikke tabe over for nogen!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleDefeat::
-    .string "Tak. Jeg föler mig befriet\n"
+    .string "Tak. Jeg føler mig befriet\n"
     .string "ved at tabe til dig.$"
 
 SevenIsland_SevaultCanyon_Text_MichellePostBattle::
     .string "Af en eller anden grund bliver jeg\n"
     .string "rasende over den mindste ting.\p"
     .string "Jeg beroliger mig ved at\n"
-    .string "träkke vejret dybt.$"
+    .string "trække vejret dybt.$"
 
 SevenIsland_SevaultCanyon_Text_LexIntro::
-    .string "LEX: Min käre NYA, sammen\n"
+    .string "LEX: Min kære NYA, sammen\n"
     .string "kunne vi vinde!$"
 
 SevenIsland_SevaultCanyon_Text_LexDefeat::
     .string "LEX: Jeg synes jeg var for\n"
-    .string "sködeslös…$"
+    .string "skødesløs…$"
 
 SevenIsland_SevaultCanyon_Text_LexPostBattle::
     .string "LEX: Jeg tror det var en god\n"
@@ -92,12 +92,12 @@ SevenIsland_SevaultCanyon_Text_LexPostBattle::
     .string "Du har min taknemmelighed.$"
 
 SevenIsland_SevaultCanyon_Text_LexNotEnoughMons::
-    .string "LEX: Ma jeg bede dig kämpe mod\n"
+    .string "LEX: Ma jeg bede dig kæmpe mod\n"
     .string "os begge pâ samme tid?$"
 
 SevenIsland_SevaultCanyon_Text_NyaIntro::
-    .string "NYA: Jeg gör mit bedste sâ jeg ikke\n"
-    .string "träkker min mentor LEX ned!$"
+    .string "NYA: Jeg gør mit bedste sâ jeg ikke\n"
+    .string "trækker min mentor LEX ned!$"
 
 SevenIsland_SevaultCanyon_Text_NyaDefeat::
     .string "NYA: Aah, nej…\n"
@@ -111,7 +111,7 @@ SevenIsland_SevaultCanyon_Text_NyaPostBattle::
     .string "dig sâdan her?$"
 
 SevenIsland_SevaultCanyon_Text_NyaNotEnoughMons::
-    .string "NYA: Undskyld, men ma vi kämpe\n"
+    .string "NYA: Undskyld, men ma vi kæmpe\n"
     .string "i to-mod-to stil?$"
 
 SevenIsland_SevaultCanyon_Text_RouteSign::
@@ -119,10 +119,10 @@ SevenIsland_SevaultCanyon_Text_RouteSign::
     .string "TANOBY RUINS FORUDE$"
 
 SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
-    .string "At träne alene er bestemt\n"
+    .string "At træne alene er bestemt\n"
     .string "ikke en dârlig ting.\p"
     .string "Men det er heller ikke dârligt at\n"
     .string "sigte mod toppen med en partner.\p"
     .string "Selv BRUNO…\n"
-    .string "Han tränede med en fyr ved navn\l"
-    .string "BRAWLY för.$"
+    .string "Han trænede med en fyr ved navn\l"
+    .string "BRAWLY før.$"

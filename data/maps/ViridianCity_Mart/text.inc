@@ -16,11 +16,11 @@ ViridianCity_Mart_Text_SayHiToOakForMe::
     .string "PROF. OAK fra mig, ogsâ.$"
 
 ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
-    .string "Denne butik sälger godt i\n"
-    .string "ANTIDOTES, har jeg hört.$"
+    .string "Denne butik sælger godt i\n"
+    .string "ANTIDOTES, har jeg hørt.$"
 
 ViridianCity_Mart_Text_GotToBuySomePotions::
-    .string "Jeg skal köbe nogle POTIONS.\p"
+    .string "Jeg skal købe nogle POTIONS.\p"
     .string "Man ved aldrig hvornâr dine POKéMON\n"
     .string "fâr brug for hurtig helbredelse.$"
 

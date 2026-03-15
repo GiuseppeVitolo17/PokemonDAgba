@@ -23,18 +23,18 @@ CeruleanCity_BikeShop_Text_ThankYouComeAgain::
 
 CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle::
     .string "Hvordan kan du lide din nye BICYCLE?\n"
-    .string "Kan du lide hvordan den körer?\p"
+    .string "Kan du lide hvordan den kører?\p"
     .string "Du kan tage den med pâ CYCLING\n"
     .string "ROAD og endda ind i huler!$"
 
 CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
-    .string "Du bör lave plads til din\n"
+    .string "Du bør lave plads til din\n"
     .string "BICYCLE!$"
 
 CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe::
     .string "En simpel bycykel er god nok\n"
     .string "til mig.\p"
-    .string "Du kan trods alt ikke sätte en indköbs-\n"
+    .string "Du kan trods alt ikke sætte en indkøbs-\n"
     .string "kurv pâ en bjergcykel.$"
 
 CeruleanCity_BikeShop_Text_BikesCoolButExpensive::

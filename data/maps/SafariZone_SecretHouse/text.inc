@@ -1,11 +1,11 @@
 SafariZone_SecretHouse_Text_CongratsYouveWon::
     .string "Ah! Endelig!\p"
-    .string "Du er den förste der nâede\n"
+    .string "Du er den første der nâede\n"
     .string "DET HEMMELIGE HUS!\p"
     .string "Selv om jeg lavede en kampagne\n"
     .string "til vor store âbning,\p"
     .string "begyndte jeg at bekymre mig for at\n"
-    .string "ingen ville vinde vores kampagneprämie.\p"
+    .string "ingen ville vinde vores kampagnepræmie.\p"
     .string "Tillykke!\n"
     .string "Du har vundet!$"
 
@@ -15,13 +15,13 @@ SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
 
 SafariZone_SecretHouse_Text_ExplainSurf::
     .string "HM03 er SURF.\p"
-    .string "POKéMON kan färge dig over vand\n"
+    .string "POKéMON kan færge dig over vand\n"
     .string "med den.\p"
     .string "Og denne HM er ikke engangsbrug,\n"
     .string "sâ du kan bruge den igen og igen.\p"
     .string "Du er super heldig at vinde denne\n"
-    .string "fantastiske prämie!$"
+    .string "fantastiske præmie!$"
 
 SafariZone_SecretHouse_Text_DontHaveRoomForPrize::
     .string "Du har ikke plads til denne\n"
-    .string "fantastiske prämie!$"
+    .string "fantastiske præmie!$"

@@ -7,16 +7,16 @@ VictoryRoad_1F_Text_NaomiDefeat::
 
 VictoryRoad_1F_Text_NaomiPostBattle::
     .string "Jeg ville aldrig tabe til nogen,\n"
-    .string "isär ikke til et yngre barn…$"
+    .string "især ikke til et yngre barn…$"
 
 VictoryRoad_1F_Text_RolandoIntro::
     .string "Jeg kan se du er god.\n"
-    .string "Lad mig se präcis hvor god!$"
+    .string "Lad mig se præcis hvor god!$"
 
 VictoryRoad_1F_Text_RolandoDefeat::
     .string "Jeg havde en chance…$"
 
 VictoryRoad_1F_Text_RolandoPostBattle::
     .string "Tch!\n"
-    .string "Jeg indrömmer, du er bedre end mig!$"
+    .string "Jeg indrømmer, du er bedre end mig!$"
 

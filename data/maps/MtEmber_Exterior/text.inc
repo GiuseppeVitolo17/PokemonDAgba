@@ -1,24 +1,24 @@
 Text_ExplosionTeach::
     .string "Kan du forestille dig?\n"
-    .string "Hvis denne vulkan udbröd?\p"
-    .string "Eksplosionen ville väre vores ende.\n"
-    .string "Hvor skrämmende er det ikke?\p"
+    .string "Hvis denne vulkan udbrød?\p"
+    .string "Eksplosionen ville være vores ende.\n"
+    .string "Hvor skræmmende er det ikke?\p"
     .string "Mens vi er bange, vil du have mig\n"
-    .string "til at läre EXPLOSION?$"
+    .string "til at lære EXPLOSION?$"
 
 Text_ExplosionDeclined::
     .string "Ja, du har ret.\n"
-    .string "Det er for skrämmende.$"
+    .string "Det er for skræmmende.$"
 
 Text_ExplosionWhichMon::
-    .string "Du er forfärdeligt modig!\p"
-    .string "Hvilken POKéMON skal jeg läre\n"
+    .string "Du er forfærdeligt modig!\p"
+    .string "Hvilken POKéMON skal jeg lære\n"
     .string "EXPLOSION?$"
 
 Text_ExplosionTaught::
     .string "At bruge EXPLOSION her pâ denne\n"
     .string "vulkan…\p"
-    .string "Hvilken skrämmende thrill!$"
+    .string "Hvilken skræmmende thrill!$"
 
 @ Below 4 are unused JP versions of the above texts
 Text_ExplosionTeachJP::
@@ -43,9 +43,9 @@ Text_ExplosionTaughtJP::
 
 MtEmber_Exterior_Text_WellTryDiggingHere::
     .string "Herovre.\n"
-    .string "Vi pröver at grave her.\p"
+    .string "Vi prøver at grave her.\p"
     .string "Skatten ADMIN'erne har talt om\n"
-    .string "skal väre her.$"
+    .string "skal være her.$"
 
 MtEmber_Exterior_Text_YoureInTheWayGetLost::
     .string "Hvad…?\n"
@@ -64,7 +64,7 @@ MtEmber_Exterior_Text_WhatsPasswordAgain::
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
     .string "Hvad, du glemte adgangskoden?\n"
     .string "Der er faktisk to.\p"
-    .string "Den förste er GOLDEEN need\n"
+    .string "Den første er GOLDEEN need\n"
     .string "log.\p"
     .string "Og den anden er…$"
 
@@ -92,13 +92,13 @@ MtEmber_Exterior_Text_Grunt2Defeat::
 
 MtEmber_Exterior_Text_Grunt2PostBattle::
     .string "Fâ beqvem hukommelsestab og\n"
-    .string "glem alt hvad du hörte!$"
+    .string "glem alt hvad du hørte!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
     .string "Sikke et tilbageslag…\n"
     .string "Vi mâ samle os igen.\p"
-    .string "Du! Tänk ikke engang pâ at\n"
-    .string "träde ind der!\p"
+    .string "Du! Tænk ikke engang pâ at\n"
+    .string "træde ind der!\p"
     .string "Hvis du ved hvad der er godt for\n"
     .string "dig, glem det helt!$"
 
@@ -113,7 +113,7 @@ MtEmber_Exterior_Text_LoganDefeat::
 MtEmber_Exterior_Text_LoganPostBattle::
     .string "De siger der er over 1500 aktive\n"
     .string "vulkaner i verden.\p"
-    .string "Bare tanken gör mig helt varm\n"
+    .string "Bare tanken gør mig helt varm\n"
     .string "inderst inde!$"
 
 MtEmber_Exterior_Text_BethIntro::
@@ -126,19 +126,19 @@ MtEmber_Exterior_Text_BethDefeat::
 
 MtEmber_Exterior_Text_BethPostBattle::
     .string "Nâr lava pâ overfladen af magma\n"
-    .string "härder, og magmän inde flyder ud,\l"
+    .string "hærder, og magmæn inde flyder ud,\l"
     .string "bliver der huler tilbage.$"
 
 MtEmber_Exterior_Text_JocelynIntro::
-    .string "Jeg har tränet for at läger mit\n"
+    .string "Jeg har trænet for at læger mit\n"
     .string "knuste hjerte…\p"
-    .string "Det härdede mig i det mindste\n"
+    .string "Det hærdede mig i det mindste\n"
     .string "fysisk! Hi-yah!$"
 
 MtEmber_Exterior_Text_JocelynDefeat::
     .string "Jeg tror jeg overdrev…$"
 
 MtEmber_Exterior_Text_JocelynPostBattle::
-    .string "Mâden du kämper pâ minder mig\n"
+    .string "Mâden du kæmper pâ minder mig\n"
     .string "om fyren der dumpede mig…$"
 

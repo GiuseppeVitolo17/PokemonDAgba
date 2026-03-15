@@ -1,24 +1,24 @@
 VictoryRoad_2F_Text_DawsonIntro::
     .string "Hvis du kan komme igennem her,\n"
-    .string "kan du möde ELITE FOUR.$"
+    .string "kan du møde ELITE FOUR.$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
     .string "Nej!\n"
     .string "Utroligt!$"
 
 VictoryRoad_2F_Text_DawsonPostBattle::
-    .string "Jeg kan slâ dig nâr det gälder\n"
+    .string "Jeg kan slâ dig nâr det gælder\n"
     .string "viden om POKéMON!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
     .string "Dette er VICTORY ROAD.\n"
-    .string "Det er den endelige pröve for TRÆNERE!$"
+    .string "Det er den endelige prøve for TRÆNERE!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
     .string "Atcho!$"
 
 VictoryRoad_2F_Text_DaisukePostBattle::
-    .string "Hvis du stâr fast, pröv at flytte nogle\n"
+    .string "Hvis du stâr fast, prøv at flytte nogle\n"
     .string "kampesten.$"
 
 VictoryRoad_2F_Text_NelsonIntro::
@@ -39,7 +39,7 @@ VictoryRoad_2F_Text_VincentDefeat::
     .string "Jeg blev banket!$"
 
 VictoryRoad_2F_Text_VincentPostBattle::
-    .string "Du har fortjent retten til at väre pâ\n"
+    .string "Du har fortjent retten til at være pâ\n"
     .string "VICTORY ROAD…$"
 
 VictoryRoad_2F_Text_GregoryIntro::

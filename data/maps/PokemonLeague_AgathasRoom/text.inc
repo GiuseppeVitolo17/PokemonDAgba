@@ -1,8 +1,8 @@
 PokemonLeague_AgathasRoom_Text_Intro::
     .string "Jeg er AGATHA fra ELITE FOUR.\p"
-    .string "Jeg hörer OAK har taget stor\n"
+    .string "Jeg hører OAK har taget stor\n"
     .string "interesse i dig, barn.\p"
-    .string "Den gamle döffel var engang hârd og\n"
+    .string "Den gamle døffel var engang hârd og\n"
     .string "flot.\p"
     .string "Men det var for ârtier siden.\n"
     .string "Han er en skygge af sig selv.\p"
@@ -11,13 +11,13 @@ PokemonLeague_AgathasRoom_Text_Intro::
     .string "Han tager fejl.\n"
     .string "POKéMON er til kamp!\p"
     .string "{PLAYER}! Jeg viser dig hvordan en rigtig\n"
-    .string "TRÆNER kämper!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "TRÆNER kæmper!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_RematchIntro::
     .string "Jeg er AGATHA fra ELITE FOUR.\p"
     .string "Du er barnet OAK har taget under\n"
     .string "vingen, ikke?\p"
-    .string "Den gamle döffel var engang hârd og\n"
+    .string "Den gamle døffel var engang hârd og\n"
     .string "flot.\p"
     .string "Men det var for ârtier siden.\n"
     .string "Han er en skygge af sig selv.\p"
@@ -26,15 +26,15 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
     .string "Han tager fejl.\n"
     .string "POKéMON er til kamp!\p"
     .string "{PLAYER}! Jeg viser dig hvordan en rigtig\n"
-    .string "TRÆNER kämper!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "TRÆNER kæmper!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_Defeat::
     .string "Aah, du!\n"
-    .string "Du er noget särligt, barn!$"
+    .string "Du er noget særligt, barn!$"
 
 PokemonLeague_AgathasRoom_Text_PostBattle::
     .string "Du vinder!\p"
-    .string "Nu forstâr jeg hvad den gamle döffel\n"
+    .string "Nu forstâr jeg hvad den gamle døffel\n"
     .string "ser i dig.\p"
     .string "Jeg har intet andet at sige.\n"
-    .string "Löb videre nu, barn!$"
+    .string "Løb videre nu, barn!$"

@@ -1,22 +1,22 @@
 VermilionCity_Gym_Text_LtSurgeIntro::
     .string "Hey, unge! Hvad tror du du laver\n"
     .string "her?\p"
-    .string "Du overlever ikke länge i kamp!\n"
+    .string "Du overlever ikke længe i kamp!\n"
     .string "Ikke med din svage styrke!\p"
     .string "Jeg siger dig, unge, elektriske POKéMON\n"
     .string "reddede mig under krigen!\p"
     .string "De chokkede mine fjender til\n"
     .string "lammelse!\p"
-    .string "Det samme gör jeg ved dig!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "Det samme gør jeg ved dig!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 VermilionCity_Gym_Text_LtSurgePostBattle::
     .string "Et lille ord af râd, unge!\p"
     .string "Elektricitet er virkelig kraftfuld!\p"
-    .string "Men den er nyttelös mod JORD-\n"
+    .string "Men den er nytteløs mod JORD-\n"
     .string "type POKéMON!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
-    .string "THUNDERBADGE öger din\n"
+    .string "THUNDERBADGE øger din\n"
     .string "POKéMONs HASTIGHED!\p"
     .string "Den lader ogsâ din POKéMON FLYVE\n"
     .string "lynhurtigt nâr som helst, unge!\p"
@@ -29,10 +29,10 @@ VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
 
 VermilionCity_Gym_Text_ExplainTM34::
     .string "TM34 indeholder SHOCK WAVE!\p"
-    .string "Lär det til en ELEKTRISK POKéMON!$"
+    .string "Lær det til en ELEKTRISK POKéMON!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
-    .string "Yo, unge, gör plads i din TASKE!$"
+    .string "Yo, unge, gør plads i din TASKE!$"
 
 VermilionCity_Gym_Text_LtSurgeDefeat::
     .string "Det var en choker!\p"
@@ -40,7 +40,7 @@ VermilionCity_Gym_Text_LtSurgeDefeat::
     .string "Okay, sâ tag THUNDERBADGE!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
-    .string "Da jeg var i hären, var LT. SURGE\n"
+    .string "Da jeg var i hæren, var LT. SURGE\n"
     .string "min strenge befalingsmand.\p"
     .string "Han var en hârd taskmaster.$"
 
@@ -49,12 +49,12 @@ VermilionCity_Gym_Text_TuckerDefeat::
     .string "Du er meget dygtig!$"
 
 VermilionCity_Gym_Text_TuckerPostBattle::
-    .string "Det er ikke nemt at âbne den dör.\p"
-    .string "LT. SURGE var altid berömt for\n"
-    .string "sin forsigtige natur i hären.$"
+    .string "Det er ikke nemt at âbne den dør.\p"
+    .string "LT. SURGE var altid berømt for\n"
+    .string "sin forsigtige natur i hæren.$"
 
 VermilionCity_Gym_Text_BailyIntro::
-    .string "Jeg er letvägts, men jeg er god\n"
+    .string "Jeg er letvægts, men jeg er god\n"
     .string "med elektricitet!\p"
     .string "Derfor sluttede jeg mig til dette GYM.$"
 
@@ -63,11 +63,11 @@ VermilionCity_Gym_Text_BailyDefeat::
 
 VermilionCity_Gym_Text_BailyPostBattle::
     .string "Okay, jeg snakker!\p"
-    .string "LT. SURGE sagde han gemte dör-\n"
+    .string "LT. SURGE sagde han gemte dør-\n"
     .string "kontakter inde i noget.$"
 
 VermilionCity_Gym_Text_DwayneIntro::
-    .string "Dette er ikke et sted for börn!\n"
+    .string "Dette er ikke et sted for børn!\n"
     .string "Ikke engang hvis du er god!$"
 
 VermilionCity_Gym_Text_DwayneDefeat::
@@ -75,17 +75,17 @@ VermilionCity_Gym_Text_DwayneDefeat::
     .string "Overraskede mig!$"
 
 VermilionCity_Gym_Text_DwaynePostBattle::
-    .string "LT. SURGE installerede fäldrene i\n"
+    .string "LT. SURGE installerede fældrene i\n"
     .string "GYM selv.\p"
     .string "Han satte dobbelte lâse overalt.\n"
     .string "Lad mig give dig et tip.\p"
-    .string "Nâr du âbner den förste lâs, er\n"
+    .string "Nâr du âbner den første lâs, er\n"
     .string "den anden lâs lige ved siden af.$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
-    .string "Champion i gäre!\p"
-    .string "LT. SURGE har et ögenavn.\p"
+    .string "Champion i gære!\p"
+    .string "LT. SURGE har et øgenavn.\p"
     .string "Folk kalder ham\n"
     .string "den amerikanske lynkaster!\p"
     .string "Han er ekspert i elektriske\n"
@@ -119,8 +119,8 @@ VermilionCity_Gym_Text_NopeOnlyTrashHere::
 
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
     .string "Hey! Der er en kontakt under\n"
-    .string "affaldet! Tänd den!\p"
-    .string "Den förste elektriske lâs âbnede!$"
+    .string "affaldet! Tænd den!\p"
+    .string "Den første elektriske lâs âbnede!$"
 
 VermilionCity_Gym_Text_AnotherSwitchInTrash::
     .string "Hey! Der er endnu en kontakt i\n"
@@ -129,7 +129,7 @@ VermilionCity_Gym_Text_AnotherSwitchInTrash::
 
 VermilionCity_Gym_Text_SecondLockOpened::
     .string "Den anden elektriske lâs âbnede!\n"
-    .string "Motordören âbnede!$"
+    .string "Motordøren âbnede!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
     .string "Nix!\n"

@@ -1,5 +1,5 @@
 SilphCo_2F_Text_ConnorIntro::
-    .string "Hjälp!\n"
+    .string "Hjælp!\n"
     .string "Jeg er SILPH-ansat.$"
 
 SilphCo_2F_Text_ConnorDefeat::
@@ -18,11 +18,11 @@ SilphCo_2F_Text_JerryDefeat::
     .string "Du er god.$"
 
 SilphCo_2F_Text_JerryPostBattle::
-    .string "Kan du löse labyrinten her?\n"
+    .string "Kan du løse labyrinten her?\n"
     .string "Det er ikke nemt, siger jeg dig!$"
 
 SilphCo_2F_Text_Grunt1Intro::
-    .string "Börn har ikke adgang her!$"
+    .string "Børn har ikke adgang her!$"
 
 SilphCo_2F_Text_Grunt1Defeat::
     .string "Hârdt!$"
@@ -30,8 +30,8 @@ SilphCo_2F_Text_Grunt1Defeat::
 SilphCo_2F_Text_Grunt1PostBattle::
     .string "Diamantformede fliser er teleport-\n"
     .string "blokke.\p"
-    .string "De er transportörer i denne\n"
-    .string "höjteknologiske bygning.$"
+    .string "De er transportører i denne\n"
+    .string "højteknologiske bygning.$"
 
 SilphCo_2F_Text_Grunt2Intro::
     .string "Hey, unge!\n"
@@ -46,10 +46,10 @@ SilphCo_2F_Text_Grunt2PostBattle::
 
 Text_ThunderWaveTeach::
     .string "Eeek!\n"
-    .string "Nej! Stop! Hjälp!\p"
+    .string "Nej! Stop! Hjælp!\p"
     .string "Oh, du er ikke med TEAM ROCKET.\n"
-    .string "Undskyld, jeg tröde…\p"
-    .string "Tilgiver du mig hvis jeg lärer dig\n"
+    .string "Undskyld, jeg trøde…\p"
+    .string "Tilgiver du mig hvis jeg lærer dig\n"
     .string "THUNDER WAVE-teknikken?$"
 
 Text_ThunderWaveDeclined::
@@ -57,14 +57,14 @@ Text_ThunderWaveDeclined::
     .string "Men THUNDER WAVE er bekvem…$"
 
 Text_ThunderWaveWhichMon::
-    .string "Hvilket POKéMON skal jeg läre\n"
+    .string "Hvilket POKéMON skal jeg lære\n"
     .string "THUNDER WAVE?$"
 
 Text_ThunderWaveTaught::
     .string "THUNDER WAVE forârsager lamhed hos\n"
     .string "mâl-POKéMON.\p"
-    .string "Et lamt POKéMON kan väre ude af stand\n"
-    .string "til at beväge sig i kamp.\p"
+    .string "Et lamt POKéMON kan være ude af stand\n"
+    .string "til at bevæge sig i kamp.\p"
     .string "Det er et ELECTRIC-type angreb, sâ det\n"
     .string "virker ikke pâ nogle POKéMON.$"
 

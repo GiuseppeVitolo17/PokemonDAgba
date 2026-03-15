@@ -8,8 +8,8 @@ MtMoon_1F_Text_MarcosDefeat::
     .string "Chokeret igen!$"
 
 MtMoon_1F_Text_MarcosPostBattle::
-    .string "Börn som dig bör ikke vandre\n"
-    .string "rundt her i mörket.$"
+    .string "Børn som dig bør ikke vandre\n"
+    .string "rundt her i mørket.$"
 
 MtMoon_1F_Text_JoshIntro::
     .string "Kom du for at udforske hulen,\n"
@@ -24,8 +24,8 @@ MtMoon_1F_Text_JoshPostBattle::
     .string "vise mig frem over for piger.$"
 
 MtMoon_1F_Text_MiriamIntro::
-    .string "Wow! Det er meget större herinde\n"
-    .string "end jeg tröde!$"
+    .string "Wow! Det er meget større herinde\n"
+    .string "end jeg trøde!$"
 
 MtMoon_1F_Text_MiriamDefeat::
     .string "Øh!\n"
@@ -43,7 +43,7 @@ MtMoon_1F_Text_JovanDefeat::
     .string "Mine POKéMON duer ikke!$"
 
 MtMoon_1F_Text_JovanPostBattle::
-    .string "Jeg mâ finde stärkere POKéMON.\n"
+    .string "Jeg mâ finde stærkere POKéMON.\n"
     .string "Hvor mon de er?$"
 
 MtMoon_1F_Text_IrisIntro::
@@ -55,11 +55,11 @@ MtMoon_1F_Text_IrisDefeat::
     .string "Jeg tabte?$"
 
 MtMoon_1F_Text_IrisPostBattle::
-    .string "Jeg kom fordi jeg hörte der er\n"
-    .string "nogle meget själde fossiler her.$"
+    .string "Jeg kom fordi jeg hørte der er\n"
+    .string "nogle meget sjælde fossiler her.$"
 
 MtMoon_1F_Text_KentIntro::
-    .string "Mistänkelige mänd er i hulen.\n"
+    .string "Mistænkelige mænd er i hulen.\n"
     .string "Hvad med dig?$"
 
 MtMoon_1F_Text_KentDefeat::
@@ -88,6 +88,6 @@ MtMoon_1F_Text_ZubatIsABloodsucker::
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
     .string "Hej, jeg udgraver fossiler her\n"
     .string "under MT. MOON.\p"
-    .string "Nogle gange hjälper BROCK fra\n"
+    .string "Nogle gange hjælper BROCK fra\n"
     .string "PEWTER GYM mig.$"
 

@@ -15,9 +15,9 @@ CeladonCity_Gym_Text_ErikaIntro::
 
 CeladonCity_Gym_Text_ErikaDefeat::
     .string "Aah!\n"
-    .string "Jeg indrömmer nederlag.\l"
-    .string "Du er bemärkelsesvärdigt stärk.\p"
-    .string "Jeg mâ overräkke dig\n"
+    .string "Jeg indrømmer nederlag.\l"
+    .string "Du er bemærkelsesværdigt stærk.\p"
+    .string "Jeg mâ overrække dig\n"
     .string "RAINBOWBADGE.$"
 
 CeladonCity_Gym_Text_ErikaPostBattle::
@@ -39,16 +39,16 @@ CeladonCity_Gym_Text_ReceivedTM19FromErika::
 
 CeladonCity_Gym_Text_ExplainTM19::
     .string "TM19 indeholder GIGA DRAIN.\p"
-    .string "Halvdelen af skaden den gör\n"
+    .string "Halvdelen af skaden den gør\n"
     .string "draines for at helbrede din POKéMON.\p"
     .string "Vil du ikke give mig ret i at det er\n"
     .string "et vidunderligt trick?$"
 
 CeladonCity_Gym_Text_ShouldMakeRoomForThis::
-    .string "Du bör lave plads til dette.$"
+    .string "Du bør lave plads til dette.$"
 
 CeladonCity_Gym_Text_KayIntro::
-    .string "Jeg bör fortälle dig om denne GYM.\p"
+    .string "Jeg bør fortælle dig om denne GYM.\p"
     .string "Kun rigtige damer mâ komme ind\n"
     .string "her!$"
 
@@ -109,11 +109,11 @@ CeladonCity_Gym_Text_LisaDefeat::
 
 CeladonCity_Gym_Text_LisaPostBattle::
     .string "Vores LEADER ERIKA er mâske tavs,\n"
-    .string "men hun er berömt heroppe.$"
+    .string "men hun er berømt heroppe.$"
 
 CeladonCity_Gym_Text_LoriIntro::
-    .string "Dejligt at möde dig.\n"
-    .string "Min hobby er POKéMON träning.$"
+    .string "Dejligt at møde dig.\n"
+    .string "Min hobby er POKéMON træning.$"
 
 CeladonCity_Gym_Text_LoriDefeat::
     .string "Aah!\n"
@@ -121,12 +121,12 @@ CeladonCity_Gym_Text_LoriDefeat::
 
 CeladonCity_Gym_Text_LoriPostBattle::
     .string "Jeg har en blind date pâ vej.\n"
-    .string "Jeg mâ läre at väre höflig,\l"
-    .string "isär hvis jeg skal kämpe.$"
+    .string "Jeg mâ lære at være høflig,\l"
+    .string "især hvis jeg skal kæmpe.$"
 
 CeladonCity_Gym_Text_MaryIntro::
     .string "Velkommen til CELADON GYM!\p"
-    .string "Du bör ikke undervurdere\n"
+    .string "Du bør ikke undervurdere\n"
     .string "de rare damer her.$"
 
 CeladonCity_Gym_Text_MaryDefeat::
@@ -135,7 +135,7 @@ CeladonCity_Gym_Text_MaryDefeat::
 
 CeladonCity_Gym_Text_MaryPostBattle::
     .string "Jeg tog ikke mine bedste POKéMON med.\n"
-    .string "Vent til näste gang!$"
+    .string "Vent til næste gang!$"
 
 CeladonCity_Gym_Text_GymStatue::
     .string "CELADON POKéMON GYM\n"

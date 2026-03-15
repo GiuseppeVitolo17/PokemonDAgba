@@ -1,7 +1,7 @@
 Route24_Text_JustEarnedFabulousPrize::
     .string "Tillykke! Du slog vores fem\n"
     .string "konkurrence-TRAINERS!\p"
-    .string "Du har lige tjent en fantastisk prämie!$"
+    .string "Du har lige tjent en fantastisk præmie!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
     .string "{PLAYER} modtog et NUGGET\n"
@@ -15,10 +15,10 @@ Route24_Text_JoinTeamRocket::
     .string "bli med i TEAM ROCKET?\p"
     .string "Vi er en gruppe professionelle\n"
     .string "kriminelle der specialiserer sig i POKéMON!\p"
-    .string "Vil du väre med?\p"
+    .string "Vil du være med?\p"
     .string "Er du sikker?\p"
-    .string "Kom nu, vär med os!\p"
-    .string "Jeg siger du skal väre med!\p"
+    .string "Kom nu, vær med os!\p"
+    .string "Jeg siger du skal være med!\p"
     .string "...Okay, du har brug for overbevisning!\p"
     .string "Jeg giver dig et tilbud du ikke\n"
     .string "kan sige nej til!$"
@@ -30,18 +30,18 @@ Route24_Text_RocketDefeat::
 Route24_Text_YoudBecomeTopRocketLeader::
     .string "Med dine evner ville du blive\n"
     .string "en top-leder i TEAM ROCKET.\p"
-    .string "Kom nu, tänk pâ muligheden!\n"
+    .string "Kom nu, tænk pâ muligheden!\n"
     .string "Spild ikke denne chance.$"
 
 Route24_Text_ShaneIntro::
-    .string "Jeg sâ din bedrift fra grässet!$"
+    .string "Jeg sâ din bedrift fra græsset!$"
 
 Route24_Text_ShaneDefeat::
-    .string "Som jeg tänkte!$"
+    .string "Som jeg tænkte!$"
 
 Route24_Text_ShanePostBattle::
     .string "Jeg gemte mig fordi folkene pâ\n"
-    .string "brön skrämte mig.$"
+    .string "brøn skræmte mig.$"
 
 Route24_Text_EthanIntro::
     .string "Okay! Jeg er nr. 5!\n"
@@ -56,7 +56,7 @@ Route24_Text_EthanPostBattle::
 
 Route24_Text_ReliIntro::
     .string "Jeg er nr. 4!\n"
-    .string "Bliver du trät?$"
+    .string "Bliver du træt?$"
 
 Route24_Text_ReliDefeat::
     .string "Jeg tabte ogsâ!$"
@@ -87,10 +87,10 @@ Route24_Text_AliPostBattle::
     .string "Jeg gjorde mit bedste. Ingen fortrydelser!$"
 
 Route24_Text_CaleIntro::
-    .string "Folk kalder dette NUGGET BRÖN!\p"
+    .string "Folk kalder dette NUGGET BRØN!\p"
     .string "Slâ os fem TRAINERS og vind\n"
-    .string "en fantastisk prämie!\p"
-    .string "Tror du du har hvad det kräver?$"
+    .string "en fantastisk præmie!\p"
+    .string "Tror du du har hvad det kræver?$"
 
 Route24_Text_CaleDefeat::
     .string "Whoo!\n"

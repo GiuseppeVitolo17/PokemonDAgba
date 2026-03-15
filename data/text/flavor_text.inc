@@ -2,7 +2,7 @@
 
 Text_Bookshelf::
 	.string "Den er proppet med POKéMON-\n"
-	.string "böger.$"
+	.string "bøger.$"
 
 Text_NothingButPokemonBooks::
 	.string "ほんだなに　ならんでいるのは\n"
@@ -16,22 +16,22 @@ Text_PokeMartShelf::
 	.string "Masser af POKéMON-ting!$"
 
 Text_DishesPlatesNeatlyLinedUp::
-	.string "Tallerkener og fade stâr pänt\n"
+	.string "Tallerkener og fade stâr pænt\n"
 	.string "opstillet.$"
 
 Text_Kitchen::
-	.string "Det lugter läkkert!\n"
+	.string "Det lugter lækkert!\n"
 	.string "Nogen har lavet mad her.$"
 
 Text_Dresser::
-	.string "Det er et pänt lavet kommode.\n"
+	.string "Det er et pænt lavet kommode.\n"
 	.string "Der er plads til en masse ting.$"
 
 Text_Snacks::
 	.string "Der er en stak snacks her.$"
 
 Text_PokemartSign::
-	.string "Alt hvad du behöver!\n"
+	.string "Alt hvad du behøver!\n"
 	.string "POKéMON MART$"
 
 Text_PokecenterSign::
@@ -40,17 +40,17 @@ Text_PokecenterSign::
 
 Text_Indigo_UltimateGoal::
 	.string "INDIGO PLATEAU\p"
-	.string "TRÄNERNES ultimative mâl!\n"
+	.string "TRÆNERNES ultimative mâl!\n"
 	.string "POKéMON LEAGUE HQ$"
 
 Text_Indigo_HighestAuthority::
 	.string "INDIGO PLATEAU\p"
-	.string "Den höjeste POKéMON-myndighed!\n"
+	.string "Den højeste POKéMON-myndighed!\n"
 	.string "POKéMON LEAGUE HQ$"
 
 Text_Food::
-	.string "Den burde väre fuld af alle slags\n"
-	.string "läkre ting at spise.$"
+	.string "Den burde være fuld af alle slags\n"
+	.string "lækre ting at spise.$"
 
 Text_Blueprints::
 	.string "Det er en slags tegning.\n"
@@ -61,8 +61,8 @@ Text_Painting::
 	.string "Den ser ud til at have det godt.$"
 
 Text_PowerPlantMachine::
-	.string "Hvad kan denne maskine väre?\n"
-	.string "Lad väre med at rode med den!$"
+	.string "Hvad kan denne maskine være?\n"
+	.string "Lad være med at rode med den!$"
 
 Text_Telephone::
 	.string "Det er en telefon.\n"
@@ -77,7 +77,7 @@ Text_AdvertisingPoster::
 	.string "alle mulige produkter.$"
 
 Text_TastyFood::
-	.string "Aah, det lugter läkkert!\n"
+	.string "Aah, det lugter lækkert!\n"
 	.string "Maven kunne godt begynde at knurre!$"
 
 Text_TrashBin::
@@ -87,7 +87,7 @@ Text_TrashBin::
 
 Text_Cup::
 	.string "Det er en kop med et POKéMON-\n"
-	.string "märke pâ.$"
+	.string "mærke pâ.$"
 
 Text_PolishedWindow::
 	.string "Vinduet er meget velpoleret.$"
@@ -95,15 +95,15 @@ Text_PolishedWindow::
 Text_BeautifulSkyWindow::
 	.string "Uden for vinduet…\p"
 	.string "Himlen ser fantastisk\n"
-	.string "smök ud.$"
+	.string "smøk ud.$"
 
 Text_BlinkingLights::
 	.string "Lys i forskellige farver\n"
 	.string "blinker til og fra.$"
 
 Text_NeatlyLinedUpTools::
-	.string "Alle mulige värktöjer stâr\n"
-	.string "pänt opstillet.$"
+	.string "Alle mulige værktøjer stâr\n"
+	.string "pænt opstillet.$"
 
 Text_ImpressiveMachine::
 	.string "Det er en slags maskine.\n"

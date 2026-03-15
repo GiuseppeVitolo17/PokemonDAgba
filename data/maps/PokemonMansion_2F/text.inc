@@ -18,7 +18,7 @@ PokemonMansion_1F_Text_ArnieDefeat::
 
 PokemonMansion_1F_Text_ArniePostBattle::
     .string "Kontakterne her âbner og lukker\n"
-    .string "vekslende sät döre.$"
+    .string "vekslende sæt døre.$"
 
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
     .string "Dagbog: 5. juli\n"
@@ -28,5 +28,5 @@ PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
     .string "Dagbog: 10. juli\n"
-    .string "Vi döbte den nylig opdagede\l"
+    .string "Vi døbte den nylig opdagede\l"
     .string "POKéMON, MEW.$"

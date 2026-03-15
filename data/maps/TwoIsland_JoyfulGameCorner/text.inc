@@ -8,56 +8,56 @@ TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
     .string "Hm? Du der!\n"
     .string "Er du ven med LOSTELLE?\p"
     .string "Har du set LOSTELLE?\n"
-    .string "Jeg ved ikke hvor hun kan väre.\l"
-    .string "Hun burde have väret her for länge siden.\p"
-    .string "LOSTELLE er sät - hun har mine\n"
-    .string "träk - sâ hvad hvis nogen…\p"
+    .string "Jeg ved ikke hvor hun kan være.\l"
+    .string "Hun burde have været her for længe siden.\p"
+    .string "LOSTELLE er sæt - hun har mine\n"
+    .string "træk - sâ hvad hvis nogen…\p"
     .string "Hvad hvis der er sket noget med\n"
     .string "min LOSTELLE?!\p"
-    .string "Hjälp mig venligst med at finde hende!\n"
-    .string "Gâ venligst og sög pâ THREE ISLAND!$"
+    .string "Hjælp mig venligst med at finde hende!\n"
+    .string "Gâ venligst og søg pâ THREE ISLAND!$"
 
 TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
     .string "Hah? Hvad er denne GAME CORNER?\n"
     .string "Hvor meget tristere kan det blive?\p"
     .string "De klovne…\p"
-    .string "De sagde de ville vente pâ öen,\n"
+    .string "De sagde de ville vente pâ øen,\n"
     .string "sâ hvor er de?\p"
     .string "Hey, du! Er dette den eneste THREE\n"
     .string "ISLAND heromkring?$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
-    .string "Pröv at vâgne för du kravler ud\n"
+    .string "Prøv at vâgne før du kravler ud\n"
     .string "af sengen, din bandit.\p"
     .string "Dette er TWO ISLAND!\p"
     .string "Skrid! Fâ din beskidte motorcykel\n"
-    .string "väk fra mit sted!$"
+    .string "væk fra mit sted!$"
 
 TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing::
     .string "Huh…\n"
     .string "Aah, âh, forstâet.\p"
     .string "Tch…\n"
-    .string "Disse öer er forvirrende…$"
+    .string "Disse øer er forvirrende…$"
 
 TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor::
     .string "Se lige det?\n"
     .string "Den bandit ridser mit gulv.$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
-    .string "Hey, men hör! Jeg beder dig,\n"
+    .string "Hey, men hør! Jeg beder dig,\n"
     .string "du skal til THREE ISLAND.\p"
     .string "Hvis der skete noget med min\n"
     .string "LOSTELLE…\p"
-    .string "Mit hus er det med det röde tag\n"
+    .string "Mit hus er det med det røde tag\n"
     .string "pâ THREE ISLAND.\p"
     .string "Hun dukker mâske bare sent op her,\n"
-    .string "sâ jeg kan ikke löbe nogen steder.\p"
+    .string "sâ jeg kan ikke løbe nogen steder.\p"
     .string "Derfor mâ jeg bede dig om\n"
     .string "denne store tjeneste.$"
 
 TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday::
     .string "Undskyld.\n"
-    .string "Vi körer ikke nogen spil i dag.$"
+    .string "Vi kører ikke nogen spil i dag.$"
 
 TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon::
     .string "Vi fâr spillet i gang snart\n"
@@ -78,8 +78,8 @@ TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
     .string "Aah, hvad er det?\n"
     .string "Du siger at dette er til mig?\p"
     .string "Hvordan vidste du at jeg elsker\n"
-    .string "själdne sten og ädelstene?\p"
-    .string "Du ved hvordan man gör en fyr\n"
+    .string "sjældne sten og ædelstene?\p"
+    .string "Du ved hvordan man gør en fyr\n"
     .string "glad.$"
 
 TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
@@ -89,7 +89,7 @@ TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
     .string "Aah, jeg ser, dette er fra BILL!\n"
     .string "Du skal takke ham for mig!\p"
-    .string "Du ved, du har väret fantastisk.\n"
+    .string "Du ved, du har været fantastisk.\n"
     .string "Jeg vil gerne give dig dette.$"
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
@@ -102,10 +102,10 @@ TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
     .string "Okay, jeg fâr GAME CORNER\n"
     .string "i gang med det samme.\p"
-    .string "Du skal besöge med en ven.$"
+    .string "Du skal besøge med en ven.$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool::
-    .string "Hör, hör!\p"
+    .string "Hør, hør!\p"
     .string "Vis mig venligst at du er cool\n"
     .string "igen!$"
 

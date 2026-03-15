@@ -676,7 +676,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_5 = {
 					.spDefenseIV = 31,
 					.abilityNum = 1,
 					.personality = 0x33, // MALE LONELY
-					.nickname = _("ÄRODACTYL"),
+					.nickname = _("ÆRODACTYL"),
 					.friendship = 255
 				},
 				{
@@ -2253,7 +2253,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_5 = {
 	.prize = TTPRIZE_HP_UP,
 	.trainers = {
 	    {
-			.name = _("JÖY"),
+			.name = _("JØY"),
 			.facilityClass = FACILITY_CLASS_CAMPER,
 			.textColor = 1,
 			.speechBefore = {EC_WORD_MY, EC_WORD_POKEMON, EC_WORD_ARE, EC_WORD_SCARY, EC_WORD_STRONG, EC_WORD_EXCL},
@@ -4558,7 +4558,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Single_6 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x96, // MALE HARDY
-					.nickname = _("POLITÖD"),
+					.nickname = _("POLITØD"),
 					.friendship = 255
 				},
 				{
@@ -5276,7 +5276,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_8 = {
 					.spDefenseIV = 20,
 					.abilityNum = 1,
 					.personality = 0x8C, // MALE MODEST
-					.nickname = _("POLITÖD"),
+					.nickname = _("POLITØD"),
 					.friendship = 255
 				},
 				{
@@ -8659,7 +8659,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_5 = {
 			}
 		},
 		{
-			.name = _("MIKÄLA"),
+			.name = _("MIKÆLA"),
 			.facilityClass = FACILITY_CLASS_LASS,
 			.textColor = 1,
 			.speechBefore = {EC_WORD_I_AM, EC_WORD_REALLY, EC_WORD_THE, EC_WORD_NO_1, EC_WORD_TRAINER, EC_WORD_HERE},

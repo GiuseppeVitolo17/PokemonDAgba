@@ -18,20 +18,20 @@ ThreeIsland_BondBridge_Text_VioletDefeat::
     .string "POKéMON.$"
 
 ThreeIsland_BondBridge_Text_VioletPostBattle::
-    .string "Hvis du fortsätter denne vej, nâr\n"
+    .string "Hvis du fortsætter denne vej, nâr\n"
     .string "du til sidst BERRY FOREST.$"
 
 ThreeIsland_BondBridge_Text_AmiraIntro::
-    .string "Min mor sagde at jeg ikke mâ svömme\n"
-    .string "uden min svömmering.$"
+    .string "Min mor sagde at jeg ikke mâ svømme\n"
+    .string "uden min svømmering.$"
 
 ThreeIsland_BondBridge_Text_AmiraDefeat::
     .string "Wâah!\n"
     .string "Wâah!$"
 
 ThreeIsland_BondBridge_Text_AmiraPostBattle::
-    .string "I âr lärer jeg endelig\n"
-    .string "at svömme!$"
+    .string "I âr lærer jeg endelig\n"
+    .string "at svømme!$"
 
 ThreeIsland_BondBridge_Text_AlexisIntro::
     .string "Yay, yay!\n"
@@ -46,11 +46,11 @@ ThreeIsland_BondBridge_Text_AlexisPostBattle::
 
 ThreeIsland_BondBridge_Text_TishaIntro::
     .string "Aah nej, kom ikke her!\n"
-    .string "Venligst hold dig väk fra mig!$"
+    .string "Venligst hold dig væk fra mig!$"
 
 ThreeIsland_BondBridge_Text_TishaDefeat::
     .string "Okay, du vandt!\n"
-    .string "Vil du venligst gâ väk nu?$"
+    .string "Vil du venligst gâ væk nu?$"
 
 ThreeIsland_BondBridge_Text_TishaPostBattle::
     .string "En POKéMON bed igennem mit\n"
@@ -58,7 +58,7 @@ ThreeIsland_BondBridge_Text_TishaPostBattle::
     .string "Jeg kan ikke komme ud af vandet!$"
 
 ThreeIsland_BondBridge_Text_JoyIntro::
-    .string "JOY: Vi lärer dig hvad vores\n"
+    .string "JOY: Vi lærer dig hvad vores\n"
     .string "yndlings-POKéMON er!$"
 
 ThreeIsland_BondBridge_Text_JoyDefeat::
@@ -67,10 +67,10 @@ ThreeIsland_BondBridge_Text_JoyDefeat::
 
 ThreeIsland_BondBridge_Text_JoyPostBattle::
     .string "JOY: Var det ikke sjovt?\n"
-    .string "Jeg hâber vi kan kämpe igen!$"
+    .string "Jeg hâber vi kan kæmpe igen!$"
 
 ThreeIsland_BondBridge_Text_JoyNotEnoughMons::
-    .string "JOY: Jeg vil virkelig gerne kämpe med\n"
+    .string "JOY: Jeg vil virkelig gerne kæmpe med\n"
     .string "MEG.\p"
     .string "Én POKéMON er ikke nok.$"
 
@@ -86,7 +86,7 @@ ThreeIsland_BondBridge_Text_MegPostBattle::
     .string "MEG: JOY, var det ikke sjovt?$"
 
 ThreeIsland_BondBridge_Text_MegNotEnoughMons::
-    .string "MEG: Jeg vil gerne kämpe sammen\n"
+    .string "MEG: Jeg vil gerne kæmpe sammen\n"
     .string "med JOY.\p"
     .string "Én POKéMON er ikke nok.$"
 
@@ -95,6 +95,6 @@ ThreeIsland_BondBridge_Text_BerryForestAhead::
 
 ThreeIsland_BondBridge_Text_BondBridgeSign::
     .string "BOND BRIDGE\n"
-    .string "Vär venligst stille ved overgang.\p"
+    .string "Vær venligst stille ved overgang.\p"
     .string "BERRY FOREST FORUDE$"
 

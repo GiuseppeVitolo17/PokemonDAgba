@@ -959,9 +959,9 @@ SevenIsland_SevaultCanyon_Text_CyndyRematchIntro::
 	.string "My conditioning's in top form!$"
 
 SevenIsland_SevaultCanyon_Text_EvanRematchIntro::
-	.string "It dösn't matter if you happen to\n"
+	.string "It døsn't matter if you happen to\n"
 	.string "have the strongest POKéMON…\p"
-	.string "It dösn't mean a thing if you don't\n"
+	.string "It døsn't mean a thing if you don't\n"
 	.string "know how to use them properly!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonRematchIntro::
@@ -970,7 +970,7 @@ SevenIsland_SevaultCanyon_Text_JacksonRematchIntro::
 
 SevenIsland_SevaultCanyon_Text_KatelynRematchIntro::
 	.string "Every time we meet, you have those\n"
-	.string "snazzy shös on.$"
+	.string "snazzy shøs on.$"
 
 SevenIsland_SevaultCanyon_Text_LeroyRematchIntro::
 	.string "You must have gotten tougher.\n"

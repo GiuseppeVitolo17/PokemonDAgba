@@ -11,7 +11,7 @@ PokemonTower_5F_Text_TammyDefeat::
     .string "Gisp!$"
 
 PokemonTower_5F_Text_TammyPostBattle::
-    .string "Jeg var under besättelse.$"
+    .string "Jeg var under besættelse.$"
 
 PokemonTower_5F_Text_RuthIntro::
     .string "Du…skal…\n"
@@ -41,7 +41,7 @@ PokemonTower_5F_Text_JanaeDefeat::
 
 PokemonTower_5F_Text_JanaePostBattle::
     .string "Jeg faldt for onde ânder trods min\n"
-    .string "träning i bjergene…$"
+    .string "træning i bjergene…$"
 
 PokemonTower_5F_Text_PurifiedZoneMonsFullyHealed::
     .string "Trâdte ind i den rensede og beskyttede\n"

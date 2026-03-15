@@ -10,7 +10,7 @@ Route21_North_Text_RonaldPostBattle::
 
 Route21_North_Text_WadeIntro::
 	.string "Jeg fik et stort fangst!\n"
-	.string "Vil du kämpe?$"
+	.string "Vil du kæmpe?$"
 
 Route21_North_Text_WadeDefeat::
 	.string "Heheh, MAGIKARP er bare ikke\n"
@@ -20,7 +20,7 @@ Route21_North_Text_WadePostBattle::
 	.string "Jeg synes kun jeg fanger MAGIKARP!$"
 
 Route21_North_Text_SpencerIntro::
-	.string "Havet renser min krop og själ!$"
+	.string "Havet renser min krop og sjæl!$"
 
 Route21_North_Text_SpencerDefeat::
 	.string "Ayah!$"
@@ -36,7 +36,7 @@ Route21_North_Text_SpencerPostBattle::
 
 @ "What's wrong with me swimming?"
 Route21_North_Text_CueBallIntro::
-	.string "Hvad er der galt med at jeg svömmer?$"
+	.string "Hvad er der galt med at jeg svømmer?$"
 
 @ "Cheap shot!"
 Route21_North_Text_CueBallDefeat::
@@ -44,5 +44,5 @@ Route21_North_Text_CueBallDefeat::
 
 @ "I look like what? A studded inner tube? Get lost!"
 Route21_North_Text_CueBallPostBattle::
-	.string "Jeg ligner hvad? Et oppustet däk?\n"
+	.string "Jeg ligner hvad? Et oppustet dæk?\n"
 	.string "Forsvind!$"

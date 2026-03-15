@@ -1,7 +1,7 @@
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-    .string "Okay, sät seks POKe BALLS i mit\n"
-    .string "bälte…\p"
-    .string "Ja, det gör det. Du kan höjest have\n"
+    .string "Okay, sæt seks POKe BALLS i mit\n"
+    .string "bælte…\p"
+    .string "Ja, det gør det. Du kan højest have\n"
     .string "seks POKéMON med dig.$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
@@ -15,21 +15,21 @@ Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
     .string "Har jeg et tilbud til dig!\p"
     .string "Jeg giver dig en hemmelig POKéMON\n"
     .string "- en MAGIKARP - for kun ¥500!\p"
-    .string "Sâ du köber den, ikke?$"
+    .string "Sâ du køber den, ikke?$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
     .string "MAND: Hej der, skat!\n"
     .string "Har jeg et tilbud til dig!\p"
     .string "Jeg giver dig en hemmelig POKéMON\n"
     .string "- en MAGIKARP - for kun ¥500!\p"
-    .string "Sâ du köber den, ikke?$"
+    .string "Sâ du køber den, ikke?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
     .string "{PLAYER} betalte ublu ¥500\n"
-    .string "og köbte MAGIKARP…$"
+    .string "og købte MAGIKARP…$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
-    .string "Nej? Du siger nej? Jeg gör det kun\n"
+    .string "Nej? Du siger nej? Jeg gør det kun\n"
     .string "som en tjeneste for dig!$"
 
 Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
@@ -45,8 +45,8 @@ Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
 
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
     .string "Nogle gange har du for mange\n"
-    .string "POKéMON med dig til at tilföje flere.\p"
-    .string "I sâ fald bör du bare gemme nogle\n"
+    .string "POKéMON med dig til at tilføje flere.\p"
+    .string "I sâ fald bør du bare gemme nogle\n"
     .string "pâ en PC.$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::

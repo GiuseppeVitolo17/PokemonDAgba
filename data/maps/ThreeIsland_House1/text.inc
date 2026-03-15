@@ -5,5 +5,5 @@ ThreeIsland_House1_Text_YoureAlwaysSoCool::
     .string "dag, {PLAYER}.$"
 
 ThreeIsland_House1_Text_RareRocksGemsDisplayed::
-    .string "Själdne sten og ädelstene er udstillet.$"
+    .string "Sjældne sten og ædelstene er udstillet.$"
 

@@ -1,10 +1,10 @@
 LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHere::
     .string "Jeg flyttede nylig til denne by.\p"
-    .string "Jeg hörer at MR. FUJI heller ikke\n"
+    .string "Jeg hører at MR. FUJI heller ikke\n"
     .string "er herfra oprindeligt.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGo::
-    .string "Märkeligt, MR. FUJI er ikke her.\n"
+    .string "Mærkeligt, MR. FUJI er ikke her.\n"
     .string "Hvor blev han af?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
@@ -14,7 +14,7 @@ LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
     .string "Dette er faktisk MR. FUJIs hus.\p"
     .string "Han er virkelig venlig.\p"
-    .string "Han passer forladte og foräldrelöse\n"
+    .string "Han passer forladte og forældreløse\n"
     .string "POKéMON.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
@@ -29,11 +29,11 @@ LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
     .string "MR. FUJI: {PLAYER}…\p"
-    .string "Din POKéDEX-rejse kräver stärk\n"
+    .string "Din POKéDEX-rejse kræver stærk\n"
     .string "engagement.\p"
-    .string "Uden dyb kärlighed til POKéMON kan\n"
+    .string "Uden dyb kærlighed til POKéMON kan\n"
     .string "din rejse mislykkes.\p"
-    .string "Jeg ved ikke om det hjälper, men\n"
+    .string "Jeg ved ikke om det hjælper, men\n"
     .string "jeg vil gerne give dig dette.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
@@ -41,13 +41,13 @@ LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
     .string "fra MR. FUJI.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-    .string "Nâr man hörer POKe FLUTE, vâgner\n"
+    .string "Nâr man hører POKe FLUTE, vâgner\n"
     .string "sovende POKéMON med det samme.\p"
-    .string "Pröv at bruge den pâ POKéMON der\n"
+    .string "Prøv at bruge den pâ POKéMON der\n"
     .string "er sovende hindringer.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
-    .string "Du skal göre plads til dette!$"
+    .string "Du skal gøre plads til dette!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
     .string "MR. FUJI: Har min POKe FLUTE\n"
@@ -55,10 +55,10 @@ LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
     .string "POKéMON FAN MAGAZINE\n"
-    .string "Mânedlig hovedprämie-lodträkning!\p"
-    .string "Ansögningsskemät er…\p"
-    .string "Väk! Det er klippet ud.\n"
-    .string "Nogen mâ allerede have ansögt.$"
+    .string "Mânedlig hovedpræmie-lodtrækning!\p"
+    .string "Ansøgningsskemæt er…\p"
+    .string "Væk! Det er klippet ud.\n"
+    .string "Nogen mâ allerede have ansøgt.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
     .string "POKéMON-magasiner stâr pâ hylden.\p"

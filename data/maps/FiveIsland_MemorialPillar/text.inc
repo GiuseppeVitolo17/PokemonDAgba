@@ -1,8 +1,8 @@
 FiveIsland_MemorialPillar_Text_MiloIntro::
-    .string "Jeg er den äldste af FUGLE-\n"
-    .string "BRÖDRENE.\p"
+    .string "Jeg er den ældste af FUGLE-\n"
+    .string "BRØDRENE.\p"
     .string "Det bedste ved fugle…\n"
-    .string "Det mâ väre näbbet.$"
+    .string "Det mâ være næbbet.$"
 
 FiveIsland_MemorialPillar_Text_MiloDefeat::
     .string "Øh, sâ skarp!$"
@@ -13,9 +13,9 @@ FiveIsland_MemorialPillar_Text_MiloPostBattle::
 
 FiveIsland_MemorialPillar_Text_ChazIntro::
     .string "Jeg er mellemste barn af FUGLE-\n"
-    .string "BRÖDRENE.\p"
+    .string "BRØDRENE.\p"
     .string "Det bedste ved fugle…\n"
-    .string "Det mâ väre vingerne.$"
+    .string "Det mâ være vingerne.$"
 
 FiveIsland_MemorialPillar_Text_ChazDefeat::
     .string "Flap, flap!$"
@@ -26,16 +26,16 @@ FiveIsland_MemorialPillar_Text_ChazPostBattle::
 
 FiveIsland_MemorialPillar_Text_HaroldIntro::
     .string "Jeg er den yngste af FUGLE-\n"
-    .string "BRÖDRENE.\p"
+    .string "BRØDRENE.\p"
     .string "Det bedste ved fugle…\n"
-    .string "Det mâ väre dunet.$"
+    .string "Det mâ være dunet.$"
 
 FiveIsland_MemorialPillar_Text_HaroldDefeat::
     .string "Dun er sâ behageligt…\n"
-    .string "Det gör mig dösig…$"
+    .string "Det gør mig døsig…$"
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
-    .string "Det fylder mig med gläde nâr\n"
+    .string "Det fylder mig med glæde nâr\n"
     .string "fugle-POKéMON tigger legende…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
@@ -56,7 +56,7 @@ FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
     .string "offer foran graven.$"
 
 FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
-    .string "Vil du lägge endnu en LEMONADE\n"
+    .string "Vil du lægge endnu en LEMONADE\n"
     .string "som offer?$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
@@ -69,16 +69,16 @@ FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
     .string "drik…\p"
     .string "Jeg kender dig ikke engang, men din\n"
     .string "venlighed…\p"
-    .string "Har löftet mig lidt.\p"
-    .string "Värsgo tag dette som tak?$"
+    .string "Har løftet mig lidt.\p"
+    .string "Værsgo tag dette som tak?$"
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
-    .string "Vär venlig ved dine POKéMON\n"
+    .string "Vær venlig ved dine POKéMON\n"
     .string "ogsâ.$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
     .string "Hvis du ikke har plads til det,\n"
-    .string "gemmer jeg det til näste gang.$"
+    .string "gemmer jeg det til næste gang.$"
 
 FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanks::
     .string "Øh, det er dig fra dengang…\p"
@@ -91,7 +91,7 @@ FiveIsland_MemorialPillar_Text_ScrubScrubTectonix::
     .string "TECTONIX…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonix::
-    .string "Kampesten og sten er pänt stablet\n"
+    .string "Kampesten og sten er pænt stablet\n"
     .string "som en varde.\p"
     .string "Her hviler TECTONIX er indgraveret\n"
     .string "pâ en kampesten.$"

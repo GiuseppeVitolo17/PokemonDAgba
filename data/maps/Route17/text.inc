@@ -1,15 +1,15 @@
 Route17_Text_RaulIntro::
     .string "Man bliver ikke hurtig rig af\n"
-    .string "at kämpe med börn.$"
+    .string "at kæmpe med børn.$"
 
 Route17_Text_RaulDefeat::
-    .string "Brändt ud!$"
+    .string "Brændt ud!$"
 
 Route17_Text_RaulPostBattle::
     .string "Du kan finde gode ting der ligger\n"
     .string "og flyder pâ CYKELVEJ.\p"
     .string "Der er gode penge i at samle dem\n"
-    .string "op og sälge dem.$"
+    .string "op og sælge dem.$"
 
 Route17_Text_IsaiahIntro::
     .string "Jeg er stolt af min krop, unge.\n"
@@ -19,37 +19,37 @@ Route17_Text_IsaiahDefeat::
     .string "Whoo!$"
 
 Route17_Text_IsaiahPostBattle::
-    .string "Jeg kunne mave-bumpe dig väk\n"
+    .string "Jeg kunne mave-bumpe dig væk\n"
     .string "herfra!$"
 
 Route17_Text_VirgilIntro::
     .string "Er du pâ vej til FUCHSIA?$"
 
 Route17_Text_VirgilDefeat::
-    .string "Crash og bränd!$"
+    .string "Crash og brænd!$"
 
 Route17_Text_VirgilPostBattle::
-    .string "Jeg elsker at köre ned ad bakke!$"
+    .string "Jeg elsker at køre ned ad bakke!$"
 
 Route17_Text_BillyIntro::
     .string "Vi er BIKERS!\n"
     .string "Vi hersker over vejene!$"
 
 Route17_Text_BillyDefeat::
-    .string "Rögt!$"
+    .string "Røgt!$"
 
 Route17_Text_BillyPostBattle::
     .string "Led du efter eventyr?$"
 
 Route17_Text_NikolasIntro::
-    .string "Lad VOLTORB give dig stöd!$"
+    .string "Lad VOLTORB give dig stød!$"
 
 Route17_Text_NikolasDefeat::
     .string "Jordet!$"
 
 Route17_Text_NikolasPostBattle::
     .string "Jeg fik min VOLTORB ved den\n"
-    .string "forladte KRAFTVÄRK.$"
+    .string "forladte KRAFTVÆRK.$"
 
 Route17_Text_ZeekIntro::
     .string "Jeg har level'et mine POKéMON op,\n"
@@ -67,30 +67,30 @@ Route17_Text_JamalIntro::
 
 Route17_Text_JamalDefeat::
     .string "Puha!\n"
-    .string "God träning!$"
+    .string "God træning!$"
 
 Route17_Text_JamalPostBattle::
-    .string "Jeg er sikker pâ jeg tabte vägt!$"
+    .string "Jeg er sikker pâ jeg tabte vægt!$"
 
 Route17_Text_CoreyIntro::
-    .string "Vär en rebel!$"
+    .string "Vær en rebel!$"
 
 Route17_Text_CoreyDefeat::
     .string "Aâargh!$"
 
 Route17_Text_CoreyPostBattle::
-    .string "Vär parat til at kämpe for det\n"
+    .string "Vær parat til at kæmpe for det\n"
     .string "du tror pâ!$"
 
 Route17_Text_JaxonIntro::
     .string "Fin CYKEL!\n"
-    .string "Hvordan körer den?$"
+    .string "Hvordan kører den?$"
 
 Route17_Text_JaxonDefeat::
     .string "Skyd!$"
 
 Route17_Text_JaxonPostBattle::
-    .string "Skrâningen gör det svärt at styre.$"
+    .string "Skrâningen gør det svært at styre.$"
 
 Route17_Text_WilliamIntro::
     .string "Forsvind, unge!\n"

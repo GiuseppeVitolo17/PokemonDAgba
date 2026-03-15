@@ -1,5 +1,5 @@
 SSAnne_B1F_Room2_Text_HueyIntro::
-    .string "Selv os sömänd har POKéMON!$"
+    .string "Selv os sømænd har POKéMON!$"
 
 SSAnne_B1F_Room2_Text_HueyDefeat::
     .string "Okay, du er ikke dârlig.$"

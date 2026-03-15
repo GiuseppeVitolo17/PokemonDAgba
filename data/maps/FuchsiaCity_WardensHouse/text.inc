@@ -12,29 +12,29 @@ FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
     .string "He ohay heh ha hoo ee haheh!$"
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
-    .string "{PLAYER} gav GULDTÄNDERNE\n"
+    .string "{PLAYER} gav GULDTÆNDERNE\n"
     .string "til VOGTEREN.$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
-    .string "VOGTEREN satte tänderne i!$"
+    .string "VOGTEREN satte tænderne i!$"
 
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
-    .string "VOGTER: Tak, sön!\n"
+    .string "VOGTER: Tak, søn!\n"
     .string "Du er en rigtig livredder!\p"
     .string "Ingen kunne forstâ et ord af hvad\n"
     .string "jeg sagde!\p"
     .string "Jeg skammede mig over at vise mig\n"
     .string "i KONTORET.\p"
-    .string "Lad mig give dig noget for besväret.$"
+    .string "Lad mig give dig noget for besværet.$"
 
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
-    .string "VOGTER: Tak, tös!\n"
+    .string "VOGTER: Tak, tøs!\n"
     .string "Du er en rigtig livredder!\p"
     .string "Ingen kunne forstâ et ord af hvad\n"
     .string "jeg sagde!\p"
     .string "Jeg skammede mig over at vise mig\n"
     .string "i KONTORET.\p"
-    .string "Lad mig give dig noget for besväret.$"
+    .string "Lad mig give dig noget for besværet.$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
     .string "{PLAYER} modtog HM04\n"

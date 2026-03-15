@@ -3,10 +3,10 @@ Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
     .string "Jeg er en af PROF. OAKs ASSISTENTER.\p"
     .string "Hvis din POKéDEX har fulde data\n"
     .string "pâ {STR_VAR_1} arter, skal jeg give dig\l"
-    .string "en belönning.\p"
-    .string "PROF. OAK betröde mig\n"
+    .string "en belønning.\p"
+    .string "PROF. OAK betrøde mig\n"
     .string "{STR_VAR_2} til dig.\p"
-    .string "Sâ, {PLAYER}, lad mig spörge.\p"
+    .string "Sâ, {PLAYER}, lad mig spørge.\p"
     .string "Har du samlet data pâ mindst\n"
     .string "{STR_VAR_1} slags POKéMON?$"
 
@@ -14,7 +14,7 @@ Route11_EastEntrance_2F_Text_GreatHereYouGo::
     .string "Stort! Du har fanget eller ejet\n"
     .string "{STR_VAR_3} slags POKéMON!\p"
     .string "Tillykke!\n"
-    .string "Värsgo!$"
+    .string "Værsgo!$"
 
 Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
     .string "{PLAYER} modtog {STR_VAR_2}\n"
@@ -24,13 +24,13 @@ Route11_EastEntrance_2F_Text_ExplainItemfinder::
     .string "Der er ting pâ jorden der mâske\n"
     .string "er skjult for synet.\p"
     .string "Brug ITEMFINDER til at opdage\n"
-    .string "skjulte ting i närheden.\p"
-    .string "Maskinen er lidt begränset.\n"
-    .string "Den kan ikke pege präcist pâ ting.\p"
+    .string "skjulte ting i nærheden.\p"
+    .string "Maskinen er lidt begrænset.\n"
+    .string "Den kan ikke pege præcist pâ ting.\p"
     .string "Den viser retningen hvor\n"
     .string "tingen er.\p"
     .string "Brug den til at orientere dig, og\n"
-    .string "sög sâ det mistänkte omrâde manuelt.$"
+    .string "søg sâ det mistænkte omrâde manuelt.$"
 
 Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad::
     .string "Lad os se hvad kikkerten viser…\p"
@@ -44,5 +44,5 @@ Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender::
     .string "Lad os se hvad kikkerten viser…\p"
     .string "For at nâ LAVENDER TOWN fra\n"
     .string "CERULEAN CITY…\p"
-    .string "ROCK TUNNEL ser ud til at väre\n"
+    .string "ROCK TUNNEL ser ud til at være\n"
     .string "en god rute at tage.$"

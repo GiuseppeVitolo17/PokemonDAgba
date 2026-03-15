@@ -1,6 +1,6 @@
 SilphCo_9F_Text_YouShouldTakeQuickNap::
-    .string "Du ser trät ud.\n"
-    .string "Du bör tage en kort lur.$"
+    .string "Du ser træt ud.\n"
+    .string "Du bør tage en kort lur.$"
 
 SilphCo_9F_Text_DontGiveUp::
     .string "Giv ikke op!$"
@@ -28,18 +28,18 @@ SilphCo_9F_Text_EdDefeat::
 
 SilphCo_9F_Text_EdPostBattle::
     .string "At udnytte svâghedspunkter virker.\n"
-    .string "Tänk pâ typefordele.$"
+    .string "Tænk pâ typefordele.$"
 
 SilphCo_9F_Text_Grunt2Intro::
     .string "Jeg er en af de fire ROCKET\n"
-    .string "BRÖDRE!$"
+    .string "BRØDRE!$"
 
 SilphCo_9F_Text_Grunt2Defeat::
     .string "Warg!\n"
-    .string "Brödre, jeg tabte!$"
+    .string "Brødre, jeg tabte!$"
 
 SilphCo_9F_Text_Grunt2PostBattle::
-    .string "Mine brödre vil hävne mig!$"
+    .string "Mine brødre vil hævne mig!$"
 
 SilphCo_9F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

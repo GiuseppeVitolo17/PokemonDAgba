@@ -1,6 +1,6 @@
 SSAnne_B1F_Room4_Text_LeonardIntro::
     .string "Du ved hvad de siger om\n"
-    .string "sömänd og kamp!$"
+    .string "sømænd og kamp!$"
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
     .string "Lige!\n"
@@ -8,14 +8,14 @@ SSAnne_B1F_Room4_Text_LeonardDefeat::
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::
     .string "Hahaha!\n"
-    .string "Vil du väre sömand, kammerat?$"
+    .string "Vil du være sømand, kammerat?$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
     .string "Kom sâ!\n"
-    .string "Min sömandsstolthed stâr pâ spil!$"
+    .string "Min sømandsstolthed stâr pâ spil!$"
 
 SSAnne_B1F_Room4_Text_DuncanDefeat::
-    .string "Din ând sänkede mig!$"
+    .string "Din ând sænkede mig!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
     .string "Sâ du FISHING GURU i\n"

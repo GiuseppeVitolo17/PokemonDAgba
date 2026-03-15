@@ -1,5 +1,5 @@
 SSAnne_B1F_Room3_Text_DylanIntro::
-    .string "Jeg kan lide friskfödte börn som dig!$"
+    .string "Jeg kan lide friskfødte børn som dig!$"
 
 SSAnne_B1F_Room3_Text_DylanDefeat::
     .string "Argh!\n"

@@ -7,7 +7,7 @@ TrainerTower_Lobby_Text_WelcomeToTrainerTower::
 
 TrainerTower_Lobby_Text_TrainersUpToFloorNum::
     .string "TRAINERS fra hele verden\n"
-    .string "samles her for at kämpe.\p"
+    .string "samles her for at kæmpe.\p"
     .string "Lad mig se…\p"
     .string "Lige nu er der kun TRAINERS\n"
     .string "op til etage {STR_VAR_1}.$"
@@ -28,13 +28,13 @@ TrainerTower_Lobby_Text_StartClockGetSetGo::
     .string "Go!$"
 
 TrainerTower_Lobby_Text_PleaseVisitUsAgain::
-    .string "Besög os gerne igen!$"
+    .string "Besøg os gerne igen!$"
 
 TrainerTower_Lobby_Text_TooBadComeBackTryAgain::
-    .string "Det var ärgerligt.\p"
+    .string "Det var ærgerligt.\p"
     .string "Jeg synes du lagde en enorm\n"
     .string "indsats i din kamp.\p"
-    .string "Kom tilbage og pröv igen!$"
+    .string "Kom tilbage og prøv igen!$"
 
 TrainerTower_Lobby_Text_GiveItYourBest::
     .string "Jeg hâber du giver den bedste.$"
@@ -51,9 +51,9 @@ TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
     .string "Jeg er ejeren af dette TOWER…\p"
     .string "Hvor himlen svejfer over dette\n"
     .string "tag…\p"
-    .string "Beröringen af vinden heroppe…\p"
+    .string "Berøringen af vinden heroppe…\p"
     .string "Alt er sâ perfekt…\p"
-    .string "Mâden du kämpede pâ…\n"
+    .string "Mâden du kæmpede pâ…\n"
     .string "Ogsâ det var perfektion…$"
 
 TrainerTower_Roof_Text_ThisIsForYou::
@@ -87,7 +87,7 @@ TrainerTower_Lobby_Text_HereAreTheResults::
 
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
     .string "Dette er en to-mod-to kamp.\p"
-    .string "Du mâ ikke kämpe medmindre du har\n"
+    .string "Du mâ ikke kæmpe medmindre du har\n"
     .string "mindst to POKéMON.$"
 
 TrainerTower_Lobby_Text_ExplainTrainerTower::
@@ -98,7 +98,7 @@ TrainerTower_Lobby_Text_ExplainTrainerTower::
     .string "til EJEREN pâ taget.\p"
     .string "De bedste tider bliver noteret pâ\n"
     .string "Tidstavlen.\p"
-    .string "Pröv at konkurrere med venner om\n"
+    .string "Prøv at konkurrere med venner om\n"
     .string "hvem der kan slâ den hurtigst.\p"
     .string "Du fâr ikke nogen EXP. Point eller\n"
     .string "penge ved at besejre TRAINERS her.$"

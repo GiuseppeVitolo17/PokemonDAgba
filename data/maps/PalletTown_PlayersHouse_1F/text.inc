@@ -7,14 +7,14 @@ PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
     .string "MOR: …Lige sâ.\n"
-    .string "Alle piger drömmer om at rejse.\l"
+    .string "Alle piger drømmer om at rejse.\l"
     .string "Sâ stâr der i TV.\p"
     .string "Oh ja. PROF. OAK, ved siden af,\n"
     .string "ledte efter dig.$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
     .string "MOR: {PLAYER}!\n"
-    .string "Du bör tage en kort hvile.$"
+    .string "Du bør tage en kort hvile.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
     .string "MOR: Oh, godt! Du og dine\n"

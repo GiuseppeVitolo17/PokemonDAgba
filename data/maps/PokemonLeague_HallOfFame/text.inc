@@ -4,7 +4,7 @@ PokemonLeague_HallOfFame_Text_OakCongratulations::
     .string "Denne etage er POKéMON HALL OF\n"
     .string "FAME.\p"
     .string "POKéMON LEAGUE MESTERE bliver\n"
-    .string "äret for deres bedrifter her.\p"
+    .string "æret for deres bedrifter her.\p"
     .string "Deres POKéMON bliver ogsâ\n"
     .string "registreret i HALL OF FAME.\p"
     .string "{PLAYER}!\p"

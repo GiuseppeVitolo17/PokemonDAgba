@@ -1,2 +1,2 @@
 CeladonCity_Condominiums_2F_Text_GameFreakMeetingRoom::
-    .string "GAME FREAK Mödelokale$"
+    .string "GAME FREAK Mødelokale$"

@@ -1,19 +1,19 @@
 CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
     .string "Jeg kan virkelig lide den PORYGON!\n"
-    .string "Men det er svärt at vinde ved spilleautomaterne!$"
+    .string "Men det er svært at vinde ved spilleautomaterne!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::
     .string "Gahaha! Jeg tjente godt i dag!\n"
     .string "Hvis bare hver dag var som denne…$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired::
-    .string "En COIN CASE er nödvendig…$"
+    .string "En COIN CASE er nødvendig…$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes::
-    .string "Vi indlöser dine COINS for prämier.$"
+    .string "Vi indløser dine COINS for præmier.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize::
-    .string "Hvilken prämie vil du have?$"
+    .string "Hvilken præmie vil du have?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo::
     .string "はい どうぞ$"

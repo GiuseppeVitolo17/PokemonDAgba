@@ -4,23 +4,23 @@ SixIsland_PatternBush_Text_BethanyIntro::
 
 SixIsland_PatternBush_Text_BethanyDefeat::
     .string "Du opdrager dine POKéMON med en\n"
-    .string "masse kärlighed!$"
+    .string "masse kærlighed!$"
 
 SixIsland_PatternBush_Text_BethanyPostBattle::
     .string "Pâ samme mâde som din mor opdrog\n"
-    .string "dig fuld af kärlighed, bör du opdrage\l"
+    .string "dig fuld af kærlighed, bør du opdrage\l"
     .string "dine POKéMON.$"
 
 SixIsland_PatternBush_Text_AllisonIntro::
     .string "Jeg arbejder for at bevare den\n"
-    .string "naturlige ökologi af POKéMON her.$"
+    .string "naturlige økologi af POKéMON her.$"
 
 SixIsland_PatternBush_Text_AllisonDefeat::
     .string "Aah, for en sâ ung er du\n"
     .string "enorm!$"
 
 SixIsland_PatternBush_Text_AllisonPostBattle::
-    .string "Jeg siger ikke at du ikke bör\n"
+    .string "Jeg siger ikke at du ikke bør\n"
     .string "fange POKéMON.\p"
     .string "Jeg vil bare have folk til at opdrage\n"
     .string "deres POKéMON ansvarligt.$"
@@ -38,7 +38,7 @@ SixIsland_PatternBush_Text_GarretPostBattle::
     .string "mâler HERACROSS for TRAINERS.$"
 
 SixIsland_PatternBush_Text_JonahIntro::
-    .string "Du ved, det föles bare ikke rigtigt\n"
+    .string "Du ved, det føles bare ikke rigtigt\n"
     .string "hvis jeg ikke bruger BUG POKéMON.$"
 
 SixIsland_PatternBush_Text_JonahDefeat::
@@ -47,7 +47,7 @@ SixIsland_PatternBush_Text_JonahDefeat::
 
 SixIsland_PatternBush_Text_JonahPostBattle::
     .string "For resten, appel er et underligt\n"
-    .string "ord, hvis man tänker over det.\p"
+    .string "ord, hvis man tænker over det.\p"
     .string "Altsâ, er det som en appelsinskral?\n"
     .string "Eller som en ringende klokke?$"
 
@@ -61,44 +61,44 @@ SixIsland_PatternBush_Text_VanceDefeat::
 
 SixIsland_PatternBush_Text_VancePostBattle::
     .string "Jeg tager min lillebror med\n"
-    .string "hernäst gang.$"
+    .string "hernæst gang.$"
 
 SixIsland_PatternBush_Text_NashIntro::
     .string "Se, se! Der er underlige\n"
-    .string "mönstre pâ jorden.$"
+    .string "mønstre pâ jorden.$"
 
 SixIsland_PatternBush_Text_NashDefeat::
     .string "Super fantastisk!$"
 
 SixIsland_PatternBush_Text_NashPostBattle::
-    .string "De underlige mönstre pâ jorden…\p"
-    .string "De ligner mönstrene pâ min\n"
-    .string "bedstefars töj.$"
+    .string "De underlige mønstre pâ jorden…\p"
+    .string "De ligner mønstrene pâ min\n"
+    .string "bedstefars tøj.$"
 
 SixIsland_PatternBush_Text_CordellIntro::
     .string "Jeg ved du tror jeg bare er en eller\n"
-    .string "anden fyr, gör du ikke?$"
+    .string "anden fyr, gør du ikke?$"
 
 SixIsland_PatternBush_Text_CordellDefeat::
     .string "Jeg ved du tror jeg er svag,\n"
-    .string "gör du ikke?$"
+    .string "gør du ikke?$"
 
 SixIsland_PatternBush_Text_CordellPostBattle::
-    .string "Ja, I bybör kommer rundt sâ\n"
-    .string "flot med en sâ iöjnefaldende hat…\p"
+    .string "Ja, I bybør kommer rundt sâ\n"
+    .string "flot med en sâ iøjnefaldende hat…\p"
     .string "Hvad med at give mig den?$"
 
 SixIsland_PatternBush_Text_DaliaIntro::
-    .string "Träk vejret dybt.\n"
+    .string "Træk vejret dybt.\n"
     .string "Er luften ikke herlig?$"
 
 SixIsland_PatternBush_Text_DaliaDefeat::
-    .string "Hvis du vil, kan jeg läre dig at\n"
-    .string "träkke vejret ordentligt.$"
+    .string "Hvis du vil, kan jeg lære dig at\n"
+    .string "trække vejret ordentligt.$"
 
 SixIsland_PatternBush_Text_DaliaPostBattle::
-    .string "Först, pust ud.\n"
-    .string "Bläs alt ud.\p"
+    .string "Først, pust ud.\n"
+    .string "Blæs alt ud.\p"
     .string "Nâr du ikke kan puste mere ud,\n"
     .string "indâand den rene luft!\p"
     .string "Er det ikke forfriskende?$"
@@ -119,10 +119,10 @@ SixIsland_PatternBush_Text_JoanaPostBattle::
 
 SixIsland_PatternBush_Text_RileyIntro::
     .string "Det her er et godt sted.\n"
-    .string "Jeg sätter mit telt op her.$"
+    .string "Jeg sætter mit telt op her.$"
 
 SixIsland_PatternBush_Text_RileyDefeat::
-    .string "Blev kört over…$"
+    .string "Blev kørt over…$"
 
 SixIsland_PatternBush_Text_RileyPostBattle::
     .string "Jeg vil observere nattehimlen\n"
@@ -134,23 +134,23 @@ SixIsland_PatternBush_Text_MarcyIntro::
 
 SixIsland_PatternBush_Text_MarcyDefeat::
     .string "Det var ikke et insekt.\n"
-    .string "Jeg skar mig pâ noget gräs.$"
+    .string "Jeg skar mig pâ noget græs.$"
 
 SixIsland_PatternBush_Text_MarcyPostBattle::
     .string "Et lille skâr som det…\n"
     .string "Lidt spyt er nok til at kurere det!$"
 
 SixIsland_PatternBush_Text_LaytonIntro::
-    .string "Har du lagt märke til noget märkeligt\n"
+    .string "Har du lagt mærke til noget mærkeligt\n"
     .string "ved disse egne?$"
 
 SixIsland_PatternBush_Text_LaytonDefeat::
     .string "Har du set ordentligt rundt om\n"
-    .string "dine födder?$"
+    .string "dine fødder?$"
 
 SixIsland_PatternBush_Text_LaytonPostBattle::
     .string "Der er steder her i PATTERN\n"
-    .string "BUSH hvor gräs ikke vil gro.\p"
-    .string "Hvad kunne ârsagen väre til sâ\n"
-    .string "et fänomen?$"
+    .string "BUSH hvor græs ikke vil gro.\p"
+    .string "Hvad kunne ârsagen være til sâ\n"
+    .string "et fænomen?$"
 

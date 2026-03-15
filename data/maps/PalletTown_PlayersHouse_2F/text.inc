@@ -5,6 +5,6 @@ PalletTown_PlayersHouse_2F_Text_PlayedWithNES::
 
 PalletTown_PlayersHouse_2F_Text_PressLRForHelp::
     .string "Det er en opslâet besked…\p"
-    .string "Hvis du er forvirret, bed om HJÄLP!\n"
+    .string "Hvis du er forvirret, bed om HJÆLP!\n"
     .string "Tryk pâ L- eller R-knappen!$"
 

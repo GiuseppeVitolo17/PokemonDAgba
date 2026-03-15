@@ -19,7 +19,7 @@ const struct Decoration gDecorations[] = {
         DecorGfx_SMALL_DESK
     }, {
         DECOR_POKEMON_DESK,
-        _("POKeMON DESK"),
+        _("POKéMON DESK"),
         DECORPERM_SOLID_FLOOR,
         DECORSHAPE_1x1,
         DECORCAT_DESK,
@@ -100,7 +100,7 @@ const struct Decoration gDecorations[] = {
         DecorGfx_SMALL_CHAIR
     }, {
         DECOR_POKEMON_CHAIR,
-        _("POKeMON CHAIR"),
+        _("POKéMON CHAIR"),
         DECORPERM_PASS_FLOOR,
         DECORSHAPE_1x1,
         DECORCAT_CHAIR,

@@ -1,6 +1,6 @@
 ViridianCity_House_Text_NicknamingIsFun::
     .string "At finde pâ kaldenavne er sjovt,\n"
-    .string "men det er ikke sâ nemt at göre.\p"
+    .string "men det er ikke sâ nemt at gøre.\p"
     .string "Smart navne er rare, men enkle\n"
     .string "navne er lettere at huske.$"
 

@@ -11,11 +11,11 @@ CeruleanCity_House1_Text_DescribeWhichBadge::
     .string "jeg beskrive?$"
 
 CeruleanCity_House1_Text_ComeVisitAnytime::
-    .string "Kom og besög mig nâr du vil.$"
+    .string "Kom og besøg mig nâr du vil.$"
 
 CeruleanCity_House1_Text_AttackStatFlash::
     .string "ATTACK staten af alle dine\n"
-    .string "POKéMON öger en lille smule.\p"
+    .string "POKéMON øger en lille smule.\p"
     .string "Den lader dig ogsâ bruge tricket\n"
     .string "FLASH uden for kamp.$"
 
@@ -24,14 +24,14 @@ CeruleanCity_House1_Text_ObeyLv30Cut::
     .string "dig.\p"
     .string "Det inkluderer endda dem du fâr\n"
     .string "ved bytte.\p"
-    .string "POKéMON pâ höjere niveauer vil\n"
-    .string "väre urolige i kamp, dog.\p"
+    .string "POKéMON pâ højere niveauer vil\n"
+    .string "være urolige i kamp, dog.\p"
     .string "Den lader dig ogsâ bruge tricket\n"
     .string "CUT uden for kamp.$"
 
 CeruleanCity_House1_Text_SpeedStatFly::
     .string "SPEED staten af alle dine\n"
-    .string "POKéMON öger en lille smule.\p"
+    .string "POKéMON øger en lille smule.\p"
     .string "Den lader dig ogsâ bruge tricket\n"
     .string "FLY uden for kamp.$"
 
@@ -40,14 +40,14 @@ CeruleanCity_House1_Text_ObeyLv50Strength::
     .string "dig.\p"
     .string "Det inkluderer endda dem du fâr\n"
     .string "ved bytte.\p"
-    .string "POKéMON pâ höjere niveauer vil\n"
-    .string "väre urolige i kamp, dog.\p"
+    .string "POKéMON pâ højere niveauer vil\n"
+    .string "være urolige i kamp, dog.\p"
     .string "Den lader dig ogsâ bruge tricket\n"
     .string "STRENGTH uden for kamp.$"
 
 CeruleanCity_House1_Text_DefenseStatSurf::
     .string "DEFENSE staten af alle dine\n"
-    .string "POKéMON öger en lille smule.\p"
+    .string "POKéMON øger en lille smule.\p"
     .string "Den lader dig ogsâ bruge tricket\n"
     .string "SURF uden for kamp.$"
 
@@ -56,8 +56,8 @@ CeruleanCity_House1_Text_ObeyLv70RockSmash::
     .string "dig.\p"
     .string "Det inkluderer endda dem du fâr\n"
     .string "ved bytte.\p"
-    .string "POKéMON pâ höjere niveauer vil\n"
-    .string "väre urolige i kamp, dog.\p"
+    .string "POKéMON pâ højere niveauer vil\n"
+    .string "være urolige i kamp, dog.\p"
     .string "Den lader dig ogsâ bruge tricket\n"
     .string "ROCK SMASH uden for kamp.$"
 

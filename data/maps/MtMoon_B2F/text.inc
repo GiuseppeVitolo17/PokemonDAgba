@@ -9,14 +9,14 @@ MtMoon_B2F_Text_MiguelDefeat::
 
 MtMoon_B2F_Text_WellEachTakeAFossil::
     .string "Vi tager hver et fossil!\n"
-    .string "Vär ikke grâdig!$"
+    .string "Vær ikke grâdig!$"
 
 MtMoon_B2F_Text_ThenThisFossilIsMine::
     .string "Okay.\n"
     .string "Sâ er dette fossil mit!$"
 
 MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils::
-    .string "Langt väk, pâ CINNABAR ISLAND,\n"
+    .string "Langt væk, pâ CINNABAR ISLAND,\n"
     .string "er der et POKéMON LAB.\p"
     .string "De forsker i at regenerere\n"
     .string "fossiler.$"
@@ -32,7 +32,7 @@ MtMoon_B2F_Text_Grunt1Defeat::
 
 MtMoon_B2F_Text_Grunt1PostBattle::
     .string "Du gjorde mig vred!\n"
-    .string "TEAM ROCKET sätter dig pâ sort liste!$"
+    .string "TEAM ROCKET sætter dig pâ sort liste!$"
 
 MtMoon_B2F_Text_Grunt2Intro::
     .string "Vi, TEAM ROCKET, er POKéMON-\n"
@@ -40,7 +40,7 @@ MtMoon_B2F_Text_Grunt2Intro::
     .string "Vi indgyder frygt med vores styrke!$"
 
 MtMoon_B2F_Text_Grunt2Defeat::
-    .string "Jeg röde det!$"
+    .string "Jeg røde det!$"
 
 MtMoon_B2F_Text_Grunt2PostBattle::
     .string "Pokkers!\n"
@@ -58,7 +58,7 @@ MtMoon_B2F_Text_Grunt3PostBattle::
     .string "og forsvind!$"
 
 MtMoon_B2F_Text_Grunt4Intro::
-    .string "Smâ börn bör ikke blande sig med\n"
+    .string "Smâ børn bør ikke blande sig med\n"
     .string "voksne!\p"
     .string "Det kan blive slemme nyheder!$"
 
@@ -66,7 +66,7 @@ MtMoon_B2F_Text_Grunt4Defeat::
     .string "Jeg er dampende!$"
 
 MtMoon_B2F_Text_Grunt4PostBattle::
-    .string "POKéMON levede her länge för\n"
+    .string "POKéMON levede her længe før\n"
     .string "mennesker kom.$"
 
 MtMoon_B2F_Text_YouWantDomeFossil::

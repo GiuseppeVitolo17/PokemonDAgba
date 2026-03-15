@@ -7,7 +7,7 @@ SilphCo_6F_Text_BetterGetBackToWork::
 
 SilphCo_6F_Text_HelpMePlease::
     .string "Oh nej, oh nej.\n"
-    .string "Hjälp mig, venligst!$"
+    .string "Hjælp mig, venligst!$"
 
 SilphCo_6F_Text_WeGotEngaged::
     .string "Vi blev forlovet.\n"
@@ -18,16 +18,16 @@ SilphCo_6F_Text_ThatManIsSuchACoward::
     .string "Han er sâ fej!$"
 
 SilphCo_6F_Text_NeedsMeToLookAfterHim::
-    .string "Han er sâ hjälpelös, han havde brug for\n"
+    .string "Han er sâ hjælpeløs, han havde brug for\n"
     .string "en som mig til at passe pâ ham.$"
 
 SilphCo_6F_Text_RocketsTryingToConquerWorld::
-    .string "TEAM ROCKET pröver at erobre\n"
+    .string "TEAM ROCKET prøver at erobre\n"
     .string "verden med POKéMON.$"
 
 SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
-    .string "TEAM ROCKET löb väk, og det er\n"
-    .string "alt sammen takket väre dig!$"
+    .string "TEAM ROCKET løb væk, og det er\n"
+    .string "alt sammen takket være dig!$"
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
     .string "De mâ have mâlrettet SILPH for\n"
@@ -35,18 +35,18 @@ SilphCo_6F_Text_TargetedSilphForOurMonProducts::
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
     .string "Kom og arbejd for SILPH nâr du\n"
-    .string "bliver äldre.$"
+    .string "bliver ældre.$"
 
 SilphCo_6F_Text_Grunt1Intro::
     .string "Jeg er en af de fire ROCKET\n"
-    .string "BRÖDRE!$"
+    .string "BRØDRE!$"
 
 SilphCo_6F_Text_Grunt1Defeat::
     .string "Flammen ud!$"
 
 SilphCo_6F_Text_Grunt1PostBattle::
     .string "Ligemeget!\n"
-    .string "Mine brödre vil hävne mig!$"
+    .string "Mine brødre vil hævne mig!$"
 
 SilphCo_6F_Text_TaylorIntro::
     .string "Den râdne PRESIDENT!\p"
@@ -63,14 +63,14 @@ SilphCo_6F_Text_TaylorPostBattle::
     .string "Den er i russisk ingenmandsland!$"
 
 SilphCo_6F_Text_Grunt2Intro::
-    .string "Du vâger at forräde TEAM ROCKET?$"
+    .string "Du vâger at forræde TEAM ROCKET?$"
 
 SilphCo_6F_Text_Grunt2Defeat::
-    .string "Du forräder!$"
+    .string "Du forræder!$"
 
 SilphCo_6F_Text_Grunt2PostBattle::
-    .string "Hvis du stâr for retfärdighed,\n"
-    .string "forräder du os slemme fyre!$"
+    .string "Hvis du stâr for retfærdighed,\n"
+    .string "forræder du os slemme fyre!$"
 
 SilphCo_6F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

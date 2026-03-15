@@ -1,6 +1,6 @@
 FuchsiaCity_Text_DidYouTrySafariGame::
-    .string "Prövede du SAFARI GAME?\p"
-    .string "Der er nogle själde POKéMON der\n"
+    .string "Prøvede du SAFARI GAME?\p"
+    .string "Der er nogle sjælde POKéMON der\n"
     .string "kun kan fanges der.$"
 
 FuchsiaCity_Text_SafariZoneZooInFront::
@@ -11,7 +11,7 @@ FuchsiaCity_Text_SafariZoneZooInFront::
 
 FuchsiaCity_Text_WheresSara::
     .string "ERIK: Hvor er SARA?\n"
-    .string "Jeg sagde jeg mödtes med hende her.$"
+    .string "Jeg sagde jeg mødtes med hende her.$"
 
 FuchsiaCity_Text_ItemBallInThere::
     .string "Den genstandskugle derinde…\n"
@@ -47,7 +47,7 @@ FuchsiaCity_Text_GymSign::
 
 FuchsiaCity_Text_ChanseySign::
     .string "Navn: CHANSEY\n"
-    .string "At fange en er ren tilfäldighed.$"
+    .string "At fange en er ren tilfældighed.$"
 
 FuchsiaCity_Text_VoltorbSign::
     .string "Navn: VOLTORB\n"
@@ -68,12 +68,12 @@ FuchsiaCity_Text_LaprasSign::
 
 FuchsiaCity_Text_OmanyteSign::
     .string "Navn: OMANYTE\n"
-    .string "En yderst själden POKéMON gen-\l"
+    .string "En yderst sjælden POKéMON gen-\l"
     .string "regenereret fra et fossil.$"
 
 FuchsiaCity_Text_KabutoSign::
     .string "Navn: KABUTO\n"
-    .string "En yderst själden POKéMON gen-\l"
+    .string "En yderst sjælden POKéMON gen-\l"
     .string "regenereret fra et fossil.$"
 
 @ Unused. May have been meant to be the placeholder text for the zoo mons, similar to RB's "!" text
@@ -81,15 +81,15 @@ FuchsiaCity_Text_Ellipsis::
     .string "……$"
 
 Text_SubstituteTeach::
-    .string "Av, jeg ville önske jeg var en\n"
+    .string "Av, jeg ville ønske jeg var en\n"
     .string "KANGASKHAN-baby.\p"
-    .string "Jeg ville elske at väre erstatning\n"
+    .string "Jeg ville elske at være erstatning\n"
     .string "for babyen…\p"
-    .string "Og käle i moder KANGASKHANs\n"
+    .string "Og kæle i moder KANGASKHANs\n"
     .string "mavepung.\p"
     .string "Men kun POKéMON kan bruge\n"
     .string "teknikken SUBSTITUTE…\p"
-    .string "Skal jeg läre SUBSTITUTE til\n"
+    .string "Skal jeg lære SUBSTITUTE til\n"
     .string "en af dine POKéMON?$"
 
 Text_SubstituteDeclined::
@@ -97,7 +97,7 @@ Text_SubstituteDeclined::
     .string "SUBSTITUTE lyder sâ sjov…$"
 
 Text_SubstituteWhichMon::
-    .string "Hvilken POKéMON vil läre\n"
+    .string "Hvilken POKéMON vil lære\n"
     .string "SUBSTITUTE?$"
 
 Text_SubstituteTaught::
@@ -108,6 +108,6 @@ Text_SubstituteTaught::
 FuchsiaCity_Text_MyFatherIsGymLeader::
     .string "Min far er GYM LEDER i\n"
     .string "denne by.\p"
-    .string "Jeg träner i at bruge GIFT-\n"
+    .string "Jeg træner i at bruge GIFT-\n"
     .string "POKéMON ligesom min far.$"
 

@@ -18,7 +18,7 @@ SSAnne_B1F_Room1_Text_BarnyIntro::
 
 SSAnne_B1F_Room1_Text_BarnyDefeat::
     .string "Pokkers!\n"
-    .string "Jeg lod den slippe väk!$"
+    .string "Jeg lod den slippe væk!$"
 
 SSAnne_B1F_Room1_Text_BarnyPostBattle::
     .string "Jeg ville lige have gjort dig til min\n"

@@ -1,13 +1,13 @@
 Route25_Text_JoeyIntro::
     .string "Lokale TRAINERS kommer her for at\n"
-    .string "öve.$"
+    .string "øve.$"
 
 Route25_Text_JoeyDefeat::
     .string "Du er okay.$"
 
 Route25_Text_JoeyPostBattle::
     .string "Alle POKéMON har svagheder.\n"
-    .string "Selv de stärkeste.\p"
+    .string "Selv de stærkeste.\p"
     .string "Derfor er det bedst at opdrage\n"
     .string "POKéMON af forskellige typer.$"
 
@@ -24,29 +24,29 @@ Route25_Text_DanPostBattle::
 
 Route25_Text_FlintIntro::
     .string "Jeg er en sej fyr.\n"
-    .string "Jeg har en käreste!$"
+    .string "Jeg har en kæreste!$"
 
 Route25_Text_FlintDefeat::
     .string "Aa, pokker...$"
 
 Route25_Text_FlintPostBattle::
     .string "Aâ, ja.\n"
-    .string "Min käreste opmuntrer mig.$"
+    .string "Min kæreste opmuntrer mig.$"
 
 Route25_Text_KelseyIntro::
     .string "Hej!\n"
-    .string "Min käreste er sej!$"
+    .string "Min kæreste er sej!$"
 
 Route25_Text_KelseyDefeat::
     .string "Min form er ikke den bedste...$"
 
 Route25_Text_KelseyPostBattle::
-    .string "Jeg ville önske min käreste var\n"
+    .string "Jeg ville ønske min kæreste var\n"
     .string "sâ god som dig.$"
 
 Route25_Text_ChadIntro::
     .string "Jeg havde en fornemmelse...\n"
-    .string "Jeg vidste jeg mâtte kämpe dig!$"
+    .string "Jeg vidste jeg mâtte kæmpe dig!$"
 
 Route25_Text_ChadDefeat::
     .string "Jeg vidste ogsâ jeg ville tabe!$"
@@ -57,7 +57,7 @@ Route25_Text_ChadPostBattle::
     .string "Det er en god taktik.$"
 
 Route25_Text_HaleyIntro::
-    .string "Min veninde har mange söde POKéMON.\n"
+    .string "Min veninde har mange søde POKéMON.\n"
     .string "Jeg er sâ misundelig!$"
 
 Route25_Text_HaleyDefeat::
@@ -89,14 +89,14 @@ Route25_Text_NobPostBattle::
     .string "POKeMANIAC lever virkelig op til\n"
     .string "sit navn.\p"
     .string "Hans samling indeholder mange\n"
-    .string "själdne POKéMON-arter.$"
+    .string "sjældne POKéMON-arter.$"
 
 Route25_Text_WayneIntro::
     .string "Skal du til BILL?\n"
-    .string "Först kämper vi!$"
+    .string "Først kæmper vi!$"
 
 Route25_Text_WayneDefeat::
-    .string "Du er noget särligt.$"
+    .string "Du er noget særligt.$"
 
 Route25_Text_WaynePostBattle::
     .string "Stien nedenunder er en genvej til\n"
@@ -107,11 +107,11 @@ Route25_Text_SeaCottageSign::
     .string "BILL bor her!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
-    .string "Denne odde er et kendt stävnemödested.\p"
+    .string "Denne odde er et kendt stævnemødested.\p"
     .string "MISTY, GYM LEADER, har store\n"
     .string "forhâbninger til dette sted.$"
 
 Route25_Text_AreYouHereAlone::
     .string "Hej, er du her alene?\p"
     .string "Hvis du er ude pâ CERULEANs odde...\n"
-    .string "Ja, sâ burde det väre som par.$"
+    .string "Ja, sâ burde det være som par.$"

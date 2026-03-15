@@ -109,46 +109,46 @@ EventScript_GiveProfile:
 	end
 
 Text_IdLoveToHearYourProfile:
-	.string "Hej, dejligt at möde dig!\p"
+	.string "Hej, dejligt at møde dig!\p"
 	.string "…Det er uvenligt af dig.\n"
 	.string "Hvad med at sige hej tilbage?\p"
-	.string "Kom nu, fortäl mig om\n"
+	.string "Kom nu, fortæl mig om\n"
 	.string "dig selv.\p"
-	.string "Jeg vil meget gerne höre din profil!$"
+	.string "Jeg vil meget gerne høre din profil!$"
 
 Text_TellMeWhatsYourProfile:
-	.string "Fortäl mig noget godt om\n"
+	.string "Fortæl mig noget godt om\n"
 	.string "dig selv. Hvad er din profil?$"
 
 Text_ExplainProfile:
 	.string "En profil skrives med fire\n"
 	.string "ord eller udtryk.\p"
-	.string "Der er masser af ord at välge\n"
+	.string "Der er masser af ord at vælge\n"
 	.string "mellem til din profil.\p"
 	.string "Ordene og udtrykkene er placeret\n"
 	.string "i flere praktiske grupper.\p"
-	.string "Först välg en gruppe, derefter\n"
+	.string "Først vælg en gruppe, derefter\n"
 	.string "et ord eller udtryk.\p"
 	.string "…Det er nemmere end det lyder.\n"
-	.string "Pröv det dog!$"
+	.string "Prøv det dog!$"
 
 Text_WhatsYourProfile:
 	.string "Hvad er din profil?$"
 
 Text_DontBeLikeThat:
-	.string "Av… Vär nu ikke sâ led.\n"
-	.string "Du kan godt fortälle mig din profil.$"
+	.string "Av… Vær nu ikke sâ led.\n"
+	.string "Du kan godt fortælle mig din profil.$"
 
 Text_DecidedNotTo:
 	.string "Aa, du har besluttet dig for ikke?\n"
-	.string "Du er väglende, er du ikke?$"
+	.string "Du er væglende, er du ikke?$"
 
 Text_HiWeMeetAgain:
 	.string "Hej!\n"
-	.string "Vi mödes igen!$"
+	.string "Vi mødes igen!$"
 
 Text_ChangeYourProfile:
-	.string "Vil du gerne ändre din\n"
+	.string "Vil du gerne ændre din\n"
 	.string "profil?$"
 
 Text_WhatAreYouLikeNow:
@@ -168,10 +168,10 @@ Text_ProfileSaysSomethingAboutYou:
 	.string "bliver vi bedre venner end nogensinde!$"
 
 Text_HeardThatBefore:
-	.string "Aa, det har jeg hört för…\p"
-	.string "Min kusine, der bor langt väk,\n"
+	.string "Aa, det har jeg hørt før…\p"
+	.string "Min kusine, der bor langt væk,\n"
 	.string "sagde altid det, tror jeg.$"
 
 Text_TellMoreNextTime:
-	.string "Fortäl mig venligst mere om\n"
-	.string "dig selv näste gang!$"
+	.string "Fortæl mig venligst mere om\n"
+	.string "dig selv næste gang!$"

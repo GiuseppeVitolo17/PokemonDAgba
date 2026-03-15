@@ -42,7 +42,7 @@ Route6_Text_JeffDefeat::
 
 Route6_Text_JeffPostBattle::
     .string "Jeg burde tage flere POKéMON med.\n"
-    .string "Sâdan föler jeg mig mere sikker.$"
+    .string "Sâdan føler jeg mig mere sikker.$"
 
 Route6_Text_IsabelleIntro::
     .string "Mig?\n"
@@ -52,7 +52,7 @@ Route6_Text_IsabelleDefeat::
     .string "Det gik bare ikke…$"
 
 Route6_Text_IsabellePostBattle::
-    .string "Jeg vil blive stärkere.\n"
+    .string "Jeg vil blive stærkere.\n"
     .string "Hvad er din hemmelighed?$"
 
 Route6_Text_ElijahIntro::

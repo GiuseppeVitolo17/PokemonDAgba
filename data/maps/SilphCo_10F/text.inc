@@ -6,7 +6,7 @@ SilphCo_10F_Text_GruntDefeat::
     .string "Jeg er lamslâet!$"
 
 SilphCo_10F_Text_GruntPostBattle::
-    .string "Godt forsög, men modesalen er eet\n"
+    .string "Godt forsøg, men modesalen er eet\n"
     .string "sal op.$"
 
 SilphCo_10F_Text_TravisIntro::
@@ -24,7 +24,7 @@ SilphCo_10F_Text_WaaaImScared::
     .string "Jeg er bange!$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::
-    .string "At jeg gräd…\n"
+    .string "At jeg græd…\n"
     .string "Hold det venligst hemmeligt.$"
 
 SilphCo_10F_Text_FloorSign::

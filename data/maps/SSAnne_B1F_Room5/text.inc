@@ -1,5 +1,5 @@
 SSAnne_B1F_Room5_Text_MachokeHasStrengthToMoveRocks::
-    .string "Min kammerat MACHOKE er super stärk!\p"
+    .string "Min kammerat MACHOKE er super stærk!\p"
     .string "Han har nok STRENGTH til at flytte\n"
     .string "store sten!$"
 

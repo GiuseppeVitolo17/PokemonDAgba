@@ -1,6 +1,6 @@
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-    .string "TEAM ROCKET er i oprör over\n"
-    .string "en indtränger.\p"
+    .string "TEAM ROCKET er i oprør over\n"
+    .string "en indtrænger.\p"
     .string "Det er dig, ikke?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
@@ -8,14 +8,14 @@ SilphCo_5F_Text_YoureOurHeroThankYou::
     .string "Du er vores helt! Tak!$"
 
 SilphCo_5F_Text_Grunt1Intro::
-    .string "Jeg hörte et barn vandre\n"
+    .string "Jeg hørte et barn vandre\n"
     .string "omkring.$"
 
 SilphCo_5F_Text_Grunt1Defeat::
     .string "Boom!$"
 
 SilphCo_5F_Text_Grunt1PostBattle::
-    .string "Det er ikke klogt at söge kamp med\n"
+    .string "Det er ikke klogt at søge kamp med\n"
     .string "TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
@@ -32,7 +32,7 @@ SilphCo_5F_Text_BeauPostBattle::
 
 SilphCo_5F_Text_DaltonIntro::
     .string "Hvââd?\p"
-    .string "Der bör ikke väre börn her!$"
+    .string "Der bør ikke være børn her!$"
 
 SilphCo_5F_Text_DaltonDefeat::
     .string "Oh, gud!$"
@@ -55,16 +55,16 @@ SilphCo_5F_Text_Grunt2PostBattle::
 SilphCo_5F_Text_PorygonFirstVRMon::
     .string "Det er en POKéMON RAPPORT!\p"
     .string "POKéMON LAB skabte PORYGON,\n"
-    .string "det förste virtual-reality POKéMON.$"
+    .string "det første virtual-reality POKéMON.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
     .string "Det er en POKéMON RAPPORT!\p"
     .string "Over 350 POKéMON-teknikker er\n"
-    .string "blevet bekräftet.$"
+    .string "blevet bekræftet.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
     .string "Det er en POKéMON RAPPORT!\p"
-    .string "Nogle POKéMON er bekräftet at\n"
+    .string "Nogle POKéMON er bekræftet at\n"
     .string "udvikle sig nâr de byttes.$"
 
 SilphCo_5F_Text_FloorSign::
@@ -72,9 +72,9 @@ SilphCo_5F_Text_FloorSign::
     .string "5. SAL$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
-    .string "De böller der overtog vores\n"
+    .string "De bøller der overtog vores\n"
     .string "bygning…\p"
     .string "Deres BOSS sagde han ledte efter\n"
-    .string "stärke POKéMON.\p"
+    .string "stærke POKéMON.\p"
     .string "Jeg hâber vores PRESIDENT undgik\n"
     .string "problemer…$"

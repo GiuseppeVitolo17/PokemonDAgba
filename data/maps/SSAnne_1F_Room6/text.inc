@@ -1,5 +1,5 @@
 SSAnne_1F_Room6_Text_TakeAShortRest::
-    .string "Du ser trät ud. Vil du tage en\n"
+    .string "Du ser træt ud. Vil du tage en\n"
     .string "kort hvile?$"
 
 SSAnne_1F_Room6_Text_GladEveryoneIsRefreshed::
@@ -12,5 +12,5 @@ SSAnne_1F_Room6_Text_SorryYouLookLikeMyBrother::
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMySister::
     .string "Aah, undskyld at jeg maser.\n"
-    .string "Du ligner min lillesöster…$"
+    .string "Du ligner min lillesøster…$"
 

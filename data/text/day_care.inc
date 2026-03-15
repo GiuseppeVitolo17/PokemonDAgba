@@ -2,8 +2,8 @@
 
 DayCare_Text_ImDaycareManSpeakToMyWife::
 	.string "Jeg er DAGPLEJEMANDEN.\p"
-	.string "Jeg hjälper med at passe TRAINERs\n"
-	.string "käre POKéMON.\p"
+	.string "Jeg hjælper med at passe TRAINERs\n"
+	.string "kære POKéMON.\p"
 	.string "Hvis du vil have mig til at opdrage\n"
 	.string "dine POKéMON, tal med min kone.$"
 
@@ -11,7 +11,7 @@ DayCare_Text_DoYouWantEgg::
 	.string "Ah, det er dig!\p"
 	.string "Vi passede dine POKéMON, og\n"
 	.string "gode gud, blev vi overraskede!\p"
-	.string "Din POKéMON fik et ÄG!\p"
+	.string "Din POKéMON fik et ÆG!\p"
 	.string "Vi ved ikke hvordan det skete,\n"
 	.string "men din POKéMON havde det.\p"
 	.string "Du vil gerne have det, ikke?$"
@@ -29,7 +29,7 @@ DayCare_Text_YouHaveNoRoomForIt::
 	.string "Kom tilbage nâr du har lavet plads.$"
 
 DayCare_Text_ReceivedEgg::
-	.string "{PLAYER} modtog ÄGGET fra\n"
+	.string "{PLAYER} modtog ÆGGET fra\n"
 	.string "DAGPLEJEMANDEN.$"
 
 DayCare_Text_TakeGoodCareOfIt::
@@ -122,7 +122,7 @@ DayCare_Text_TakeYourMonBack::
 
 DayCare_Text_WhatWillYouBattleWith::
 	.string "Hvis du efterlader den POKéMON,\n"
-	.string "hvad vil du sâ kämpe med?\p"
+	.string "hvad vil du sâ kæmpe med?\p"
 	.string "Kom tilbage en anden gang.$"
 
 DayCare_Text_Huh::

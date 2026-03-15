@@ -45,14 +45,14 @@ EventScript_DontCutTree::
 	end
 
 Text_CutTreeDown::
-	.string "Dette trä kan mâske fäldes med CUT!\p"
+	.string "Dette træ kan mâske fældes med CUT!\p"
 	.string "Vil du bruge CUT?$"
 
 Text_MonUsedMove::
 	.string "{STR_VAR_1} brugte {STR_VAR_2}!$"
 
 Text_TreeCanBeCutDown::
-	.string "Dette trä kan mâske fäldes med CUT!$"
+	.string "Dette træ kan mâske fældes med CUT!$"
 
 EventScript_RockSmash::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -195,8 +195,8 @@ EventScript_EndWaterfall:
 	end
 
 Text_WallOfWaterCrashingDown::
-	.string "En vandväg styrteder ned\n"
-	.string "med et mägtigt brag.$"
+	.string "En vandvæg styrteder ned\n"
+	.string "med et mægtigt brag.$"
 
 Text_UseWaterfall::
 	.string "Det er et stort vandfald.\n"
@@ -280,4 +280,4 @@ EventScript_FailSweetScent::
 	end
 
 Text_LooksLikeNothingHere::
-	.string "Der ser ikke ud til at väre noget her…$"
+	.string "Der ser ikke ud til at være noget her…$"

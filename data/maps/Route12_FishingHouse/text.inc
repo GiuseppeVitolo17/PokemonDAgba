@@ -2,12 +2,12 @@ Route12_FishingHouse_Text_DoYouLikeToFish::
     .string "Jeg er FISHING GURUs yngre\n"
     .string "bror.\p"
     .string "Jeg elsker bare at fiske!\n"
-    .string "Jeg kan ikke undväre det.\p"
+    .string "Jeg kan ikke undvære det.\p"
     .string "Sig mig, kan du lide at fiske?$"
 
 Route12_FishingHouse_Text_TakeThisAndFish::
     .string "Stort! Jeg kan lide din stil.\n"
-    .string "Jeg tror vi kan väre venner.\p"
+    .string "Jeg tror vi kan være venner.\p"
     .string "Tag dette og fisk, unge ven!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
@@ -23,7 +23,7 @@ Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
     .string "Hvis du fanger en stor MAGIKARP\n"
     .string "med den ROD, vil jeg gerne se den.\p"
     .string "Lige sâ meget som jeg elsker at\n"
-    .string "fiske, elsker jeg at se kämpe MAGIKARP.$"
+    .string "fiske, elsker jeg at se kæmpe MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhThatsDisappointing::
     .string "Oh…\n"
@@ -32,12 +32,12 @@ Route12_FishingHouse_Text_OhThatsDisappointing::
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
     .string "Hej der, {PLAYER}!\n"
     .string "Har du fisket?\p"
-    .string "Pröv at fiske med SUPER ROD i\n"
+    .string "Prøv at fiske med SUPER ROD i\n"
     .string "enhver vandmasse.\p"
     .string "Du finder forskellige POKéMON pâ\n"
     .string "forskellige steder.\p"
     .string "Oh, og glem ikke at bringe mig\n"
-    .string "kämpe MAGIKARP.$"
+    .string "kæmpe MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
     .string "Oh? {PLAYER}?\n"
@@ -47,19 +47,19 @@ Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
 Route12_FishingHouse_Text_WhoaXInchesTakeThis::
     .string "… … …Whoa!\n"
     .string "{STR_VAR_2} tommer!\p"
-    .string "Du har en själden forstâelse for\n"
-    .string "fiskeriets fine, pötiske sider!\p"
+    .string "Du har en sjælden forstâelse for\n"
+    .string "fiskeriets fine, pøtiske sider!\p"
     .string "Du mâ tage dette.\n"
     .string "Jeg insisterer!$"
 
 Route12_FishingHouse_Text_LookForwardToGreaterRecords::
-    .string "Jeg gläder mig til at se större\n"
+    .string "Jeg glæder mig til at se større\n"
     .string "rekorder fra dig!$"
 
 Route12_FishingHouse_Text_HuhXInchesSameSizeAsLast::
     .string "Hvad?\n"
     .string "{STR_VAR_2} tommer?\p"
-    .string "Det er samme störrelse som den\n"
+    .string "Det er samme størrelse som den\n"
     .string "jeg sâ sidst.$"
 
 Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUp::

@@ -7,10 +7,10 @@ OneIsland_KindleRoad_Text_MariaDefeat::
 
 OneIsland_KindleRoad_Text_MariaPostBattle::
     .string "Plask ikke vand i ansigtet pâ mig!\n"
-    .string "Du ödelägger makeupen.$"
+    .string "Du ødelægger makeupen.$"
 
 OneIsland_KindleRoad_Text_AbigailIntro::
-    .string "Jeg fâr solbrändning…$"
+    .string "Jeg fâr solbrændning…$"
 
 OneIsland_KindleRoad_Text_AbigailDefeat::
     .string "Ah, du er sâdan en led.$"
@@ -20,7 +20,7 @@ OneIsland_KindleRoad_Text_AbigailPostBattle::
     .string "Mâske jeg ogsâ skulle tage en pâ…$"
 
 OneIsland_KindleRoad_Text_FinnIntro::
-    .string "Set herfra räger MT. EMBER\n"
+    .string "Set herfra ræger MT. EMBER\n"
     .string "op i himlen.$"
 
 OneIsland_KindleRoad_Text_FinnDefeat::
@@ -30,7 +30,7 @@ OneIsland_KindleRoad_Text_FinnPostBattle::
     .string "Himlen er uendelig her omkring.$"
 
 OneIsland_KindleRoad_Text_GarrettIntro::
-    .string "Jeg tog en pause fra at svömme,\n"
+    .string "Jeg tog en pause fra at svømme,\n"
     .string "sâ udfordrer du mig?$"
 
 OneIsland_KindleRoad_Text_GarrettDefeat::
@@ -39,7 +39,7 @@ OneIsland_KindleRoad_Text_GarrettDefeat::
 
 OneIsland_KindleRoad_Text_GarrettPostBattle::
     .string "I stedet for altid at bruge SURF,\n"
-    .string "burde du ogsâ svömme lidt.$"
+    .string "burde du ogsâ svømme lidt.$"
 
 OneIsland_KindleRoad_Text_TommyIntro::
     .string "Vent! Vent et sekund!\n"
@@ -50,11 +50,11 @@ OneIsland_KindleRoad_Text_TommyDefeat::
 
 OneIsland_KindleRoad_Text_TommyPostBattle::
     .string "Ikke nok med at jeg tabte, slap den\n"
-    .string "store ogsâ väk!$"
+    .string "store ogsâ væk!$"
 
 OneIsland_KindleRoad_Text_SharonIntro::
-    .string "Vil du hjälpe mig med min\n"
-    .string "träning?$"
+    .string "Vil du hjælpe mig med min\n"
+    .string "træning?$"
 
 OneIsland_KindleRoad_Text_SharonDefeat::
     .string "Du var bedre end mig.$"
@@ -65,35 +65,35 @@ OneIsland_KindleRoad_Text_SharonPostBattle::
 
 OneIsland_KindleRoad_Text_TanyaIntro::
     .string "Der er ikke en dag vi ikke\n"
-    .string "träner!$"
+    .string "træner!$"
 
 OneIsland_KindleRoad_Text_TanyaDefeat::
     .string "Jeg er sâdan en tosse!$"
 
 OneIsland_KindleRoad_Text_TanyaPostBattle::
-    .string "Jeg träner endnu hardere fra nu af!$"
+    .string "Jeg træner endnu hardere fra nu af!$"
 
 OneIsland_KindleRoad_Text_SheaIntro::
-    .string "Hver morgen, för frokost,\n"
-    .string "svömmer jeg rundt om denne ö.$"
+    .string "Hver morgen, før frokost,\n"
+    .string "svømmer jeg rundt om denne ø.$"
 
 OneIsland_KindleRoad_Text_SheaDefeat::
     .string "Gisp…\n"
     .string "Gisp…$"
 
 OneIsland_KindleRoad_Text_SheaPostBattle::
-    .string "Jeg tabte fordi jeg er slät ud af\n"
+    .string "Jeg tabte fordi jeg er slæt ud af\n"
     .string "alt det lob jeg har lavet…$"
 
 OneIsland_KindleRoad_Text_HughIntro::
-    .string "Kläd dig passende til kamp!\n"
+    .string "Klæd dig passende til kamp!\n"
     .string "Skaf dig af med det fjollede outfit!$"
 
 OneIsland_KindleRoad_Text_HughDefeat::
     .string "Hvorfor mig?!$"
 
 OneIsland_KindleRoad_Text_HughPostBattle::
-    .string "Selv kampsportsudövere bliver\n"
+    .string "Selv kampsportsudøvere bliver\n"
     .string "modebevidste nu om stunder…$"
 
 OneIsland_KindleRoad_Text_BryceIntro::
@@ -101,21 +101,21 @@ OneIsland_KindleRoad_Text_BryceIntro::
     .string "ude i naturen.$"
 
 OneIsland_KindleRoad_Text_BryceDefeat::
-    .string "Av, fordärvet!$"
+    .string "Av, fordærvet!$"
 
 OneIsland_KindleRoad_Text_BrycePostBattle::
     .string "Vandet i vulkanomrâder er\n"
     .string "delikt.$"
 
 OneIsland_KindleRoad_Text_ClaireIntro::
-    .string "Min frokost mättede os, sâ vil du\n"
-    .string "kämpe mod os til motion?$"
+    .string "Min frokost mættede os, sâ vil du\n"
+    .string "kæmpe mod os til motion?$"
 
 OneIsland_KindleRoad_Text_ClaireDefeat::
     .string "Det fik mig til at svede.$"
 
 OneIsland_KindleRoad_Text_ClairePostBattle::
-    .string "Hvad skal jeg göre?\n"
+    .string "Hvad skal jeg gøre?\n"
     .string "Jeg er sulten igen.$"
 
 OneIsland_KindleRoad_Text_KiaIntro::
@@ -127,11 +127,11 @@ OneIsland_KindleRoad_Text_KiaDefeat::
     .string "Det kan jeg ikke tro!$"
 
 OneIsland_KindleRoad_Text_KiaPostBattle::
-    .string "KIA: Hvordan kan der väre nogen\n"
+    .string "KIA: Hvordan kan der være nogen\n"
     .string "bedre end min storebror?$"
 
 OneIsland_KindleRoad_Text_KiaNotEnoughMons::
-    .string "KIA: Hvis du vil kämpe med os,\n"
+    .string "KIA: Hvis du vil kæmpe med os,\n"
     .string "skal du have mindst to POKéMON\l"
     .string "med.$"
 
@@ -148,7 +148,7 @@ OneIsland_KindleRoad_Text_MikPostBattle::
     .string "KIA fejle?$"
 
 OneIsland_KindleRoad_Text_MikNotEnoughMons::
-    .string "MIK: Hey, vil du kämpe med os to?\p"
+    .string "MIK: Hey, vil du kæmpe med os to?\p"
     .string "Tag to eller flere POKéMON med,\n"
     .string "sâ.$"
 
@@ -157,6 +157,6 @@ OneIsland_KindleRoad_Text_RouteSign::
     .string "Gâ lige ud til MT. EMBER.$"
 
 OneIsland_KindleRoad_Text_EmberSpaSign::
-    .string "Tänd ilden i dit hjerte!\n"
+    .string "Tænd ilden i dit hjerte!\n"
     .string "EMBER SPA$"
 

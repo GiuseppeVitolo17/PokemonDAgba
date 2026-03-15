@@ -1,26 +1,26 @@
 SevenIsland_TrainerTower_Text_DarioIntro::
-    .string "Jeg märkede din tilnärmelse.$"
+    .string "Jeg mærkede din tilnærmelse.$"
 
 SevenIsland_TrainerTower_Text_DarioDefeat::
     .string "Giv op…$"
 
 SevenIsland_TrainerTower_Text_DarioPostBattle::
     .string "I din fremtid fornemmer jeg at du\n"
-    .string "vil möde mange andre.\p"
-    .string "Jeg tror I vil väre forbundet med\n"
+    .string "vil møde mange andre.\p"
+    .string "Jeg tror I vil være forbundet med\n"
     .string "hinanden ved en underlig kraft.$"
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
-    .string "Et sted pâ denne ö sover\n"
-    .string "särlige POKéMON.$"
+    .string "Et sted pâ denne ø sover\n"
+    .string "særlige POKéMON.$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
     .string "Hvilken fantastisk TRAINER!$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
-    .string "Et sted pâ denne ö sover\n"
-    .string "särlige POKéMON.\p"
-    .string "Kunne det väre at de venter\n"
+    .string "Et sted pâ denne ø sover\n"
+    .string "særlige POKéMON.\p"
+    .string "Kunne det være at de venter\n"
     .string "pâ dig?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::

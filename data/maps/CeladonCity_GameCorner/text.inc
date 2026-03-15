@@ -1,12 +1,12 @@
 CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor::
     .string "Velkommen!\p"
-    .string "Du kan indlöse dine COINS for\n"
-    .string "fremragende prämier ved siden af.$"
+    .string "Du kan indløse dine COINS for\n"
+    .string "fremragende præmier ved siden af.$"
 
 CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
     .string "Velkommen til ROCKET GAME CORNER!\p"
     .string "Har du brug for nogle spil-COINS?\n"
-    .string "Vil du köbe nogle?$"
+    .string "Vil du købe nogle?$"
 
 CeladonCity_GameCorner_Text_ComePlaySometime::
     .string "Nej?\n"
@@ -67,13 +67,13 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
     .string "tage let pâ!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-    .string "De tilbyder själdne POKéMON der kan\n"
-    .string "indlöses for dine COINS.\p"
+    .string "De tilbyder sjældne POKéMON der kan\n"
+    .string "indløses for dine COINS.\p"
     .string "Men jeg kan bare ikke vinde!$"
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
-    .string "Spil er skrämmende!\n"
-    .string "Det er sâ nemt at blive afhängig!$"
+    .string "Spil er skræmmende!\n"
+    .string "Det er sâ nemt at blive afhængig!$"
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
     .string "Hvad sâ?\n"
@@ -92,7 +92,7 @@ CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
     .string "Hey, hvad? Du distraherer mig!\n"
-    .string "Her er nogle COINS, sâ försvind!$"
+    .string "Her er nogle COINS, sâ førsvind!$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
     .string "{PLAYER} modtog 20 COINS\n"
@@ -103,7 +103,7 @@ CeladonCity_GameCorner_Text_YouveGotPlentyCoins::
     .string "COINS!$"
 
 CeladonCity_GameCorner_Text_WatchReelsClosely::
-    .string "Kunsten er at se hjulene nöje.$"
+    .string "Kunsten er at se hjulene nøje.$"
 
 CeladonCity_GameCorner_Text_GruntIntro::
     .string "Jeg vogter denne plakat!\n"
@@ -115,7 +115,7 @@ CeladonCity_GameCorner_Text_GruntDefeat::
 CeladonCity_GameCorner_Text_GruntPostBattle::
     .string "TEAM ROCKET HIDEOUT kunne\n"
     .string "blive opdaget!\p"
-    .string "Jeg bör fortälle det til BOSS!$"
+    .string "Jeg bør fortælle det til BOSS!$"
 
 CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
     .string "Hey!\p"
@@ -123,7 +123,7 @@ CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
     .string "Lad os trykke pâ den!$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsRequired::
-    .string "En COIN CASE er nödvendig…$"
+    .string "En COIN CASE er nødvendig…$"
 
 CeladonCity_GameCorner_Text_DontHaveCoinCase::
     .string "Ups!\n"
@@ -142,5 +142,5 @@ CeladonCity_GameCorner_Text_OutToLunch::
     .string "Denne er reserveret.$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::
-    .string "Nogens nögler!\n"
+    .string "Nogens nøgler!\n"
     .string "De kommer tilbage.$"

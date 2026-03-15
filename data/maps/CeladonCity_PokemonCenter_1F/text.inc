@@ -1,8 +1,8 @@
 CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMons::
-    .string "En POKe FLUTE väkker sovende\n"
+    .string "En POKe FLUTE vækker sovende\n"
     .string "POKéMON. Det ved du.\p"
-    .string "Den gör det med en lyd som kun\n"
-    .string "de kan höre.$"
+    .string "Den gør det med en lyd som kun\n"
+    .string "de kan høre.$"
 
 CeladonCity_PokemonCenter_1F_Text_RodeHereFromFuchsia::
     .string "Jeg cyklede her fra FUCHSIA.\p"

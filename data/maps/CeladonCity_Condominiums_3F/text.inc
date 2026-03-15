@@ -1,6 +1,6 @@
 CeladonCity_Condominiums_3F_Text_ImTheProgrammer::
     .string "Mig?\n"
-    .string "Jeg er programmören!$"
+    .string "Jeg er programmøren!$"
 
 CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
     .string "Jeg er grafikeren!\n"
@@ -8,20 +8,20 @@ CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
     .string "Jeg skrev historien!\n"
-    .string "Er ERIKA ikke söd?\p"
+    .string "Er ERIKA ikke sød?\p"
     .string "Jeg kan ogsâ godt lide MISTY!\n"
     .string "Aah, og SABRINA, jeg kan lide hende!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
     .string "Er det rigtigt?\p"
     .string "Jeg er spildesigneren!\p"
-    .string "At udfylde din POKéDEX er svärt,\n"
+    .string "At udfylde din POKéDEX er svært,\n"
     .string "men giv ikke op!\p"
-    .string "Nâr du er färdig, kom og sig det til mig!$"
+    .string "Nâr du er færdig, kom og sig det til mig!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
     .string "Wow! Fremragende!\n"
-    .string "Du fuldförte din POKéDEX!\l"
+    .string "Du fuldførte din POKéDEX!\l"
     .string "Tillykke!\l"
     .string "…$"
 

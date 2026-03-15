@@ -21,14 +21,14 @@ Route8_Text_StanPostBattle::
     .string "Det gik ikke i dag.$"
 
 Route8_Text_GlennIntro::
-    .string "Du bör vide at du har brug for\n"
+    .string "Du bør vide at du har brug for\n"
     .string "strategi for at vinde!$"
 
 Route8_Text_GlennDefeat::
     .string "Det er ikke logisk!$"
 
 Route8_Text_GlennPostBattle::
-    .string "Start med GRIMER först…og…\n"
+    .string "Start med GRIMER først…og…\n"
     .string "…og…sâ…$"
 
 Route8_Text_PaigeIntro::
@@ -41,18 +41,18 @@ Route8_Text_PaigeDefeat::
 
 Route8_Text_PaigePostBattle::
     .string "Nâr POKéMON bliver voksne, bliver\n"
-    .string "de grimme! De bör ikke udvikle sig.$"
+    .string "de grimme! De bør ikke udvikle sig.$"
 
 Route8_Text_LeslieIntro::
     .string "Skole er sjovt, men det er\n"
     .string "POKéMON ogsâ.$"
 
 Route8_Text_LeslieDefeat::
-    .string "Du viste mig tydeligt at jeg bör\n"
+    .string "Du viste mig tydeligt at jeg bør\n"
     .string "holde mig til skolen.$"
 
 Route8_Text_LesliePostBattle::
-    .string "Jeg havde tänkt at fâ frisk luft\n"
+    .string "Jeg havde tænkt at fâ frisk luft\n"
     .string "for en gangs skyld, men…\p"
     .string "Vi er fanget her pga. portene\n"
     .string "ved SAFFRON.$"
@@ -70,7 +70,7 @@ Route8_Text_AndreaPostBattle::
 
 Route8_Text_MeganIntro::
     .string "Vi mâ se tossede ud sâdan her\n"
-    .string "stände.$"
+    .string "stænde.$"
 
 Route8_Text_MeganDefeat::
     .string "Se hvad du gjorde ved mine stakkels,\n"
@@ -79,7 +79,7 @@ Route8_Text_MeganDefeat::
 Route8_Text_MeganPostBattle::
     .string "SAFFRONs portvagt lukker ikke os\n"
     .string "igennem.\p"
-    .string "Jeg ved han gör sit job, men jeg\n"
+    .string "Jeg ved han gør sit job, men jeg\n"
     .string "synes han er ond.$"
 
 Route8_Text_RichIntro::
@@ -90,7 +90,7 @@ Route8_Text_RichDefeat::
 
 Route8_Text_RichPostBattle::
     .string "At spille spil og POKéMON er som\n"
-    .string "at spise jordnödder! Kan ikke stoppe!$"
+    .string "at spise jordnødder! Kan ikke stoppe!$"
 
 Route8_Text_JuliaIntro::
     .string "Hvad er et nuttet, rundt og fluffy\n"
@@ -98,12 +98,12 @@ Route8_Text_JuliaIntro::
 
 Route8_Text_JuliaDefeat::
     .string "Stop!\p"
-    .string "Vär ikke sâ ond mod min CLEFAIRY!$"
+    .string "Vær ikke sâ ond mod min CLEFAIRY!$"
 
 Route8_Text_JuliaPostBattle::
-    .string "Jeg läste at CLEFAIRY udvikler sig\n"
-    .string "nâr den udsättes for en MOON STONE.\p"
-    .string "Jeg läste det i et POKéMON JOURNAL.\n"
+    .string "Jeg læste at CLEFAIRY udvikler sig\n"
+    .string "nâr den udsættes for en MOON STONE.\p"
+    .string "Jeg læste det i et POKéMON JOURNAL.\n"
     .string "Tror du det er sandt?$"
 
 Route8_Text_UndergroundPathSign::
@@ -123,7 +123,7 @@ Route8_Text_EliPostBattle::
     .string "sammen med ANNE!$"
 
 Route8_Text_EliNotEnoughMons::
-    .string "ELI: Vi kan ikke kämpe hvis du ikke\n"
+    .string "ELI: Vi kan ikke kæmpe hvis du ikke\n"
     .string "har to POKéMON.$"
 
 Route8_Text_AnneIntro::
@@ -138,7 +138,7 @@ Route8_Text_AnnePostBattle::
     .string "med ELI.$"
 
 Route8_Text_AnneNotEnoughMons::
-    .string "ANNE: Hej, hej! Lad os kämpe!\n"
+    .string "ANNE: Hej, hej! Lad os kæmpe!\n"
     .string "Men tag to POKéMON med.$"
 
 Route8_Text_RicardoIntro::
@@ -149,15 +149,15 @@ Route8_Text_RicardoDefeat::
     .string "Jeg er ikke til det her.$"
 
 Route8_Text_RicardoPostBattle::
-    .string "Jeg fik gräs i mine eger, mand.$"
+    .string "Jeg fik græs i mine eger, mand.$"
 
 Route8_Text_JarenIntro::
-    .string "Gör plads, ellers körer jeg dig\n"
+    .string "Gør plads, ellers kører jeg dig\n"
     .string "ned!$"
 
 Route8_Text_JarenDefeat::
-    .string "Er du seriös, unge?$"
+    .string "Er du seriøs, unge?$"
 
 Route8_Text_JarenPostBattle::
-    .string "Tro ikke du er noget särligt\n"
+    .string "Tro ikke du er noget særligt\n"
     .string "bare fordi.$"

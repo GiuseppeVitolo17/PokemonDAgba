@@ -8,13 +8,13 @@ SaffronCity_House_Text_Pidgey::
     .string "PIDGEY: Kurukkoo!$"
 
 SaffronCity_House_Text_GettingCopycatPokeDoll::
-    .string "COPYCAT er söd!\n"
+    .string "COPYCAT er sød!\n"
     .string "Jeg skaffer hende en POKe DOLL.$"
 
 SaffronCity_House_Text_ExplainPPUp::
     .string "Jeg fik en PP UP i gave.\p"
     .string "Den bruges til at oge PP for\n"
     .string "et POKéMONs angreb.\p"
-    .string "Jeg bör bruge den pâ et kräftigt\n"
+    .string "Jeg bør bruge den pâ et kræftigt\n"
     .string "angreb med kun fâ PP.$"
 

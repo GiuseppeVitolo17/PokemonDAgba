@@ -20,6 +20,6 @@ RocketHideout_B3F_Text_Grunt2Defeat::
     .string "Jeg tabte? Nej!$"
 
 RocketHideout_B3F_Text_Grunt2PostBattle::
-    .string "Fortsät bare!\p"
-    .string "Men du kan ikke köre elevatoren\n"
+    .string "Fortsæt bare!\p"
+    .string "Men du kan ikke køre elevatoren\n"
     .string "uden LIFT KEY.$"

@@ -1,7 +1,7 @@
 PokemonTower_2F_Text_RivalIntro::
     .string "{RIVAL}: Hey, {PLAYER}!\n"
     .string "Hvad bringer dig her?\l"
-    .string "Er din POKéMON död?\p"
+    .string "Er din POKéMON død?\p"
     .string "Hey! Den lever!\p"
     .string "Jeg kan i det mindste fâ dem til at besvime!\n"
     .string "Kom sâ!$"
@@ -22,16 +22,16 @@ PokemonTower_2F_Text_RivalVictory::
 PokemonTower_2F_Text_RivalPostBattle::
     .string "Hvordan kommer din POKéDEX?\n"
     .string "Jeg fangede lige en CUBONE!\p"
-    .string "Jeg kan ikke finde den större MAROWAK.\n"
-    .string "Hvor kan de väre?\p"
+    .string "Jeg kan ikke finde den større MAROWAK.\n"
+    .string "Hvor kan de være?\p"
     .string "Jeg vedder pâ der ikke er flere!\p"
-    .string "Nâ, jeg bör komme afsted.\n"
+    .string "Nâ, jeg bør komme afsted.\n"
     .string "Jeg har meget at udrette,\l"
     .string "til forskel fra dig.\p"
     .string "Vi ses!$"
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
     .string "Selv vi kunne ikke identificere de\n"
-    .string "vildfarne spögelser.\p"
+    .string "vildfarne spøgelser.\p"
     .string "Et SILPH SCOPE kunne mâske\n"
-    .string "afslöre dem.$"
+    .string "afsløre dem.$"

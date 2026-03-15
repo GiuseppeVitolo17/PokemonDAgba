@@ -19,7 +19,7 @@ Trade_Text_IsntMyOldMonGreat::
 	.string "Er min gamle {STR_VAR_2} ikke fed?$"
 
 Trade_Text_DoYouHaveMonWouldYouTradeForMon::
-	.string "Hej! Har du tilfäldigvis\n"
+	.string "Hej! Har du tilfældigvis\n"
 	.string "en {STR_VAR_1}?\p"
 	.string "Vil du bytte mod min\n"
 	.string "{STR_VAR_2}?$"
@@ -30,14 +30,14 @@ Trade_Text_WellIfYouDontWantTo::
 Trade_Text_ThisIsntMon::
 	.string "Hmmm?\n"
 	.string "Det er ikke en {STR_VAR_1}.\p"
-	.string "Tänk pâ mig hvis du fâr en.$"
+	.string "Tænk pâ mig hvis du fâr en.$"
 
 Trade_Text_Thanks::
 	.string "Tak!$"
 
 Trade_Text_HasTradedMonGrownStronger::
 	.string "Er {STR_VAR_2}, som jeg byttede til dig,\n"
-	.string "blevet stärkere?$"
+	.string "blevet stærkere?$"
 
 Trade_Text_DoYouHaveMonWantToTradeForMon::
 	.string "Hej!\n"
@@ -46,7 +46,7 @@ Trade_Text_DoYouHaveMonWantToTradeForMon::
 	.string "{STR_VAR_2}?$"
 
 Trade_Text_ThatsTooBad::
-	.string "Det var ärgerligt.$"
+	.string "Det var ærgerligt.$"
 
 Trade_Text_ThisIsNoMon::
 	.string "…Det er ikke en {STR_VAR_1}.\p"

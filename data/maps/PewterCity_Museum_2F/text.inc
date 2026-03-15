@@ -7,19 +7,19 @@ Text_SeismicTossTeach::
     .string "studere hardere, ikke give op.\p"
     .string "Det eneste du burde kaste…\p"
     .string "Nâ, hvad med SEISMIC TOSS?\n"
-    .string "Skal jeg läre det til en POKéMON?$"
+    .string "Skal jeg lære det til en POKéMON?$"
 
 Text_SeismicTossDeclined::
     .string "Er det sâ?\n"
     .string "Jeg er sikker pâ du kommer tilbage.$"
 
 Text_SeismicTossWhichMon::
-    .string "Hvilken POKéMON vil läre\n"
+    .string "Hvilken POKéMON vil lære\n"
     .string "SEISMIC TOSS?$"
 
 Text_SeismicTossTaught::
     .string "Jeg hâber du ikke giver op.\n"
-    .string "Fortsät.$"
+    .string "Fortsæt.$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
     .string "MOON STONE, hva?\p"
@@ -28,9 +28,9 @@ PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
 
 PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding::
     .string "20. juli 1969!\p"
-    .string "Menneskeheden satte först foden pâ\n"
+    .string "Menneskeheden satte først foden pâ\n"
     .string "mânen den dag.\p"
-    .string "Jeg köbte et farvefjernsyn bare for at\n"
+    .string "Jeg købte et farvefjernsyn bare for at\n"
     .string "se den nyhed.$"
 
 PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
@@ -45,8 +45,8 @@ PewterCity_Museum_1F_Text_PikachuSoonIPromise::
     .string "Ja, en PIKACHU snart, jeg lover!$"
 
 PewterCity_Museum_1F_Text_SpaceShuttle::
-    .string "Rumfärge$"
+    .string "Rumfærge$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
     .string "En meteorit der faldt pâ MT. MOON.\n"
-    .string "Den antages at väre en MOON STONE.$"
+    .string "Den antages at være en MOON STONE.$"

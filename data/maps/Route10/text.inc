@@ -8,7 +8,7 @@ Route10_Text_MarkDefeat::
     .string "Jeg er ikke vred!$"
 
 Route10_Text_MarkPostBattle::
-    .string "Jeg har flere själdne POKéMON derhjemme!$"
+    .string "Jeg har flere sjældne POKéMON derhjemme!$"
 
 Route10_Text_ClarkIntro::
     .string "Ha-hahah-ah-ha!$"
@@ -21,7 +21,7 @@ Route10_Text_ClarkDefeat::
 Route10_Text_ClarkPostBattle::
     .string "Haha-ha-tjo!\n"
     .string "Ha-tjo!\l"
-    .string "Snue! Snövlen!$"
+    .string "Snue! Snøvlen!$"
 
 Route10_Text_HermanIntro::
     .string "Hej, unge!\n"
@@ -36,16 +36,16 @@ Route10_Text_HermanPostBattle::
     .string "Jeg kan ikke lide nogen bedre end mig!$"
 
 Route10_Text_HeidiIntro::
-    .string "Jeg har väret ved et POKéMON GYM\n"
+    .string "Jeg har været ved et POKéMON GYM\n"
     .string "et par gange.\p"
     .string "…Men jeg taber altid.$"
 
 Route10_Text_HeidiDefeat::
     .string "Ohh!\n"
-    .string "Efter al min träning!$"
+    .string "Efter al min træning!$"
 
 Route10_Text_HeidiPostBattle::
-    .string "Jeg lagde märke til nogle POKeMANIACs\n"
+    .string "Jeg lagde mærke til nogle POKeMANIACs\n"
     .string "der strejfede omkring.\p"
     .string "Kan du forestille dig? Dem?\n"
     .string "Her oppe i bjergene?$"
@@ -58,21 +58,21 @@ Route10_Text_TrentDefeat::
     .string "Det ryddede hovedet!$"
 
 Route10_Text_TrentPostBattle::
-    .string "Jeg föler mig oppustet af bjergluft!$"
+    .string "Jeg føler mig oppustet af bjergluft!$"
 
 Route10_Text_CarolIntro::
-    .string "Jeg föler mig lidt svag.\n"
+    .string "Jeg føler mig lidt svag.\n"
     .string "Jeg har ikke vandret i lang tid.$"
 
 Route10_Text_CarolDefeat::
-    .string "Jeg er for trät.\n"
+    .string "Jeg er for træt.\n"
     .string "Jeg var ikke klar til det.$"
 
 Route10_Text_CarolPostBattle::
     .string "POKéMON her i bjergene er sâ\n"
     .string "tunge…\p"
-    .string "Jeg ville önske der var lyseröde\n"
-    .string "POKéMON med blomstermönster!$"
+    .string "Jeg ville ønske der var lyserøde\n"
+    .string "POKéMON med blomstermønster!$"
 
 Route10_Text_RockTunnelDetourToLavender::
     .string "ROCK TUNNEL\n"

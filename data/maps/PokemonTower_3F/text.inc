@@ -7,7 +7,7 @@ PokemonTower_3F_Text_HopeDefeat::
     .string "Jeg er reddet!$"
 
 PokemonTower_3F_Text_HopePostBattle::
-    .string "Spögelserne kan identificeres med\n"
+    .string "Spøgelserne kan identificeres med\n"
     .string "SILPH SCOPE.$"
 
 PokemonTower_3F_Text_CarlyIntro::
@@ -32,4 +32,4 @@ PokemonTower_3F_Text_PatriciaDefeat::
 
 PokemonTower_3F_Text_PatriciaPostBattle::
     .string "De andre ovenpâ…\n"
-    .string "De mâ have väret besat.$"
+    .string "De mâ have været besat.$"

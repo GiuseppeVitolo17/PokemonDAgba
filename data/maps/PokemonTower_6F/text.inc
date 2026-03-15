@@ -3,10 +3,10 @@ PokemonTower_6F_Text_AngelicaIntro::
     .string "blod…$"
 
 PokemonTower_6F_Text_AngelicaDefeat::
-    .string "Stön!$"
+    .string "Støn!$"
 
 PokemonTower_6F_Text_AngelicaPostBattle::
-    .string "Jeg föler mig anämisk og svag…$"
+    .string "Jeg føler mig anæmisk og svag…$"
 
 PokemonTower_6F_Text_EmiliaIntro::
     .string "Urff…\n"
@@ -31,10 +31,10 @@ PokemonTower_6F_Text_JenniferPostBattle::
 
 PokemonTower_6F_Text_BeGoneIntruders::
     .string "Forsvind…\n"
-    .string "Indträngende…$"
+    .string "Indtrængende…$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
-    .string "Spögelsen var den rastlöse ând\n"
+    .string "Spøgelsen var den rastløse ând\n"
     .string "af CUBONEs mor!$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::

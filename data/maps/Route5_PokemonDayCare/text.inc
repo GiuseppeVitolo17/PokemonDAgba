@@ -43,13 +43,13 @@ Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::
 
 Route5_PokemonDayCare_Text_WhatWillYouBattleWith::
 	.string "Hvis du efterlader den POKéMON hos\n"
-	.string "mig, hvad vil du sâ kämpe med?$"
+	.string "mig, hvad vil du sâ kæmpe med?$"
 
 Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
 	.string "Din {STR_VAR_1} er vokset meget.\n"
 	.string "Ja, ret meget, vil jeg sige.\p"
 	.string "Lad mig se…\n"
-	.string "Niveau-mässigt er den vokset {STR_VAR_2}.\p"
+	.string "Niveau-mæssigt er den vokset {STR_VAR_2}.\p"
 	.string "Er jeg ikke fantastisk?$"
 
 Route5_PokemonDayCare_Text_YouveGotNoRoomForIt::
@@ -64,4 +64,4 @@ Route5_PokemonDayCare_Text_WantMeToTakeALookAtYours::
 
 Route5_PokemonDayCare_Text_CantAcceptMonWithHM::
     .string "Beklager, jeg kan ikke tage imod\n"
-    .string "POKéMON med skjulte träk.$"
+    .string "POKéMON med skjulte træk.$"

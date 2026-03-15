@@ -1,6 +1,6 @@
 Route3_Text_TunnelFromCeruleanTiring::
     .string "Puha… Jeg mâ tage en pause…\n"
-    .string "Stön…\p"
+    .string "Støn…\p"
     .string "Tunnelen fra CERULEAN tager alt\n"
     .string "energien fra en!$"
 
@@ -22,7 +22,7 @@ Route3_Text_BenIntro::
     .string "lette at have pâ!$"
 
 Route3_Text_BenDefeat::
-    .string "Det trör jeg ikke pâ!$"
+    .string "Det trør jeg ikke pâ!$"
 
 Route3_Text_BenPostBattle::
     .string "Bruger du et POKéMON CENTERs PC\n"
@@ -39,7 +39,7 @@ Route3_Text_JaniceDefeat::
 
 Route3_Text_JanicePostBattle::
     .string "Du burde ikke glo, hvis du ikke\n"
-    .string "vil kämpe!$"
+    .string "vil kæmpe!$"
 
 Route3_Text_GregIntro::
     .string "Er du en TRAINER?\n"
@@ -55,10 +55,10 @@ Route3_Text_GregPostBattle::
 
 Route3_Text_SallyIntro::
     .string "Det blik du gav mig…\n"
-    .string "Det er sâa spändende!$"
+    .string "Det er sâa spændende!$"
 
 Route3_Text_SallyDefeat::
-    .string "Vär söd!$"
+    .string "Vær sød!$"
 
 Route3_Text_SallyPostBattle::
     .string "Du kan undgâ kampe ved ikke at\n"
@@ -77,19 +77,19 @@ Route3_Text_CalvinPostBattle::
     .string "vinteren. Det er min politik.$"
 
 Route3_Text_JamesIntro::
-    .string "Jeg kämper mod dig med de POKéMON\n"
+    .string "Jeg kæmper mod dig med de POKéMON\n"
     .string "jeg lige har fanget.$"
 
 Route3_Text_JamesDefeat::
-    .string "Färdig som aftensmad!$"
+    .string "Færdig som aftensmad!$"
 
 Route3_Text_JamesPostBattle::
-    .string "Tränede POKéMON er stärkere end\n"
+    .string "Trænede POKéMON er stærkere end\n"
     .string "de vilde.$"
 
 Route3_Text_RobinIntro::
     .string "Av!\n"
-    .string "Rörte du mig?$"
+    .string "Rørte du mig?$"
 
 Route3_Text_RobinDefeat::
     .string "Var det det?$"

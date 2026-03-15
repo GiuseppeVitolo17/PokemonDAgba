@@ -8,7 +8,7 @@ RockTunnel_1F_Text_LennyDefeat::
 RockTunnel_1F_Text_LennyPostBattle::
     .string "Pas pâ ONIX.\n"
     .string "De dukker kun lejlighedsvis op.\p"
-    .string "Höjt-niveau kan klemme dig!$"
+    .string "Højt-niveau kan klemme dig!$"
 
 RockTunnel_1F_Text_OliverIntro::
     .string "Hmm.\n"
@@ -34,7 +34,7 @@ RockTunnel_1F_Text_LucasPostBattle::
     .string "Du er talentfuld nok til at vandre!$"
 
 RockTunnel_1F_Text_AshtonIntro::
-    .string "POKéMON kämper!\n"
+    .string "POKéMON kæmper!\n"
     .string "Klar, start!$"
 
 RockTunnel_1F_Text_AshtonDefeat::
@@ -45,11 +45,11 @@ RockTunnel_1F_Text_AshtonPostBattle::
 
 RockTunnel_1F_Text_LeahIntro::
     .string "Eek!\p"
-    .string "Pröv ikke noget morsomt i\n"
-    .string "mörket!$"
+    .string "Prøv ikke noget morsomt i\n"
+    .string "mørket!$"
 
 RockTunnel_1F_Text_LeahDefeat::
-    .string "Det var for mörkt…$"
+    .string "Det var for mørkt…$"
 
 RockTunnel_1F_Text_LeahPostBattle::
     .string "Jeg sâ en MACHOP i denne tunnel.$"
@@ -62,7 +62,7 @@ RockTunnel_1F_Text_DanaDefeat::
     .string "Jeg har ikke flere POKéMON!$"
 
 RockTunnel_1F_Text_DanaPostBattle::
-    .string "Du sâ söd og harmlös ud.\n"
+    .string "Du sâ sød og harmløs ud.\n"
     .string "Hvor tog jeg fejl!$"
 
 RockTunnel_1F_Text_ArianaIntro::

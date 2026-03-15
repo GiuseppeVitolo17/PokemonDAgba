@@ -1,15 +1,15 @@
 PokemonTower_4F_Text_PaulaIntro::
-    .string "Spögelse! Nej!\n"
+    .string "Spøgelse! Nej!\n"
     .string "Kwâah!$"
 
 PokemonTower_4F_Text_PaulaDefeat::
-    .string "Hvor er spögelsen?$"
+    .string "Hvor er spøgelsen?$"
 
 PokemonTower_4F_Text_PaulaPostBattle::
-    .string "Jeg mâ have drömt…$"
+    .string "Jeg mâ have drømt…$"
 
 PokemonTower_4F_Text_LaurelIntro::
-    .string "Vär forbandet med mig!\n"
+    .string "Vær forbandet med mig!\n"
     .string "Kwâah!$"
 
 PokemonTower_4F_Text_LaurelDefeat::
@@ -17,7 +17,7 @@ PokemonTower_4F_Text_LaurelDefeat::
 
 PokemonTower_4F_Text_LaurelPostBattle::
     .string "Vi kan ikke bestemme identiteten af\n"
-    .string "spögelserne…$"
+    .string "spøgelserne…$"
 
 PokemonTower_4F_Text_JodyIntro::
     .string "Huhuhu…\n"
@@ -28,5 +28,5 @@ PokemonTower_4F_Text_JodyDefeat::
     .string "Hvem? Hvad?$"
 
 PokemonTower_4F_Text_JodyPostBattle::
-    .string "Mâ de afdöde POKéMON hvile i\n"
+    .string "Mâ de afdøde POKéMON hvile i\n"
     .string "fred…$"

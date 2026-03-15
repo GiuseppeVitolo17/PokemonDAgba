@@ -7,7 +7,7 @@ Route22_Text_EarlyRivalIntro::
 	.string "Vagten lukker dig ikke ind\n"
 	.string "uden dem.\p"
 	.string "For resten, er dine POKéMON blevet\n"
-	.string "stärkere?$"
+	.string "stærkere?$"
 
 Route22_Text_EarlyRivalDefeat::
 	.string "Awww!\n"
@@ -40,12 +40,12 @@ Route22_Text_LateRivalIntro::
 
 Route22_Text_LateRivalDefeat::
 	.string "Hvad!?\p"
-	.string "Jeg var bare sködeslös!$"
+	.string "Jeg var bare skødesløs!$"
 
 Route22_Text_LateRivalPostBattle::
-	.string "Det lösnede mig op.\n"
+	.string "Det løsnede mig op.\n"
 	.string "Jeg er klar til POKéMON LEAGUE!\p"
-	.string "{PLAYER}, du har brug for mere träning.\p"
+	.string "{PLAYER}, du har brug for mere træning.\p"
 	.string "Men du ved det jo!\n"
 	.string "Jeg er ude herfra. Ses!$"
 
@@ -53,7 +53,7 @@ Route22_Text_LateRivalPostBattle::
 Route22_Text_LateRivalVictory::
 	.string "{RIVAL}: Hahaha! {PLAYER}! Er det det\n"
 	.string "bedste du kan? Du er langt fra sâ\l"
-	.string "god som mig! Trän mere! Taber!\l"
+	.string "god som mig! Træn mere! Taber!\l"
 	.string "$"
 
 Route22_Text_LeagueGateSign::

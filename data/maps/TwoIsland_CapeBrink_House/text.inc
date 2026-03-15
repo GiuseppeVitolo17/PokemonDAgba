@@ -1,5 +1,5 @@
 Text_UltimateMoveThatMon::
-    .string "Jeg perfektionerede det ultimative träk\n"
+    .string "Jeg perfektionerede det ultimative træk\n"
     .string "af sin type…\p"
     .string "Men vil ingen tage det til\n"
     .string "fremtidig brug?\p"
@@ -14,11 +14,11 @@ Text_JustMistaken::
 Text_AllowMeToTeachMonUltimateMove::
     .string "Aah! Det er den!\n"
     .string "Det er POKéMON!\p"
-    .string "Denne {STR_VAR_1} er värdig til at\n"
-    .string "läre mit ultimative träk!\p"
+    .string "Denne {STR_VAR_1} er værdig til at\n"
+    .string "lære mit ultimative træk!\p"
     .string "Tillader du det?\p"
     .string "Tillader du din {STR_VAR_1} at\n"
-    .string "läre mit {STR_VAR_2}?$"
+    .string "lære mit {STR_VAR_2}?$"
 
 Text_YouRejectIt::
     .string "Gâh! Du afviser det?\n"
@@ -32,11 +32,11 @@ Text_LetMeConferUltimateMove::
 
 Text_TaughtMove::
     .string "Gisp, gisp, gisp…\p"
-    .string "Jeg tröde ikke jeg kunne läre det\n"
-    .string "träk mens jeg stadig lever…$"
+    .string "Jeg trøde ikke jeg kunne lære det\n"
+    .string "træk mens jeg stadig lever…$"
 
 Text_MakeBestUseOfMove::
-    .string "Jeg beder dig bruge det träk\n"
+    .string "Jeg beder dig bruge det træk\n"
     .string "bedst muligt og vinde kraft!$"
 
 Text_PassedOnEverythingIKnow::
@@ -48,6 +48,6 @@ Text_PassedOnEverythingIKnow::
 
 Text_FeelRejuvenated::
     .string "Efter jeg gav mine kundskaber videre til\n"
-    .string "dig, fölte jeg sâ meget lettelse.\p"
-    .string "Faktisk föler jeg mig forynget,\n"
+    .string "dig, følte jeg sâ meget lettelse.\p"
+    .string "Faktisk føler jeg mig forynget,\n"
     .string "som om jeg var yngre igen!$"

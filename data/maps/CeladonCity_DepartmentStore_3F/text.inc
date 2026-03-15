@@ -2,7 +2,7 @@ CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
     .string "Fangede POKéMON registreres\n"
     .string "med et ID No. og OT.\p"
     .string "OT stâer for Original TRAINER -\n"
-    .string "TRAINERen der fangede den först.$"
+    .string "TRAINERen der fangede den først.$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
     .string "Okay!\p"
@@ -37,34 +37,34 @@ CeladonCity_DepartmentStore_3F_Text_PuzzleGame::
     .string "Ser vanedannende ud!$"
 
 CeladonCity_DepartmentStore_3F_Text_FightingGame::
-    .string "Et kämpespil!\n"
+    .string "Et kæmpespil!\n"
     .string "Ser hârdt ud!$"
 
 CeladonCity_DepartmentStore_3F_Text_TVGameShop::
     .string "3F: TV GAME SHOP$"
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
-    .string "Röd og Grön!\n"
+    .string "Rød og Grøn!\n"
     .string "Begge er POKéMON!$"
 
 Text_CounterTeach::
     .string "Aah, hej!\n"
-    .string "Jeg er endelig färdig med POKéMON.\p"
-    .string "Ikke färdig endnu? Skal jeg läre dig\n"
+    .string "Jeg er endelig færdig med POKéMON.\p"
+    .string "Ikke færdig endnu? Skal jeg lære dig\n"
     .string "et godt trick?\p"
-    .string "Tricket jeg tänker pâ er\n"
+    .string "Tricket jeg tænker pâ er\n"
     .string "COUNTER.\p"
-    .string "Ikke som den jeg läner mig op ad,\n"
-    .string "bemärk!$"
+    .string "Ikke som den jeg læner mig op ad,\n"
+    .string "bemærk!$"
 
 Text_CounterDeclined::
     .string "Du er ikke interesseret? Kom til mig\n"
     .string "hvis du ombestemmer dig.$"
 
 Text_CounterWhichMon::
-    .string "Hvilken POKéMON skal jeg läre\n"
+    .string "Hvilken POKéMON skal jeg lære\n"
     .string "COUNTER?$"
 
 Text_CounterTaught::
     .string "Bruger du det COUNTER-trick\n"
-    .string "jeg lärte din POKéMON?$"
+    .string "jeg lærte din POKéMON?$"

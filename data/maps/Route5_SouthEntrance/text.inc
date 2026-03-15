@@ -1,11 +1,11 @@
 Route5_SouthEntrance_Text_ThirstyOnGuardDuty::
     .string "Jeg er pâ vagt.\n"
-    .string "Av, jeg er törstig!\p"
+    .string "Av, jeg er tørstig!\p"
     .string "Oh vent, vejen er lukket.$"
 
 Route5_SouthEntrance_Text_ThatTeaLooksTasty::
     .string "Oh, den TEA…\n"
-    .string "Den ser rigtig läkker ud…$"
+    .string "Den ser rigtig lækker ud…$"
 
 Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
     .string "Hvad? Mâ jeg fâ den drink?\n"

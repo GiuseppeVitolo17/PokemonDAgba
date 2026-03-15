@@ -1,8 +1,8 @@
 Help_Text_WhatShouldIDo::
-	.string "Hvad skal jeg göre i denne situation?$"
+	.string "Hvad skal jeg gøre i denne situation?$"
 
 Help_Text_HowDoIDoThis::
-	.string "Hvordan gör jeg det her?$"
+	.string "Hvordan gør jeg det her?$"
 
 Help_Text_WhatDoesThisTermMean::
 	.string "Hvad betyder dette begreb?$"
@@ -32,7 +32,7 @@ Help_Text_DescHowDoIDoThis::
 
 Help_Text_DescWhatDoesThisTermMean::
 	.string "Detaljerede beskrivelser gives for\n"
-	.string "begreber der opträder i spillet.$"
+	.string "begreber der optræder i spillet.$"
 
 Help_Text_DescAboutThisGame::
 	.string "Detaljerede beskrivelser gives\n"
@@ -43,20 +43,20 @@ Help_Text_DescTypeMatchupList::
 	.string "og angreb er listet.$"
 
 Help_Text_DescExit::
-	.string "Valg for at afslutte HJÄLP-systemet.$"
+	.string "Valg for at afslutte HJÆLP-systemet.$"
 
 Help_Text_Greetings::
-	.string "Hej! Dette er HJÄLP-systemet.\n"
+	.string "Hej! Dette er HJÆLP-systemet.\n"
 	.string "Kald pâ mig nâr og hvor du vil\l"
 	.string "ved at trykke L- eller R-knappen.\l"
-	.string "Hjälpeteksterne ändres efter\l"
+	.string "Hjælpeteksterne ændres efter\l"
 	.string "situationen, sâ tjek dem ofte.$"
 
 Help_Text_PlayingForFirstTime::
-	.string "Jeg spiller for förste gang. Hjälp!$"
+	.string "Jeg spiller for første gang. Hjælp!$"
 
 Help_Text_WhatShouldIBeDoing::
-	.string "Hvad skal jeg göre?$"
+	.string "Hvad skal jeg gøre?$"
 
 Help_Text_CantGetOutOfRoom::
 	.string "Jeg kan ikke komme ud af et rum!$"
@@ -74,7 +74,7 @@ Help_Text_ICantGoOn::
 	.string "Jeg kan ikke komme videre!$"
 
 Help_Text_OutOfThingsToDo::
-	.string "Jeg ved ikke hvad jeg skal göre.$"
+	.string "Jeg ved ikke hvad jeg skal gøre.$"
 
 Help_Text_WhatHappenedToItemIGot::
 	.string "Hvad skete der med genstanden jeg fik?$"
@@ -119,7 +119,7 @@ Help_Text_RanOutOfPotions::
 	.string "Jeg har ikke flere HELBREDELSESMIDLER.$"
 
 Help_Text_CanIBuyPokeBalls::
-	.string "Kan jeg köbe POKe BOLLE?$"
+	.string "Kan jeg købe POKe BOLLE?$"
 
 Help_Text_WhatsATrainer::
 	.string "Hvad er en TRAINER?$"
@@ -128,7 +128,7 @@ Help_Text_HowDoIWinAgainstTrainer::
 	.string "Hvordan vinder jeg over en TRAINER?$"
 
 Help_Text_WhereDoMonsAppear::
-	.string "Hvor opträder POKéMON?$"
+	.string "Hvor optræder POKéMON?$"
 
 Help_Text_WhatAreMoves::
 	.string "Hvad er POKéMON-angreb?$"
@@ -140,16 +140,16 @@ Help_Text_WhatMovesShouldIUse::
 	.string "Hvilke angreb skal jeg bruge?$"
 
 Help_Text_WantToAddMoreMoves::
-	.string "Jeg vil tilföje flere angreb.$"
+	.string "Jeg vil tilføje flere angreb.$"
 
 Help_Text_WantToMakeMonStronger::
-	.string "Jeg vil göre mine POKéMON stärkere.$"
+	.string "Jeg vil gøre mine POKéMON stærkere.$"
 
 Help_Text_FoeMonsTooStrong::
-	.string "Fjendens POKéMON er for stärke!$"
+	.string "Fjendens POKéMON er for stærke!$"
 
 Help_Text_WhatDoIDoInCave::
-	.string "Hvad gör jeg i en hule?$"
+	.string "Hvad gør jeg i en hule?$"
 
 Help_Text_NothingIWantToKnow::
 	.string "Der er intet jeg vil vide!$"
@@ -170,10 +170,10 @@ Help_Text_WhatIsThatPersonLike::
 	.string "Hvordan er den person?$"
 
 Help_Text_WhatDoesHiddenMoveDo::
-	.string "Hvad gör et SKJULT angreb?$"
+	.string "Hvad gør et SKJULT angreb?$"
 
 Help_Text_WhatDoIDoInSafari::
-	.string "Hvad gör jeg i et SAFARI-SPIL?$"
+	.string "Hvad gør jeg i et SAFARI-SPIL?$"
 
 Help_Text_WhatAreSafariRules::
 	.string "Hvad er SAFARI-SPILLETS regler?$"
@@ -187,13 +187,13 @@ Help_Text_WhatIsAGym::
 Help_Text_AnswerPlayingForFirstTime::
 	.string "Du bliver hovedpersonen og udforsker\n"
 	.string "POKéMONs verden.\l"
-	.string "Ved at snakke med folk og löse\l"
+	.string "Ved at snakke med folk og løse\l"
 	.string "mysterier âbner nye veje sig.\l"
 	.string "Strab mod mâlet sammen med dine\l"
 	.string "vidunderlige POKéMON.$"
 
 Help_Text_AnswerWhatShouldIBeDoing::
-	.string "Nâr du möder en anden, ga hen til\n"
+	.string "Nâr du møder en anden, ga hen til\n"
 	.string "dem og tryk A-knappen. Sâdan fâr du\l"
 	.string "dem til at tale. Du kan ogsâ undersooge\l"
 	.string "genstande og ting. Snak med folk og\l"
@@ -203,30 +203,30 @@ Help_Text_AnswerWhatShouldIBeDoing::
 
 Help_Text_AnswerCantGetOutOfRoom::
 	.string "Ved trapper eller udgangene i en\n"
-	.string "bygning er et rödt mâtte. Flyt din\l"
-	.string "figur op pâ det röde mâtte.\l"
+	.string "bygning er et rødt mâtte. Flyt din\l"
+	.string "figur op pâ det røde mâtte.\l"
 	.string "Tryk pâ {PLUS}-retningsknapperne\l"
 	.string "mod trapperne eller udgangen for\l"
 	.string "at komme videre.$"
 
 Help_Text_AnswerCantFindPersonIWant::
-	.string "Det er ikke noget du behöver bekymre\n"
+	.string "Det er ikke noget du behøver bekymre\n"
 	.string "dig for meget.\l"
 	.string "Snak med andre, tjek skilte,\l"
-	.string "undersög ting osv.\l"
-	.string "Undertiden skal du bare beväge dig\l"
+	.string "undersøg ting osv.\l"
+	.string "Undertiden skal du bare bevæge dig\l"
 	.string "til en ny by eller et nyt sted.$"
 
 Help_Text_AnswerTalkedToEveryoneNowWhat::
-	.string "Pröv at gâ videre til en ny vej,\n"
+	.string "Prøv at gâ videre til en ny vej,\n"
 	.string "by eller et nyt sted.$"
 
 Help_Text_AnswerSomeoneBlockingMyWay::
-	.string "Der kan väre noget i byen eller\n"
+	.string "Der kan være noget i byen eller\n"
 	.string "inde i en bygning som er ârsagen.\l"
-	.string "Pröv at tale med folk i omrâdet\l"
+	.string "Prøv at tale med folk i omrâdet\l"
 	.string "igen. Hvis der er et problem de\l"
-	.string "skal have löst, mâ du mâske hjälpe.\l"
+	.string "skal have løst, mâ du mâske hjælpe.\l"
 	.string "Tal derefter med personen der\l"
 	.string "blokerer din vej igen.$"
 
@@ -246,7 +246,7 @@ Help_Text_AnswerOutOfThingsToDo::
 
 Help_Text_AnswerWhatHappenedToItemIGot::
 	.string "Any item that you are given by another\n"
-	.string "character gös in your BAG.\l"
+	.string "character gøs in your BAG.\l"
 	.string "The item is automatically sorted and\l"
 	.string "placed in one of three pockets.\l"
 	.string "For instructions on the BAG's use,\l"
@@ -328,7 +328,7 @@ Help_Text_AnswerMyMonsAreHurt::
 Help_Text_AnswerWhatIsStatusProblem::
 	.string "A status problem refers to an ailment\n"
 	.string "that is inflicted on a POKéMON by its\l"
-	.string "fö's attack. These include burns,\l"
+	.string "fø's attack. These include burns,\l"
 	.string "paralysis, poisoning, sleep, and\l"
 	.string "freezing. These can be healed by\l"
 	.string "visiting a POKéMON CENTER or using\l"
@@ -380,10 +380,10 @@ Help_Text_AnswerWhatsATrainer::
 Help_Text_AnswerHowDoIWinAgainstTrainer::
 	.string "To beat a TRAINER in battle, use\n"
 	.string "POKéMON that have type advantages\l"
-	.string "over the fö's POKéMON. You may also\l"
+	.string "over the fø's POKéMON. You may also\l"
 	.string "use highly trained POKéMON with\l"
 	.string "overwhelming power. Outnumbering the\l"
-	.string "fö's POKéMON is another obvious\l"
+	.string "fø's POKéMON is another obvious\l"
 	.string "tactic.$"
 
 Help_Text_AnswerWhereDoMonsAppear::
@@ -438,7 +438,7 @@ Help_Text_AnswerWantToMakeMonStronger::
 	.string "level up your party.$"
 
 Help_Text_AnswerFoeMonsTooStrong::
-	.string "If your fös are too strong, try\n"
+	.string "If your føs are too strong, try\n"
 	.string "leveling up your POKéMON some more.\l"
 	.string "Go back the way you came and battle\l"
 	.string "wild POKéMON to level up your party.\l"
@@ -1194,7 +1194,7 @@ Help_Text_DefineHP::
 	.string "If a POKéMON's HP drops to zero, it\l"
 	.string "faints and is unable to battle.\l"
 	.string "So, the key in battle is to try to\l"
-	.string "reduce the fö's HP to zero.\l"
+	.string "reduce the fø's HP to zero.\l"
 	.string "If your POKéMON are hurt, restore their\l"
 	.string "HP at a POKéMON CENTER or use items.$"
 
@@ -1229,7 +1229,7 @@ Help_Text_DefineDefense::
 	.string "DEFENSE indicates the resistance a\n"
 	.string "POKéMON has against physical attacks.\l"
 	.string "The higher this stat, the less damage\l"
-	.string "sustained from a fö's physical hit.$"
+	.string "sustained from a fø's physical hit.$"
 
 Help_Text_DefineSpAtk::
 	.string "SP. ATK (Special Attack) indicates the\n"
@@ -1245,11 +1245,11 @@ Help_Text_DefineSpDef::
 	.string "the resistance a POKéMON has against\l"
 	.string "special attacks.\l"
 	.string "The higher this stat, the less damage\l"
-	.string "sustained from a fö's special attack.$"
+	.string "sustained from a fø's special attack.$"
 
 Help_Text_DefineSpeed::
 	.string "SPEED indicates the agility of a\n"
-	.string "POKéMON. If this stat exceeds the fö's\l"
+	.string "POKéMON. If this stat exceeds the fø's\l"
 	.string "in battle, the POKéMON can make a move\l"
 	.string "before its slower opponent.$"
 
@@ -1266,13 +1266,13 @@ Help_Text_DefineType::
 	.string "POKéMON og angreb inddeles i typer.\n"
 	.string "Hver type har fordele og ulemper\l"
 	.string "mod andre typer. Som sten-saks-pap:\l"
-	.string "VAND er stärk mod ILD og svag\l"
-	.string "mod GRÄS.$"
+	.string "VAND er stærk mod ILD og svag\l"
+	.string "mod GRÆS.$"
 
 Help_Text_DefineOT::
-	.string "OT betyder Original TRÄNER, den\l"
-	.string "förste TRÄNER der fangede POKéMON.\l"
-	.string "OT-navnet ändres ikke ved bytte.$"
+	.string "OT betyder Original TRÆNER, den\l"
+	.string "første TRÆNER der fangede POKéMON.\l"
+	.string "OT-navnet ændres ikke ved bytte.$"
 
 Help_Text_DefineItem::
 	.string "All POKéMON can be made to hold one\n"
@@ -1291,16 +1291,16 @@ Help_Text_DefineAbility::
 	.string "have more than one kind of ability.$"
 
 Help_Text_DefineMoney::
-	.string "Nâr du vinder mod en TRÄNER,\l"
+	.string "Nâr du vinder mod en TRÆNER,\l"
 	.string "fâr du premiepenge. Spar op til\l"
-	.string "indköb i POKéMON MART!$"
+	.string "indkøb i POKéMON MART!$"
 
 Help_Text_DefineMoveType::
 	.string "Moves are also classified by types.\n"
 	.string "If a POKéMON of a certain type uses\l"
 	.string "a move of the same type, the move's\l"
 	.string "power is boosted. If the move's type\l"
-	.string "har fordel mod mâlet, öges\l"
+	.string "har fordel mod mâlet, øges\l"
 	.string "effektiviteten ogsâ.$"
 
 Help_Text_DefineNature::
@@ -1315,7 +1315,7 @@ Help_Text_DefineIDNo::
 	.string "Together with the OT name, the ID No.\l"
 	.string "is used to precisely identify the\l"
 	.string "Original TRAINER.\l"
-	.string "The ID No. dös not change even if the\l"
+	.string "The ID No. døs not change even if the\l"
 	.string "POKéMON is traded.$"
 
 Help_Text_DefinePP::
@@ -1330,11 +1330,11 @@ Help_Text_DefinePower::
 	.string "POWER indicates the strength of an\n"
 	.string "attack. The higher this number, the\l"
 	.string "greater the damage that can be\l"
-	.string "inflicted on the fö!$"
+	.string "inflicted on the fø!$"
 
 Help_Text_DefineAccuracy::
 	.string "ACCURACY indicates the probability of\n"
-	.string "the move hitting the fö.\l"
+	.string "the move hitting the fø.\l"
 	.string "The higher this number, the more likely\l"
 	.string "the move will strike the target.$"
 
@@ -1399,10 +1399,10 @@ Help_Text_DefineBattleScene::
 Help_Text_DefineBattleStyle::
 	.string "You can choose whether or not a\n"
 	.string "TRAINER can switch a POKéMON after\l"
-	.string "it has made its fö faint.\l"
+	.string "it has made its fø faint.\l"
 	.string "Set to “SHIFT” if you would like the\l"
 	.string "chance to switch a POKéMON after it\l"
-	.string "has made its fö faint.$"
+	.string "has made its fø faint.$"
 
 Help_Text_DefineSound::
 	.string "You can choose between MONO and\n"
@@ -1484,7 +1484,7 @@ Help_Text_DefineIDNo2::
 	.string "Together with the OT name, the ID No.\l"
 	.string "is used to precisely identify the\l"
 	.string "Original TRAINER.\l"
-	.string "The ID No. dös not change even if the\l"
+	.string "The ID No. døs not change even if the\l"
 	.string "POKéMON is traded.$"
 
 Help_Text_DefineMoney2::
@@ -1500,13 +1500,13 @@ Help_Text_DefineBadges2::
 	.string "i forskellige byer.$"
 
 Help_Text_TheHelpSystem::
-	.string "HJÄLP-systemet$"
+	.string "HJÆLP-systemet$"
 
 Help_Text_TheGame::
 	.string "Spillet$"
 
 Help_Text_WirelessAdapter::
-	.string "Trâdlös adapter$"
+	.string "Trâdløs adapter$"
 
 Help_Text_GameFundamentals1::
 	.string "Spilgrunder 1$"
@@ -1521,55 +1521,55 @@ Help_Text_WhatArePokemon::
 	.string "Hvad er POKéMON?$"
 
 Help_Text_DescTheHelpSystem::
-	.string "Hjälpebeskederne ändrer sig efter\n"
+	.string "Hjælpebeskederne ændrer sig efter\n"
 	.string "hvor langt du er kommet i spillet.\l"
-	.string "De er lavet til at hjälpe dig, nâr\l"
+	.string "De er lavet til at hjælpe dig, nâr\l"
 	.string "du har brug for det. Hvis der er\l"
 	.string "noget du ikke forstâr, slâ det op\l"
-	.string "i HJÄLP-systemet!$"
+	.string "i HJÆLP-systemet!$"
 
 Help_Text_DescTheGame::
 	.string "Du bliver hovedpersonen og udforsker\n"
 	.string "POKéMON-verdenen!\l"
-	.string "Ved at tale med folk og löse\l"
+	.string "Ved at tale med folk og løse\l"
 	.string "mysterier âbner nye veje sig.\l"
-	.string "Sträb mod mâlet sammen med dine\l"
+	.string "Stræb mod mâlet sammen med dine\l"
 	.string "vidunderlige POKéMON!$"
 
 Help_Text_DescWirelessAdapter::
-	.string "Dette spil kommunikerer trâdlöst\n"
+	.string "Dette spil kommunikerer trâdløst\n"
 	.string "via Wireless Adapteren.\p"
-	.string "Vär trâdlös overalt, nâr som helst\n"
+	.string "Vær trâdløs overalt, nâr som helst\n"
 	.string "og med hvem som helst!\p"
-	.string "Pröv at spille med Wireless Adapteren\n"
+	.string "Prøv at spille med Wireless Adapteren\n"
 	.string "altid tilsluttet!$"
 
 Help_Text_DescGameFundamentals1::
-	.string "Besög hver by, rejs hver vej, udforsk\n"
+	.string "Besøg hver by, rejs hver vej, udforsk\n"
 	.string "hver hule og tag imod hver udfordring\l"
 	.string "pâ vej mod at blive den bedste\l"
-	.string "TRÄNER af POKéMON!$"
+	.string "TRÆNER af POKéMON!$"
 
 Help_Text_DescGameFundamentals2::
-	.string "Pâ din rejse möder du mange\n"
+	.string "Pâ din rejse møder du mange\n"
 	.string "forhindringer. Hver forhindring kan\l"
-	.string "overvindes ved at göre noget eller\l"
-	.string "löse mysterier. Nogle forhindringer\l"
+	.string "overvindes ved at gøre noget eller\l"
+	.string "løse mysterier. Nogle forhindringer\l"
 	.string "pâvirkes af noget der sker langt\l"
-	.string "väk.$"
+	.string "væk.$"
 
 Help_Text_DescGameFundamentals3::
 	.string "Nogle af forhindringerne kan fjernes\n"
-	.string "nâr dine POKéMON lärer bestemte\l"
+	.string "nâr dine POKéMON lærer bestemte\l"
 	.string "angreb.$"
 
 Help_Text_DescWhatArePokemon::
-	.string "POKéMON er vidunderlige väsener\n"
-	.string "omgivet af mystik. Du möder dem\l"
-	.string "overalt i verden…i höjt gräs,\l"
+	.string "POKéMON er vidunderlige væsener\n"
+	.string "omgivet af mystik. Du møder dem\l"
+	.string "overalt i verden…i højt græs,\l"
 	.string "huler, havet og mere.\l"
 	.string "De bliver lydige over for de\l"
-	.string "TRÄNERE der fangede dem.$"
+	.string "TRÆNERE der fangede dem.$"
 
 Help_Text_UsingTypeMatchupList::
 	.string "Using the Type Matchup List$"
@@ -1691,7 +1691,7 @@ Help_Text_TypeMatchupOwnMoveDark::
 	.string "   {TRIANGLE}: FIGHTING, DARK, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonDark::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIGHTING, BUG\p"
 	.string "   {TRIANGLE}: GHOST, DARK\p"
 	.string "   {BIG_MULT_X}: PSYCHIC$"
@@ -1702,7 +1702,7 @@ Help_Text_TypeMatchupOwnMoveRock::
 	.string "   {TRIANGLE}: FIGHTING, GROUND, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonRock::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: WATER, GRASS, FIGHTING,\n"
 	.string "       GROUND, STEEL\p"
 	.string "   {TRIANGLE}: NORMAL, FIRE, POISON, FLYING$"
@@ -1714,7 +1714,7 @@ Help_Text_TypeMatchupOwnMovePsychic::
 	.string "   {BIG_MULT_X}: DARK$"
 
 Help_Text_TypeMatchupOwnPokemonPsychic::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: BUG, GHOST, DARK\p"
 	.string "   {TRIANGLE}: FIGHTING, PSYCHIC$"
 
@@ -1725,7 +1725,7 @@ Help_Text_TypeMatchupOwnMoveFighting::
 	.string "   {BIG_MULT_X}: GHOST$"
 
 Help_Text_TypeMatchupOwnPokemonFighting::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FLYING, PSYCHIC\p"
 	.string "   {TRIANGLE}: BUG, ROCK, DARK$"
 
@@ -1736,7 +1736,7 @@ Help_Text_TypeMatchupOwnMoveGrass::
 	.string "       BUG, DRAGON, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonGrass::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\p"
 	.string "   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND$"
 
@@ -1747,7 +1747,7 @@ Help_Text_TypeMatchupOwnMoveGhost::
 	.string "   {BIG_MULT_X}: NORMAL$"
 
 Help_Text_TypeMatchupOwnPokemonGhost::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GHOST, DARK\p"
 	.string "   {TRIANGLE}: POISON, BUG\p"
 	.string "   {BIG_MULT_X}: NORMAL, FIGHTING$"
@@ -1758,7 +1758,7 @@ Help_Text_TypeMatchupOwnMoveIce::
 	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonIce::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, ROCK, STEEL\p"
 	.string "   {TRIANGLE}: ICE$"
 
@@ -1770,7 +1770,7 @@ Help_Text_TypeMatchupOwnMoveGround::
 	.string "   {BIG_MULT_X}: FLYING$"
 
 Help_Text_TypeMatchupOwnPokemonGround::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: WATER, GRASS, ICE\p"
 	.string "   {TRIANGLE}: POISON, ROCK\p"
 	.string "   {BIG_MULT_X}: ELECTRIC$"
@@ -1782,7 +1782,7 @@ Help_Text_TypeMatchupOwnMoveElectric::
 	.string "   {BIG_MULT_X}: GROUND$"
 
 Help_Text_TypeMatchupOwnPokemonElectric::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GROUND\p"
 	.string "   {TRIANGLE}: ELECTRIC, FLYING, STEEL$"
 
@@ -1793,7 +1793,7 @@ Help_Text_TypeMatchupOwnMovePoison::
 	.string "   {BIG_MULT_X}: STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonPoison::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GROUND, PSYCHIC\p"
 	.string "   {TRIANGLE}: GRASS, FIGHTING, POISON, BUG$"
 
@@ -1803,7 +1803,7 @@ Help_Text_TypeMatchupOwnMoveDragon::
 	.string "   {TRIANGLE}: STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonDragon::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: ICE, DRAGON\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, GRASS$"
 
@@ -1813,7 +1813,7 @@ Help_Text_TypeMatchupOwnMoveNormal::
 	.string "   {BIG_MULT_X}: GHOST$"
 
 Help_Text_TypeMatchupOwnPokemonNormal::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIGHTING\p"
 	.string "   {BIG_MULT_X}: GHOST$"
 
@@ -1823,7 +1823,7 @@ Help_Text_TypeMatchupOwnMoveSteel::
 	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonSteel::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, GROUND\n"
 	.string "   {TRIANGLE}: NORMAL, GRASS, ICE, FLYING,\l"
 	.string "       PSYCHIC, BUG, ROCK, GHOST,\l"
@@ -1836,7 +1836,7 @@ Help_Text_TypeMatchupOwnMoveFlying::
 	.string "   {TRIANGLE}: ELECTRIC, ROCK, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonFlying::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: ELECTRIC, ICE, ROCK\p"
 	.string "   {TRIANGLE}: GRASS, FIGHTING, BUG\p"
 	.string "   {BIG_MULT_X}: GROUND$"
@@ -1847,7 +1847,7 @@ Help_Text_TypeMatchupOwnMoveFire::
 	.string "   {TRIANGLE}: FIRE, WATER, ROCK, DRAGON$"
 
 Help_Text_TypeMatchupOwnPokemonFire::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: WATER, GROUND, ROCK\p"
 	.string "   {TRIANGLE}: FIRE, GRASS, ICE, BUG, STEEL$"
 
@@ -1857,7 +1857,7 @@ Help_Text_TypeMatchupOwnMoveWater::
 	.string "   {TRIANGLE}: WATER, GRASS, DRAGON$"
 
 Help_Text_TypeMatchupOwnPokemonWater::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: ELECTRIC, GRASS\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
 
@@ -1868,7 +1868,7 @@ Help_Text_TypeMatchupOwnMoveBug::
 	.string "       FLYING, GHOST, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonBug::
-	.string "Effect of fö's move on own POKéMON:\p"
+	.string "Effect of fø's move on own POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, FLYING, ROCK\p"
 	.string "   {TRIANGLE}: GRASS, FIGHTING, GROUND$"
 

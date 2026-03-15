@@ -1,9 +1,9 @@
 FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
-    .string "Vi har haft en stor og stärk\n"
-    .string "TRAINER vokse op pâ denne ö.\p"
+    .string "Vi har haft en stor og stærk\n"
+    .string "TRAINER vokse op pâ denne ø.\p"
     .string "Selv du kender hende sikkert.\n"
     .string "Det er LORELEI fra ELITE FOUR!\p"
-    .string "Da LORELEI var lille lärte jeg\n"
+    .string "Da LORELEI var lille lærte jeg\n"
     .string "hende om POKéMON.$"
 
 FourIsland_Mart_Text_IcefallCaveIsFrigid::

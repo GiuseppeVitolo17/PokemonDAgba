@@ -1,5 +1,5 @@
 gFameCheckerFlavorText_ProfOak0:: @ 0x81AD106
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}OAK POKéMON RESEARCH LAB$"
 
 gFameCheckerFlavorText_ProfOak1:: @ 0x81AD145
@@ -30,14 +30,14 @@ gFameCheckerFlavorText_ProfOak4:: @ 0x81AD2B9
 	.string "He's a shadow of his former self.$"
 
 gFameCheckerFlavorText_ProfOak5:: @ 0x81AD377
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK is going to have his own\n"
 	.string "radio show soon.\p"
 	.string "The program will be called PROF.\n"
 	.string "OAK'S POKéMON SEMINAR.$"
 
 gFameCheckerFlavorText_Daisy0:: @ 0x81AD40C
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}If you show DAISY your POKéMON,\n"
 	.string "she can tell how much it likes you.\p"
 	.string "Occasionally, she will even groom\n"
@@ -74,7 +74,7 @@ gFameCheckerFlavorText_Daisy5:: @ 0x81AD69F
 	.string "PALLET TOWN!$"
 
 gFameCheckerFlavorText_Brock0:: @ 0x81AD705
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PEWTER CITY POKéMON GYM\n"
 	.string "LEADER: BROCK\l"
 	.string "The Rock-Solid POKéMON TRAINER!$"
@@ -105,7 +105,7 @@ gFameCheckerFlavorText_Brock3:: @ 0x81AD908
 	.string "like him.$"
 
 gFameCheckerFlavorText_Brock4:: @ 0x81AD99A
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hi, I'm excavating for fossils here\n"
 	.string "under MT. MOON.\p"
 	.string "Sometimes, BROCK of PEWTER GYM\n"
@@ -117,7 +117,7 @@ gFameCheckerFlavorText_Brock5:: @ 0x81ADA27
 	.string "be unable to stop if he starts.$"
 
 gFameCheckerFlavorText_Misty0:: @ 0x81ADA91
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CERULEAN CITY POKéMON GYM\n"
 	.string "LEADER: MISTY\l"
 	.string "The Tomboyish Mermaid!$"
@@ -152,7 +152,7 @@ gFameCheckerFlavorText_Misty5:: @ 0x81ADCEB
 	.string "of the ELITE FOUR.$"
 
 gFameCheckerFlavorText_LtSurge0:: @ 0x81ADD3C
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}VERMILION CITY POKéMON GYM\n"
 	.string "LEADER: LT. SURGE\l"
 	.string "The Lightning American!$"
@@ -187,7 +187,7 @@ gFameCheckerFlavorText_LtSurge5:: @ 0x81ADF6A
 	.string "by POKéMON to power his plane.$"
 
 gFameCheckerFlavorText_Erika0:: @ 0x81AE009
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CELADON CITY POKéMON GYM\n"
 	.string "LEADER: ERIKA\l"
 	.string "The Nature-Loving Princess!$"
@@ -223,7 +223,7 @@ gFameCheckerFlavorText_Erika5:: @ 0x81AE247
 	.string "see ERIKA snoozing.$"
 
 gFameCheckerFlavorText_Koga0:: @ 0x81AE2B6
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}FUCHSIA CITY POKéMON GYM\n"
 	.string "LEADER: KOGA\l"
 	.string "The Poisonous Ninja Master$"
@@ -254,7 +254,7 @@ gFameCheckerFlavorText_Koga4:: @ 0x81AE48D
 	.string "his POKéMON to health.$"
 
 gFameCheckerFlavorText_Koga5:: @ 0x81AE51B
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The SAFARI ZONE's huge, wouldn't\n"
 	.string "you say?\p"
 	.string "FUCHSIA's GYM LEADER, KOGA, \n"
@@ -263,7 +263,7 @@ gFameCheckerFlavorText_Koga5:: @ 0x81AE51B
 	.string "knowing that we're safe.$"
 
 gFameCheckerFlavorText_Sabrina0:: @ 0x81AE5E8
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SAFFRON CITY POKéMON GYM\n"
 	.string "LEADER: SABRINA\l"
 	.string "The Master of PSYCHIC POKéMON!$"
@@ -299,7 +299,7 @@ gFameCheckerFlavorText_Sabrina5:: @ 0x81AE841
 	.string "MASTER next door.$"
 
 gFameCheckerFlavorText_Blaine0:: @ 0x81AE89E
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CINNABAR ISLAND POKéMON GYM\n"
 	.string "LEADER: BLAINE\l"
 	.string "The Hotheaded Quiz Master!$"
@@ -340,7 +340,7 @@ gFameCheckerFlavorText_Blaine5:: @ 0x81AEB69
 	.string "new quiz questions.$"
 
 gFameCheckerFlavorText_Lorelei0:: @ 0x81AEBDF
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am LORELEI of the ELITE FOUR.$"
 
 gFameCheckerFlavorText_Lorelei1:: @ 0x81AEC28
@@ -378,7 +378,7 @@ gFameCheckerFlavorText_Lorelei5:: @ 0x81AEE51
 	.string "her ever since.$"
 
 gFameCheckerFlavorText_Bruno0:: @ 0x81AEF25
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am BRUNO of the ELITE FOUR!$"
 
 gFameCheckerFlavorText_Bruno1:: @ 0x81AEF6C
@@ -414,7 +414,7 @@ gFameCheckerFlavorText_Bruno5:: @ 0x81AF19A
 	.string "name of BRAWLY before.$"
 
 gFameCheckerFlavorText_Agatha0:: @ 0x81AF200
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am AGATHA of the ELITE FOUR.$"
 
 gFameCheckerFlavorText_Agatha1:: @ 0x81AF248
@@ -426,7 +426,7 @@ gFameCheckerFlavorText_Agatha2:: @ 0x81AF2B7
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}That old lady's also got a really\n"
 	.string "short fuse, too.\p"
-	.string "It dösn't take anything to get\n"
+	.string "It døsn't take anything to get\n"
 	.string "that scary lady hollering.$"
 
 gFameCheckerFlavorText_Agatha3:: @ 0x81AF34E
@@ -451,7 +451,7 @@ gFameCheckerFlavorText_Agatha5:: @ 0x81AF47C
 	.string "oldest-ever ELITE FOUR member.$"
 
 gFameCheckerFlavorText_Lance0:: @ 0x81AF4FD
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I lead the ELITE FOUR.\p"
 	.string "You can call me LANCE the dragon\n"
 	.string "TRAINER.$"
@@ -476,7 +476,7 @@ gFameCheckerFlavorText_Lance3:: @ 0x81AF6BA
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}We have a customer, LANCE, who\n"
 	.string "occasionally comes.\p"
 	.string "He always buys capes.\p"
-	.string "I wonder… Dös he have many\n"
+	.string "I wonder… Døs he have many\n"
 	.string "identical capes at home?$"
 
 gFameCheckerFlavorText_Lance4:: @ 0x81AF758
@@ -492,7 +492,7 @@ gFameCheckerFlavorText_Lance5:: @ 0x81AF7CB
 	.string "somewhere far away.$"
 
 gFameCheckerFlavorText_Bill0:: @ 0x81AF83E
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}After all, BILL's world-famous as a\n"
 	.string "POKeMANIAC.\p"
 	.string "He invented the POKéMON Storage\n"
@@ -529,7 +529,7 @@ gFameCheckerFlavorText_Bill5:: @ 0x81AFAB9
 	.string "stomach milk at all.$"
 
 gFameCheckerFlavorText_MrFuji0:: @ 0x81AFB0C
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He's really kind.\p"
 	.string "He looks after abandoned and\n"
 	.string "orphaned POKéMON.$"
@@ -571,7 +571,7 @@ gFameCheckerFlavorText_MrFuji5:: @ 0x81AFDC4
 	.string "and respected in LAVENDER TOWN.$"
 
 gFameCheckerFlavorText_Giovanni0:: @ 0x81AFE68
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}TEAM ROCKET captures POKéMON from\n"
 	.string "around the world.\p"
 	.string "They're important tools for keeping\n"
@@ -593,13 +593,13 @@ gFameCheckerFlavorText_Giovanni2:: @ 0x81AFFA8
 	.string "be used.$"
 
 gFameCheckerFlavorText_Giovanni3:: @ 0x81B0022
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Welcome to my hideout!\p"
 	.string "It shall be so until I can restore\n"
 	.string "TEAM ROCKET to its former glory.$"
 
 gFameCheckerFlavorText_Giovanni4:: @ 0x81B00A6
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What dös this person do?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What døs this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Blow me away! GIOVANNI was the\n"
 	.string "GYM LEADER of VIRIDIAN?$"
 

@@ -3,22 +3,22 @@ Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
     .string "Mine POKéMONs aske opbevares i\n"
     .string "POKéMON TOWER.\p"
     .string "Du mâ fâ denne TM.\n"
-    .string "Jeg har ikke brug for den längere…$"
+    .string "Jeg har ikke brug for den længere…$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
     .string "Mine POKéMONs aske opbevares i\n"
     .string "POKéMON TOWER.\p"
     .string "Du mâ fâ denne TM.\n"
-    .string "Jeg har ikke brug for den längere…$"
+    .string "Jeg har ikke brug for den længere…$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
     .string "{PLAYER} modtog TM27\n"
     .string "fra den lille pige.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-    .string "TM27 er et träk kaldt RETURN…\p"
+    .string "TM27 er et træk kaldt RETURN…\p"
     .string "Hvis du behandler din POKéMON godt,\n"
-    .string "returnerer den din kärlighed ved at\l"
+    .string "returnerer den din kærlighed ved at\l"
     .string "arbejde hârdest i kamp.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::

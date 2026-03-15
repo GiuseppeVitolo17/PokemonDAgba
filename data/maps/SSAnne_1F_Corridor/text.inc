@@ -4,7 +4,7 @@ SSAnne_1F_Corridor_Text_LeStrongSilentType::
     .string "Jeg serverer gerne hvad som helst\n"
     .string "du oonsker!\p"
     .string "… … …\n"
-    .string "Aah! Den stärke tavse type!$"
+    .string "Aah! Den stærke tavse type!$"
 
 SSAnne_1F_Corridor_Text_PassengersAreRestless::
     .string "Passagererne er urolige efter\n"

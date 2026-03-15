@@ -6,7 +6,7 @@ Route9_Text_AliciaDefeat::
     .string "Du bedrog mig…$"
 
 Route9_Text_AliciaPostBattle::
-    .string "Tunnelen forude er bälgmörk\n"
+    .string "Tunnelen forude er bælgmørk\n"
     .string "inde.\p"
     .string "Du har brug for FLASH for at\n"
     .string "komme igennem.$"
@@ -64,7 +64,7 @@ Route9_Text_BriceDefeat::
 
 Route9_Text_BricePostBattle::
     .string "Hahaha!\n"
-    .string "Börn bör väre hârdnakkede!$"
+    .string "Børn bør være hârdnakkede!$"
 
 Route9_Text_BrentIntro::
     .string "Jeg stod op tidligt hver dag for at\n"
@@ -76,7 +76,7 @@ Route9_Text_BrentDefeat::
 
 Route9_Text_BrentPostBattle::
     .string "Jeg mâ samle mere end insekter\n"
-    .string "for at blive stärkere…$"
+    .string "for at blive stærkere…$"
 
 Route9_Text_AlanIntro::
     .string "Hahahaha!\n"
@@ -84,11 +84,11 @@ Route9_Text_AlanIntro::
 
 Route9_Text_AlanDefeat::
     .string "Hahahaha!\n"
-    .string "Du slog mig ärligt!$"
+    .string "Du slog mig ærligt!$"
 
 Route9_Text_AlanPostBattle::
     .string "Hahahaha!\n"
-    .string "Os härtige fyre griner altid!$"
+    .string "Os hærtige fyre griner altid!$"
 
 Route9_Text_ConnerIntro::
     .string "Frem, mine super BUG POKéMON!$"

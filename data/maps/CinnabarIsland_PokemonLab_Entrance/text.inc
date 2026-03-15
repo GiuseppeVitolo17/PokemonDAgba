@@ -7,16 +7,16 @@ CinnabarIsland_Gym_Text_PhotoOfBlaineAndFuji::
 CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensively::
     .string "Vi studerer POKéMON grundigt\n"
     .string "hver dag.\p"
-    .string "Folk bringer os ofte själdne POKéMON\n"
-    .string "til undersögelse.$"
+    .string "Folk bringer os ofte sjældne POKéMON\n"
+    .string "til undersøgelse.$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFuji::
-    .string "Et foto af LABs grundläger…\n"
+    .string "Et foto af LABs grundlæger…\n"
     .string "DR. FUJI?!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_MeetingRoomSign::
     .string "POKéMON LAB\n"
-    .string "Mödelokale$"
+    .string "Mødelokale$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSign::
     .string "POKéMON LAB\n"

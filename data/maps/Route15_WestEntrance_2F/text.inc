@@ -3,10 +3,10 @@ Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
     .string "Jeg er en af PROF. OAKs assistenter.\p"
     .string "Hvis din POKéDEX har fulde data\n"
     .string "om {STR_VAR_1} arter, skal jeg\l"
-    .string "give dig en belönning.\p"
-    .string "PROF. OAK betröde mig\n"
+    .string "give dig en belønning.\p"
+    .string "PROF. OAK betrøde mig\n"
     .string "{STR_VAR_2} til dig.\p"
-    .string "Sâ, {PLAYER}, lad mig spörge dig.\p"
+    .string "Sâ, {PLAYER}, lad mig spørge dig.\p"
     .string "Har du indsamlet data om mindst\n"
     .string "{STR_VAR_1} slags POKéMON?$"
 
@@ -22,9 +22,9 @@ Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
 
 Route15_WestEntrance_2F_Text_ExplainExpShare::
     .string "EXP. SHARE er en genstand en\n"
-    .string "POKéMON kan bäre.\p"
+    .string "POKéMON kan bære.\p"
     .string "POKéMON modtager en del af\n"
-    .string "EXP-pointene uden at kämpe.$"
+    .string "EXP-pointene uden at kæmpe.$"
 
 Route15_WestEntrance_2F_Text_LargeShiningBird::
     .string "Lad os se hvad kikkerten viser...\p"
@@ -33,4 +33,4 @@ Route15_WestEntrance_2F_Text_LargeShiningBird::
 
 Route15_WestEntrance_2F_Text_SmallIslandOnHorizon::
     .string "Lad os se hvad kikkerten viser...\p"
-    .string "Det ligner en lille ö i horisonten!$"
+    .string "Det ligner en lille ø i horisonten!$"

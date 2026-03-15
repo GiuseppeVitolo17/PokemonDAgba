@@ -9,7 +9,7 @@ PewterCity_Gym_Text_BrockIntro::
     .string "ROCK typen!\p"
     .string "Fuhaha! Du vil udfordre mig\n"
     .string "selvom du ved du taber?\p"
-    .string "Det er TRÆNERens äre der\n"
+    .string "Det er TRÆNERens ære der\n"
     .string "driver dig til at udfordre mig.\p"
     .string "Fint da!\n"
     .string "Vis mig dit bedste!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
@@ -25,12 +25,12 @@ PewterCity_Gym_Text_BrockDefeat::
     .string "LEAGUE BOULDERBADGE.\p"
     .string "{FONT_NORMAL}{PLAYER} modtog BOULDERBADGE\n"
     .string "fra BROCK!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\p"
-    .string "{FONT_MALE}Bare at have BOULDERBADGE gör\n"
-    .string "dine POKéMON stärkere.\p"
-    .string "Det muliggör ogsâ brugen af\n"
-    .string "träkket FLASH uden for kamp.\p"
-    .string "Selvfölgelig skal en POKéMON kende\n"
-    .string "träkket FLASH for at bruge det.$"
+    .string "{FONT_MALE}Bare at have BOULDERBADGE gør\n"
+    .string "dine POKéMON stærkere.\p"
+    .string "Det muliggør ogsâ brugen af\n"
+    .string "trækket FLASH uden for kamp.\p"
+    .string "Selvfølgelig skal en POKéMON kende\n"
+    .string "trækket FLASH for at bruge det.$"
 
 PewterCity_Gym_Text_TakeThisWithYou::
     .string "Vent!\n"
@@ -42,16 +42,16 @@ PewterCity_Gym_Text_ReceivedTM39FromBrock::
 
 PewterCity_Gym_Text_ExplainTM39::
     .string "En TM, Technical Machine, indeholder et\n"
-    .string "träk til POKéMON.\p"
-    .string "At bruge en TM lärer POKéMON\n"
-    .string "träkket den indeholder.\p"
+    .string "træk til POKéMON.\p"
+    .string "At bruge en TM lærer POKéMON\n"
+    .string "trækket den indeholder.\p"
     .string "En TM kan kun bruges een gang.\p"
-    .string "Sâ nâr du bruger een, väg\n"
+    .string "Sâ nâr du bruger een, væg\n"
     .string "POKéMON omhyggeligt.\p"
     .string "Anyway…\n"
     .string "TM39 indeholder ROCK TOMB.\p"
     .string "Den kaster sten mod fjenden og\n"
-    .string "sänker dens HASTIGHED.$"
+    .string "sænker dens HASTIGHED.$"
 
 PewterCity_Gym_Text_BrockPostBattle::
     .string "Der er alle slags TRÆNERE i\n"
@@ -68,7 +68,7 @@ PewterCity_Gym_Text_DontHaveRoomForThis::
 PewterCity_Gym_Text_LiamIntro::
     .string "Stop lige der, unge!\p"
     .string "Du er ti tusind lysâr\n"
-    .string "fra at möde BROCK!$"
+    .string "fra at møde BROCK!$"
 
 PewterCity_Gym_Text_LiamDefeat::
     .string "Pokkers!\p"
@@ -82,7 +82,7 @@ PewterCity_Gym_Text_LiamPostBattle::
 PewterCity_Gym_Text_LetMeTakeYouToTheTop::
     .string "Hej!\n"
     .string "Vil du dromme stort?\p"
-    .string "Tör du dromme om at blive\n"
+    .string "Tør du dromme om at blive\n"
     .string "POKéMON mester?\p"
     .string "Jeg er ikke TRÆNER, men jeg kan\n"
     .string "râde dig til hvordan man vinder.\p"
@@ -93,11 +93,11 @@ PewterCity_Gym_Text_LetsGetHappening::
     .string "Lad os komme i gang!$"
 
 PewterCity_Gym_Text_TryDifferentPartyOrders::
-    .string "Den förste POKéMON ude i en kamp er\n"
+    .string "Den første POKéMON ude i en kamp er\n"
     .string "til venstre pâ POKéMON LISTEN.\p"
-    .string "Ved at ändre räkkefölgen af POKéMON\n"
+    .string "Ved at ændre rækkefølgen af POKéMON\n"
     .string "kan du fâ en fordel.\p"
-    .string "Pröv forskellige räkkefölger der\n"
+    .string "Prøv forskellige rækkefølger der\n"
     .string "passer til modstanderens hold.$"
 
 PewterCity_Gym_Text_ItsFreeLetsGetHappening::
@@ -105,7 +105,7 @@ PewterCity_Gym_Text_ItsFreeLetsGetHappening::
     .string "Lad os komme i gang!$"
 
 PewterCity_Gym_Text_YoureChampMaterial::
-    .string "Som jeg tänkte!\n"
+    .string "Som jeg tænkte!\n"
     .string "Du er POKéMON mestermateriale!$"
 
 PewterCity_Gym_Text_GymStatue::

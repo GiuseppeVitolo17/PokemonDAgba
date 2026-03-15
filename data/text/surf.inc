@@ -6,5 +6,5 @@ Text_UsedSurf::
 	.string "{STR_VAR_1} brugte SURF!$"
 
 Text_CurrentTooFast::
-	.string "Strömmen er alt for stärk!\n"
+	.string "Strømmen er alt for stærk!\n"
 	.string "SURF kan ikke bruges her…$"

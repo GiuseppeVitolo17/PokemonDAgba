@@ -12,22 +12,22 @@ SixIsland_WaterPath_House1_Text_MayIMeasureHeracross::
 SixIsland_WaterPath_House1_Text_ItsXInchesDeserveReward::
     .string "Eeeek, den er {STR_VAR_2} tommer!\n"
     .string "Jeg har aldrig set noget lignende!\l"
-    .string "Du fortjener en belönning!$"
+    .string "Du fortjener en belønning!$"
 
 SixIsland_WaterPath_House1_Text_WantToSeeBiggerOne::
-    .string "Jeg vil gerne se en meget, meget större\n"
+    .string "Jeg vil gerne se en meget, meget større\n"
     .string "HERACROSS end den der.\p"
     .string "Aah, hvor jeg tilbeder dem, store\n"
     .string "HERACROSS!$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesSameAsBefore::
     .string "Hva? Denne {STR_VAR_2}-tommers mâling…\n"
-    .string "Aah, böv! Det er det samme som för.$"
+    .string "Aah, bøv! Det er det samme som før.$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesYInchesWasBiggest::
     .string "Aah, den er kun {STR_VAR_2} tommer.\n"
-    .string "HERACROSS för var större.\p"
-    .string "Den var {STR_VAR_3} tommer, den störste\n"
+    .string "HERACROSS før var større.\p"
+    .string "Den var {STR_VAR_3} tommer, den største\n"
     .string "HERACROSS du har vist mig.$"
 
 SixIsland_WaterPath_House1_Text_ThisWontDo::
@@ -37,10 +37,10 @@ SixIsland_WaterPath_House1_Text_ThisWontDo::
 
 SixIsland_WaterPath_House1_Text_YourBagIsFull::
     .string "Din TASKE er fuld.\n"
-    .string "Min belönning kan ikke väre med.$"
+    .string "Min belønning kan ikke være med.$"
 
 SixIsland_WaterPath_House1_Text_BiggestHeracrossIsXInches::
-    .string "Den störste HERACROSS jeg nogensinde\n"
+    .string "Den største HERACROSS jeg nogensinde\n"
     .string "har set mâlt indtil nu er:\p"
     .string "{STR_VAR_3} tommer!$"
 

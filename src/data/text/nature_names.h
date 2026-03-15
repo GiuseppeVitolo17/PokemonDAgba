@@ -2,7 +2,7 @@ static const u8 sHardyNatureName[] = _("DRILEN");
 static const u8 sLonelyNatureName[] = _("ENSOM");
 static const u8 sBraveNatureName[] = _("MODIG");
 static const u8 sAdamantNatureName[] = _("STADIG");
-static const u8 sNaughtyNatureName[] = _("FRÄK");
+static const u8 sNaughtyNatureName[] = _("FRÆK");
 static const u8 sBoldNatureName[] = _("DRISTIG");
 static const u8 sDocileNatureName[] = _("SAGTMOD");
 static const u8 sRelaxedNatureName[] = _("AFSLAPPET");
@@ -22,7 +22,7 @@ static const u8 sCalmNatureName[] = _("ROLIG");
 static const u8 sGentleNatureName[] = _("MILD");
 static const u8 sSassyNatureName[] = _("PRAL");
 static const u8 sCarefulNatureName[] = _("FORSIGTIG");
-static const u8 sQuirkyNatureName[] = _("SÄR");
+static const u8 sQuirkyNatureName[] = _("SÆR");
 
 const u8 *const gNatureNamePointers[NUM_NATURES] = {
     [NATURE_HARDY] = sHardyNatureName,

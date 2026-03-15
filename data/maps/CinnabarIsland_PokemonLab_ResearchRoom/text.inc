@@ -10,8 +10,8 @@ CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
     .string "De er ARTICUNO, ZAPDOS og\n"
     .string "MOLTRES.\p"
     .string "Deres opholdssted er ukendt.\p"
-    .string "Vi planläger at udforske hulen\n"
-    .string "när CERULEAN.\p"
+    .string "Vi planlæger at udforske hulen\n"
+    .string "nær CERULEAN.\p"
     .string "Fra: POKéMON RESEARCH TEAM…$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::

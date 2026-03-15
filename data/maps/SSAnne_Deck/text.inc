@@ -4,11 +4,11 @@ SSAnne_Deck_Text_ShipDepartingSoon::
 
 SSAnne_Deck_Text_ScrubbingDecksHardWork::
     .string "Puh!\n"
-    .string "At skrubbe däk er hârdt arbejde!$"
+    .string "At skrubbe dæk er hârdt arbejde!$"
 
 SSAnne_Deck_Text_FeelSeasick::
     .string "Urf… Jeg har det dârligt…\p"
-    .string "Jeg blev sösyg, sâ jeg gik ud for at\n"
+    .string "Jeg blev søsyg, sâ jeg gik ud for at\n"
     .string "fâ lidt luft…$"
 
 SSAnne_Deck_Text_EdmondIntro::
@@ -24,7 +24,7 @@ SSAnne_Deck_Text_EdmondPostBattle::
 
 SSAnne_Deck_Text_TrevorIntro::
     .string "Ahoy!\n"
-    .string "Er du sösyg?$"
+    .string "Er du søsyg?$"
 
 SSAnne_Deck_Text_TrevorDefeat::
     .string "Jeg var bare uforsigtig!$"

@@ -1,5 +1,5 @@
 RocketHideout_B2F_Text_GruntIntro::
-    .string "BOSS sagde du kan se spögelser med\n"
+    .string "BOSS sagde du kan se spøgelser med\n"
     .string "SILPH SCOPE.$"
 
 RocketHideout_B2F_Text_GruntDefeat::

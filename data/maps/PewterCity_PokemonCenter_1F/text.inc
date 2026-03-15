@@ -11,7 +11,7 @@ PewterCity_PokemonCenter_1F_Text_Jigglypuff::
 PewterCity_PokemonCenter_1F_Text_WhenJiggylypuffSingsMonsGetDrowsy::
     .string "Gaben!\p"
     .string "Nâr JIGGLYPUFF synger, bliver\n"
-    .string "POKéMON döse…\p"
+    .string "POKéMON døse…\p"
     .string "…Mig ogsâ…\n"
     .string "Snork…$"
 
@@ -23,4 +23,4 @@ PewterCity_PokemonCenter_1F_Text_TradingPikachuWithKid::
     .string "Jeg bytter POKéMON med det barn\n"
     .string "derovre.\p"
     .string "Jeg havde to PIKACHU, sâ jeg\n"
-    .string "tänkte jeg kunne bytte een.$"
+    .string "tænkte jeg kunne bytte een.$"

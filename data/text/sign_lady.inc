@@ -9,11 +9,11 @@ PalletTown_Text_OhLookLook::
 	.string "Se, se!$"
 
 PalletTown_Text_ReadItReadIt::
-	.string "Läs det, läs det!$"
+	.string "Læs det, læs det!$"
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
-	.string "TRÄNER TIPS\p"
+	.string "TRÆNER TIPS\p"
 	.string "Tryk pâ START for at âbne MENUEN!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
@@ -22,9 +22,9 @@ PalletTown_Text_SignsAreUsefulArentThey::
 PalletTown_Text_LookCopiedTrainerTipsSign::
 	.string "Se, se!\p"
 	.string "Jeg kopierede hvad der stod pâ et af\n"
-	.string "de TRÄNER TIPS-skilte!$"
+	.string "de TRÆNER TIPS-skilte!$"
 
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
-	.string "TRÄNER TIPS!\p"
+	.string "TRÆNER TIPS!\p"
 	.string "Tryk pâ START for at âbne MENUEN!$"

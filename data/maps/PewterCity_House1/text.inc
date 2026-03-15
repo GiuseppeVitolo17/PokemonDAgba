@@ -6,7 +6,7 @@ PewterCity_House1_Text_NidoranSit::
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
     .string "Vores POKéMON er en udenforstâende,\n"
-    .string "sâ den er kräven og svär at hândtere.\p"
+    .string "sâ den er kræven og svær at hândtere.\p"
     .string "En udenforstâende er en POKéMON du\n"
     .string "fâr ved bytte.\p"
     .string "Den vokser hurtigt, men den kan ignorere\n"

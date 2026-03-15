@@ -1,5 +1,5 @@
 const u8 gDummyPokedexText[] = _(
-    "Dette er en nyopdaget POKeMON. Den er\n"
+    "Dette er en nyopdaget POKéMON. Den er\n"
     "under undersøgelse. Ingen detaljeret\n"
     "information er tilgængelig på nuvarende tidspunkt.");
 
@@ -7,7 +7,7 @@ const u8 gDummyPokedexTextUnused[] = _("");
 
 const u8 gBulbasaurPokedexText[] = _(
     "Der er et plantefro på ryggen lige\n"
-    "fra den dag denne POKeMON bliver født.\n"
+    "fra den dag denne POKéMON bliver født.\n"
     "Frøt vokser langsomt større.");
 
 const u8 gBulbasaurPokedexTextUnused[] = _("");
@@ -41,7 +41,7 @@ const u8 gCharmeleonPokedexText[] = _(
 const u8 gCharmeleonPokedexTextUnused[] = _("");
 
 const u8 gCharizardPokedexText[] = _(
-    "Vingerne kan bære denne POKeMON op til\n"
+    "Vingerne kan bære denne POKéMON op til\n"
     "ca. 1400 meters højde. Den brækker ild\n"
     "ved meget høje temperaturer.");
 
@@ -55,7 +55,7 @@ const u8 gSquirtlePokedexText[] = _(
 const u8 gSquirtlePokedexTextUnused[] = _("");
 
 const u8 gWartortlePokedexText[] = _(
-    "Denne POKeMON er meget populær som kæledyr.\n"
+    "Denne POKéMON er meget populær som kæledyr.\n"
     "Den pelsbeklædte hale er et symbol på\n"
     "langt liv.");
 
@@ -84,7 +84,7 @@ const u8 gMetapodPokedexTextUnused[] = _("");
 
 const u8 gButterfreePokedexText[] = _(
     "Vingerne er beskyttet af regnafvisende\n"
-    "støv. Derfor kan denne POKeMON flyve\n"
+    "støv. Derfor kan denne POKéMON flyve\n"
     "rundt selv i regn.");
 
 const u8 gButterfreePokedexTextUnused[] = _("");
@@ -97,7 +97,7 @@ const u8 gWeedlePokedexText[] = _(
 const u8 gWeedlePokedexTextUnused[] = _("");
 
 const u8 gKakunaPokedexText[] = _(
-    "Denne POKeMON er i et midlertidigt stadie\n"
+    "Denne POKéMON er i et midlertidigt stadie\n"
     "mens den bygger sin krop. Den kan næsten\n"
     "slet ikke bevæge sig selv.");
 
@@ -411,7 +411,7 @@ const u8 gGrowlithePokedexText[] = _(
 const u8 gGrowlithePokedexTextUnused[] = _("");
 
 const u8 gArcaninePokedexText[] = _(
-    "En POKeMON der er beskrevet i kinesiske\n"
+    "En POKéMON der er beskrevet i kinesiske\n"
     "legender. Den siges at løbe med en\n"
     "utrolig hastighed.");
 
@@ -585,7 +585,7 @@ const u8 gFarfetchdPokedexText[] = _(
 const u8 gFarfetchdPokedexTextUnused[] = _("");
 
 const u8 gDoduoPokedexText[] = _(
-    "En tohovedet POKeMON opdaget som pludselig\n"
+    "En tohovedet POKéMON opdaget som pludselig\n"
     "mutation. Den lober med over 100 km/t.");
 
 const u8 gDoduoPokedexTextUnused[] = _("");
@@ -746,7 +746,7 @@ const u8 gHitmonleePokedexTextUnused[] = _("");
 
 const u8 gHitmonchanPokedexText[] = _(
     "Aanden af en professionel bokser har\n"
-    "gennemsyret denne POKeMON. Den kaster\n"
+    "gennemsyret denne POKéMON. Den kaster\n"
     "slag hurtigere end et hurtigtog.");
 
 const u8 gHitmonchanPokedexTextUnused[] = _("");
@@ -774,7 +774,7 @@ const u8 gWeezingPokedexTextUnused[] = _("");
 
 const u8 gRhyhornPokedexText[] = _(
     "Stærk men ikke særlig klog kan denne\n"
-    "POKeMON knuse selv en skyskraber med\n"
+    "POKéMON knuse selv en skyskraber med\n"
     "sine TACKLE-angreb.");
 
 const u8 gRhyhornPokedexTextUnused[] = _("");
@@ -794,7 +794,7 @@ const u8 gChanseyPokedexText[] = _(
 const u8 gChanseyPokedexTextUnused[] = _("");
 
 const u8 gTangelaPokedexText[] = _(
-    "Blå plantranker skjuler POKeMON'ens\n"
+    "Blå plantranker skjuler POKéMON'ens\n"
     "identitet i en filtret masse. Den fanger\n"
     "alt der kommer nær.");
 
@@ -843,7 +843,7 @@ const u8 gStaryuPokedexText[] = _(
 const u8 gStaryuPokedexTextUnused[] = _("");
 
 const u8 gStarmiePokedexText[] = _(
-    "Denne POKeMON har en geometrisk krop.\n"
+    "Denne POKéMON har en geometrisk krop.\n"
     "Pga. sin krop mistænker lokale den for\n"
     "at være et rumvæsen.");
 
@@ -900,7 +900,7 @@ const u8 gTaurosPokedexTextUnused[] = _("");
 const u8 gMagikarpPokedexText[] = _(
     "Den er næsten værdiløs både i kraft\n"
     "og hastighed. Den er den svageste og mest\n"
-    "ynkelige POKeMON i verden.");
+    "ynkelige POKéMON i verden.");
 
 const u8 gMagikarpPokedexTextUnused[] = _("");
 
@@ -925,7 +925,7 @@ const u8 gDittoPokedexText[] = _(
 const u8 gDittoPokedexTextUnused[] = _("");
 
 const u8 gEeveePokedexText[] = _(
-    "En yderst sjælden POKeMON der kan\n"
+    "En yderst sjælden POKéMON der kan\n"
     "udvikle sig på forskellige måder\n"
     "afhængigt af påvirkning.");
 
@@ -955,12 +955,12 @@ const u8 gFlareonPokedexTextUnused[] = _("");
 const u8 gPorygonPokedexText[] = _(
     "Ved hjælp af de mest avancerede teknologier\n"
     "lykkedes det forskere at skabe den første\n"
-    "kunstige POKeMON.");
+    "kunstige POKéMON.");
 
 const u8 gPorygonPokedexTextUnused[] = _("");
 
 const u8 gOmanytePokedexText[] = _(
-    "En forhistorisk POKeMON der levede i det\n"
+    "En forhistorisk POKéMON der levede i det\n"
     "urhav. Den svømmer ved at vride sine\n"
     "10 tentakler.");
 
@@ -974,7 +974,7 @@ const u8 gOmastarPokedexText[] = _(
 const u8 gOmastarPokedexTextUnused[] = _("");
 
 const u8 gKabutoPokedexText[] = _(
-    "Denne POKeMON blev regenereret fra\n"
+    "Denne POKéMON blev regenereret fra\n"
     "fossilet af et oldtidsvæsen. Den\n"
     "beskytter sig med et hårdt skål.");
 
@@ -1002,7 +1002,7 @@ const u8 gSnorlaxPokedexText[] = _(
 const u8 gSnorlaxPokedexTextUnused[] = _("");
 
 const u8 gArticunoPokedexText[] = _(
-    "En af de legendariske fugle-POKeMON.\n"
+    "En af de legendariske fugle-POKéMON.\n"
     "Med sin lange hale slæbende bagud er\n"
     "dens flyvende form storslået.");
 
@@ -1016,7 +1016,7 @@ const u8 gZapdosPokedexText[] = _(
 const u8 gZapdosPokedexTextUnused[] = _("");
 
 const u8 gMoltresPokedexText[] = _(
-    "En af de legendariske fugle-POKeMON.\n"
+    "En af de legendariske fugle-POKéMON.\n"
     "De der ser den overvældes af dens orange\n"
     "vinger der ser ud til at stå i flammer.");
 
@@ -1044,14 +1044,14 @@ const u8 gDragonitePokedexText[] = _(
 const u8 gDragonitePokedexTextUnused[] = _("");
 
 const u8 gMewtwoPokedexText[] = _(
-    "En POKeMON hvis genetiske kode blev\n"
+    "En POKéMON hvis genetiske kode blev\n"
     "gentagne gange omkombineret i forsøg.\n"
     "Den blev ondskabsfuld som følge.");
 
 const u8 gMewtwoPokedexTextUnused[] = _("");
 
 const u8 gMewPokedexText[] = _(
-    "En POKeMON fra Sydamerika som trødes\n"
+    "En POKéMON fra Sydamerika som trødes\n"
     "uddød. Den er meget intelligent og\n"
     "lærer alle angreb.");
 
@@ -1091,7 +1091,7 @@ const u8 gCyndaquilPokedexText[] = _(
 const u8 gCyndaquilPokedexTextUnused[] = _("");
 
 const u8 gQuilavaPokedexText[] = _(
-    "Denne POKeMON er fuldstændigt dækket af\n"
+    "Denne POKéMON er fuldstændigt dækket af\n"
     "brandsikkert pels. Den tåler enhver\n"
     "form for ildangreb.");
 
@@ -1699,7 +1699,7 @@ const u8 gBlisseyPokedexText[] = _(
 const u8 gBlisseyPokedexTextUnused[] = _("");
 
 const u8 gRaikouPokedexText[] = _(
-    "Denne POKeMON løber over landet mens den\n"
+    "Denne POKéMON løber over landet mens den\n"
     "gør et råb der lyder som tordenskrald.");
 
 const u8 gRaikouPokedexTextUnused[] = _("");
@@ -1712,7 +1712,7 @@ const u8 gEnteiPokedexText[] = _(
 const u8 gEnteiPokedexTextUnused[] = _("");
 
 const u8 gSuicunePokedexText[] = _(
-    "Denne POKeMON løber over landet. Den siges\n"
+    "Denne POKéMON løber over landet. Den siges\n"
     "at nordenvinde blæser når den viser sig.");
 
 const u8 gSuicunePokedexTextUnused[] = _("");
@@ -1927,7 +1927,7 @@ const u8 gNuzleafPokedexText[] = _(
 const u8 gNuzleafPokedexTextUnused[] = _("");
 
 const u8 gShiftryPokedexText[] = _(
-    "En POKeMON der blev frygtet som skovens\n"
+    "En POKéMON der blev frygtet som skovens\n"
     "vogter. Den kan læse fjendens tanker og\n"
     "handle forebyggende.");
 
@@ -1956,7 +1956,7 @@ const u8 gWingullPokedexTextUnused[] = _("");
 
 const u8 gPelipperPokedexText[] = _(
     "Den er en flyvende transport der bærer\n"
-    "små POKeMON i næbbet. Den dupper på\n"
+    "små POKéMON i næbbet. Den dupper på\n"
     "bølgerne for at hvile vingerne.");
 
 const u8 gPelipperPokedexTextUnused[] = _("");

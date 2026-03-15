@@ -3,17 +3,17 @@ SixIsland_WaterPath_Text_RoseIntro::
     .string "hele vejen hertil.$"
 
 SixIsland_WaterPath_Text_RoseDefeat::
-    .string "Fnis… Du er sâ söd nâr du er\n"
+    .string "Fnis… Du er sâ sød nâr du er\n"
     .string "beslutsom.$"
 
 SixIsland_WaterPath_Text_RosePostBattle::
     .string "Jeg vil gerne til skoven derovre,\n"
     .string "men…\p"
     .string "Der er masser af BUG POKéMON.\n"
-    .string "De skrämmer mig lidt.$"
+    .string "De skræmmer mig lidt.$"
 
 SixIsland_WaterPath_Text_EdwardIntro::
-    .string "Jeg träner i hemmelighed sâ ingen\n"
+    .string "Jeg træner i hemmelighed sâ ingen\n"
     .string "kan se mig.$"
 
 SixIsland_WaterPath_Text_EdwardDefeat::
@@ -21,29 +21,29 @@ SixIsland_WaterPath_Text_EdwardDefeat::
 
 SixIsland_WaterPath_Text_EdwardPostBattle::
     .string "Som performer vil jeg ikke have folk\n"
-    .string "til at vide om indsatsen jeg lägger.$"
+    .string "til at vide om indsatsen jeg lægger.$"
 
 SixIsland_WaterPath_Text_SamirIntro::
-    .string "Hvad, foreslâr du at du er trät af\n"
-    .string "at se SVÖMMERE som mig?\p"
-    .string "Aah, vär ikke hadsk!$"
+    .string "Hvad, foreslâr du at du er træt af\n"
+    .string "at se SVØMMERE som mig?\p"
+    .string "Aah, vær ikke hadsk!$"
 
 SixIsland_WaterPath_Text_SamirDefeat::
     .string "Aah, nej, nej, nej.$"
 
 SixIsland_WaterPath_Text_SamirPostBattle::
-    .string "Jeg kunne ikke löfte stigmät af at\n"
-    .string "väre en SVÖMMER…$"
+    .string "Jeg kunne ikke løfte stigmæt af at\n"
+    .string "være en SVØMMER…$"
 
 SixIsland_WaterPath_Text_DeniseIntro::
-    .string "Min käreste er altid optaget, sâ jeg\n"
-    .string "kommer og svömmer alene.$"
+    .string "Min kæreste er altid optaget, sâ jeg\n"
+    .string "kommer og svømmer alene.$"
 
 SixIsland_WaterPath_Text_DeniseDefeat::
     .string "Aââah, jeg vidste det ville ske!$"
 
 SixIsland_WaterPath_Text_DenisePostBattle::
-    .string "Nâr jeg ikke kan väre med min käreste,\n"
+    .string "Nâr jeg ikke kan være med min kæreste,\n"
     .string "tilbringer jeg tid med den POKéMON han\l"
     .string "gav mig.$"
 
@@ -53,7 +53,7 @@ SixIsland_WaterPath_Text_EarlIntro::
 
 SixIsland_WaterPath_Text_EarlDefeat::
     .string "Jeg mistede vejen mens jeg var\n"
-    .string "optaget af at kämpe!$"
+    .string "optaget af at kæmpe!$"
 
 SixIsland_WaterPath_Text_EarlPostBattle::
     .string "Er der ikke nogen bjerge omkring\n"
@@ -68,12 +68,12 @@ SixIsland_WaterPath_Text_MiuDefeat::
     .string "Mor!$"
 
 SixIsland_WaterPath_Text_MiuPostBattle::
-    .string "MIU: Det gör mig sâ trist indeni\n"
+    .string "MIU: Det gør mig sâ trist indeni\n"
     .string "nâr vi taber…$"
 
 SixIsland_WaterPath_Text_MiuNotEnoughMons::
     .string "MIU: MIA og jeg er TVILLINGER.\n"
-    .string "Vi vil gerne kämpe sammen.$"
+    .string "Vi vil gerne kæmpe sammen.$"
 
 SixIsland_WaterPath_Text_MiaIntro::
     .string "MIA: Hej, POKéMON!\n"
@@ -90,13 +90,13 @@ SixIsland_WaterPath_Text_MiaPostBattle::
 SixIsland_WaterPath_Text_MiaNotEnoughMons::
     .string "MIA: Aah, har du kun én\n"
     .string "POKéMON?\p"
-    .string "Föler du dig ikke ensom?$"
+    .string "Føler du dig ikke ensom?$"
 
 SixIsland_WaterPath_Text_WantedUltimateHorn::
-    .string "Söges!\n"
+    .string "Søges!\n"
     .string "Det ultimative horn!$"
 
 SixIsland_WaterPath_Text_RouteSign::
     .string "WATER PATH\n"
-    .string "Förer til RUIN VALLEY$"
+    .string "Fører til RUIN VALLEY$"
 

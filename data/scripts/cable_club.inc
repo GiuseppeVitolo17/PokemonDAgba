@@ -1577,7 +1577,7 @@ Text_LeavingDoComeAgain::
 	.string "またこいよ！$"
 
 EventScript_ExplainPokemonJumpRequirements::
-	.string "It dösn't look like you have any\n"
+	.string "It døsn't look like you have any\n"
 	.string "POKéMON that you can enter…\p"
 	.string "Would you like me to explain what\n"
 	.string "kinds of POKéMON can enter?$"

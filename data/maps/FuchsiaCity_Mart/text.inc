@@ -5,6 +5,6 @@ FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
     .string "Er der ikke engang almanakker?$"
 
 FuchsiaCity_Mart_Text_DidYouTryXSpeed::
-    .string "Prövede du X SPEED?\n"
-    .string "Det öger en POKéMONs hastighed i kamp.$"
+    .string "Prøvede du X SPEED?\n"
+    .string "Det øger en POKéMONs hastighed i kamp.$"
 

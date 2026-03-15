@@ -17,7 +17,7 @@ PokemonTower_7F_Text_Grunt2Intro::
     .string "voksne.$"
 
 PokemonTower_7F_Text_Grunt2Defeat::
-    .string "Vär sâ venlig!\n"
+    .string "Vær sâ venlig!\n"
     .string "Ikke mere!$"
 
 PokemonTower_7F_Text_Grunt2PostBattle::
@@ -29,7 +29,7 @@ PokemonTower_7F_Text_Grunt3Intro::
     .string "Du redder ingen, unge!$"
 
 PokemonTower_7F_Text_Grunt3Defeat::
-    .string "Kämp ikke mod os ROCKETS!$"
+    .string "Kæmp ikke mod os ROCKETS!$"
 
 PokemonTower_7F_Text_Grunt3PostBattle::
     .string "Du slipper ikke godt fra dette!$"
@@ -45,5 +45,5 @@ PokemonTower_7F_Text_MrFujiThankYouFollowMe::
     .string "har forladt os.\p"
     .string "Jeg mâ takke dig for din venlige\n"
     .string "omtanke.\p"
-    .string "Fölg mig til mit hjem, POKéMON\n"
+    .string "Følg mig til mit hjem, POKéMON\n"
     .string "HOUSE, ved foden af dette târn.$"

@@ -4,6 +4,6 @@ OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays::
     .string "Det er min daglige rutine.$"
 
 OneIsland_House1_Text_LastTimeMtEmberErupted::
-    .string "Lad mig tänke… Hvornâr udbröd\n"
+    .string "Lad mig tænke… Hvornâr udbrød\n"
     .string "MT. EMBER sidst?$"
 

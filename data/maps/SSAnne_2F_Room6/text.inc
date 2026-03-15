@@ -3,5 +3,5 @@ SSAnne_2F_Room6_Text_CaptainIsAwfullySick::
     .string "syg. Han var helt bleg.$"
 
 SSAnne_2F_Room6_Text_ManyPeopleGetSeasick::
-    .string "Jeg hörer at mange bliver sösygge.$"
+    .string "Jeg hører at mange bliver søsygge.$"
 

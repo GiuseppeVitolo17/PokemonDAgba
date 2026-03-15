@@ -4,12 +4,12 @@ CeladonCity_Restaurant_Text_TakingBreakRightNow::
     .string "lige nu.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-    .string "Mine POKéMON er sväkke, sâ jeg mâ ofte\n"
+    .string "Mine POKéMON er svække, sâ jeg mâ ofte\n"
     .string "til DRUGSTORE.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-    .string "Psst! Der er en kälder under\n"
-    .string "GAME CORNER, har jeg hört.$"
+    .string "Psst! Der er en kælder under\n"
+    .string "GAME CORNER, har jeg hørt.$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
     .string "Munch…\p"
@@ -32,5 +32,5 @@ CeladonCity_Restaurant_Text_MakeRoomForThis::
     .string "Lav plads til dette!$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
-    .string "Jeg tröde altid jeg skulle\n"
+    .string "Jeg trøde altid jeg skulle\n"
     .string "vinde det tilbage…$"

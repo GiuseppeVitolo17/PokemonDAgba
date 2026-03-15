@@ -1,19 +1,19 @@
 Text_DreamEaterTeach::
     .string "Gaben!\n"
-    .string "Jeg mâ väre faldet i sövn i solen.\p"
+    .string "Jeg mâ være faldet i søvn i solen.\p"
     .string "Jeg havde denne underlige drom om\n"
     .string "en DROWZEE der spiste min drom.\p"
     .string "Og…\n"
-    .string "Jeg lärte at spise dromme…\p"
+    .string "Jeg lærte at spise dromme…\p"
     .string "Ugh, det er for uhyggeligt!\p"
-    .string "Lad mig läre det til en POKéMON sâ\n"
+    .string "Lad mig lære det til en POKéMON sâ\n"
     .string "jeg kan glemme det!$"
 
 Text_DreamEaterDeclined::
     .string "…Snork…$"
 
 Text_DreamEaterWhichMon::
-    .string "Hvilken POKéMON vil läre\n"
+    .string "Hvilken POKéMON vil lære\n"
     .string "DREAM EATER?$"
 
 Text_DreamEaterTaught::
@@ -27,7 +27,7 @@ PewterCity_Text_ClefairyCameFromMoon::
     .string "faldt pâ MT. MOON.$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-    .string "Der er ikke mange seriöse POKéMON\n"
+    .string "Der er ikke mange seriøse POKéMON\n"
     .string "TRÆNERE her.\p"
     .string "De er alle som BUG CATCHERS,\n"
     .string "du ved, bare hobbyister.\p"
@@ -48,14 +48,14 @@ PewterCity_Text_ReallyYouHaveToGo::
 PewterCity_Text_ThisIsTheMuseum::
     .string "Her er det, MUSEET.\p"
     .string "Du skal betale for at komme ind, men det\n"
-    .string "er det värd. Vi ses!$"
+    .string "er det værd. Vi ses!$"
 
 PewterCity_Text_DoYouKnowWhatImDoing::
     .string "Pst!\n"
     .string "Ved du hvad jeg laver?$"
 
 PewterCity_Text_ThatsRightItsHardWork::
-    .string "Lige präcis!\n"
+    .string "Lige præcis!\n"
     .string "Det er hârdt arbejde!$"
 
 PewterCity_Text_SprayingRepelToKeepWildMonsOut::
@@ -65,15 +65,15 @@ PewterCity_Text_SprayingRepelToKeepWildMonsOut::
 PewterCity_Text_BrocksLookingForChallengersFollowMe::
     .string "Du er TRÆNER, ikke?\p"
     .string "BROCK leder efter nye\n"
-    .string "udfordrere. Fölg mig!$"
+    .string "udfordrere. Følg mig!$"
 
 PewterCity_Text_GoTakeOnBrock::
-    .string "Hvis du har hvad det kräver,\n"
+    .string "Hvis du har hvad det kræver,\n"
     .string "gâ og tag kampen op med BROCK!$"
 
 PewterCity_Text_TrainerTipsEarningEXP::
     .string "TRÆNER TIPS\p"
-    .string "Alle POKéMON der opträder i kamp,\n"
+    .string "Alle POKéMON der optræder i kamp,\n"
     .string "uanset hvor kort, fâr EXP Point.$"
 
 PewterCity_Text_CallPoliceIfInfoOnThieves::
@@ -124,18 +124,18 @@ PewterCity_Text_AskedToDeliverThis::
     .string "Godt jeg indhentede dig.\n"
     .string "Jeg er PROF. OAKs ASSISTENT.\p"
     .string "Jeg er blevet bedt om at aflevere dette,\n"
-    .string "sâ värsgo.$"
+    .string "sâ værsgo.$"
 
 PewterCity_Text_ReceivedRunningShoesFromAide::
     .string "{PLAYER} modtog\n"
-    .string "LÖBESKO fra ASSISTENTEN.$"
+    .string "LØBESKO fra ASSISTENTEN.$"
 
 PewterCity_Text_SwitchedShoesWithRunningShoes::
     .string "{PLAYER} skiftede sko med\n"
-    .string "LÖBESKÖNE.$"
+    .string "LØBESKØNE.$"
 
 PewterCity_Text_ExplainRunningShoes::
-    .string "Tryk B-knappen for at löbe.\n"
+    .string "Tryk B-knappen for at løbe.\n"
     .string "Men kun hvor der er plads!$"
 
 PewterCity_Text_MustBeGoingBackToLab::
@@ -144,10 +144,10 @@ PewterCity_Text_MustBeGoingBackToLab::
     .string "Hej hej!$"
 
 PewterCity_Text_RunningShoesLetterFromMom::
-    .string "Der er et brev vedhäftet…\p"
-    .string "Käre {PLAYER},\p"
-    .string "Her er et par LÖBESKO\n"
-    .string "til min käre udfordrer.\p"
+    .string "Der er et brev vedhæftet…\p"
+    .string "Kære {PLAYER},\p"
+    .string "Her er et par LØBESKO\n"
+    .string "til min kære udfordrer.\p"
     .string "Husk, jeg hepper altid pâ dig!\n"
     .string "Giv aldrig op!\p"
     .string "Fra Mor$"

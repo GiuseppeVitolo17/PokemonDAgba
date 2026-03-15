@@ -1,6 +1,6 @@
 PewterCity_Museum_1F_Text_Its50YForChildsTicket::
     .string "Ja, ja.\n"
-    .string "Det er ¥50 for en börnebillet.\p"
+    .string "Det er ¥50 for en børnebillet.\p"
     .string "Vil du ind?$"
 
 PewterCity_Museum_1F_Text_ComeAgain::
@@ -18,19 +18,19 @@ PewterCity_Museum_1F_Text_PleaseEnjoyYourself::
 
 PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
     .string "Du kan ikke snige dig ind bagvejen!\n"
-    .string "Godt forsögt, unge, men nej.\p"
+    .string "Godt forsøgt, unge, men nej.\p"
     .string "Aah, whatever!\n"
     .string "Ved du hvad AMBER er?$"
 
 PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
     .string "AMBER indeholder genetisk materiale\n"
     .string "fra gamle POKéMON.\p"
-    .string "Der er et LAB et sted der pröver at\n"
+    .string "Der er et LAB et sted der prøver at\n"
     .string "genoplive POKéMON fra AMBER.$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
-    .string "AMBER er faktisk saft, den kläbede\n"
-    .string "ting der siver fra träer.\p"
+    .string "AMBER er faktisk saft, den klæbede\n"
+    .string "ting der siver fra træer.\p"
     .string "Den gamle saft blev til fossil\n"
     .string "over tid og blev stenhârd AMBER.$"
 
@@ -39,23 +39,23 @@ PewterCity_Museum_1F_Text_PleaseGoAround::
     .string "あちらへ　おまわりください$"
 
 PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
-    .string "Jeg burde väre taknemmelig for mit lange\n"
+    .string "Jeg burde være taknemmelig for mit lange\n"
     .string "liv.\p"
-    .string "Jeg tröde aldrig jeg ville fâ\n"
+    .string "Jeg trøde aldrig jeg ville fâ\n"
     .string "at se benene af en drage!$"
 
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
-    .string "Ssst! Hör, jeg skal dele en\n"
+    .string "Ssst! Hør, jeg skal dele en\n"
     .string "hemmelighed med nogen.\p"
     .string "Jeg tror at dette stykke AMBER\n"
     .string "indeholder POKéMON DNA!\p"
-    .string "Det ville väre et rystende videnskabeligt\n"
+    .string "Det ville være et rystende videnskabeligt\n"
     .string "gennembrud hvis POKéMON kunne\l"
     .string "genoplives fra det.\p"
-    .string "Men mine kollegär ignorerer bare\n"
+    .string "Men mine kollegær ignorerer bare\n"
     .string "hvad jeg har at sige.\p"
     .string "Sâ jeg har en tjeneste at bede om!\p"
-    .string "Jeg vil have dig til at fâ dette undersögt\n"
+    .string "Jeg vil have dig til at fâ dette undersøgt\n"
     .string "ved et POKéMON LAB et sted.$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
@@ -70,7 +70,7 @@ PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
     .string "Du har ikke plads til dette.$"
 
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
-    .string "Vi har to fossiler af själdne,\n"
+    .string "Vi har to fossiler af sjældne,\n"
     .string "forhistoriske POKéMON udstillet.$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
@@ -78,9 +78,9 @@ PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
     .string "AMBER i klar guld farve.$"
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
-    .string "ÄRODACTYL Fossil\n"
-    .string "En primitiv og själden POKéMON.$"
+    .string "ÆRODACTYL Fossil\n"
+    .string "En primitiv og sjælden POKéMON.$"
 
 PewterCity_Museum_1F_Text_KabutopsFossil::
     .string "KABUTOPS Fossil\n"
-    .string "En primitiv og själden POKéMON.$"
+    .string "En primitiv og sjælden POKéMON.$"

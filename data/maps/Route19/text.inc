@@ -1,13 +1,13 @@
 Route19_Text_RichardIntro::
     .string "Jeg skal motionere og varme op\n"
-    .string "för jeg svömmer ud.$"
+    .string "før jeg svømmer ud.$"
 
 Route19_Text_RichardDefeat::
     .string "Varmet ordentligt op!$"
 
 Route19_Text_RichardPostBattle::
     .string "Tak, unge!\n"
-    .string "Jeg er klar til at svömme.$"
+    .string "Jeg er klar til at svømme.$"
 
 Route19_Text_ReeceIntro::
     .string "Vent! Langsomt!\n"
@@ -22,7 +22,7 @@ Route19_Text_ReecePostBattle::
     .string "De stikker sâ smertefuldt.$"
 
 Route19_Text_MatthewIntro::
-    .string "Jeg elsker at svömme!\n"
+    .string "Jeg elsker at svømme!\n"
     .string "Hvad med dig?$"
 
 Route19_Text_MatthewDefeat::
@@ -30,7 +30,7 @@ Route19_Text_MatthewDefeat::
 
 Route19_Text_MatthewPostBattle::
     .string "Jeg kan slâ selv hav-POKéMON\n"
-    .string "i svömning.$"
+    .string "i svømning.$"
 
 Route19_Text_DouglasIntro::
     .string "Hvad er der bag horisonten?$"
@@ -39,17 +39,17 @@ Route19_Text_DouglasDefeat::
     .string "Glub!$"
 
 Route19_Text_DouglasPostBattle::
-    .string "Jeg kan se et par ör derude!$"
+    .string "Jeg kan se et par ør derude!$"
 
 Route19_Text_DavidIntro::
-    .string "Jeg prövede at dykke efter\n"
+    .string "Jeg prøvede at dykke efter\n"
     .string "POKéMON, men det lykkedes ikke.$"
 
 Route19_Text_DavidDefeat::
-    .string "Hjälp!$"
+    .string "Hjælp!$"
 
 Route19_Text_DavidPostBattle::
-    .string "Jeg gätter pâ man skal fiske efter\n"
+    .string "Jeg gætter pâ man skal fiske efter\n"
     .string "hav-POKéMON.$"
 
 Route19_Text_TonyIntro::
@@ -65,7 +65,7 @@ Route19_Text_TonyPostBattle::
     .string "det dârlige der skete!$"
 
 Route19_Text_AnyaIntro::
-    .string "Aa, jeg elsker bare dit köretöj!\n"
+    .string "Aa, jeg elsker bare dit køretøj!\n"
     .string "Ma jeg fâ den hvis jeg vinder?$"
 
 Route19_Text_AnyaDefeat::
@@ -77,14 +77,14 @@ Route19_Text_AnyaPostBattle::
     .string "Jeg vil tilbage til FUCHSIA...$"
 
 Route19_Text_AliceIntro::
-    .string "Svömning er fantastisk!\n"
-    .string "Solbränd er ikke!$"
+    .string "Svømning er fantastisk!\n"
+    .string "Solbrænd er ikke!$"
 
 Route19_Text_AliceDefeat::
     .string "Chokerende!$"
 
 Route19_Text_AlicePostBattle::
-    .string "Min käreste ville svömme til\n"
+    .string "Min kæreste ville svømme til\n"
     .string "SEAFOAM ISLANDS.$"
 
 Route19_Text_AxleIntro::
@@ -100,17 +100,17 @@ Route19_Text_AxlePostBattle::
     .string "Glub, glub...$"
 
 Route19_Text_ConnieIntro::
-    .string "Jeg svömmede hertil med mine\n"
-    .string "venner... Jeg er trät...$"
+    .string "Jeg svømmede hertil med mine\n"
+    .string "venner... Jeg er træt...$"
 
 Route19_Text_ConnieDefeat::
     .string "Jeg er udmattet...$"
 
 Route19_Text_ConniePostBattle::
     .string "Hvis jeg skulle ride pâ en POKéMON\n"
-    .string "pâ havet, ville jeg välge LAPRAS.\p"
+    .string "pâ havet, ville jeg vælge LAPRAS.\p"
     .string "LAPRAS er sâ stor, den holder\n"
-    .string "mig sikkert tör pâ vandet.$"
+    .string "mig sikkert tør pâ vandet.$"
 
 Route19_Text_RouteSign::
     .string "HAVROUTE 19\n"
@@ -126,27 +126,27 @@ Route19_Text_LiaDefeat::
 
 Route19_Text_LiaPostBattle::
     .string "LIA: Har du en yngre bror?\p"
-    .string "Jeg hâber du lärer ham alt\n"
+    .string "Jeg hâber du lærer ham alt\n"
     .string "muligt.$"
 
 Route19_Text_LiaNotEnoughMons::
-    .string "LIA: Jeg vil kämpe sammen\n"
+    .string "LIA: Jeg vil kæmpe sammen\n"
     .string "med min lillebror.\p"
     .string "Har du ikke to POKéMON?$"
 
 Route19_Text_LucIntro::
-    .string "LUC: Min storesöster lärte mig at\n"
-    .string "svömme og träne POKéMON.$"
+    .string "LUC: Min storesøster lærte mig at\n"
+    .string "svømme og træne POKéMON.$"
 
 Route19_Text_LucDefeat::
     .string "LUC: Aa, wow!\n"
-    .string "En der er stärkere end min storesöster!$"
+    .string "En der er stærkere end min storesøster!$"
 
 Route19_Text_LucPostBattle::
-    .string "LUC: Min storesöster er stärk og\n"
+    .string "LUC: Min storesøster er stærk og\n"
     .string "rar. Hun er fantastisk!$"
 
 Route19_Text_LucNotEnoughMons::
     .string "LUC: Jeg vil ikke hvis jeg ikke kan\n"
-    .string "kämpe dig med min storesöster.\p"
+    .string "kæmpe dig med min storesøster.\p"
     .string "Har du ikke to POKéMON?$"

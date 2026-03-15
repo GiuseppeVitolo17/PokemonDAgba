@@ -3,12 +3,12 @@ CeruleanCity_Gym_Text_MistyIntro::
     .string "Kun TRAINERS der har en politik om\n"
     .string "POKéMON kan blive professionelle.\p"
     .string "Hvad er din tilgang nâr du\n"
-    .string "fanger og träner POKéMON?\p"
+    .string "fanger og træner POKéMON?\p"
     .string "Min politik er et totalt angreb\n"
     .string "med WATER-type POKéMON!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-    .string "TM03 lärer WATER PULSE.\p"
+    .string "TM03 lærer WATER PULSE.\p"
     .string "Brug det pâ en vand-POKéMON!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
@@ -18,7 +18,7 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
     .string "fik ved bytte.\p"
     .string "Der er mere. Du kan nu bruge CUT\n"
     .string "nâr som helst, endda uden kamp.\p"
-    .string "Du kan CUTte smâ träer ned for at\n"
+    .string "Du kan CUTte smâ træer ned for at\n"
     .string "âbne nye stier.\p"
     .string "Du kan ogsâ fâ min yndlings-TM.$"
 
@@ -27,11 +27,11 @@ CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
     .string "fra MISTY.$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::
-    .string "Du bör lave plads til dette!$"
+    .string "Du bør lave plads til dette!$"
 
 CeruleanCity_Gym_Text_MistyDefeat::
     .string "Wow!\n"
-    .string "Du er for stärk!\p"
+    .string "Du er for stærk!\p"
     .string "Okay!\p"
     .string "Du kan fâ CASCADEBADGE for at\n"
     .string "vise at du slog mig.$"
@@ -39,22 +39,22 @@ CeruleanCity_Gym_Text_MistyDefeat::
 CeruleanCity_Gym_Text_DianaIntro::
     .string "Hvad? Dig?\n"
     .string "Jeg er mere end god nok til dig!\p"
-    .string "MISTY behöver ikke blive forstyrret.$"
+    .string "MISTY behøver ikke blive forstyrret.$"
 
 CeruleanCity_Gym_Text_DianaDefeat::
-    .string "Du overväldede mig!$"
+    .string "Du overvældede mig!$"
 
 CeruleanCity_Gym_Text_DianaPostBattle::
-    .string "Du mâ möde andre TRAINERS\n"
+    .string "Du mâ møde andre TRAINERS\n"
     .string "for at se hvor gode du virkelig er.$"
 
 CeruleanCity_Gym_Text_LuisIntro::
     .string "Plask!\p"
-    .string "Jeg er först!\n"
-    .string "Lad os göre det!$"
+    .string "Jeg er først!\n"
+    .string "Lad os gøre det!$"
 
 CeruleanCity_Gym_Text_LuisDefeat::
-    .string "Det kan ikke väre rigtigt!$"
+    .string "Det kan ikke være rigtigt!$"
 
 CeruleanCity_Gym_Text_LuisPostBattle::
     .string "MISTY er en TRAINER der bliver\n"
@@ -67,10 +67,10 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
     .string "Lad mig give dig et râd!\p"
     .string "LEADERen, MISTY, er en pro der\n"
     .string "bruger WATER-type POKéMON.\p"
-    .string "Du kan däne alt deres vand med\n"
+    .string "Du kan dæne alt deres vand med\n"
     .string "GRASS-type POKéMON.\p"
     .string "Eller du kan bruge ELECTRIC-type\n"
-    .string "POKéMON og give dem stöd!$"
+    .string "POKéMON og give dem stød!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
     .string "Du slog MISTY!\n"

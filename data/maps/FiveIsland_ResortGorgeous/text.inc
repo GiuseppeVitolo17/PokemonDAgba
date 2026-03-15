@@ -1,23 +1,23 @@
 FiveIsland_ResortGorgeous_Text_DaisyIntro::
-    .string "Med disse händer skaber jeg\n"
+    .string "Med disse hænder skaber jeg\n"
     .string "min sejr!$"
 
 FiveIsland_ResortGorgeous_Text_DaisyDefeat::
     .string "Skammen ved det her…\n"
-    .string "Jeg er röd i hovedet…$"
+    .string "Jeg er rød i hovedet…$"
 
 FiveIsland_ResortGorgeous_Text_DaisyPostBattle::
-    .string "Ups, mine malerrör er spredt\n"
+    .string "Ups, mine malerrør er spredt\n"
     .string "overalt!$"
 
 FiveIsland_ResortGorgeous_Text_CelinaIntro::
     .string "Undskyld!\n"
-    .string "Jeg pröver at male.\l"
-    .string "Hold dig väk fra mit syn!$"
+    .string "Jeg prøver at male.\l"
+    .string "Hold dig væk fra mit syn!$"
 
 FiveIsland_ResortGorgeous_Text_CelinaDefeat::
     .string "Dette nederlag…\n"
-    .string "Jeg föler mig hvid ud…$"
+    .string "Jeg føler mig hvid ud…$"
 
 FiveIsland_ResortGorgeous_Text_CelinaPostBattle::
     .string "GILLIAN?\n"
@@ -30,24 +30,24 @@ FiveIsland_ResortGorgeous_Text_RaynaIntro::
 
 FiveIsland_ResortGorgeous_Text_RaynaDefeat::
     .string "Øh…\n"
-    .string "Mine fölelser er blâe…$"
+    .string "Mine følelser er blâe…$"
 
 FiveIsland_ResortGorgeous_Text_RaynaPostBattle::
     .string "Himlen og havet…\n"
     .string "De er sâ ustadige.\p"
-    .string "Deres skiftende udtryk gör dem\n"
-    .string "sväre at fânge.$"
+    .string "Deres skiftende udtryk gør dem\n"
+    .string "svære at fânge.$"
 
 FiveIsland_ResortGorgeous_Text_JackiIntro::
-    .string "Jeg besöger min vens tilflugtssted,\n"
+    .string "Jeg besøger min vens tilflugtssted,\n"
     .string "hvis du vil vide det.$"
 
 FiveIsland_ResortGorgeous_Text_JackiDefeat::
-    .string "Øh, du er stärk.$"
+    .string "Øh, du er stærk.$"
 
 FiveIsland_ResortGorgeous_Text_JackiPostBattle::
     .string "Jeg synes det er behageligt at\n"
-    .string "kämpe roligt i den blide havbrise.$"
+    .string "kæmpe roligt i den blide havbrise.$"
 
 FiveIsland_ResortGorgeous_Text_GillianIntro::
     .string "Jeg overvejer at lave et pool\n"
@@ -57,11 +57,11 @@ FiveIsland_ResortGorgeous_Text_GillianDefeat::
     .string "Øh, du godeste!$"
 
 FiveIsland_ResortGorgeous_Text_GillianPostBattle::
-    .string "Et pool ville väre rart, men et\n"
-    .string "solrum kunne väre sublimt.$"
+    .string "Et pool ville være rart, men et\n"
+    .string "solrum kunne være sublimt.$"
 
 FiveIsland_ResortGorgeous_Text_DestinIntro::
-    .string "Jeg er god til at löbe.\n"
+    .string "Jeg er god til at løbe.\n"
     .string "Jeg er virkelig hurtig!$"
 
 FiveIsland_ResortGorgeous_Text_DestinDefeat::
@@ -69,7 +69,7 @@ FiveIsland_ResortGorgeous_Text_DestinDefeat::
     .string "Jeg skyndte mig for meget!$"
 
 FiveIsland_ResortGorgeous_Text_DestinPostBattle::
-    .string "Nâr jeg löber med vinden, föles\n"
+    .string "Nâr jeg løber med vinden, føles\n"
     .string "det som om jeg kunne flyve!$"
 
 FiveIsland_ResortGorgeous_Text_TobyIntro::
@@ -82,7 +82,7 @@ FiveIsland_ResortGorgeous_Text_TobyDefeat::
 
 FiveIsland_ResortGorgeous_Text_TobyPostBattle::
     .string "At tage det sâ alvorligt…\n"
-    .string "Hvor meningslöst.$"
+    .string "Hvor meningsløst.$"
 
 FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
     .string "SELPHY: Tak.\p"

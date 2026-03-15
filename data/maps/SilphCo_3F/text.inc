@@ -1,6 +1,6 @@
 SilphCo_3F_Text_WhatAmIToDo::
     .string "Jeg arbejder for SILPH CO.\n"
-    .string "Hvad skal jeg göre?$"
+    .string "Hvad skal jeg gøre?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
     .string "{PLAYER}!\n"
@@ -13,12 +13,12 @@ SilphCo_3F_Text_GruntDefeat::
     .string "Jeg giver op!$"
 
 SilphCo_3F_Text_GruntPostBattle::
-    .string "Et hint? Du kan âbne döre med\n"
+    .string "Et hint? Du kan âbne døre med\n"
     .string "en CARD KEY!$"
 
 SilphCo_3F_Text_JoseIntro::
-    .string "Jeg stötter TEAM ROCKET mere end\n"
-    .string "jeg stötter SILPH CO.!$"
+    .string "Jeg støtter TEAM ROCKET mere end\n"
+    .string "jeg støtter SILPH CO.!$"
 
 SilphCo_3F_Text_JoseDefeat::
     .string "Du fik mig virkelig!$"

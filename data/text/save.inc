@@ -7,7 +7,7 @@ gText_AlreadySaveFile_WouldLikeToOverwrite::
 
 gText_SavingDontTurnOffThePower::
 	.string "GEMmer…\n"
-	.string "SLUK IKKE FOR STRÖMMEN.$"
+	.string "SLUK IKKE FOR STRØMMEN.$"
 
 gText_PlayerSavedTheGame::
 	.string "{PLAYER} gemte spillet.$"

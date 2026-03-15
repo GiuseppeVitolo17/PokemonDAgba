@@ -8,5 +8,5 @@ FiveIsland_LostCave_Room4_Text_LauraDefeat::
 
 FiveIsland_LostCave_Room4_Text_LauraPostBattle::
     .string "Tidligere gik en dame ind i\n"
-    .string "hulerne längere fremme.$"
+    .string "hulerne længere fremme.$"
 

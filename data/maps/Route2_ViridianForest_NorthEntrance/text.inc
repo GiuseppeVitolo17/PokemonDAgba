@@ -1,14 +1,14 @@
 Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
     .string "Mange POKéMON lever kun i skove\n"
     .string "og huler.\p"
-    .string "Du skal väre vedholdende og kigge\n"
+    .string "Du skal være vedholdende og kigge\n"
     .string "overalt for at fâ forskellige slags.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
-    .string "Har du lagt märke til de tynde träer\n"
+    .string "Har du lagt mærke til de tynde træer\n"
     .string "ved vejsiden?\p"
-    .string "De kan fäldes med et specielt\n"
-    .string "POKéMON-träk, har jeg hört.$"
+    .string "De kan fældes med et specielt\n"
+    .string "POKéMON-træk, har jeg hørt.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::
     .string "Kender du evolution-annullerings-\n"

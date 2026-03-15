@@ -14,9 +14,9 @@ SilphCo_7F_Text_ExplainLapras::
     .string "Det er et meget intelligent POKéMON.\p"
     .string "Vi holdt det i vores lab, men det\n"
     .string "vil have det meget bedre hos dig.\p"
-    .string "Jeg tror du vil väre en god TRAINER\n"
+    .string "Jeg tror du vil være en god TRAINER\n"
     .string "for LAPRAS!\p"
-    .string "Den er en god svömmer.\n"
+    .string "Den er en god svømmer.\n"
     .string "Den giver dig lift over vand!$"
 
 SilphCo_7F_Text_RocketBossWentToBoardroom::
@@ -40,12 +40,12 @@ SilphCo_7F_Text_CanceledMasterBallProject::
     .string "projektet pga. TEAM ROCKET.$"
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
-    .string "Det ville väre slemt hvis TEAM ROCKET\n"
+    .string "Det ville være slemt hvis TEAM ROCKET\n"
     .string "overtog SILPH eller vores POKéMON.$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
     .string "Wow!\p"
-    .string "Du jagede TEAM ROCKET väk\n"
+    .string "Du jagede TEAM ROCKET væk\n"
     .string "helt alene?$"
 
 SilphCo_7F_Text_ReallyDangerousHere::
@@ -73,7 +73,7 @@ SilphCo_7F_Text_JoshuaIntro::
     .string "Du forvekslede mig med en SILPH-ansat?$"
 
 SilphCo_7F_Text_JoshuaDefeat::
-    .string "Jeg er färdig!$"
+    .string "Jeg er færdig!$"
 
 SilphCo_7F_Text_JoshuaPostBattle::
     .string "Pâ trods af din alder er du en\n"
@@ -81,35 +81,35 @@ SilphCo_7F_Text_JoshuaPostBattle::
 
 SilphCo_7F_Text_Grunt1Intro::
     .string "Jeg er en af de fire ROCKET\n"
-    .string "BRÖDRE!$"
+    .string "BRØDRE!$"
 
 SilphCo_7F_Text_Grunt1Defeat::
     .string "Aack!\n"
-    .string "Brödre, jeg tabte!$"
+    .string "Brødre, jeg tabte!$"
 
 SilphCo_7F_Text_Grunt1PostBattle::
     .string "Ligemeget.\n"
-    .string "Mine brödre vil gengälde tjenesten!$"
+    .string "Mine brødre vil gengælde tjenesten!$"
 
 SilphCo_7F_Text_Grunt2Intro::
-    .string "Et barn som indtränger?\n"
-    .string "Det mâ väre dig!$"
+    .string "Et barn som indtrænger?\n"
+    .string "Det mâ være dig!$"
 
 SilphCo_7F_Text_Grunt2Defeat::
     .string "Fint!\n"
     .string "Jeg tabte!$"
 
 SilphCo_7F_Text_Grunt2PostBattle::
-    .string "Ga hjem för min BOSS bliver\n"
+    .string "Ga hjem før min BOSS bliver\n"
     .string "sur!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
-    .string "{RIVAL}: Hvad tog sâ länge, {PLAYER}?$"
+    .string "{RIVAL}: Hvad tog sâ længe, {PLAYER}?$"
 
 SilphCo_7F_Text_RivalIntro::
-    .string "{RIVAL}: Hahaha! Jeg tröde du ville\n"
+    .string "{RIVAL}: Hahaha! Jeg trøde du ville\n"
     .string "dukke op hvis jeg ventede her!\p"
-    .string "Jeg gätter pâ at TEAM ROCKET\n"
+    .string "Jeg gætter pâ at TEAM ROCKET\n"
     .string "langsommede dig! Det er mig ligegyldigt!\p"
     .string "Jeg sa dig i SAFFRON, sâ jeg besluttede\n"
     .string "at se om du var blevet bedre!$"
@@ -129,7 +129,7 @@ SilphCo_7F_Text_RivalPostBattle::
     .string "Nâ, {PLAYER}!\n"
     .string "Jeg rykker fremad og op!\p"
     .string "Ved at tjekke min POKéDEX kan jeg\n"
-    .string "begynde at se hvad der er stärkt og\l"
+    .string "begynde at se hvad der er stærkt og\l"
     .string "hvordan de udvikler sig!\p"
     .string "Er jeg et geni eller hvad?\p"
     .string "Jeg tager til POKéMON LEAGUE for at\n"

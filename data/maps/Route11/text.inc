@@ -17,11 +17,11 @@ Route11_Text_JasperDefeat::
     .string "Jeg havde en chance!$"
 
 Route11_Text_JasperPostBattle::
-    .string "Du kan ikke väre en kujon i\n"
+    .string "Du kan ikke være en kujon i\n"
     .string "POKéMONs verden!$"
 
 Route11_Text_EddieIntro::
-    .string "Lad os kämpe, men fuske ikke!$"
+    .string "Lad os kæmpe, men fuske ikke!$"
 
 Route11_Text_EddieDefeat::
     .string "Hvad?\n"
@@ -33,7 +33,7 @@ Route11_Text_EddiePostBattle::
 
 Route11_Text_BraxtonIntro::
     .string "Forsigtig!\n"
-    .string "Jeg lägger kabler!$"
+    .string "Jeg lægger kabler!$"
 
 Route11_Text_BraxtonDefeat::
     .string "Det var elektrisk!$"
@@ -51,20 +51,20 @@ Route11_Text_DillonDefeat::
 
 Route11_Text_DillonPostBattle::
     .string "Hvad nu?\n"
-    .string "Lad mig väre!$"
+    .string "Lad mig være!$"
 
 Route11_Text_DirkIntro::
     .string "Fwahaha!\n"
     .string "Jeg har aldrig tabt!$"
 
 Route11_Text_DirkDefeat::
-    .string "Mit förste nederlag!$"
+    .string "Mit første nederlag!$"
 
 Route11_Text_DirkPostBattle::
     .string "Du havde bare held, det er alt.$"
 
 Route11_Text_DarianIntro::
-    .string "Jeg har aldrig vundet för…$"
+    .string "Jeg har aldrig vundet før…$"
 
 Route11_Text_DarianDefeat::
     .string "Jeg sâ det komme…$"
@@ -74,16 +74,16 @@ Route11_Text_DarianPostBattle::
 
 Route11_Text_YasuIntro::
     .string "Jeg er den bedste i min klasse.\n"
-    .string "Jeg träner hver morgen.$"
+    .string "Jeg træner hver morgen.$"
 
 Route11_Text_YasuDefeat::
     .string "Pokkers!\n"
-    .string "Mine POKéMON skal väre stärkere!$"
+    .string "Mine POKéMON skal være stærkere!$"
 
 Route11_Text_YasuPostBattle::
     .string "Der er en fed POKéMON der kommer\n"
     .string "ned fra bjergene.\p"
-    .string "Jeg vedder pâ den er stärk, hvis\n"
+    .string "Jeg vedder pâ den er stærk, hvis\n"
     .string "du kan fange den.$"
 
 Route11_Text_BernieIntro::
@@ -98,7 +98,7 @@ Route11_Text_BerniePostBattle::
 
 Route11_Text_DaveIntro::
     .string "Jeg har opdraget mine POKéMON\n"
-    .string "omhyggeligt. De bör väre klar nu!$"
+    .string "omhyggeligt. De bør være klar nu!$"
 
 Route11_Text_DaveDefeat::
     .string "Hej-hej!\n"
@@ -106,7 +106,7 @@ Route11_Text_DaveDefeat::
 
 Route11_Text_DavePostBattle::
     .string "Tch…\n"
-    .string "Jeg mâ finde stärkere!$"
+    .string "Jeg mâ finde stærkere!$"
 
 Route11_Text_DiglettsCave::
     .string "DIGLETT'S CAVE$"
