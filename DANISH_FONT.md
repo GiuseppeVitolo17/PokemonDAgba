@@ -12,20 +12,45 @@ So in-game text can use real **æ, ø, å** (and **Æ, Ø, Å**) and the preproc
 
 ## Font graphics (so they appear correctly in-game)
 
-### Option 1: Use the patch script (easiest)
+### Option 1 (recommended): TTF font for best-looking glyphs
 
-From the repo root:
+The built-in pixel glyphs are very basic. For **proper Danish letters** that match a pixel-font style:
+
+1. **Download LanaPixel** (CC BY 4.0, has æ, ø, å):
+   - OpenGameArt: [LanaPixel – localization-friendly pixel font](https://opengameart.org/content/lanapixel-localization-friendly-pixel-font) (extract the `.ttf` from the zip), or  
+   - GitHub: [pixel-utf8-fonts/lanapixel/LanaPixel.ttf](https://github.com/ericoporto/pixel-utf8-fonts/blob/main/lanapixel/LanaPixel.ttf)
+
+2. **Either** let the script download it, or put the TTF in the repo:
+   ```bash
+   # Auto-download LanaPixel into tools/fonts/ and patch
+   python3 scripts/patch_danish_font.py --fetch-lanapixel
+   ```
+   Or place `LanaPixel.ttf` in `tools/fonts/` (see `tools/fonts/README.md`), then:
+   ```bash
+   python3 scripts/patch_danish_font.py
+   ```
+   The script renders Æ, Ø, Å, æ, ø, å from the TTF at 16×16 with a FireRed-style shadow.
+
+3. **Patch all four Latin fonts** and rebuild:
+   ```bash
+   for f in graphics/fonts/latin_normal.png graphics/fonts/latin_small.png graphics/fonts/latin_male.png graphics/fonts/latin_female.png; do
+     python3 scripts/patch_danish_font.py --font "$f"
+   done
+   make
+   ```
+
+Do **not** use the Pokemon Red (PokemonDA) font: it’s 8×8 and uses different tile indices, so the Danish glyphs don’t match our layout.
+
+### Option 2: Built-in glyphs (no download)
 
 ```bash
 python3 scripts/patch_danish_font.py
 make
 ```
 
-This patches **latin_normal.png** with built-in 16×16 pixel glyphs for Æ, Ø, Å, æ, ø, å, then you rebuild the font and ROM. No download required. For a different Latin font PNG use `--font graphics/fonts/latin_small.png`.
+This uses simple 16×16 glyphs baked into the script. They work but look basic. Use Option 1 for better results.
 
-(Pokemon Red's [PokemonDA](https://github.com/GiuseppeVitolo17/PokemonDA) font is 8×8 and only 128 tiles; the Danish letters there use higher tile indices that aren't in the single `font.png`, so we use built-in glyphs instead of grabbing from that repo.)
-
-### Option 2: Edit the font images by hand
+### Option 3: Edit the font images by hand
 
 The game’s **Latin font** is built from PNGs. To have Æ, Ø, Å, æ, ø, å **draw** correctly (instead of Œ, Ì, Î, œ, Ò, Ï), you can **edit the font images** and redraw those glyph slots:
 
