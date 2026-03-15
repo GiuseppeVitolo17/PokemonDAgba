@@ -99,7 +99,7 @@ PokedexRating_Text_YouveCompletedDex::
 	.string "Det er storslâet!\n"
 	.string "Virkelig en fantastisk bedrift!$"
 
-PokedexRating_Text_Wroooâarrr::
+PokedexRating_Text_Wroooaaarrr::
 	.string "Wroooooooââârrrr!$"
 
 PokedexRating_Text_HaHa::

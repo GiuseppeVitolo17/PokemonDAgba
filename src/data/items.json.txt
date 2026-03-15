@@ -9,7 +9,7 @@ const u8 gItemDescription_ITEM_NONE[] = _("?????");
 
 const struct Item gItems[] = {
     {% for item in items %}{
-        .name = _("{{ item.english }}"),
+        .name = __("{{ item.english }}"),
         .itemId = {{ item.itemId }},
         .price = {{ item.price }},
         .holdEffect = {{ item.holdEffect }},

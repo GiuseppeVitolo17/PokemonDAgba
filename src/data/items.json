@@ -241,7 +241,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BRÆNDHELING",
+      "english": "BRÄNDHELING",
       "itemId": "ITEM_BURN_HEAL",
       "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -609,7 +609,7 @@
       "secondaryId": 0
     },
     {
-      "english": "LAVA SMÅKAGE",
+      "english": "LAVA SMÂKAGE",
       "itemId": "ITEM_LAVA_COOKIE",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -705,7 +705,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BÆR SAFT",
+      "english": "BÄR SAFT",
       "itemId": "ITEM_BERRY_JUICE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_RESTORE_HP",
@@ -769,7 +769,7 @@
       "secondaryId": 0
     },
     {
-      "english": "RÖD SKÅRV",
+      "english": "RÖD SKÂRV",
       "itemId": "ITEM_RED_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -785,7 +785,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BLÂ SKÅRV",
+      "english": "BLÂ SKÂRV",
       "itemId": "ITEM_BLUE_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -801,7 +801,7 @@
       "secondaryId": 0
     },
     {
-      "english": "GUL SKÅRV",
+      "english": "GUL SKÂRV",
       "itemId": "ITEM_YELLOW_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -817,7 +817,7 @@
       "secondaryId": 0
     },
     {
-      "english": "GRÖN SKÅRV",
+      "english": "GRÖN SKÂRV",
       "itemId": "ITEM_GREEN_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1185,12 +1185,12 @@
       "secondaryId": 0
     },
     {
-      "english": "KRÆV TRÆF",
+      "english": "KRÄV TRÄF",
       "itemId": "ITEM_DIRE_HIT",
       "price": 650,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Höjer kritisk-træfsandsynlighed.\\nOphörer hvis POKeMON byttes ud.",
+      "description_english": "Höjer kritisk-träfsandsynlighed.\\nOphörer hvis POKeMON byttes ud.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1249,7 +1249,7 @@
       "secondaryId": 0
     },
     {
-      "english": "X PRÆCISION",
+      "english": "X PRÄCISION",
       "itemId": "ITEM_X_ACCURACY",
       "price": 950,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1329,7 +1329,7 @@
       "secondaryId": 0
     },
     {
-      "english": "SUPER FRÆST",
+      "english": "SUPER FRÄST",
       "itemId": "ITEM_SUPER_REPEL",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1345,7 +1345,7 @@
       "secondaryId": 0
     },
     {
-      "english": "MAX FRÆST",
+      "english": "MAX FRÄST",
       "itemId": "ITEM_MAX_REPEL",
       "price": 700,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1377,7 +1377,7 @@
       "secondaryId": 0
     },
     {
-      "english": "FRÆST",
+      "english": "FRÄST",
       "itemId": "ITEM_REPEL",
       "price": 350,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2129,7 +2129,7 @@
       "secondaryId": 11
     },
     {
-      "english": "CHERI BÆR",
+      "english": "CHERI BÄR",
       "itemId": "ITEM_CHERI_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_PAR",
@@ -2145,7 +2145,7 @@
       "secondaryId": 0
     },
     {
-      "english": "CHESTO BÆR",
+      "english": "CHESTO BÄR",
       "itemId": "ITEM_CHESTO_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_SLP",
@@ -2161,7 +2161,7 @@
       "secondaryId": 0
     },
     {
-      "english": "PECHA BÆR",
+      "english": "PECHA BÄR",
       "itemId": "ITEM_PECHA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_PSN",
@@ -2177,7 +2177,7 @@
       "secondaryId": 0
     },
     {
-      "english": "RAWST BÆR",
+      "english": "RAWST BÄR",
       "itemId": "ITEM_RAWST_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_BRN",
@@ -2193,7 +2193,7 @@
       "secondaryId": 0
     },
     {
-      "english": "ASPEAR BÆR",
+      "english": "ASPEAR BÄR",
       "itemId": "ITEM_ASPEAR_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_FRZ",
@@ -2209,7 +2209,7 @@
       "secondaryId": 0
     },
     {
-      "english": "LEPPA BÆR",
+      "english": "LEPPA BÄR",
       "itemId": "ITEM_LEPPA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_RESTORE_PP",
@@ -2225,7 +2225,7 @@
       "secondaryId": 0
     },
     {
-      "english": "ORAN BÆR",
+      "english": "ORAN BÄR",
       "itemId": "ITEM_ORAN_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_RESTORE_HP",
@@ -2241,7 +2241,7 @@
       "secondaryId": 0
     },
     {
-      "english": "PERSIM BÆR",
+      "english": "PERSIM BÄR",
       "itemId": "ITEM_PERSIM_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_CONFUSION",
@@ -2257,7 +2257,7 @@
       "secondaryId": 0
     },
     {
-      "english": "LUM BÆR",
+      "english": "LUM BÄR",
       "itemId": "ITEM_LUM_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_STATUS",
@@ -2273,7 +2273,7 @@
       "secondaryId": 0
     },
     {
-      "english": "SITRUS BÆR",
+      "english": "SITRUS BÄR",
       "itemId": "ITEM_SITRUS_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_RESTORE_HP",
@@ -2289,7 +2289,7 @@
       "secondaryId": 0
     },
     {
-      "english": "FIGY BÆR",
+      "english": "FIGY BÄR",
       "itemId": "ITEM_FIGY_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_SPICY",
@@ -2305,7 +2305,7 @@
       "secondaryId": 0
     },
     {
-      "english": "WIKI BÆR",
+      "english": "WIKI BÄR",
       "itemId": "ITEM_WIKI_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_DRY",
@@ -2321,7 +2321,7 @@
       "secondaryId": 0
     },
     {
-      "english": "MAGO BÆR",
+      "english": "MAGO BÄR",
       "itemId": "ITEM_MAGO_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_SWEET",
@@ -2337,7 +2337,7 @@
       "secondaryId": 0
     },
     {
-      "english": "AGUAV BÆR",
+      "english": "AGUAV BÄR",
       "itemId": "ITEM_AGUAV_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_BITTER",
@@ -2353,7 +2353,7 @@
       "secondaryId": 0
     },
     {
-      "english": "IAPAPA BÆR",
+      "english": "IAPAPA BÄR",
       "itemId": "ITEM_IAPAPA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_SOUR",
@@ -2369,7 +2369,7 @@
       "secondaryId": 0
     },
     {
-      "english": "RAZZ BÆR",
+      "english": "RAZZ BÄR",
       "itemId": "ITEM_RAZZ_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2385,7 +2385,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BLUK BÆR",
+      "english": "BLUK BÄR",
       "itemId": "ITEM_BLUK_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2401,7 +2401,7 @@
       "secondaryId": 0
     },
     {
-      "english": "NANAB BÆR",
+      "english": "NANAB BÄR",
       "itemId": "ITEM_NANAB_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2417,7 +2417,7 @@
       "secondaryId": 0
     },
     {
-      "english": "WEPEAR BÆR",
+      "english": "WEPEAR BÄR",
       "itemId": "ITEM_WEPEAR_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2433,7 +2433,7 @@
       "secondaryId": 0
     },
     {
-      "english": "PINAP BÆR",
+      "english": "PINAP BÄR",
       "itemId": "ITEM_PINAP_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2449,7 +2449,7 @@
       "secondaryId": 0
     },
     {
-      "english": "POMEG BÆR",
+      "english": "POMEG BÄR",
       "itemId": "ITEM_POMEG_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2465,7 +2465,7 @@
       "secondaryId": 0
     },
     {
-      "english": "KELPSY BÆR",
+      "english": "KELPSY BÄR",
       "itemId": "ITEM_KELPSY_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2481,7 +2481,7 @@
       "secondaryId": 0
     },
     {
-      "english": "QUALOT BÆR",
+      "english": "QUALOT BÄR",
       "itemId": "ITEM_QUALOT_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2497,7 +2497,7 @@
       "secondaryId": 0
     },
     {
-      "english": "HONDEW BÆR",
+      "english": "HONDEW BÄR",
       "itemId": "ITEM_HONDEW_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2513,7 +2513,7 @@
       "secondaryId": 0
     },
     {
-      "english": "GREPA BÆR",
+      "english": "GREPA BÄR",
       "itemId": "ITEM_GREPA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2529,7 +2529,7 @@
       "secondaryId": 0
     },
     {
-      "english": "TAMATO BÆR",
+      "english": "TAMATO BÄR",
       "itemId": "ITEM_TAMATO_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2545,7 +2545,7 @@
       "secondaryId": 0
     },
     {
-      "english": "CORNN BÆR",
+      "english": "CORNN BÄR",
       "itemId": "ITEM_CORNN_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2561,7 +2561,7 @@
       "secondaryId": 0
     },
     {
-      "english": "MAGOST BÆR",
+      "english": "MAGOST BÄR",
       "itemId": "ITEM_MAGOST_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2577,7 +2577,7 @@
       "secondaryId": 0
     },
     {
-      "english": "RABUTA BÆR",
+      "english": "RABUTA BÄR",
       "itemId": "ITEM_RABUTA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2593,7 +2593,7 @@
       "secondaryId": 0
     },
     {
-      "english": "NOMEL BÆR",
+      "english": "NOMEL BÄR",
       "itemId": "ITEM_NOMEL_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2609,7 +2609,7 @@
       "secondaryId": 0
     },
     {
-      "english": "SPELON BÆR",
+      "english": "SPELON BÄR",
       "itemId": "ITEM_SPELON_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2625,7 +2625,7 @@
       "secondaryId": 0
     },
     {
-      "english": "PAMTRE BÆR",
+      "english": "PAMTRE BÄR",
       "itemId": "ITEM_PAMTRE_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2641,7 +2641,7 @@
       "secondaryId": 0
     },
     {
-      "english": "WATMEL BÆR",
+      "english": "WATMEL BÄR",
       "itemId": "ITEM_WATMEL_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2657,7 +2657,7 @@
       "secondaryId": 0
     },
     {
-      "english": "DURIN BÆR",
+      "english": "DURIN BÄR",
       "itemId": "ITEM_DURIN_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2673,7 +2673,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BELUE BÆR",
+      "english": "BELUE BÄR",
       "itemId": "ITEM_BELUE_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2689,7 +2689,7 @@
       "secondaryId": 0
     },
     {
-      "english": "LIECHI BÆR",
+      "english": "LIECHI BÄR",
       "itemId": "ITEM_LIECHI_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_ATTACK_UP",
@@ -2705,12 +2705,12 @@
       "secondaryId": 0
     },
     {
-      "english": "GANLON BÆR",
+      "english": "GANLON BÄR",
       "itemId": "ITEM_GANLON_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_DEFENSE_UP",
       "holdEffectParam": 4,
-      "description_english": "Nâr den bäres af en POKeMON,\\nforöger den FORSVAR i nødstilfælde.",
+      "description_english": "Nâr den bäres af en POKeMON,\\nforöger den FORSVAR i nödstilfälde.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2721,7 +2721,7 @@
       "secondaryId": 0
     },
     {
-      "english": "SALAC BÆR",
+      "english": "SALAC BÄR",
       "itemId": "ITEM_SALAC_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_SPEED_UP",
@@ -2737,12 +2737,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PETAYA BÆR",
+      "english": "PETAYA BÄR",
       "itemId": "ITEM_PETAYA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_SP_ATTACK_UP",
       "holdEffectParam": 4,
-      "description_english": "Nâr den bäres af en POKeMON,\\nforöger den SP. ANG i nødstilfælde.",
+      "description_english": "Nâr den bäres af en POKeMON,\\nforöger den SP. ANG i nödstilfälde.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2753,7 +2753,7 @@
       "secondaryId": 0
     },
     {
-      "english": "APICOT BÆR",
+      "english": "APICOT BÄR",
       "itemId": "ITEM_APICOT_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_SP_DEFENSE_UP",
@@ -2769,7 +2769,7 @@
       "secondaryId": 0
     },
     {
-      "english": "LANSAT BÆR",
+      "english": "LANSAT BÄR",
       "itemId": "ITEM_LANSAT_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CRITICAL_UP",
@@ -2785,7 +2785,7 @@
       "secondaryId": 0
     },
     {
-      "english": "STARF BÆR",
+      "english": "STARF BÄR",
       "itemId": "ITEM_STARF_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_RANDOM_STAT_UP",
@@ -2801,7 +2801,7 @@
       "secondaryId": 0
     },
     {
-      "english": "ENIGMA BÆR",
+      "english": "ENIGMA BÄR",
       "itemId": "ITEM_ENIGMA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2934,7 +2934,7 @@
       "price": 100,
       "holdEffect": "HOLD_EFFECT_QUICK_CLAW",
       "holdEffectParam": 20,
-      "description_english": "Holdgenstand. Let og skarp klo.\\nBæreren kan sla först.",
+      "description_english": "Holdgenstand. Let og skarp klo.\\nBäreren kan sla först.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2950,7 +2950,7 @@
       "price": 100,
       "holdEffect": "HOLD_EFFECT_FRIENDSHIP_UP",
       "holdEffectParam": 0,
-      "description_english": "Holdgenstand. En beroligende\\nklokke der gör bæreren rolig og\\nvenlig.",
+      "description_english": "Holdgenstand. En beroligende\\nklokke der gör bäreren rolig og\\nvenlig.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3030,7 +3030,7 @@
       "price": 100,
       "holdEffect": "HOLD_EFFECT_DOUBLE_PRIZE",
       "holdEffectParam": 10,
-      "description_english": "Et genstand som en POKeMON kan bäre.\\nFordobler kampbelønningen hvis den\\nbærende POKeMON deltager.",
+      "description_english": "Et genstand som en POKeMON kan bäre.\\nFordobler kampbelönningen hvis den\\nbärende POKeMON deltager.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3046,7 +3046,7 @@
       "price": 200,
       "holdEffect": "HOLD_EFFECT_REPEL",
       "holdEffectParam": 0,
-      "description_english": "Et genstand som en POKeMON kan bäre.\\nAfværger vilde POKeMON hvis bäreren\\ner først i holdet.",
+      "description_english": "Et genstand som en POKeMON kan bäre.\\nAfvärger vilde POKeMON hvis bäreren\\ner först i holdet.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3174,7 +3174,7 @@
       "price": 200,
       "holdEffect": "HOLD_EFFECT_SCOPE_LENS",
       "holdEffectParam": 0,
-      "description_english": "Et genstand som en POKeMON kan bäre.\\nEt linser der öger den bærende\\nPOKeMONs kritisk-træfsandsynlighed.",
+      "description_english": "Et genstand som en POKeMON kan bäre.\\nEt linser der öger den bärende\\nPOKeMONs kritisk-träfsandsynlighed.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3222,7 +3222,7 @@
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_DRAGON_SCALE",
       "holdEffectParam": 10,
-      "description_english": "Et tykt og hårdt skäl.\\nEn DRAGON-type POKeMON kan\\nbäre det.",
+      "description_english": "Et tykt og hârdt skäl.\\nEn DRAGON-type POKeMON kan\\nbäre det.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3238,7 +3238,7 @@
       "price": 100,
       "holdEffect": "HOLD_EFFECT_LIGHT_BALL",
       "holdEffectParam": 0,
-      "description_english": "En kugle som bäres af PIKACHU\\nog forhøjer SP. ANG. stat.\\nBeröring kan give stød.",
+      "description_english": "En kugle som bäres af PIKACHU\\nog forhöjer SP. ANG. stat.\\nBeröring kan give stöd.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3414,7 +3414,7 @@
       "price": 100,
       "holdEffect": "HOLD_EFFECT_GHOST_POWER",
       "holdEffectParam": 10,
-      "description_english": "Et genstand som en POKeMON kan bäre.\\nEt ildevarslende mærke der forstärker\\nGHOST-type angreb.",
+      "description_english": "Et genstand som en POKeMON kan bäre.\\nEt ildevarslende märke der forstärker\\nGHOST-type angreb.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3446,7 +3446,7 @@
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_FIRE_POWER",
       "holdEffectParam": 10,
-      "description_english": "Et genstand som en POKeMON kan bäre.\\nBrændbart brændstof der forstärker\\nFIRE-type angrebs styrke.",
+      "description_english": "Et genstand som en POKeMON kan bäre.\\nBrändbart brändstof der forstärker\\nFIRE-type angrebs styrke.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3526,7 +3526,7 @@
       "price": 9600,
       "holdEffect": "HOLD_EFFECT_WATER_POWER",
       "holdEffectParam": 5,
-      "description_english": "Et genstand som en POKeMON kan bäre.\\nForstærker lidt styrken af\\nWATER-type angreb.",
+      "description_english": "Et genstand som en POKeMON kan bäre.\\nForstärker lidt styrken af\\nWATER-type angreb.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3558,7 +3558,7 @@
       "price": 10,
       "holdEffect": "HOLD_EFFECT_LUCKY_PUNCH",
       "holdEffectParam": 0,
-      "description_english": "En handske som bæres af CHANSEY.\\nForhöjer CHANSEYs sandsynlighed\\nfor kritisk træf.",
+      "description_english": "En handske som bäres af CHANSEY.\\nForhöjer CHANSEYs sandsynlighed\\nfor kritisk träf.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3574,7 +3574,7 @@
       "price": 10,
       "holdEffect": "HOLD_EFFECT_METAL_POWDER",
       "holdEffectParam": 0,
-      "description_english": "Et fint hårdt pulver som bæres af\\nDITTO.\\nForhöjer DITTOs FOR. stat.",
+      "description_english": "Et fint hârdt pulver som bäres af\\nDITTO.\\nForhöjer DITTOs FOR. stat.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3585,7 +3585,7 @@
       "secondaryId": 0
     },
     {
-      "english": "TYK KÆP",
+      "english": "TYK KÄP",
       "itemId": "ITEM_THICK_CLUB",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_THICK_CLUB",
@@ -3606,7 +3606,7 @@
       "price": 200,
       "holdEffect": "HOLD_EFFECT_STICK",
       "holdEffectParam": 0,
-      "description_english": "En porrestok som bæres af\\nFARFETCH'D. Forhöjer FARFETCH'Ds\\nsandsynlighed for kritisk træf.",
+      "description_english": "En porrestok som bäres af\\nFARFETCH'D. Forhöjer FARFETCH'Ds\\nsandsynlighed for kritisk träf.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4065,12 +4065,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RØDT TØRKLÆDE",
+      "english": "RÖDT TÖRKLÄDE",
       "itemId": "ITEM_RED_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Et genstand som en POKeMON kan bäre.\\nForstærker den bærende POKeMONs\\nCOOL-tilstand i KONKURRENCER.",
+      "description_english": "Et genstand som en POKeMON kan bäre.\\nForstärker den bärende POKeMONs\\nCOOL-tilstand i KONKURRENCER.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4086,7 +4086,7 @@
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Et genstand som en POKeMON kan bäre.\\nForstærker den bærende POKeMONs\\nBEAUTY-tilstand i KONKURRENCER.",
+      "description_english": "Et genstand som en POKeMON kan bäre.\\nForstärker den bärende POKeMONs\\nBEAUTY-tilstand i KONKURRENCER.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4134,7 +4134,7 @@
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Et genstand som en POKeMON kan bäre.\\nForstærker den bærende POKeMONs\\nTOUGH-tilstand i KONKURRENCER.",
+      "description_english": "Et genstand som en POKeMON kan bäre.\\nForstärker den bärende POKeMONs\\nTOUGH-tilstand i KONKURRENCER.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4150,7 +4150,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "En sammenklappelig cykel der er mindst\\ndobbelt så hurtig som at gå.",
+      "description_english": "En sammenklappelig cykel der er mindst\\ndobbelt sâ hurtig som at gâ.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4166,7 +4166,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "En äske til opbevaring af MØNTER fra\\nSPILHALLEN.\\nRummer op til 9.999 MÖNTER.",
+      "description_english": "En äske til opbevaring af MÖNTER fra\\nSPILHALLEN.\\nRummer op til 9.999 MÖNTER.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4246,7 +4246,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Billet til færgen S.S. ANNE.\\nTegning af et skib pâ.",
+      "description_english": "Billet til färgen S.S. ANNE.\\nTegning af et skib pâ.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4262,7 +4262,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Passet der kræves for at deltage i\\nPOKeMON KONKURRENCER. Det har et\\nbillede af et prämieribbon pâ.",
+      "description_english": "Passet der kräves for at deltage i\\nPOKeMON KONKURRENCER. Det har et\\nbillede af et prämieribbon pâ.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4294,7 +4294,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Vandingsspand. Brug til at vande\\nBÄR i blød jord for bedre väkst.",
+      "description_english": "Vandingsspand. Brug til at vande\\nBÄR i blöd jord for bedre väkst.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4337,7 +4337,7 @@
       "secondaryId": 0
     },
     {
-      "english": "KÆLDERNAGLEN",
+      "english": "KÄLDERNAGLEN",
       "itemId": "ITEM_BASEMENT_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -4369,7 +4369,7 @@
       "secondaryId": 1
     },
     {
-      "english": "POKEBLOCK ÆSKE",
+      "english": "POKEBLOCK ÄSKE",
       "itemId": "ITEM_POKEBLOCK_CASE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -4422,7 +4422,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "En kugle der lyser rødt.\\nSiges at indeholde utrolig\\nkraft fra oldtiden.",
+      "description_english": "En kugle der lyser rödt.\\nSiges at indeholde utrolig\\nkraft fra oldtiden.",
       "importance": 2,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4454,7 +4454,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "En enhed til at søge efter\\nlivsformer i vand.\\nSer for svär at bruge ud.",
+      "description_english": "En enhed til at söge efter\\nlivsformer i vand.\\nSer for svär at bruge ud.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4614,7 +4614,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "En kikkert der signalerer tilstedeværelsen\\naf usynlige POKeMON.\\nDen er lavet af DEVON CORP.",
+      "description_english": "En kikkert der signalerer tilstedevärelsen\\naf usynlige POKeMON.\\nDen er lavet af DEVON CORP.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4698,7 +4698,7 @@
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Et vildt brøl der fâr fjenden til at\\nskifte ud af kampen. I naturen\\nafslutter RABEL kampen.",
+      "description_english": "Et vildt bröl der fâr fjenden til at\\nskifte ud af kampen. I naturen\\nafslutter RABEL kampen.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4936,7 +4936,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Brugeren rammer fjenden med\\ntentakler eller rödder, stjæler\\nmâlets KP og helbreder sig selv.",
+      "description_english": "Brugeren rammer fjenden med\\ntentakler eller rödder, stjäler\\nmâlets KP og helbreder sig selv.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5004,7 +5004,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Modstander rammes med stärk\\nstålhale. Kan sänke FORSVAR.",
+      "description_english": "Modstander rammes med stärk\\nstâlhale. Kan sänke FORSVAR.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5021,7 +5021,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Et massivt stød af elektricitet\\naffyres mod fjenden. Kan forârsage\\nlammelse.",
+      "description_english": "Et massivt stöd af elektricitet\\naffyres mod fjenden. Kan forârsage\\nlammelse.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5038,7 +5038,7 @@
       "price": 5500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Rammer fjenden med et kæmpe\\nlyn. Kan forârsage\\nlammelse.",
+      "description_english": "Rammer fjenden med et kämpe\\nlyn. Kan forârsage\\nlammelse.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5106,7 +5106,7 @@
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "En kraftig stråle af telekinetisk\\nenergi rammer fjenden. Kan\\nsänke mâlets SP. FOR stat.",
+      "description_english": "En kraftig strâle af telekinetisk\\nenergi rammer fjenden. Kan\\nsänke mâlets SP. FOR stat.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5191,7 +5191,7 @@
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Et hurtigt stød af elektricitet rammer\\nfjenden. Dette angreb er umuligt\\nat undgâ.",
+      "description_english": "Et hurtigt stöd af elektricitet rammer\\nfjenden. Dette angreb er umuligt\\nat undgâ.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5531,7 +5531,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Brugeren bygger enorm kraft op,\\nderefter slår fjenden. Kan bruges\\ntil at flytte store, runde klippeblokke.",
+      "description_english": "Brugeren bygger enorm kraft op,\\nderefter slâr fjenden. Kan bruges\\ntil at flytte store, runde klippeblokke.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",

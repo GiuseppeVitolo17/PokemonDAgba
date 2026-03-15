@@ -1846,7 +1846,7 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = -2,
     },
 
-    [NATIONAL_DEX_ÄRODACTYL] =
+    [NATIONAL_DEX_AERODACTYL] =
     {
         .categoryName = _("FOSSIL"),
         .height = 18,
@@ -2340,13 +2340,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = -2,
     },
 
-    [NATIONAL_DEX_FLÂFFY] =
+    [NATIONAL_DEX_FLAAFFY] =
     {
         .categoryName = _("ULD"),
         .height = 8,
         .weight = 133,
-        .description = gFlâffyPokedexText,
-        .unusedDescription = gFlâffyPokedexTextUnused,
+        .description = gFlaaffyPokedexText,
+        .unusedDescription = gFlaaffyPokedexTextUnused,
         .pokemonScale = 372,
         .pokemonOffset = 13,
         .trainerScale = 256,
@@ -2418,13 +2418,13 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = -2,
     },
 
-    [NATIONAL_DEX_POLITÖD] =
+    [NATIONAL_DEX_POLITOED] =
     {
         .categoryName = _("FRÖ"),
         .height = 11,
         .weight = 339,
-        .description = gPolitödPokedexText,
-        .unusedDescription = gPolitödPokedexTextUnused,
+        .description = gPolitoedPokedexText,
+        .unusedDescription = gPolitoedPokedexTextUnused,
         .pokemonScale = 289,
         .pokemonOffset = 5,
         .trainerScale = 256,

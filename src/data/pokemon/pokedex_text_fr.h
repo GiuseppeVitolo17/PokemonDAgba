@@ -1,132 +1,132 @@
 const u8 gDummyPokedexText[] = _(
     "Dette er en nyopdaget POKeMON. Den er\n"
-    "under undersögelse. Ingen detaljeret\n"
-    "information er tilgängelig pâ nuvarende tidspunkt.");
+    "under undersøgelse. Ingen detaljeret\n"
+    "information er tilgængelig på nuvarende tidspunkt.");
 
 const u8 gDummyPokedexTextUnused[] = _("");
 
 const u8 gBulbasaurPokedexText[] = _(
-    "Der er et plantefro pâ ryggen lige\n"
-    "fra den dag denne POKeMON bliver födt.\n"
-    "Fröt vokser langsomt större.");
+    "Der er et plantefro på ryggen lige\n"
+    "fra den dag denne POKeMON bliver født.\n"
+    "Frøt vokser langsomt større.");
 
 const u8 gBulbasaurPokedexTextUnused[] = _("");
 
 const u8 gIvysaurPokedexText[] = _(
-    "Der er en plantelöge pâ ryggen.\n"
-    "Nâr den optager näringsstoffer, siges lögen\n"
+    "Der er en planteløge på ryggen.\n"
+    "Når den optager næringsstoffer, siges løgen\n"
     "at blomstre til en stor blomst.");
 
 const u8 gIvysaurPokedexTextUnused[] = _("");
 
 const u8 gVenusaurPokedexText[] = _(
-    "En fortryllende aroma bälger fra blomsten.\n"
+    "En fortryllende aroma bælger fra blomsten.\n"
     "Duften beroliger dem der er i gang med\n"
     "en kamp.");
 
 const u8 gVenusaurPokedexTextUnused[] = _("");
 
 const u8 gCharmanderPokedexText[] = _(
-    "Fra födslen bränder en flamme\n"
+    "Fra fødslen brænder en flamme\n"
     "i spidsen af halen. Livet ville ende\n"
     "hvis flammen slukkedes.");
 
 const u8 gCharmanderPokedexTextUnused[] = _("");
 
 const u8 gCharmeleonPokedexText[] = _(
-    "Den pisker med halen for at välte\n"
+    "Den pisker med halen for at vælte\n"
     "fjenden. Sa river den den faldne modstander\n"
-    "i stykker med skarpe klör.");
+    "i stykker med skarpe klør.");
 
 const u8 gCharmeleonPokedexTextUnused[] = _("");
 
 const u8 gCharizardPokedexText[] = _(
-    "Vingerne kan bäre denne POKeMON op til\n"
-    "ca. 1400 meters höjde. Den bräkker ild\n"
-    "ved meget höje temperaturer.");
+    "Vingerne kan bære denne POKeMON op til\n"
+    "ca. 1400 meters højde. Den brækker ild\n"
+    "ved meget høje temperaturer.");
 
 const u8 gCharizardPokedexTextUnused[] = _("");
 
 const u8 gSquirtlePokedexText[] = _(
-    "Nâr den träkker den lange hals ind i\n"
-    "skallet, spröjter den vand ud med stor\n"
+    "Når den trækker den lange hals ind i\n"
+    "skallet, sprøjter den vand ud med stor\n"
     "kraft.");
 
 const u8 gSquirtlePokedexTextUnused[] = _("");
 
 const u8 gWartortlePokedexText[] = _(
-    "Denne POKeMON er meget populär som käledyr.\n"
-    "Den pelsbeklädte hale er et symbol pâ\n"
+    "Denne POKeMON er meget populær som kæledyr.\n"
+    "Den pelsbeklædte hale er et symbol på\n"
     "langt liv.");
 
 const u8 gWartortlePokedexTextUnused[] = _("");
 
 const u8 gBlastoisePokedexText[] = _(
     "Den knuser fjenden under sin tunge krop\n"
-    "sa den besvimer. I nödstilfälde träkker\n"
+    "sa den besvimer. I nødstilfælde trækker\n"
     "den sig ind i sit skal.");
 
 const u8 gBlastoisePokedexTextUnused[] = _("");
 
 const u8 gCaterpiePokedexText[] = _(
-    "Den er däkket af grönn hud. Nâr den\n"
-    "vokser, fäller den huden, däkker sig\n"
+    "Den er dækket af grønn hud. Når den\n"
+    "vokser, fæller den huden, dækker sig\n"
     "med silke og bliver til en kokon.");
 
 const u8 gCaterpiePokedexTextUnused[] = _("");
 
 const u8 gMetapodPokedexText[] = _(
-    "Selv om den er indesluttet i et stärkt\n"
-    "skal, er kroppen indeni blöd.\n"
-    "Den tâler ikke et hârdt angreb.");
+    "Selv om den er indesluttet i et stærkt\n"
+    "skal, er kroppen indeni blød.\n"
+    "Den tåler ikke et hårdt angreb.");
 
 const u8 gMetapodPokedexTextUnused[] = _("");
 
 const u8 gButterfreePokedexText[] = _(
     "Vingerne er beskyttet af regnafvisende\n"
-    "stöv. Derfor kan denne POKeMON flyve\n"
+    "støv. Derfor kan denne POKeMON flyve\n"
     "rundt selv i regn.");
 
 const u8 gButterfreePokedexTextUnused[] = _("");
 
 const u8 gWeedlePokedexText[] = _(
-    "Findes ofte i skove og gräsland.\n"
-    "Den har en skarp, giftig brodd pâ ca. fem\n"
-    "centimeter överst pâ hovedet.");
+    "Findes ofte i skove og græsland.\n"
+    "Den har en skarp, giftig brodd på ca. fem\n"
+    "centimeter øverst på hovedet.");
 
 const u8 gWeedlePokedexTextUnused[] = _("");
 
 const u8 gKakunaPokedexText[] = _(
     "Denne POKeMON er i et midlertidigt stadie\n"
-    "mens den bygger sin krop. Den kan nästen\n"
-    "slet ikke beväge sig selv.");
+    "mens den bygger sin krop. Den kan næsten\n"
+    "slet ikke bevæge sig selv.");
 
 const u8 gKakunaPokedexTextUnused[] = _("");
 
 const u8 gBeedrillPokedexText[] = _(
-    "Kan opträde i svärm. Flyver med voldsom\n"
+    "Kan optræde i sværm. Flyver med voldsom\n"
     "fart og stikker hele tiden med den\n"
-    "giftige brodd bagpâ.");
+    "giftige brodd bagpå.");
 
 const u8 gBeedrillPokedexTextUnused[] = _("");
 
 const u8 gPidgeyPokedexText[] = _(
-    "Bryder sig ikke om at kämpe. Den gemmer\n"
-    "sig i höjt gräs og leder efter mad\n"
-    "som smâ insekter.");
+    "Bryder sig ikke om at kæmpe. Den gemmer\n"
+    "sig i højt græs og leder efter mad\n"
+    "som små insekter.");
 
 const u8 gPidgeyPokedexTextUnused[] = _("");
 
 const u8 gPidgeottoPokedexText[] = _(
-    "Klörne pâ födderne er veludviklede.\n"
-    "Den kan bäre bytte som EXEGGCUTE\n"
-    "til reden over 100 km väk.");
+    "Klørne på fødderne er veludviklede.\n"
+    "Den kan bære bytte som EXEGGCUTE\n"
+    "til reden over 100 km væk.");
 
 const u8 gPidgeottoPokedexTextUnused[] = _("");
 
 const u8 gPidgeotPokedexText[] = _(
     "Den breder de pragtfulde vinger ud for at\n"
-    "skrämme fjender. Den flyver gennem himlen\n"
+    "skræmme fjender. Den flyver gennem himlen\n"
     "med Mach-2 hastighed.");
 
 const u8 gPidgeotPokedexTextUnused[] = _("");
@@ -139,16 +139,16 @@ const u8 gRattataPokedexText[] = _(
 const u8 gRattataPokedexTextUnused[] = _("");
 
 const u8 gRaticatePokedexText[] = _(
-    "Bagfödderne har tre tär hver.\n"
-    "De er svömmehud, sâ den kan svömme\n"
+    "Bagfødderne har tre tær hver.\n"
+    "De er svømmehud, så den kan svømme\n"
     "over floder.");
 
 const u8 gRaticatePokedexTextUnused[] = _("");
 
 const u8 gSpearowPokedexText[] = _(
     "Den flyver travlt rundt her og der.\n"
-    "Selv om den er skröbelig, kan den väre en\n"
-    "hârd modstander der bruger MIRROR MOVE.");
+    "Selv om den er skrøbelig, kan den være en\n"
+    "hård modstander der bruger MIRROR MOVE.");
 
 const u8 gSpearowPokedexTextUnused[] = _("");
 
@@ -160,16 +160,16 @@ const u8 gFearowPokedexText[] = _(
 const u8 gFearowPokedexTextUnused[] = _("");
 
 const u8 gEkansPokedexText[] = _(
-    "Meget almindelig i gräsland osv.\n"
-    "Den stikker tungen ud og ind for at märke\n"
+    "Meget almindelig i græsland osv.\n"
+    "Den stikker tungen ud og ind for at mærke\n"
     "fare i omgivelserne.");
 
 const u8 gEkansPokedexTextUnused[] = _("");
 
 const u8 gArbokPokedexText[] = _(
-    "Mönsteret pâ maven ligner et skrämmende\n"
-    "ansigt. Sväke fjender flygter bare ved\n"
-    "synet af mönsteret.");
+    "Mønsteret på maven ligner et skræmmende\n"
+    "ansigt. Svæke fjender flygter bare ved\n"
+    "synet af mønsteret.");
 
 const u8 gArbokPokedexTextUnused[] = _("");
 
@@ -181,9 +181,9 @@ const u8 gPikachuPokedexText[] = _(
 const u8 gPikachuPokedexTextUnused[] = _("");
 
 const u8 gRaichuPokedexText[] = _(
-    "De elektriske ladninger kan nâ op til\n"
-    "100.000 volt. Uforsigtig beröring kan\n"
-    "fâ selv en indisk elefant til at besvime.");
+    "De elektriske ladninger kan nå op til\n"
+    "100.000 volt. Uforsigtig berøring kan\n"
+    "få selv en indisk elefant til at besvime.");
 
 const u8 gRaichuPokedexTextUnused[] = _("");
 
@@ -202,8 +202,8 @@ const u8 gSandslashPokedexText[] = _(
 const u8 gSandslashPokedexTextUnused[] = _("");
 
 const u8 gNidoranFPokedexText[] = _(
-    "Selv om den er lille, skal den hândteres\n"
-    "forsigtigt pga. de stärkt giftige brodder.\n"
+    "Selv om den er lille, skal den håndteres\n"
+    "forsigtigt pga. de stærkt giftige brodder.\n"
     "Hunnen har mindre horn.");
 
 const u8 gNidoranFPokedexTextUnused[] = _("");
@@ -216,29 +216,29 @@ const u8 gNidorinaPokedexText[] = _(
 const u8 gNidorinaPokedexTextUnused[] = _("");
 
 const u8 gNidoqueenPokedexText[] = _(
-    "Kroppen er däkket af stive, nâlelignende\n"
-    "skäl. Hvis den bliver ophidset,\n"
-    "rejser nâlene sig udad.");
+    "Kroppen er dækket af stive, nålelignende\n"
+    "skæl. Hvis den bliver ophidset,\n"
+    "rejser nålene sig udad.");
 
 const u8 gNidoqueenPokedexTextUnused[] = _("");
 
 const u8 gNidoranMPokedexText[] = _(
-    "De store örer blafrer som vinger nâr\n"
-    "den lytter til fjerne lyde. Den räkker\n"
-    "giftige brodder frem nâr den er vred.");
+    "De store ører blafrer som vinger når\n"
+    "den lytter til fjerne lyde. Den rækker\n"
+    "giftige brodder frem når den er vred.");
 
 const u8 gNidoranMPokedexTextUnused[] = _("");
 
 const u8 gNidorinoPokedexText[] = _(
     "Den bliver let vred. Ved at svinge det vel-\n"
-    "udviklede horn vildt kan den endda slâ\n"
+    "udviklede horn vildt kan den endda slå\n"
     "igennem diamant.");
 
 const u8 gNidorinoPokedexTextUnused[] = _("");
 
 const u8 gNidokingPokedexText[] = _(
-    "Den genkendes pâ det stenhârde skind\n"
-    "og det forlängede horn. Pas pâ hornet\n"
+    "Den genkendes på det stenhårde skind\n"
+    "og det forlængede horn. Pas på hornet\n"
     "da det indeholder gift.");
 
 const u8 gNidokingPokedexTextUnused[] = _("");
@@ -251,36 +251,36 @@ const u8 gClefairyPokedexText[] = _(
 const u8 gClefairyPokedexTextUnused[] = _("");
 
 const u8 gClefablePokedexText[] = _(
-    "Den har et skarpt höresans. Den kan\n"
-    "nemt höre en knappenâl falde nästen\n"
-    "1000 meter väk.");
+    "Den har et skarpt høresans. Den kan\n"
+    "nemt høre en knappenål falde næsten\n"
+    "1000 meter væk.");
 
 const u8 gClefablePokedexTextUnused[] = _("");
 
 const u8 gVulpixPokedexText[] = _(
     "Som ung har den seks pragtfulde haler.\n"
-    "Nâr den vokser, skyder flere nye haler\n"
+    "Når den vokser, skyder flere nye haler\n"
     "frem.");
 
 const u8 gVulpixPokedexTextUnused[] = _("");
 
 const u8 gNinetalesPokedexText[] = _(
     "Den har ni lange haler og pels der\n"
-    "glöder guld. Den siges at leve i\n"
-    "1000 âr.");
+    "gløder guld. Den siges at leve i\n"
+    "1000 år.");
 
 const u8 gNinetalesPokedexTextUnused[] = _("");
 
 const u8 gJigglypuffPokedexText[] = _(
-    "Den fängsler fjender med de store, runde\n"
-    "ojne og putter dem sâ i sövn ved at\n"
+    "Den fængsler fjender med de store, runde\n"
+    "ojne og putter dem så i søvn ved at\n"
     "synge en beroligende melodi.");
 
 const u8 gJigglypuffPokedexTextUnused[] = _("");
 
 const u8 gWigglytuffPokedexText[] = _(
-    "Pelsen er ekstremt fin, tät og blöd.\n"
-    "Den fornemme behagelige pels udstrâler\n"
+    "Pelsen er ekstremt fin, tæt og blød.\n"
+    "Den fornemme behagelige pels udstråler\n"
     "et billede af luksus.");
 
 const u8 gWigglytuffPokedexTextUnused[] = _("");
@@ -288,33 +288,33 @@ const u8 gWigglytuffPokedexTextUnused[] = _("");
 const u8 gZubatPokedexText[] = _(
     "Den har ingen ojne. I stedet bruger den\n"
     "ultralydskald til ekkolokalisering for at\n"
-    "flyve rundt i mörket.");
+    "flyve rundt i mørket.");
 
 const u8 gZubatPokedexTextUnused[] = _("");
 
 const u8 gGolbatPokedexText[] = _(
-    "Den bider sig fast i byttet med nâleskarpe\n"
-    "tand og dräner over 300 ml blod i et\n"
+    "Den bider sig fast i byttet med nåleskarpe\n"
+    "tand og dræner over 300 ml blod i et\n"
     "eneste gulp.");
 
 const u8 gGolbatPokedexTextUnused[] = _("");
 
 const u8 gOddishPokedexText[] = _(
     "Det videnskabelige navn er “Oddium Wanderus.”\n"
-    "Om natten siges den at gâe nästen 300\n"
-    "meter pâ sine to rödder.");
+    "Om natten siges den at gåe næsten 300\n"
+    "meter på sine to rødder.");
 
 const u8 gOddishPokedexTextUnused[] = _("");
 
 const u8 gGloomPokedexText[] = _(
-    "Stövbladene udsaonder en utrolig vammel\n"
-    "lugt. Den gruopväkkende stank kan fâ folk\n"
-    "til at besvime 2 km väk.");
+    "Støvbladene udsaonder en utrolig vammel\n"
+    "lugt. Den gruopvækkende stank kan få folk\n"
+    "til at besvime 2 km væk.");
 
 const u8 gGloomPokedexTextUnused[] = _("");
 
 const u8 gVileplumePokedexText[] = _(
-    "Blomsterblade er de störste i verden.\n"
+    "Blomsterblade er de største i verden.\n"
     "Den spreder ondsindet allergifremkaldende\n"
     "pollen fra bladene.");
 
@@ -323,7 +323,7 @@ const u8 gVileplumePokedexTextUnused[] = _("");
 const u8 gParasPokedexText[] = _(
     "Der vokser svampe kaldet tochukaso ud af\n"
     "insektets ryg. Svampene vokser sammen\n"
-    "med insektvärten.");
+    "med insektværten.");
 
 const u8 gParasPokedexTextUnused[] = _("");
 
@@ -335,28 +335,28 @@ const u8 gParasectPokedexText[] = _(
 const u8 gParasectPokedexTextUnused[] = _("");
 
 const u8 gVenonatPokedexText[] = _(
-    "Oejnene fungerer som radar og gör den\n"
-    "aktiv i mörket. Oejnene kan ogsâ afgive\n"
-    "kraftige strâler.");
+    "Oejnene fungerer som radar og gør den\n"
+    "aktiv i mørket. Oejnene kan også afgive\n"
+    "kraftige stråler.");
 
 const u8 gVenonatPokedexTextUnused[] = _("");
 
 const u8 gVenomothPokedexText[] = _(
-    "Vingerne er däkket af stövlignende\n"
-    "skäl. Hver gang den slâer med vingerne,\n"
-    "slipper den meget giftigt stöv.");
+    "Vingerne er dækket af støvlignende\n"
+    "skæl. Hver gang den slåer med vingerne,\n"
+    "slipper den meget giftigt støv.");
 
 const u8 gVenomothPokedexTextUnused[] = _("");
 
 const u8 gDiglettPokedexText[] = _(
-    "Den gräver gennem jorden i lav dybde.\n"
-    "Den efterlader opkastet jord sâ det er\n"
+    "Den græver gennem jorden i lav dybde.\n"
+    "Den efterlader opkastet jord så det er\n"
     "nemt at opdage den.");
 
 const u8 gDiglettPokedexTextUnused[] = _("");
 
 const u8 gDugtrioPokedexText[] = _(
-    "I kamp gräver den gennem jorden og\n"
+    "I kamp græver den gennem jorden og\n"
     "angriber den intetanende fjende fra en\n"
     "uventet retning.");
 
@@ -369,9 +369,9 @@ const u8 gMeowthPokedexText[] = _(
 const u8 gMeowthPokedexTextUnused[] = _("");
 
 const u8 gPersianPokedexText[] = _(
-    "Har et ondskabsfuldt temperament. Pas pâ\n"
+    "Har et ondskabsfuldt temperament. Pas på\n"
     "hvis den rejser halen lige op. Det er et\n"
-    "tegn pâ at den er ved at slâ til.");
+    "tegn på at den er ved at slå til.");
 
 const u8 gPersianPokedexTextUnused[] = _("");
 
@@ -383,36 +383,36 @@ const u8 gPsyduckPokedexText[] = _(
 const u8 gPsyduckPokedexTextUnused[] = _("");
 
 const u8 gGolduckPokedexText[] = _(
-    "Forbenene har svömmehud og gor den til en\n"
-    "dygtig svømmer. Den kan ses svömme\n"
-    "elegant i sör osv.");
+    "Forbenene har svømmehud og gor den til en\n"
+    "dygtig svømmer. Den kan ses svømme\n"
+    "elegant i sør osv.");
 
 const u8 gGolduckPokedexTextUnused[] = _("");
 
 const u8 gMankeyPokedexText[] = _(
-    "Let og smidig pâ födderne og vild af\n"
-    "temperament. Nâr den bliver vred, fâr den\n"
+    "Let og smidig på fødderne og vild af\n"
+    "temperament. Når den bliver vred, får den\n"
     "et ukontrollerbart raserianfald.");
 
 const u8 gMankeyPokedexTextUnused[] = _("");
 
 const u8 gPrimeapePokedexText[] = _(
     "Den er altid uhyre vred. Hvis den jagter,\n"
-    "vil den ihärdigt forfolge mâlet uanset\n"
+    "vil den ihærdigt forfolge målet uanset\n"
     "hvor langt det er.");
 
 const u8 gPrimeapePokedexTextUnused[] = _("");
 
 const u8 gGrowlithePokedexText[] = _(
     "Meget venlig og trofast over for mennesker.\n"
-    "Den forsöger at drive fjender väk ved at\n"
-    "göe og bide.");
+    "Den forsøger at drive fjender væk ved at\n"
+    "gøe og bide.");
 
 const u8 gGrowlithePokedexTextUnused[] = _("");
 
 const u8 gArcaninePokedexText[] = _(
     "En POKeMON der er beskrevet i kinesiske\n"
-    "legender. Den siges at löbe med en\n"
+    "legender. Den siges at løbe med en\n"
     "utrolig hastighed.");
 
 const u8 gArcaninePokedexTextUnused[] = _("");
@@ -420,34 +420,34 @@ const u8 gArcaninePokedexTextUnused[] = _("");
 const u8 gPoliwagPokedexText[] = _(
     "Den glatte sorte hud er tynd og fugtig.\n"
     "De indre organer kan ses gennem huden\n"
-    "som et spiralmönster.");
+    "som et spiralmønster.");
 
 const u8 gPoliwagPokedexTextUnused[] = _("");
 
 const u8 gPoliwhirlPokedexText[] = _(
     "De to ben er veludviklede.\n"
-    "Selv om den kan leve pâ jorden,\n"
-    "foreträkker den at leve i vand.");
+    "Selv om den kan leve på jorden,\n"
+    "foretrækker den at leve i vand.");
 
 const u8 gPoliwhirlPokedexTextUnused[] = _("");
 
 const u8 gPoliwrathPokedexText[] = _(
-    "En dygtig svömmer der kan crawl, butterfly\n"
+    "En dygtig svømmer der kan crawl, butterfly\n"
     "og mere. Den er hurtigere end de bedste\n"
-    "menneskelige svömmere.");
+    "menneskelige svømmere.");
 
 const u8 gPoliwrathPokedexTextUnused[] = _("");
 
 const u8 gAbraPokedexText[] = _(
     "Den sover 18 timer om dagen. Den bruger\n"
-    "diverse ekstrasensoriske kräfter selv\n"
+    "diverse ekstrasensoriske kræfter selv\n"
     "mens den sover.");
 
 const u8 gAbraPokedexTextUnused[] = _("");
 
 const u8 gKadabraPokedexText[] = _(
     "Det skete en morgen - en dreng med\n"
-    "ekstrasensoriske kräfter vâgnede i sengen\n"
+    "ekstrasensoriske kræfter vågnede i sengen\n"
     "forvandlet til KADABRA.");
 
 const u8 gKadabraPokedexTextUnused[] = _("");
@@ -455,20 +455,20 @@ const u8 gKadabraPokedexTextUnused[] = _("");
 const u8 gAlakazamPokedexText[] = _(
     "Den bryder sig ikke særlig meget om\n"
     "fysiske angreb. I stedet bruger den\n"
-    "ekstrasensoriske kräfter mod fjender.");
+    "ekstrasensoriske kræfter mod fjender.");
 
 const u8 gAlakazamPokedexTextUnused[] = _("");
 
 const u8 gMachopPokedexText[] = _(
-    "Hele kroppen bestâr af muskler.\n"
-    "Selv om den er störrelsen af et menneske-\n"
+    "Hele kroppen består af muskler.\n"
+    "Selv om den er størrelsen af et menneske-\n"
     "barn, kan den kaste 100 voksne.");
 
 const u8 gMachopPokedexTextUnused[] = _("");
 
 const u8 gMachokePokedexText[] = _(
-    "Den formidable krop bliver aldrig trät.\n"
-    "Den hjälper mennesker med arbejde som\n"
+    "Den formidable krop bliver aldrig træt.\n"
+    "Den hjælper mennesker med arbejde som\n"
     "at flytte tunge varer.");
 
 const u8 gMachokePokedexTextUnused[] = _("");
@@ -489,7 +489,7 @@ const u8 gBellsproutPokedexTextUnused[] = _("");
 
 const u8 gWeepinbellPokedexText[] = _(
     "The leafy parts act as cutters for\n"
-    "slashing fös. It spits a fluid that\n"
+    "slashing føs. It spits a fluid that\n"
     "dissolves everything.");
 
 const u8 gWeepinbellPokedexTextUnused[] = _("");
@@ -523,22 +523,22 @@ const u8 gGeodudePokedexText[] = _(
 const u8 gGeodudePokedexTextUnused[] = _("");
 
 const u8 gGravelerPokedexText[] = _(
-    "Vär forsigtig pâ bjergstier.\n"
+    "Vær forsigtig på bjergstier.\n"
     "GRAVELER kan komme rullende ned ad stien\n"
-    "uden at sänke farten.");
+    "uden at sænke farten.");
 
 const u8 gGravelerPokedexTextUnused[] = _("");
 
 const u8 gGolemPokedexText[] = _(
-    "Den er indesluttet i et hârdt skal sâ\n"
-    "stärkt som stenplader. Den fäller hud\n"
-    "en gang om âret for at vokse.");
+    "Den er indesluttet i et hårdt skal så\n"
+    "stærkt som stenplader. Den fæller hud\n"
+    "en gang om året for at vokse.");
 
 const u8 gGolemPokedexTextUnused[] = _("");
 
 const u8 gPonytaPokedexText[] = _(
     "Kroppen er let og benene er utroligt\n"
-    "kraftfulde. Den kan nâ over Ayers Rock\n"
+    "kraftfulde. Den kan nå over Ayers Rock\n"
     "i et enkelt spring.");
 
 const u8 gPonytaPokedexTextUnused[] = _("");
@@ -551,8 +551,8 @@ const u8 gRapidashPokedexText[] = _(
 const u8 gRapidashPokedexTextUnused[] = _("");
 
 const u8 gSlowpokePokedexText[] = _(
-    "Den er altid fravärende fordybet i tanker,\n"
-    "men ingen ved hvad den tänker pâ. Den er\n"
+    "Den er altid fraværende fordybet i tanker,\n"
+    "men ingen ved hvad den tænker på. Den er\n"
     "god til at fiske med halen.");
 
 const u8 gSlowpokePokedexTextUnused[] = _("");
@@ -565,9 +565,9 @@ const u8 gSlowbroPokedexText[] = _(
 const u8 gSlowbroPokedexTextUnused[] = _("");
 
 const u8 gMagnemitePokedexText[] = _(
-    "Den beväger sig mens den sväver konstant.\n"
+    "Den bevæger sig mens den svæver konstant.\n"
     "Den afgiver THUNDER WAVE osv. fra\n"
-    "enhederne pâ siderne.");
+    "enhederne på siderne.");
 
 const u8 gMagnemitePokedexTextUnused[] = _("");
 
@@ -579,8 +579,8 @@ const u8 gMagnetonPokedexText[] = _(
 const u8 gMagnetonPokedexTextUnused[] = _("");
 
 const u8 gFarfetchdPokedexText[] = _(
-    "Den gâr altid rundt med en plantestilk\n"
-    "i näbbet. Stilken bruges til at bygge\n"
+    "Den går altid rundt med en plantestilk\n"
+    "i næbbet. Stilken bruges til at bygge\n"
     "reden.");
 
 const u8 gFarfetchdPokedexTextUnused[] = _("");
@@ -599,71 +599,71 @@ const u8 gDodrioPokedexText[] = _(
 const u8 gDodrioPokedexTextUnused[] = _("");
 
 const u8 gSeelPokedexText[] = _(
-    "Däkket af lyseblâ pels er skindet tykt\n"
-    "og hârdt. Den er aktiv i bitre minus 40\n"
+    "Dækket af lyseblå pels er skindet tykt\n"
+    "og hårdt. Den er aktiv i bitre minus 40\n"
     "grader Celsius.");
 
 const u8 gSeelPokedexTextUnused[] = _("");
 
 const u8 gDewgongPokedexText[] = _(
-    "Kroppen er däkket af ren hvid pels.\n"
+    "Kroppen er dækket af ren hvid pels.\n"
     "Jo koldere vejret er, jo mere aktiv\n"
     "bliver den.");
 
 const u8 gDewgongPokedexTextUnused[] = _("");
 
 const u8 gGrimerPokedexText[] = _(
-    "Slam udsat for röntgenstrâler fra mânen\n"
+    "Slam udsat for røntgenstråler fra månen\n"
     "forvandledes til GRIMER. Den elsker at\n"
-    "äde skidne ting.");
+    "æde skidne ting.");
 
 const u8 gGrimerPokedexTextUnused[] = _("");
 
 const u8 gMukPokedexText[] = _(
     "Den er normalt usynlig fordi den falder\n"
-    "sammen med jorden. Beröring kan forârsage\n"
+    "sammen med jorden. Berøring kan forårsage\n"
     "farlig forgiftning.");
 
 const u8 gMukPokedexTextUnused[] = _("");
 
 const u8 gShellderPokedexText[] = _(
-    "Den er indesluttet i et skal härdere end\n"
+    "Den er indesluttet i et skal hærdere end\n"
     "diamant. Indeni er den dog overraskende\n"
-    "blöd.");
+    "blød.");
 
 const u8 gShellderPokedexTextUnused[] = _("");
 
 const u8 gCloysterPokedexText[] = _(
-    "Skallet er ekstremt hârdt. Det kan ikke\n"
+    "Skallet er ekstremt hårdt. Det kan ikke\n"
     "splintres, selv med en bombe. Skallet\n"
-    "âbner kun nâr den angriber.");
+    "åbner kun når den angriber.");
 
 const u8 gCloysterPokedexTextUnused[] = _("");
 
 const u8 gGastlyPokedexText[] = _(
-    "Et väsen der eksisterer som tynd gas.\n"
+    "Et væsen der eksisterer som tynd gas.\n"
     "Den kan vælte en indisk elefant ved at\n"
-    "indhylle byttet pâ to sekunder.");
+    "indhylle byttet på to sekunder.");
 
 const u8 gGastlyPokedexTextUnused[] = _("");
 
 const u8 gHaunterPokedexText[] = _(
-    "Hvis du fâr fornemmelsen af at blive\n"
-    "iagttaget i mörket nâr ingen er der,\n"
+    "Hvis du får fornemmelsen af at blive\n"
+    "iagttaget i mørket når ingen er der,\n"
     "er HAUNTER der.");
 
 const u8 gHaunterPokedexTextUnused[] = _("");
 
 const u8 gGengarPokedexText[] = _(
-    "Den siges at komme frem fra mörket for at\n"
-    "stjäle livet fra dem der farer vild i\n"
+    "Den siges at komme frem fra mørket for at\n"
+    "stjæle livet fra dem der farer vild i\n"
     "bjergene.");
 
 const u8 gGengarPokedexTextUnused[] = _("");
 
 const u8 gOnixPokedexText[] = _(
-    "Den lever normalt under jorden. Den söger\n"
-    "efter mad mens den gräver sig gennem\n"
+    "Den lever normalt under jorden. Den søger\n"
+    "efter mad mens den græver sig gennem\n"
     "jorden med 80 km/t.");
 
 const u8 gOnixPokedexTextUnused[] = _("");
@@ -685,14 +685,14 @@ const u8 gHypnoPokedexTextUnused[] = _("");
 const u8 gKrabbyPokedexText[] = _(
     "Den findes ved havet. De store sakske\n"
     "vokser tilbage hvis de rives ud af\n"
-    "deres fäester.");
+    "deres fæester.");
 
 const u8 gKrabbyPokedexTextUnused[] = _("");
 
 const u8 gKinglerPokedexText[] = _(
-    "Dens store og hârde saks har 10.000-\n"
-    "hestekräfter. Men fordi den er sâ stor,\n"
-    "er den besvärlig at beväge.");
+    "Dens store og hårde saks har 10.000-\n"
+    "hestekræfter. Men fordi den er så stor,\n"
+    "er den besværlig at bevæge.");
 
 const u8 gKinglerPokedexTextUnused[] = _("");
 
@@ -704,30 +704,30 @@ const u8 gVoltorbPokedexText[] = _(
 const u8 gVoltorbPokedexTextUnused[] = _("");
 
 const u8 gElectrodePokedexText[] = _(
-    "Den eksploderer ved selv smâ\n"
+    "Den eksploderer ved selv små\n"
     "stimuli. Den er frygtet under tilnavnet\n"
     "under tilnavnet “Bombebolden.”");
 
 const u8 gElectrodePokedexTextUnused[] = _("");
 
 const u8 gExeggcutePokedexText[] = _(
-    "Selv om det ligner äg af en slags,\n"
-    "blev det opdaget at väre en livsform\n"
+    "Selv om det ligner æg af en slags,\n"
+    "blev det opdaget at være en livsform\n"
     "mere som plantefro.");
 
 const u8 gExeggcutePokedexTextUnused[] = _("");
 
 const u8 gExeggutorPokedexText[] = _(
-    "Den kaldes “Den Gände Tropiske\n"
+    "Den kaldes “Den Gænde Tropiske\n"
     "Regnskov.” Hver af nodderne har\n"
     "et ansigt og egen vilje.");
 
 const u8 gExeggutorPokedexTextUnused[] = _("");
 
 const u8 gCubonePokedexText[] = _(
-    "Den barer sin dode mors kranie pâ\n"
-    "hovedet. Nâr den bliver ensom, siges\n"
-    "den at gräde höjt.");
+    "Den barer sin dode mors kranie på\n"
+    "hovedet. Når den bliver ensom, siges\n"
+    "den at græde højt.");
 
 const u8 gCubonePokedexTextUnused[] = _("");
 
@@ -739,9 +739,9 @@ const u8 gMarowakPokedexText[] = _(
 const u8 gMarowakPokedexTextUnused[] = _("");
 
 const u8 gHitmonleePokedexText[] = _(
-    "Benene träkker sig sammen og sträkker\n"
+    "Benene trækker sig sammen og strækker\n"
     "frit. De elastiske ben lader den ramme\n"
-    "fjendtlige mâl med et opadgâende spark.");
+    "fjendtlige mål med et opadgående spark.");
 
 const u8 gHitmonleePokedexTextUnused[] = _("");
 
@@ -753,8 +753,8 @@ const u8 gHitmonchanPokedexText[] = _(
 const u8 gHitmonchanPokedexTextUnused[] = _("");
 
 const u8 gLickitungPokedexText[] = _(
-    "Dens tunge er dobbelt sâ lang som\n"
-    "kroppen. Den kan beväges som en arm til\n"
+    "Dens tunge er dobbelt så lang som\n"
+    "kroppen. Den kan bevæges som en arm til\n"
     "at gribe mad og angribe.");
 
 const u8 gLickitungPokedexTextUnused[] = _("");
@@ -762,48 +762,48 @@ const u8 gLickitungPokedexTextUnused[] = _("");
 const u8 gKoffingPokedexText[] = _(
     "Dens tynde, ballon-lignende krop puffes\n"
     "op af gruelige giftgasser. Den stinker\n"
-    "nâr den er i närheden.");
+    "når den er i nærheden.");
 
 const u8 gKoffingPokedexTextUnused[] = _("");
 
 const u8 gWeezingPokedexText[] = _(
-    "Meget själdent kan en pludselig mutation\n"
-    "före til at to smâ KOFFING-tvillinger\n"
+    "Meget sjældent kan en pludselig mutation\n"
+    "føre til at to små KOFFING-tvillinger\n"
     "vokser sammen til en WEEZING.");
 
 const u8 gWeezingPokedexTextUnused[] = _("");
 
 const u8 gRhyhornPokedexText[] = _(
-    "Stærk men ikke särlig klog kan denne\n"
+    "Stærk men ikke særlig klog kan denne\n"
     "POKeMON knuse selv en skyskraber med\n"
     "sine TACKLE-angreb.");
 
 const u8 gRhyhornPokedexTextUnused[] = _("");
 
 const u8 gRhydonPokedexText[] = _(
-    "Den begynder at gâe pâ bagbenene efter\n"
-    "evolution. Den kan slâ huller gennem\n"
+    "Den begynder at gåe på bagbenene efter\n"
+    "evolution. Den kan slå huller gennem\n"
     "kampesten med sit horn.");
 
 const u8 gRhydonPokedexTextUnused[] = _("");
 
 const u8 gChanseyPokedexText[] = _(
-    "Den lägger flere äg om dagen. Aeggene er\n"
-    "tilsyneladende rigelige pâ näringsstoffer\n"
+    "Den lægger flere æg om dagen. Aeggene er\n"
+    "tilsyneladende rigelige på næringsstoffer\n"
     "og ekstremt velsmagende.");
 
 const u8 gChanseyPokedexTextUnused[] = _("");
 
 const u8 gTangelaPokedexText[] = _(
-    "Blâ plantranker skjuler POKeMON'ens\n"
+    "Blå plantranker skjuler POKeMON'ens\n"
     "identitet i en filtret masse. Den fanger\n"
-    "alt der kommer när.");
+    "alt der kommer nær.");
 
 const u8 gTangelaPokedexTextUnused[] = _("");
 
 const u8 gKangaskhanPokedexText[] = _(
-    "Hunnen opdräger sine unger i en pung\n"
-    "pâ maven. Den er dygtig til at angribe\n"
+    "Hunnen opdræger sine unger i en pung\n"
+    "på maven. Den er dygtig til at angribe\n"
     "med COMET PUNCH.");
 
 const u8 gKangaskhanPokedexTextUnused[] = _("");
@@ -811,19 +811,19 @@ const u8 gKangaskhanPokedexTextUnused[] = _("");
 const u8 gHorseaPokedexText[] = _(
     "Den holder balancen med sin hale som er\n"
     "rullet sammen som en spiral. Den kan\n"
-    "spröjte bläk fra munden.");
+    "sprøjte blæk fra munden.");
 
 const u8 gHorseaPokedexTextUnused[] = _("");
 
 const u8 gSeadraPokedexText[] = _(
     "Dens krop er fuld af skarpe pigge.\n"
-    "Forsög pâ at röre den kan fâ en til\n"
+    "Forsøg på at røre den kan få en til\n"
     "at besvime af piggene.");
 
 const u8 gSeadraPokedexTextUnused[] = _("");
 
 const u8 gGoldeenPokedexText[] = _(
-    "Dens ryg- og brystfinner er stärkt\n"
+    "Dens ryg- og brystfinner er stærkt\n"
     "udviklede som muskler. Den kan svømme\n"
     "med en hastighed af fem knob.");
 
@@ -837,16 +837,16 @@ const u8 gSeakingPokedexText[] = _(
 const u8 gSeakingPokedexTextUnused[] = _("");
 
 const u8 gStaryuPokedexText[] = _(
-    "Den opträder i store antal ved kyster.\n"
+    "Den optræder i store antal ved kyster.\n"
     "Om natten blinker dens centrale kerne med\n"
-    "et rödt lys.");
+    "et rødt lys.");
 
 const u8 gStaryuPokedexTextUnused[] = _("");
 
 const u8 gStarmiePokedexText[] = _(
     "Denne POKeMON har en geometrisk krop.\n"
-    "Pga. sin krop mistänker lokale den for\n"
-    "at väre et rumväsen.");
+    "Pga. sin krop mistænker lokale den for\n"
+    "at være et rumvæsen.");
 
 const u8 gStarmiePokedexTextUnused[] = _("");
 
@@ -858,8 +858,8 @@ const u8 gMrmimePokedexText[] = _(
 const u8 gMrmimePokedexTextUnused[] = _("");
 
 const u8 gScytherPokedexText[] = _(
-    "Den river og sârer bytte med sine onde\n"
-    "skarpe leer. Den breder själdent vingerne\n"
+    "Den river og sårer bytte med sine onde\n"
+    "skarpe leer. Den breder sjældent vingerne\n"
     "for at flyve.");
 
 const u8 gScytherPokedexTextUnused[] = _("");
@@ -879,28 +879,28 @@ const u8 gElectabuzzPokedexText[] = _(
 const u8 gElectabuzzPokedexTextUnused[] = _("");
 
 const u8 gMagmarPokedexText[] = _(
-    "Findes när en vulkans munding.\n"
-    "Denne ildânders kropstemperatur er\n"
-    "nästen 2.200 grader Fahrenheit.");
+    "Findes nær en vulkans munding.\n"
+    "Denne ildånders kropstemperatur er\n"
+    "næsten 2.200 grader Fahrenheit.");
 
 const u8 gMagmarPokedexTextUnused[] = _("");
 
 const u8 gPinsirPokedexText[] = _(
-    "Dens to lange saks-horn er kräftige.\n"
-    "Nâr de griber en fjende, slipper de ikke\n"
-    "för fjenden er revet i stykker.");
+    "Dens to lange saks-horn er kræftige.\n"
+    "Når de griber en fjende, slipper de ikke\n"
+    "før fjenden er revet i stykker.");
 
 const u8 gPinsirPokedexTextUnused[] = _("");
 
 const u8 gTaurosPokedexText[] = _(
-    "Nâr den skal TACKLE, pisker den\n"
+    "Når den skal TACKLE, pisker den\n"
     "kroppen gentagne gange med sine tre\n"
     "lange haler.");
 
 const u8 gTaurosPokedexTextUnused[] = _("");
 
 const u8 gMagikarpPokedexText[] = _(
-    "Den er nästen värdilös bâde i kraft\n"
+    "Den er næsten værdiløs både i kraft\n"
     "og hastighed. Den er den svageste og mest\n"
     "ynkelige POKeMON i verden.");
 
@@ -914,9 +914,9 @@ const u8 gGyaradosPokedexText[] = _(
 const u8 gGyaradosPokedexTextUnused[] = _("");
 
 const u8 gLaprasPokedexText[] = _(
-    "Dens höje intelligens gör at den kan\n"
-    "forstâ menneskers tale. Den ferier gerne\n"
-    "folk pâ ryggen.");
+    "Dens høje intelligens gør at den kan\n"
+    "forstå menneskers tale. Den ferier gerne\n"
+    "folk på ryggen.");
 
 const u8 gLaprasPokedexTextUnused[] = _("");
 
@@ -942,22 +942,22 @@ const u8 gVaporeonPokedexText[] = _(
 const u8 gVaporeonPokedexTextUnused[] = _("");
 
 const u8 gJolteonPokedexText[] = _(
-    "Hvis den bliver vred eller forskräkket,\n"
+    "Hvis den bliver vred eller forskrækket,\n"
     "rejser pelsen over hele kroppen sig som\n"
-    "skarpe nâle der gennemborer fjender.");
+    "skarpe nåle der gennemborer fjender.");
 
 const u8 gJolteonPokedexTextUnused[] = _("");
 
 const u8 gFlareonPokedexText[] = _(
     "Den har en flammepose inde i kroppen.\n"
-    "Efter at träkke vejret dybt bräger den\n"
-    "nästen 3.100 grader Fahrenheit ud.");
+    "Efter at trække vejret dybt bræger den\n"
+    "næsten 3.100 grader Fahrenheit ud.");
 
 const u8 gFlareonPokedexTextUnused[] = _("");
 
 const u8 gPorygonPokedexText[] = _(
-    "Ved hjälp af de mest avancerede teknologier\n"
-    "lykkedes det forskere at skabe den förste\n"
+    "Ved hjælp af de mest avancerede teknologier\n"
+    "lykkedes det forskere at skabe den første\n"
     "kunstige POKeMON.");
 
 const u8 gPorygonPokedexTextUnused[] = _("");
@@ -970,44 +970,44 @@ const u8 gOmanytePokedexText[] = _(
 const u8 gOmanytePokedexTextUnused[] = _("");
 
 const u8 gOmastarPokedexText[] = _(
-    "Dens tentakler er höjt udviklede som\n"
-    "händer og föder. Sâ snart den fanger\n"
+    "Dens tentakler er højt udviklede som\n"
+    "hænder og føder. Så snart den fanger\n"
     "et bytte, bider den.");
 
 const u8 gOmastarPokedexTextUnused[] = _("");
 
 const u8 gKabutoPokedexText[] = _(
     "Denne POKeMON blev regenereret fra\n"
-    "fossilet af et oldtidsväsen. Den\n"
-    "beskytter sig med et hârdt skâl.");
+    "fossilet af et oldtidsvæsen. Den\n"
+    "beskytter sig med et hårdt skål.");
 
 const u8 gKabutoPokedexTextUnused[] = _("");
 
 const u8 gKabutopsPokedexText[] = _(
     "Den svømmer frit gennem vand. Den fanger\n"
-    "bytte med sine le-lignende arme og dräner\n"
-    "offerets väsker.");
+    "bytte med sine le-lignende arme og dræner\n"
+    "offerets væsker.");
 
 const u8 gKabutopsPokedexTextUnused[] = _("");
 
 const u8 gAerodactylPokedexText[] = _(
     "Den blev regenereret fra en dinosaurers\n"
     "genetiske materiale fundet i rav. Den\n"
-    "flyver med höje skrig.");
+    "flyver med høje skrig.");
 
 const u8 gAerodactylPokedexTextUnused[] = _("");
 
 const u8 gSnorlaxPokedexText[] = _(
     "Den er ikke tilfreds med mindre den spiser\n"
-    "over 400 kg mad om dagen. Nâr den er\n"
-    "färdig med at spise, söver den med det samme.");
+    "over 400 kg mad om dagen. Når den er\n"
+    "færdig med at spise, søver den med det samme.");
 
 const u8 gSnorlaxPokedexTextUnused[] = _("");
 
 const u8 gArticunoPokedexText[] = _(
     "En af de legendariske fugle-POKeMON.\n"
-    "Med sin lange hale släbende bagud er\n"
-    "dens flyvende form storslâet.");
+    "Med sin lange hale slæbende bagud er\n"
+    "dens flyvende form storslået.");
 
 const u8 gArticunoPokedexTextUnused[] = _("");
 
@@ -1020,20 +1020,20 @@ const u8 gZapdosPokedexTextUnused[] = _("");
 
 const u8 gMoltresPokedexText[] = _(
     "En af de legendariske fugle-POKeMON.\n"
-    "De der ser den overväldes af dens orange\n"
-    "vinger der ser ud til at stâ i flammer.");
+    "De der ser den overvældes af dens orange\n"
+    "vinger der ser ud til at stå i flammer.");
 
 const u8 gMoltresPokedexTextUnused[] = _("");
 
 const u8 gDratiniPokedexText[] = _(
     "Selv ungen kan overstige 2 meter i\n"
-    "längde. Den vokser ved gentagne gange\n"
+    "længde. Den vokser ved gentagne gange\n"
     "at skifte hud.");
 
 const u8 gDratiniPokedexTextUnused[] = _("");
 
 const u8 gDragonairPokedexText[] = _(
-    "Den siges at leve i have og söer.\n"
+    "Den siges at leve i have og søer.\n"
     "Selv om den ikke har vinger, er den\n"
     "lejlighedsvis set flyve.");
 
@@ -1041,7 +1041,7 @@ const u8 gDragonairPokedexTextUnused[] = _("");
 
 const u8 gDragonitePokedexText[] = _(
     "Den kan flyve trods sin store og tunge\n"
-    "krop. Den omkredser kloden pâ blot\n"
+    "krop. Den omkredser kloden på blot\n"
     "16 timer.");
 
 const u8 gDragonitePokedexTextUnused[] = _("");
@@ -1054,9 +1054,9 @@ const u8 gMewtwoPokedexText[] = _(
 const u8 gMewtwoPokedexTextUnused[] = _("");
 
 const u8 gMewPokedexText[] = _(
-    "En POKeMON fra Sydamerika som trödes\n"
-    "uddöd. Den er meget intelligent og\n"
-    "lärer alle angreb.");
+    "En POKeMON fra Sydamerika som trødes\n"
+    "uddød. Den er meget intelligent og\n"
+    "lærer alle angreb.");
 
 const u8 gMewPokedexTextUnused[] = _("");
 
@@ -1066,7 +1066,7 @@ const u8 gChikoritaPokedexText[] = _(
     #else
     "Dens behageligt aromatiske blad har\n"
     #endif
-    "evnen til at mâle fugtighed og\n"
+    "evnen til at måle fugtighed og\n"
     "temperatur."
 );
 
@@ -1094,29 +1094,29 @@ const u8 gCyndaquilPokedexText[] = _(
 const u8 gCyndaquilPokedexTextUnused[] = _("");
 
 const u8 gQuilavaPokedexText[] = _(
-    "Denne POKeMON er fuldständigt däkket af\n"
-    "brandsikkert pels. Den tâler enhver\n"
+    "Denne POKeMON er fuldstændigt dækket af\n"
+    "brandsikkert pels. Den tåler enhver\n"
     "form for ildangreb.");
 
 const u8 gQuilavaPokedexTextUnused[] = _("");
 
 const u8 gTyphlosionPokedexText[] = _(
-    "Den har et hemmeligt, ödeläggende angreb.\n"
-    "Den gnider sin brändende pels for at\n"
-    "forârsage enorme eksplosioner.");
+    "Den har et hemmeligt, ødelæggende angreb.\n"
+    "Den gnider sin brændende pels for at\n"
+    "forårsage enorme eksplosioner.");
 
 const u8 gTyphlosionPokedexTextUnused[] = _("");
 
 const u8 gTotodilePokedexText[] = _(
-    "Den er lille men grov og hârd. Den\n"
-    "töver ikke med at bide i alt hvad der\n"
-    "beväger sig.");
+    "Den er lille men grov og hård. Den\n"
+    "tøver ikke med at bide i alt hvad der\n"
+    "bevæger sig.");
 
 const u8 gTotodilePokedexTextUnused[] = _("");
 
 const u8 gCroconawPokedexText[] = _(
-    "Den âbner sine enorme käber vidt nâr\n"
-    "den angriber. Taber den tänder nâr den\n"
+    "Den åbner sine enorme kæber vidt når\n"
+    "den angriber. Taber den tænder når den\n"
     "bider, vokser de tilbage.");
 
 const u8 gCroconawPokedexTextUnused[] = _("");
@@ -1129,9 +1129,9 @@ const u8 gFeraligatrPokedexText[] = _(
 const u8 gFeraligatrPokedexTextUnused[] = _("");
 
 const u8 gSentretPokedexText[] = _(
-    "Den stâr pâ halen sâ den kan se langt.\n"
-    "Ser den en fjende, râber den höjt for at\n"
-    "advare sine artsfäller.");
+    "Den står på halen så den kan se langt.\n"
+    "Ser den en fjende, råber den højt for at\n"
+    "advare sine artsfæller.");
 
 const u8 gSentretPokedexTextUnused[] = _("");
 
@@ -1150,8 +1150,8 @@ const u8 gHoothootPokedexText[] = _(
 const u8 gHoothootPokedexTextUnused[] = _("");
 
 const u8 gNoctowlPokedexText[] = _(
-    "Nâr den skal tänke, drejer den hovedet\n"
-    "180 grader for at skärpe sin intellektuelle\n"
+    "Når den skal tænke, drejer den hovedet\n"
+    "180 grader for at skærpe sin intellektuelle\n"
     "kraft.");
 
 const u8 gNoctowlPokedexTextUnused[] = _("");
@@ -1178,16 +1178,16 @@ const u8 gSpinarakPokedexText[] = _(
 const u8 gSpinarakPokedexTextUnused[] = _("");
 
 const u8 gAriadosPokedexText[] = _(
-    "En enkelt trâd af et specielt garn\n"
-    "spindes endelöst ud bagfra. Trâden\n"
-    "förer tilbage til reden.");
+    "En enkelt tråd af et specielt garn\n"
+    "spindes endeløst ud bagfra. Tråden\n"
+    "fører tilbage til reden.");
 
 const u8 gAriadosPokedexTextUnused[] = _("");
 
 const u8 gCrobatPokedexText[] = _(
-    "Udviklingen af vinger pâ benene gör at\n"
-    "den kan flyve hurtigt men gör det ogsâ\n"
-    "svärt at stoppe og hvile.");
+    "Udviklingen af vinger på benene gør at\n"
+    "den kan flyve hurtigt men gør det også\n"
+    "svært at stoppe og hvile.");
 
 const u8 gCrobatPokedexTextUnused[] = _("");
 
@@ -1199,22 +1199,22 @@ const u8 gChinchouPokedexText[] = _(
 const u8 gChinchouPokedexTextUnused[] = _("");
 
 const u8 gLanturnPokedexText[] = _(
-    "Den bländer bytte med et intens lysglimt,\n"
-    "sluger sâ den lammede bytte i eet\n"
+    "Den blænder bytte med et intens lysglimt,\n"
+    "sluger så den lammede bytte i eet\n"
     "eneste gulp.");
 
 const u8 gLanturnPokedexTextUnused[] = _("");
 
 const u8 gPichuPokedexText[] = _(
-    "Trods sin lille störrelse kan den give\n"
-    "stød selv til voksne. Men gör den det,\n"
+    "Trods sin lille størrelse kan den give\n"
+    "stød selv til voksne. Men gør den det,\n"
     "bliver den selv overrasket.");
 
 const u8 gPichuPokedexTextUnused[] = _("");
 
 const u8 gCleffaPokedexText[] = _(
-    "Nâr talrige meteorer oplyser nattehimlen\n"
-    "stiger observationer af CLEFFA märkeligt\n"
+    "Når talrige meteorer oplyser nattehimlen\n"
+    "stiger observationer af CLEFFA mærkeligt\n"
     "i antal.");
 
 const u8 gCleffaPokedexTextUnused[] = _("");
@@ -1228,27 +1228,27 @@ const u8 gIgglybuffPokedexTextUnused[] = _("");
 
 const u8 gTogepiPokedexText[] = _(
     "Et ordsprog siger at lykke vil komme til\n"
-    "den der kan fâ en sovende TOGEPI til at\n"
+    "den der kan få en sovende TOGEPI til at\n"
     "rejse sig op.");
 
 const u8 gTogepiPokedexTextUnused[] = _("");
 
 const u8 gTogeticPokedexText[] = _(
     "Den bliver mismodig hvis den ikke er hos\n"
-    "venlige mennesker. Den kan sväve i\n"
-    "luften uden at beväge vingerne.");
+    "venlige mennesker. Den kan svæve i\n"
+    "luften uden at bevæge vingerne.");
 
 const u8 gTogeticPokedexTextUnused[] = _("");
 
 const u8 gNatuPokedexText[] = _(
-    "Den söger normalt efter mad pâ jorden\n"
-    "men kan själdent hoppe op pâ grene for\n"
+    "Den søger normalt efter mad på jorden\n"
+    "men kan sjældent hoppe op på grene for\n"
     "at pikke skud.");
 
 const u8 gNatuPokedexTextUnused[] = _("");
 
 const u8 gXatuPokedexText[] = _(
-    "I Sydamerika siges det at dens höjre oje\n"
+    "I Sydamerika siges det at dens højre oje\n"
     "ser fremtiden og venstre oje ser\n"
     "fortiden.");
 
@@ -1261,17 +1261,17 @@ const u8 gMareepPokedexText[] = _(
 
 const u8 gMareepPokedexTextUnused[] = _("");
 
-const u8 gFlâffyPokedexText[] = _(
+const u8 gFlaaffyPokedexText[] = _(
     "Dens fluffy uld lagrer let elektricitet.\n"
     "Dens gummagtige skind beskytter den mod\n"
     "at blive elektrokueret.");
 
-const u8 gFlâffyPokedexTextUnused[] = _("");
+const u8 gFlaaffyPokedexTextUnused[] = _("");
 
 const u8 gAmpharosPokedexText[] = _(
-    "Det lyse lys pâ halen kan ses langt\n"
-    "väk. Den har været værdsat siden oldtid\n"
-    "som fyrtârn.");
+    "Det lyse lys på halen kan ses langt\n"
+    "væk. Den har været værdsat siden oldtid\n"
+    "som fyrtårn.");
 
 const u8 gAmpharosPokedexTextUnused[] = _("");
 
@@ -1290,51 +1290,51 @@ const u8 gMarillPokedexText[] = _(
 const u8 gMarillPokedexTextUnused[] = _("");
 
 const u8 gAzumarillPokedexText[] = _(
-    "Nâr den leger i vand ruller den sine\n"
-    "forlängede örer sammen sâ indersiden\n"
-    "ikke bliver vâd.");
+    "Når den leger i vand ruller den sine\n"
+    "forlængede ører sammen så indersiden\n"
+    "ikke bliver våd.");
 
 const u8 gAzumarillPokedexTextUnused[] = _("");
 
 const u8 gSudowoodoPokedexText[] = _(
-    "Den forklæder sig som et trä for at\n"
-    "undgâ angreb. Den hader vand og\n"
+    "Den forklæder sig som et træ for at\n"
+    "undgå angreb. Den hader vand og\n"
     "forsvinder hvis det begynder at regne.");
 
 const u8 gSudowoodoPokedexTextUnused[] = _("");
 
-const u8 gPolitödPokedexText[] = _(
+const u8 gPolitoedPokedexText[] = _(
     "Whenever three or more of these get\n"
     "together, they sing in a loud voice that\n"
     "sounds like bellowing.");
 
-const u8 gPolitödPokedexTextUnused[] = _("");
+const u8 gPolitoedPokedexTextUnused[] = _("");
 
 const u8 gHoppipPokedexText[] = _(
-    "Dens krop er sâ let at den mâ gribe\n"
-    "jorden fast med föderne for ikke at blive\n"
-    "bläst väk.");
+    "Dens krop er så let at den må gribe\n"
+    "jorden fast med føderne for ikke at blive\n"
+    "blæst væk.");
 
 const u8 gHoppipPokedexTextUnused[] = _("");
 
 const u8 gSkiploomPokedexText[] = _(
     "Den breder sine blade for at optage\n"
-    "sollys. Den sväver ogsâ i luften for at\n"
-    "komme närmere solen.");
+    "sollys. Den svæver også i luften for at\n"
+    "komme nærmere solen.");
 
 const u8 gSkiploomPokedexTextUnused[] = _("");
 
 const u8 gJumpluffPokedexText[] = _(
-    "Den driver med säsonvinde og spreder sine\n"
+    "Den driver med sæsonvinde og spreder sine\n"
     "bomuldslignende sporer over hele verden\n"
-    "for at fâ flere afkom.");
+    "for at få flere afkom.");
 
 const u8 gJumpluffPokedexTextUnused[] = _("");
 
 const u8 gAipomPokedexText[] = _(
-    "Den lever i toppen af höje träer. Nâr\n"
+    "Den lever i toppen af høje træer. Når\n"
     "den springer fra gren til gren bruger den\n"
-    "halen behändigt til balance.");
+    "halen behændigt til balance.");
 
 const u8 gAipomPokedexTextUnused[] = _("");
 
@@ -1347,62 +1347,62 @@ const u8 gSunkernPokedexTextUnused[] = _("");
 
 const u8 gSunfloraPokedexText[] = _(
     "Om dagen tumler den rundt i et hektisk\n"
-    "tempo, men den standser helt, nâr\n"
-    "solen gâr ned.");
+    "tempo, men den standser helt, når\n"
+    "solen går ned.");
 
 const u8 gSunfloraPokedexTextUnused[] = _("");
 
 const u8 gYanmaPokedexText[] = _(
-    "Dens store öjne kan skanne 360 grader.\n"
+    "Dens store øjne kan skanne 360 grader.\n"
     "Den kigger i alle retninger for at finde\n"
     "insekter som bytte.");
 
 const u8 gYanmaPokedexTextUnused[] = _("");
 
 const u8 gWooperPokedexText[] = _(
-    "Nâr den gâr rundt pâ jorden, däkker\n"
+    "Når den går rundt på jorden, dækker\n"
     "den sin krop med en slimet, giftig\n"
     "film.");
 
 const u8 gWooperPokedexTextUnused[] = _("");
 
 const u8 gQuagsirePokedexText[] = _(
-    "Pga. sin afslappede og sorglöse holdning\n"
-    "stöder den ofte hovedet mod klippeblokke\n"
-    "og bâdskroge, nâr den svömmer.");
+    "Pga. sin afslappede og sorgløse holdning\n"
+    "støder den ofte hovedet mod klippeblokke\n"
+    "og bådskroge, når den svømmer.");
 
 const u8 gQuagsirePokedexTextUnused[] = _("");
 
 const u8 gEspeonPokedexText[] = _(
-    "Ved at läse luftströmme kan den forudse\n"
-    "ting som vejret eller fjendens näste\n"
-    "träk.");
+    "Ved at læse luftstrømme kan den forudse\n"
+    "ting som vejret eller fjendens næste\n"
+    "træk.");
 
 const u8 gEspeonPokedexTextUnused[] = _("");
 
 const u8 gUmbreonPokedexText[] = _(
-    "Nâr mörket falder pâ, begynder ringene\n"
-    "pâ dens krop at lyse og indgyder frygt\n"
-    "hos alle i närheden.");
+    "Når mørket falder på, begynder ringene\n"
+    "på dens krop at lyse og indgyder frygt\n"
+    "hos alle i nærheden.");
 
 const u8 gUmbreonPokedexTextUnused[] = _("");
 
 const u8 gMurkrowPokedexText[] = _(
-    "Siges at den, nâr den jagtes, lokker sin\n"
-    "angriber ind pâ mörke bjergstier, hvor\n"
+    "Siges at den, når den jagtes, lokker sin\n"
+    "angriber ind på mørke bjergstier, hvor\n"
     "fjenden vil fare vild.");
 
 const u8 gMurkrowPokedexTextUnused[] = _("");
 
 const u8 gSlowkingPokedexText[] = _(
-    "Da dens hoved blev bidt, trängte gift ind\n"
+    "Da dens hoved blev bidt, trængte gift ind\n"
     "i SLOWPOKE's hoved og frigjorde en\n"
-    "ekstraordinär kraft.");
+    "ekstraordinær kraft.");
 
 const u8 gSlowkingPokedexTextUnused[] = _("");
 
 const u8 gMisdreavusPokedexText[] = _(
-    "Den elsker at bide og rive i folks hâr\n"
+    "Den elsker at bide og rive i folks hår\n"
     "bagfra uden advarsel, bare for at se\n"
     "deres chokerede reaktioner.");
 
@@ -1410,56 +1410,56 @@ const u8 gMisdreavusPokedexTextUnused[] = _("");
 
 const u8 gUnownPokedexText[] = _(
     "Dens flade, tynde krop sidder altid fast\n"
-    "pâ vägge. Dens form synes at have en\n"
+    "på vægge. Dens form synes at have en\n"
     "vis betydning.");
 
 const u8 gUnownPokedexTextUnused[] = _("");
 
 const u8 gWobbuffetPokedexText[] = _(
     "For at holde sin kulsorte hale skjult lever\n"
-    "den stille i mörket. Den angriber aldrig\n"
-    "först.");
+    "den stille i mørket. Den angriber aldrig\n"
+    "først.");
 
 const u8 gWobbuffetPokedexTextUnused[] = _("");
 
 const u8 gGirafarigPokedexText[] = _(
-    "Dens hale, der ogsâ indeholder en lille\n"
+    "Dens hale, der også indeholder en lille\n"
     "hjerne, kan bide af sig selv, hvis den\n"
-    "märker en tilträkkende lugt.");
+    "mærker en tiltrækkende lugt.");
 
 const u8 gGirafarigPokedexTextUnused[] = _("");
 
 const u8 gPinecoPokedexText[] = _(
-    "Den hänger og venter pâ at flyvende\n"
-    "insekter kommer när. Den beväger sig\n"
+    "Den hænger og venter på at flyvende\n"
+    "insekter kommer nær. Den bevæger sig\n"
     "ikke meget af sig selv.");
 
 const u8 gPinecoPokedexTextUnused[] = _("");
 
 const u8 gForretressPokedexText[] = _(
-    "Den forbliver ubevägeligt rodfästet i sit\n"
-    "trä. Den spreder stykker af sit hârde\n"
-    "skal for at drive fjender väk.");
+    "Den forbliver ubevægeligt rodfæstet i sit\n"
+    "træ. Den spreder stykker af sit hårde\n"
+    "skal for at drive fjender væk.");
 
 const u8 gForretressPokedexTextUnused[] = _("");
 
 const u8 gDunsparcePokedexText[] = _(
     "Hvis den opdages, undslipper den ved at\n"
-    "grave med sin hale. Den kan sväve let\n"
-    "ved hjälp af sine vinger.");
+    "grave med sin hale. Den kan svæve let\n"
+    "ved hjælp af sine vinger.");
 
 const u8 gDunsparcePokedexTextUnused[] = _("");
 
 const u8 gGligarPokedexText[] = _(
-    "Den klynger sig normalt til klipper. Nâr\n"
+    "Den klynger sig normalt til klipper. Når\n"
     "den spotter sit bytte, spreder den vingerne\n"
     "og glide ned for at angribe.");
 
 const u8 gGligarPokedexTextUnused[] = _("");
 
 const u8 gSteelixPokedexText[] = _(
-    "Siges at hvis en ONIX lever i over 100 âr,\n"
-    "ändres dens sammensätning til at blive\n"
+    "Siges at hvis en ONIX lever i over 100 år,\n"
+    "ændres dens sammensætning til at blive\n"
     "diamantlignende.");
 
 const u8 gSteelixPokedexTextUnused[] = _("");
@@ -1472,50 +1472,50 @@ const u8 gSnubbullPokedexText[] = _(
 const u8 gSnubbullPokedexTextUnused[] = _("");
 
 const u8 gGranbullPokedexText[] = _(
-    "Fordi dens hugtänder er for tunge, holder\n"
+    "Fordi dens hugtænder er for tunge, holder\n"
     "den altid hovedet bojet ned. Men dens\n"
-    "BITE er kräftig.");
+    "BITE er kræftig.");
 
 const u8 gGranbullPokedexTextUnused[] = _("");
 
 const u8 gQwilfishPokedexText[] = _(
-    "De smâ pigge der däkker dens krop udviklede\n"
-    "sig fra skäl. De injicerer et giftstof der\n"
-    "forârsager besvimelse.");
+    "De små pigge der dækker dens krop udviklede\n"
+    "sig fra skæl. De injicerer et giftstof der\n"
+    "forårsager besvimelse.");
 
 const u8 gQwilfishPokedexTextUnused[] = _("");
 
 const u8 gScizorPokedexText[] = _(
     "Dens vinger bruges ikke til at flyve.\n"
-    "De blafres i höj hastighed for at justere\n"
+    "De blafres i høj hastighed for at justere\n"
     "dens kropstemperatur.");
 
 const u8 gScizorPokedexTextUnused[] = _("");
 
 const u8 gShucklePokedexText[] = _(
     "Den opbevarer BERRIES inde i sit skal.\n"
-    "For at undgâ angreb gemmer den sig under\n"
+    "For at undgå angreb gemmer den sig under\n"
     "sten og forbliver helt stille.");
 
 const u8 gShucklePokedexTextUnused[] = _("");
 
 const u8 gHeracrossPokedexText[] = _(
     "Normalt tam, men hvis den forstyrres mens\n"
-    "den nipper til honning, jagter den indtränge-\n"
-    "ren väk med sit horn.");
+    "den nipper til honning, jagter den indtrænge-\n"
+    "ren væk med sit horn.");
 
 const u8 gHeracrossPokedexTextUnused[] = _("");
 
 const u8 gSneaselPokedexText[] = _(
     "Ond af natur jagter den PIDGEY fra deres\n"
-    "rede og fester pâ äggene der er\n"
+    "rede og fester på æggene der er\n"
     "efterladt.");
 
 const u8 gSneaselPokedexTextUnused[] = _("");
 
 const u8 gTeddiursaPokedexText[] = _(
-    "För mad bliver knap om vinteren er det\n"
-    "dens vane at hamstre mad pâ mange\n"
+    "Før mad bliver knap om vinteren er det\n"
+    "dens vane at hamstre mad på mange\n"
     "skjulte steder.");
 
 const u8 gTeddiursaPokedexTextUnused[] = _("");
@@ -1530,34 +1530,34 @@ const u8 gUrsaringPokedexTextUnused[] = _("");
 const u8 gSlugmaPokedexText[] = _(
     "Et almindeligt syn i vulkanområder, den\n"
     "slynger sig langsomt rundt i en konstant\n"
-    "sögning efter varme steder.");
+    "søgning efter varme steder.");
 
 const u8 gSlugmaPokedexTextUnused[] = _("");
 
 const u8 gMagcargoPokedexText[] = _(
-    "Dens sköre skal sprouter lejlighedsvis\n"
+    "Dens skøre skal sprouter lejlighedsvis\n"
     "intense flammer der cirkulerer gennem\n"
     "hele dens krop.");
 
 const u8 gMagcargoPokedexTextUnused[] = _("");
 
 const u8 gSwinubPokedexText[] = _(
-    "Hvis den lugter noget tilträkkende, styrter\n"
+    "Hvis den lugter noget tiltrækkende, styrter\n"
     "den afsted hovedkulds for at finde kilden\n"
-    "til aromän.");
+    "til aromæn.");
 
 const u8 gSwinubPokedexTextUnused[] = _("");
 
 const u8 gPiloswinePokedexText[] = _(
     "Hvis den stormer mod en fjende, rejser\n"
-    "hârene pâ ryggen sig. Den er meget\n"
+    "hårene på ryggen sig. Den er meget\n"
     "følsom over for lyd.");
 
 const u8 gPiloswinePokedexTextUnused[] = _("");
 
 const u8 gCorsolaPokedexText[] = _(
-    "I et sydhavsland lever folket i fällesskaber\n"
-    "der er bygget pâ grupper af disse\n"
+    "I et sydhavsland lever folket i fællesskaber\n"
+    "der er bygget på grupper af disse\n"
     "POKéMON.");
 
 const u8 gCorsolaPokedexTextUnused[] = _("");
@@ -1565,7 +1565,7 @@ const u8 gCorsolaPokedexTextUnused[] = _("");
 const u8 gRemoraidPokedexText[] = _(
     "Ved at bruge sin rygfinne som sugeskive\n"
     "klynger den sig til undersiden af en\n"
-    "MANTINE for at äde rester.");
+    "MANTINE for at æde rester.");
 
 const u8 gRemoraidPokedexTextUnused[] = _("");
 
@@ -1578,7 +1578,7 @@ const u8 gOctilleryPokedexTextUnused[] = _("");
 
 const u8 gDelibirdPokedexText[] = _(
     "Den redegger ved kanten af skarpe klipper.\n"
-    "Den bruger hele dagen pâ at bære mad til\n"
+    "Den bruger hele dagen på at bære mad til\n"
     "sine ventende kyllinger.");
 
 const u8 gDelibirdPokedexTextUnused[] = _("");
@@ -1592,7 +1592,7 @@ const u8 gMantinePokedexTextUnused[] = _("");
 
 const u8 gSkarmoryPokedexText[] = _(
     "Efter at have redeet i krat, bliver vingerne\n"
-    "pâ dens kyllinger hârde af ridser fra\n"
+    "på dens kyllinger hårde af ridser fra\n"
     "torne.");
 
 const u8 gSkarmoryPokedexTextUnused[] = _("");
@@ -1605,16 +1605,16 @@ const u8 gHoundourPokedexText[] = _(
 const u8 gHoundourPokedexTextUnused[] = _("");
 
 const u8 gHoundoomPokedexText[] = _(
-    "Nâr de hører dens uhyggelige tuden, fâr\n"
-    "andre POKéMON myrekryb og gâr lige tilbage\n"
+    "Når de hører dens uhyggelige tuden, får\n"
+    "andre POKéMON myrekryb og går lige tilbage\n"
     "til deres rede.");
 
 const u8 gHoundoomPokedexTextUnused[] = _("");
 
 const u8 gKingdraPokedexText[] = _(
-    "Den sover dybt pâ havbunden for at\n"
-    "opbygge energi. Siges at forârsage\n"
-    "tornadör nâr den vâgner.");
+    "Den sover dybt på havbunden for at\n"
+    "opbygge energi. Siges at forårsage\n"
+    "tornadør når den vågner.");
 
 const u8 gKingdraPokedexTextUnused[] = _("");
 
@@ -1626,8 +1626,8 @@ const u8 gPhanpyPokedexText[] = _(
 const u8 gPhanpyPokedexTextUnused[] = _("");
 
 const u8 gDonphanPokedexText[] = _(
-    "Jo längere og större dens stödtänder, jo\n"
-    "höjere rang i flokken. Stödtänderne tager\n"
+    "Jo længere og større dens stødtænder, jo\n"
+    "højere rang i flokken. Stødtænderne tager\n"
     "lang tid at vokse.");
 
 const u8 gDonphanPokedexTextUnused[] = _("");
@@ -1640,29 +1640,29 @@ const u8 gPorygon2PokedexText[] = _(
 const u8 gPorygon2PokedexTextUnused[] = _("");
 
 const u8 gStantlerPokedexText[] = _(
-    "De der stirrer pâ dens gevir vil gradvist\n"
+    "De der stirrer på dens gevir vil gradvist\n"
     "miste kontrollen over deres sanser og blive\n"
-    "ude af stand til at stâ.");
+    "ude af stand til at stå.");
 
 const u8 gStantlerPokedexTextUnused[] = _("");
 
 const u8 gSmearglePokedexText[] = _(
-    "Nâr den bliver voksen, har den tendens til\n"
+    "Når den bliver voksen, har den tendens til\n"
     "at lade sine kammerater placere fodspor\n"
-    "pâ sin ryg.");
+    "på sin ryg.");
 
 const u8 gSmearglePokedexTextUnused[] = _("");
 
 const u8 gTyroguePokedexText[] = _(
     "Selv om den er lille, kan den ikke ignoreres,\n"
-    "da den vil slâ til ethvert tilgängeligt\n"
-    "mâl uden advarsel.");
+    "da den vil slå til ethvert tilgængeligt\n"
+    "mål uden advarsel.");
 
 const u8 gTyroguePokedexTextUnused[] = _("");
 
 const u8 gHitmontopPokedexText[] = _(
     "Den affyrer spark mens den snurrer. Hvis den\n"
-    "snurrer i höj hastighed, kan den bore sig\n"
+    "snurrer i høj hastighed, kan den bore sig\n"
     "ned i jorden.");
 
 const u8 gHitmontopPokedexTextUnused[] = _("");
@@ -1676,21 +1676,21 @@ const u8 gSmoochumPokedexTextUnused[] = _("");
 
 const u8 gElekidPokedexText[] = _(
     "Selv i den voldsomste storm leger denne\n"
-    "POKéMON glädeligt hvis torden rumler\n"
-    "pâ himlen.");
+    "POKéMON glædeligt hvis torden rumler\n"
+    "på himlen.");
 
 const u8 gElekidPokedexTextUnused[] = _("");
 
 const u8 gMagbyPokedexText[] = _(
     "Den findes i vulkankratere. Dens kropstemperatur\n"
-    "overstiger 1.100 grader Fahrenheit, sâ\n"
-    "undervärd den ikke.");
+    "overstiger 1.100 grader Fahrenheit, så\n"
+    "underværd den ikke.");
 
 const u8 gMagbyPokedexTextUnused[] = _("");
 
 const u8 gMiltankPokedexText[] = _(
-    "Hvis den lige har fâet en baby, indeholder\n"
-    "mälken den producerer meget mere näring\n"
+    "Hvis den lige har fået en baby, indeholder\n"
+    "mælken den producerer meget mere næring\n"
     "end normalt.");
 
 const u8 gMiltankPokedexTextUnused[] = _("");
@@ -1710,8 +1710,8 @@ const u8 gRaikouPokedexText[] = _(
 const u8 gRaikouPokedexTextUnused[] = _("");
 
 const u8 gEnteiPokedexText[] = _(
-    "En POKéMON der läbær hen over landet.\n"
-    "Siges at en bliver födt hver gang en ny\n"
+    "En POKéMON der læbær hen over landet.\n"
+    "Siges at en bliver født hver gang en ny\n"
     "vulkan dukker op.");
 
 const u8 gEnteiPokedexTextUnused[] = _("");
@@ -1724,27 +1724,27 @@ const u8 gSuicunePokedexText[] = _(
 const u8 gSuicunePokedexTextUnused[] = _("");
 
 const u8 gLarvitarPokedexText[] = _(
-    "Den bliver födt dybt under jorden. Den kan\n"
-    "ikke komme frem för den har spist al\n"
+    "Den bliver født dybt under jorden. Den kan\n"
+    "ikke komme frem før den har spist al\n"
     "jorden omkring sig.");
 
 const u8 gLarvitarPokedexTextUnused[] = _("");
 
 const u8 gPupitarPokedexText[] = _(
-    "Selv indesluttet i sit skal kan den beväge\n"
-    "sig frit. Hârd og hurtig har den enestâende\n"
-    "ödeläggelseskraft.");
+    "Selv indesluttet i sit skal kan den bevæge\n"
+    "sig frit. Hård og hurtig har den enestående\n"
+    "ødelæggelseskraft.");
 
 const u8 gPupitarPokedexTextUnused[] = _("");
 
 const u8 gTyranitarPokedexText[] = _(
 #if REVISION == 0
     "Dens krop kan ikke skades af nogen form for\n"
-    "angreb, sâ den er meget ivrig efter at\n"
+    "angreb, så den er meget ivrig efter at\n"
     "udfordre fjender."
 #else
 "Den har en fræk natur. Med stor styrke kan\n"
-    "den endda ändre omkringliggende\n"
+    "den endda ændre omkringliggende\n"
     "landformer."
 #endif
 );
@@ -1752,44 +1752,44 @@ const u8 gTyranitarPokedexText[] = _(
 const u8 gTyranitarPokedexTextUnused[] = _("");
 
 const u8 gLugiaPokedexText[] = _(
-    "Den siges at väre havenes vogter.\n"
+    "Den siges at være havenes vogter.\n"
     "Rygtet vil have at den er set i stormens\n"
     "nat.");
 
 const u8 gLugiaPokedexTextUnused[] = _("");
 
 const u8 gHoOhPokedexText[] = _(
-    "En legende siger at dens krop glöder i\n"
+    "En legende siger at dens krop gløder i\n"
     "syv farver. Siges at en regnbue dannes\n"
-    "bag den nâr den flyver.");
+    "bag den når den flyver.");
 
 const u8 gHoOhPokedexTextUnused[] = _("");
 
 const u8 gCelebiPokedexText[] = _(
-    "Nâr CELEBI forsvinder dybt i en skov, siges\n"
-    "den at efterlade et äg den bragte med\n"
+    "Når CELEBI forsvinder dybt i en skov, siges\n"
+    "den at efterlade et æg den bragte med\n"
     "fra fremtiden.");
 
 const u8 gCelebiPokedexTextUnused[] = _("");
 
 const u8 gTreeckoPokedexText[] = _(
-    "Den skalerer hurtigt selv lodrette vägge.\n"
-    "Den märker fugtighed med sin hale for at\n"
-    "forudse näste dags vejr.");
+    "Den skalerer hurtigt selv lodrette vægge.\n"
+    "Den mærker fugtighed med sin hale for at\n"
+    "forudse næste dags vejr.");
 
 const u8 gTreeckoPokedexTextUnused[] = _("");
 
 const u8 gGrovylePokedexText[] = _(
-    "Dens stärkt udviklede lârbenmuskler giver\n"
-    "den forblöffende smidighed og spring-\n"
-    "prästation.");
+    "Dens stærkt udviklede lårbenmuskler giver\n"
+    "den forbløffende smidighed og spring-\n"
+    "præstation.");
 
 const u8 gGrovylePokedexTextUnused[] = _("");
 
 const u8 gSceptilePokedexText[] = _(
-    "Bladene pâ dens forben er skarpe som\n"
-    "svärd. Den springer smidigt mellem\n"
-    "träernes grene for at slâ til.");
+    "Bladene på dens forben er skarpe som\n"
+    "sværd. Den springer smidigt mellem\n"
+    "træernes grene for at slå til.");
 
 const u8 gSceptilePokedexTextUnused[] = _("");
 
@@ -1808,29 +1808,29 @@ const u8 gCombuskenPokedexText[] = _(
 const u8 gCombuskenPokedexTextUnused[] = _("");
 
 const u8 gBlazikenPokedexText[] = _(
-    "Nâr den möder en hârd fjende, slipper den\n"
-    "flammer fra sine handled. Dens kräftige ben\n"
+    "Når den møder en hård fjende, slipper den\n"
+    "flammer fra sine handled. Dens kræftige ben\n"
     "lader den springe over bygninger.");
 
 const u8 gBlazikenPokedexTextUnused[] = _("");
 
 const u8 gMudkipPokedexText[] = _(
     "Dens store halefinne driver den gennem\n"
-    "vand med kräftig acceleration. Den er\n"
-    "stärk trods sin störrelse.");
+    "vand med kræftig acceleration. Den er\n"
+    "stærk trods sin størrelse.");
 
 const u8 gMudkipPokedexTextUnused[] = _("");
 
 const u8 gMarshtompPokedexText[] = _(
     "It is at its best when on muddy ground\n"
     "with poor footing. It quickly overwhelms\n"
-    "fös struggling in mud.");
+    "føs struggling in mud.");
 
 const u8 gMarshtompPokedexTextUnused[] = _("");
 
 const u8 gSwampertPokedexText[] = _(
     "Its arms are rock-hard. With one swing,\n"
-    "they can batter down its fö. It makes its\n"
+    "they can batter down its fø. It makes its\n"
     "nest on beautiful beaches.");
 
 const u8 gSwampertPokedexTextUnused[] = _("");
@@ -1851,14 +1851,14 @@ const u8 gMightyenaPokedexTextUnused[] = _("");
 
 const u8 gZigzagoonPokedexText[] = _(
     "En POKéMON med rigelig nysgerrighed.\n"
-    "Den viser interesse for alt, sâ den\n"
-    "slâr altid siksak.");
+    "Den viser interesse for alt, så den\n"
+    "slår altid siksak.");
 
 const u8 gZigzagoonPokedexTextUnused[] = _("");
 
 const u8 gLinoonePokedexText[] = _(
-    "Nâr den löbær i en lige linje kan den nâ\n"
-    "over 60 miles i timen. Men den har svärt\n"
+    "Når den løbær i en lige linje kan den nå\n"
+    "over 60 miles i timen. Men den har svært\n"
     "ved buede veje.");
 
 const u8 gLinoonePokedexTextUnused[] = _("");
@@ -1866,7 +1866,7 @@ const u8 gLinoonePokedexTextUnused[] = _("");
 const u8 gWurmplePokedexText[] = _(
     "It lives amidst tall grass and in forests.\n"
     "When attacked, it resists by pointing its\n"
-    "venomous spikes at the fö.");
+    "venomous spikes at the fø.");
 
 const u8 gWurmplePokedexTextUnused[] = _("");
 
@@ -1885,29 +1885,29 @@ const u8 gBeautiflyPokedexText[] = _(
 const u8 gBeautiflyPokedexTextUnused[] = _("");
 
 const u8 gCascoonPokedexText[] = _(
-    "Dens krop, der er lavet af blödt silke,\n"
-    "hârdner med tiden. Nâr revner viser sig,\n"
-    "er evolution när.");
+    "Dens krop, der er lavet af blødt silke,\n"
+    "hårdner med tiden. Når revner viser sig,\n"
+    "er evolution nær.");
 
 const u8 gCascoonPokedexTextUnused[] = _("");
 
 const u8 gDustoxPokedexText[] = _(
-    "Den spreder forfärdeligt giftigt stöv nâr\n"
-    "den märker fare. De samles ofte i\n"
+    "Den spreder forfærdeligt giftigt støv når\n"
+    "den mærker fare. De samles ofte i\n"
     "gadebelysningens skær om natten.");
 
 const u8 gDustoxPokedexTextUnused[] = _("");
 
 const u8 gLotadPokedexText[] = _(
-    "Den söger efter rent vand. Hvis den ikke\n"
-    "drikker vand for länge, visner bladet\n"
-    "pâ dens hoved.");
+    "Den søger efter rent vand. Hvis den ikke\n"
+    "drikker vand for længe, visner bladet\n"
+    "på dens hoved.");
 
 const u8 gLotadPokedexTextUnused[] = _("");
 
 const u8 gLombrePokedexText[] = _(
     "Den lever ved vandkanten hvor det er\n"
-    "solskin. Den sover pâ en seng af vandgräs\n"
+    "solskin. Den sover på en seng af vandgræs\n"
     "om dagen og bliver aktiv om natten.");
 
 const u8 gLombrePokedexTextUnused[] = _("");
@@ -1935,14 +1935,14 @@ const u8 gNuzleafPokedexTextUnused[] = _("");
 
 const u8 gShiftryPokedexText[] = _(
     "A POKéMON that was feared as a forest\n"
-    "guardian. It can read the fö's mind and\n"
+    "guardian. It can read the fø's mind and\n"
     "take preemptive action.");
 
 const u8 gShiftryPokedexTextUnused[] = _("");
 
 const u8 gTaillowPokedexText[] = _(
-    "Den kan ikke lide kolde ârstider. De\n"
-    "trakker til andre lande pâ jagt efter\n"
+    "Den kan ikke lide kolde årstider. De\n"
+    "trakker til andre lande på jagt efter\n"
     "varme og flyver over 180 miles om dagen.");
 
 const u8 gTaillowPokedexTextUnused[] = _("");
@@ -1969,9 +1969,9 @@ const u8 gPelipperPokedexText[] = _(
 const u8 gPelipperPokedexTextUnused[] = _("");
 
 const u8 gRaltsPokedexText[] = _(
-    "Den er meget afstemt til fölelserne hos\n"
+    "Den er meget afstemt til følelserne hos\n"
     "mennesker og POKéMON. Den gemmer sig hvis\n"
-    "den märker fjendtlighed.");
+    "den mærker fjendtlighed.");
 
 const u8 gRaltsPokedexTextUnused[] = _("");
 
@@ -1984,7 +1984,7 @@ const u8 gKirliaPokedexTextUnused[] = _("");
 
 const u8 gGardevoirPokedexText[] = _(
     "Den har evnen til at forudse fremtiden.\n"
-    "Dens kraft er störst nâr den beskytter\n"
+    "Dens kraft er størst når den beskytter\n"
     "sin TRAINER.");
 
 const u8 gGardevoirPokedexTextUnused[] = _("");
@@ -1997,14 +1997,14 @@ const u8 gSurskitPokedexText[] = _(
 const u8 gSurskitPokedexTextUnused[] = _("");
 
 const u8 gMasquerainPokedexText[] = _(
-    "Antennerne har särprägede mönstre der\n"
-    "ligner öjne. Nâr det regner bliver de\n"
-    "tunge sâ flyvning er umulig.");
+    "Antennerne har særprægede mønstre der\n"
+    "ligner øjne. Når det regner bliver de\n"
+    "tunge så flyvning er umulig.");
 
 const u8 gMasquerainPokedexTextUnused[] = _("");
 
 const u8 gShroomishPokedexText[] = _(
-    "Den foreträkker fugtige steder. Om dagen\n"
+    "Den foretrækker fugtige steder. Om dagen\n"
     "holder den sig stille i skovens skygge.\n"
     "Den udskiller giftigt pulver fra hovedet.");
 
@@ -2012,13 +2012,13 @@ const u8 gShroomishPokedexTextUnused[] = _("");
 
 const u8 gBreloomPokedexText[] = _(
     "The seeds on its tail are made of toxic\n"
-    "spores. It knocks out fös with quick,\n"
+    "spores. It knocks out føs with quick,\n"
     "virtually invisible punches.");
 
 const u8 gBreloomPokedexTextUnused[] = _("");
 
 const u8 gSlakothPokedexText[] = _(
-    "Den sover 20 timer hver dag. At göre dem\n"
+    "Den sover 20 timer hver dag. At gøre dem\n"
     "der ser den søvnige er en af dens\n"
     "evner.");
 
@@ -2033,85 +2033,85 @@ const u8 gVigorothPokedexTextUnused[] = _("");
 
 const u8 gSlakingPokedexText[] = _(
     "Det er verdens mest dovne POKéMON.\n"
-    "Men det kan udöve skrämmende kraft ved\n"
-    "at frigive oplagt energi pâ een gang.");
+    "Men det kan udøve skræmmende kraft ved\n"
+    "at frigive oplagt energi på een gang.");
 
 const u8 gSlakingPokedexTextUnused[] = _("");
 
 const u8 gNincadaPokedexText[] = _(
-    "Fordi det levede nästen helt under jorden,\n"
-    "er det nästen blindt. Det bruger sine\n"
+    "Fordi det levede næsten helt under jorden,\n"
+    "er det næsten blindt. Det bruger sine\n"
     "antenner i stedet.");
 
 const u8 gNincadaPokedexTextUnused[] = _("");
 
 const u8 gNinjaskPokedexText[] = _(
-    "Dette POKéMON er sâ hurtigt, at det siges at\n"
-    "kunne undgâ ethvert angreb. Det elsker at\n"
-    "spise träsaft.");
+    "Dette POKéMON er så hurtigt, at det siges at\n"
+    "kunne undgå ethvert angreb. Det elsker at\n"
+    "spise træsaft.");
 
 const u8 gNinjaskPokedexTextUnused[] = _("");
 
 const u8 gShedinjaPokedexText[] = _(
-    "Et meget ejendommeligt POKéMON der pâ en eller\n"
-    "anden mâde dukker op i en POKé BALL nâr en\n"
+    "Et meget ejendommeligt POKéMON der på en eller\n"
+    "anden måde dukker op i en POKé BALL når en\n"
     "NINCADA udvikler sig.");
 
 const u8 gShedinjaPokedexTextUnused[] = _("");
 
 const u8 gWhismurPokedexText[] = _(
-    "Det mumler normalt, men begynder at gräde\n"
-    "höjt hvis det märker fare. Det stopper nâr\n"
-    "dens örepropper er lukket.");
+    "Det mumler normalt, men begynder at græde\n"
+    "højt hvis det mærker fare. Det stopper når\n"
+    "dens ørepropper er lukket.");
 
 const u8 gWhismurPokedexTextUnused[] = _("");
 
 const u8 gLoudredPokedexText[] = _(
-    "Nâr det stamper med födderne og bröler,\n"
-    "fremkalder det ultralydsbölger der kan\n"
-    "bläse et hus fra hinanden.");
+    "Når det stamper med fødderne og brøler,\n"
+    "fremkalder det ultralydsbølger der kan\n"
+    "blæse et hus fra hinanden.");
 
 const u8 gLoudredPokedexTextUnused[] = _("");
 
 const u8 gExploudPokedexText[] = _(
-    "Det udsender en räkke lyde fra hullerne\n"
-    "over hele sin krop. Dens höje skrig kan\n"
-    "höres fra over ti kilometer väk.");
+    "Det udsender en række lyde fra hullerne\n"
+    "over hele sin krop. Dens høje skrig kan\n"
+    "høres fra over ti kilometer væk.");
 
 const u8 gExploudPokedexTextUnused[] = _("");
 
 const u8 gMakuhitaPokedexText[] = _(
-    "Det bliver stärkere ved at udstâ hârd\n"
-    "träning. Det er et modigt POKéMON der kan\n"
-    "modstâ ethvert angreb.");
+    "Det bliver stærkere ved at udstå hård\n"
+    "træning. Det er et modigt POKéMON der kan\n"
+    "modstå ethvert angreb.");
 
 const u8 gMakuhitaPokedexTextUnused[] = _("");
 
 const u8 gHariyamaPokedexText[] = _(
     "Det stamper i jorden for at opbygge kraft.\n"
     "Det kan sende en 10-tons lastbil flyvende\n"
-    "med et lige armstöd.");
+    "med et lige armstød.");
 
 const u8 gHariyamaPokedexTextUnused[] = _("");
 
 const u8 gAzurillPokedexText[] = _(
-    "Det kämper ved at svinge sin hale, som er\n"
-    "större end sin krop. Halen fungerer som\n"
+    "Det kæmper ved at svinge sin hale, som er\n"
+    "større end sin krop. Halen fungerer som\n"
     "flydedevice i vand.");
 
 const u8 gAzurillPokedexTextUnused[] = _("");
 
 const u8 gNosepassPokedexText[] = _(
-    "Dens magnetiske näse vender altid mod\n"
+    "Dens magnetiske næse vender altid mod\n"
     "nord. Rejsende tjekker NOSEPASS for at\n"
     "finde retningen.");
 
 const u8 gNosepassPokedexTextUnused[] = _("");
 
 const u8 gSkittyPokedexText[] = _(
-    "Det siges at väre svärt at vinde dens\n"
-    "tillid. Men det er yderst populärt for\n"
-    "sine nuttede looks og adfärd.");
+    "Det siges at være svært at vinde dens\n"
+    "tillid. Men det er yderst populært for\n"
+    "sine nuttede looks og adfærd.");
 
 const u8 gSkittyPokedexTextUnused[] = _("");
 
@@ -2123,78 +2123,78 @@ const u8 gDelcattyPokedexText[] = _(
 const u8 gDelcattyPokedexTextUnused[] = _("");
 
 const u8 gSableyePokedexText[] = _(
-    "Det lever af ädelstenskrystaller.\n"
-    "I mörke funkler dens ojne med\n"
+    "Det lever af ædelstenskrystaller.\n"
+    "I mørke funkler dens ojne med\n"
     "juvelernes glans.");
 
 const u8 gSableyePokedexTextUnused[] = _("");
 
 const u8 gMawilePokedexText[] = _(
     "Det bruger sit tamt udseende ansigt til at\n"
-    "lulle fjender i sikkerhed, sâ bider det med\n"
-    "sine enorme, ubarmhjertige käbber.");
+    "lulle fjender i sikkerhed, så bider det med\n"
+    "sine enorme, ubarmhjertige kæbber.");
 
 const u8 gMawilePokedexTextUnused[] = _("");
 
 const u8 gAronPokedexText[] = _(
-    "Det spiser jern for at opbygge sin stâlkrop.\n"
+    "Det spiser jern for at opbygge sin stålkrop.\n"
     "Det er en plage der stiger ned fra bjerge for\n"
-    "at spise brör og jernbaneskinner.");
+    "at spise brør og jernbaneskinner.");
 
 const u8 gAronPokedexTextUnused[] = _("");
 
 const u8 gLaironPokedexText[] = _(
-    "Det viser vanemässigt sin styrke med\n"
-    "störrelsen af gnister den skaber ved at\n"
-    "ramme sin stâlkrop mod klippeblokke.");
+    "Det viser vanemæssigt sin styrke med\n"
+    "størrelsen af gnister den skaber ved at\n"
+    "ramme sin stålkrop mod klippeblokke.");
 
 const u8 gLaironPokedexTextUnused[] = _("");
 
 const u8 gAggronPokedexText[] = _(
-    "Det gör krav pâ et stort bjerg som sit\n"
-    "eneste territorium. Det täver nâdeslöst dem\n"
-    "der kränker dens plads.");
+    "Det gør krav på et stort bjerg som sit\n"
+    "eneste territorium. Det tæver nådesløst dem\n"
+    "der krænker dens plads.");
 
 const u8 gAggronPokedexTextUnused[] = _("");
 
 const u8 gMedititePokedexText[] = _(
-    "Det springer aldrig sin daglige yogaträning over.\n"
-    "Det öger sin indre styrke gennem\n"
+    "Det springer aldrig sin daglige yogatræning over.\n"
+    "Det øger sin indre styrke gennem\n"
     "meditation.");
 
 const u8 gMedititePokedexTextUnused[] = _("");
 
 const u8 gMedichamPokedexText[] = _(
-    "Det undgâr elegant angreb med danselignende\n"
-    "skridt, sâ affyrer et ödeläggende slag\n"
-    "i samme bevägelse.");
+    "Det undgår elegant angreb med danselignende\n"
+    "skridt, så affyrer et ødelæggende slag\n"
+    "i samme bevægelse.");
 
 const u8 gMedichamPokedexTextUnused[] = _("");
 
 const u8 gElectrikePokedexText[] = _(
     "Det lagrer statisk elektricitet i sin pels\n"
     "til udladning. Det afgiver gnister hvis en\n"
-    "storm närmer sig.");
+    "storm nærmer sig.");
 
 const u8 gElectrikePokedexTextUnused[] = _("");
 
 const u8 gManectricPokedexText[] = _(
-    "Det viser sig själdent for mennesker.\n"
+    "Det viser sig sjældent for mennesker.\n"
     "Det siges at rede hvor lynet er\n"
-    "slâet ned.");
+    "slået ned.");
 
 const u8 gManectricPokedexTextUnused[] = _("");
 
 const u8 gPluslePokedexText[] = _(
-    "Det hepper pâ partnere mens det spreder\n"
+    "Det hepper på partnere mens det spreder\n"
     "gnister fra sin krop. Det klatrer op ad\n"
     "telefonstolper for at optage elektricitet.");
 
 const u8 gPluslePokedexTextUnused[] = _("");
 
 const u8 gMinunPokedexText[] = _(
-    "Dens uvilje mod vand fâr det til at söge ly\n"
-    "under tagskägget pâ huse i regnvejr. Det\n"
+    "Dens uvilje mod vand får det til at søge ly\n"
+    "under tagskægget på huse i regnvejr. Det\n"
     "bruger pompoms af gnister til at heppe.");
 
 const u8 gMinunPokedexTextUnused[] = _("");
@@ -2207,65 +2207,65 @@ const u8 gVolbeatPokedexText[] = _(
 const u8 gVolbeatPokedexTextUnused[] = _("");
 
 const u8 gIllumisePokedexText[] = _(
-    "Den guider VOLBEAT til at tegne tegn pâ\n"
+    "Den guider VOLBEAT til at tegne tegn på\n"
     "nathimlen. Der er forskere der studerer\n"
-    "mönstrene den skaber.");
+    "mønstrene den skaber.");
 
 const u8 gIllumisePokedexTextUnused[] = _("");
 
 const u8 gRoseliaPokedexText[] = _(
     "Dens blomster afgiver en afslappende duft.\n"
-    "Jo stärkere dens aroma, jo sundere er\n"
+    "Jo stærkere dens aroma, jo sundere er\n"
     "ROSELIA.");
 
 const u8 gRoseliaPokedexTextUnused[] = _("");
 
 const u8 gGulpinPokedexText[] = _(
-    "Der er intet dens mave ikke kan fordöje.\n"
-    "Mens den fordöjer, udândes der grimme,\n"
-    "overväldende gasser.");
+    "Der er intet dens mave ikke kan fordøje.\n"
+    "Mens den fordøjer, udåndes der grimme,\n"
+    "overvældende gasser.");
 
 const u8 gGulpinPokedexTextUnused[] = _("");
 
 const u8 gSwalotPokedexText[] = _(
-    "Det kan sluge et däk helt i een mundfuld.\n"
-    "Det udskiller en forfärdelig giftig väske\n"
-    "fra porene pâ sin krop.");
+    "Det kan sluge et dæk helt i een mundfuld.\n"
+    "Det udskiller en forfærdelig giftig væske\n"
+    "fra porene på sin krop.");
 
 const u8 gSwalotPokedexTextUnused[] = _("");
 
 const u8 gCarvanhaPokedexText[] = _(
-    "Det lever i massive floder der löber gennem\n"
-    "jungler. Det svärmer om bytte der\n"
-    "träder ind pâ dens territorium.");
+    "Det lever i massive floder der løber gennem\n"
+    "jungler. Det sværmer om bytte der\n"
+    "træder ind på dens territorium.");
 
 const u8 gCarvanhaPokedexTextUnused[] = _("");
 
 const u8 gSharpedoPokedexText[] = _(
-    "Havets bölle, den har hugtänder der knuser\n"
-    "jern. Den svömmer ved at spröjte vand\n"
+    "Havets bølle, den har hugtænder der knuser\n"
+    "jern. Den svømmer ved at sprøjte vand\n"
     "ud fra sin bagende.");
 
 const u8 gSharpedoPokedexTextUnused[] = _("");
 
 const u8 gWailmerPokedexText[] = _(
-    "Nâr den suger en stor mängde havvand ind,\n"
+    "Når den suger en stor mængde havvand ind,\n"
     "bliver den som en stor, hoppende bold. Den\n"
     "spiser et ton mad dagligt.");
 
 const u8 gWailmerPokedexTextUnused[] = _("");
 
 const u8 gWailordPokedexText[] = _(
-    "Den er blandt de störste af alle POKéMON.\n"
+    "Den er blandt de største af alle POKéMON.\n"
     "Den driver bytte i flok og sluge derefter\n"
     "det samlede bytte i een mundfuld.");
 
 const u8 gWailordPokedexTextUnused[] = _("");
 
 const u8 gNumelPokedexText[] = _(
-    "Magma pâ nästen 1200 grader Celsius löber\n"
-    "gennem dens krop. Nâr den bliver kold,\n"
-    "stivner magmän og bremser den.");
+    "Magma på næsten 1200 grader Celsius løber\n"
+    "gennem dens krop. Når den bliver kold,\n"
+    "stivner magmæn og bremser den.");
 
 const u8 gNumelPokedexTextUnused[] = _("");
 
@@ -2277,71 +2277,71 @@ const u8 gCameruptPokedexText[] = _(
 const u8 gCameruptPokedexTextUnused[] = _("");
 
 const u8 gTorkoalPokedexText[] = _(
-    "Den bränder kul inde i sit skjold. Hvis den\n"
-    "bliver angrebet, bövser den tyk, sort rög\n"
+    "Den brænder kul inde i sit skjold. Hvis den\n"
+    "bliver angrebet, bøvser den tyk, sort røg\n"
     "og flygter.");
 
 const u8 gTorkoalPokedexTextUnused[] = _("");
 
 const u8 gSpoinkPokedexText[] = _(
-    "Det dör tilsyneladende hvis det holder op med\n"
-    "at hoppe. Det bärer en perle fra CLAMPERL\n"
-    "pâ sit hoved.");
+    "Det dør tilsyneladende hvis det holder op med\n"
+    "at hoppe. Det bærer en perle fra CLAMPERL\n"
+    "på sit hoved.");
 
 const u8 gSpoinkPokedexTextUnused[] = _("");
 
 const u8 gGrumpigPokedexText[] = _(
-    "Den kan fâ kontrol over fjender ved at lave\n"
-    "underlige dansetrin. De sorte perler pâ dens\n"
-    "pande er ädelsten.");
+    "Den kan få kontrol over fjender ved at lave\n"
+    "underlige dansetrin. De sorte perler på dens\n"
+    "pande er ædelsten.");
 
 const u8 gGrumpigPokedexTextUnused[] = _("");
 
 const u8 gSpindaPokedexText[] = _(
     "Ingen to SPINDA siges at have identiske\n"
-    "mönstre. Den forvirrer fjender med sine\n"
-    "vraltende bevägelser.");
+    "mønstre. Den forvirrer fjender med sine\n"
+    "vraltende bevægelser.");
 
 const u8 gSpindaPokedexTextUnused[] = _("");
 
 const u8 gTrapinchPokedexText[] = _(
-    "Den lever i torre örkener. Den laver en\n"
-    "skrâ faldgrube i sand hvor den venter\n"
-    "tâlmodigt pâ bytte.");
+    "Den lever i torre ørkener. Den laver en\n"
+    "skrå faldgrube i sand hvor den venter\n"
+    "tålmodigt på bytte.");
 
 const u8 gTrapinchPokedexTextUnused[] = _("");
 
 const u8 gVibravaPokedexText[] = _(
-    "Den fremkalder ultralydsbölger ved voldsomt\n"
-    "at slâ med vingerne. Efter at have fâet sit\n"
-    "bytte til at besvime, oplöser den det med syre.");
+    "Den fremkalder ultralydsbølger ved voldsomt\n"
+    "at slå med vingerne. Efter at have fået sit\n"
+    "bytte til at besvime, opløser den det med syre.");
 
 const u8 gVibravaPokedexTextUnused[] = _("");
 
 const u8 gFlygonPokedexText[] = _(
-    "Den skjuler sig ved at kicke örkensand op\n"
-    "med vingerne. Röde däkninger beskytter dens\n"
+    "Den skjuler sig ved at kicke ørkensand op\n"
+    "med vingerne. Røde dækninger beskytter dens\n"
     "ojne mod sand.");
 
 const u8 gFlygonPokedexTextUnused[] = _("");
 
 const u8 gCacneaPokedexText[] = _(
-    "Den foreträkker hârde omgivelser som\n"
-    "örkener. Den kan overleve 30 dage pâ\n"
+    "Den foretrækker hårde omgivelser som\n"
+    "ørkener. Den kan overleve 30 dage på\n"
     "vand lagret i sin krop.");
 
 const u8 gCacneaPokedexTextUnused[] = _("");
 
 const u8 gCacturnePokedexText[] = _(
-    "Den lever i örkener. Den bliver aktiv om\n"
-    "natten nâr den jager bytte udmattet\n"
-    "af örkensens varme.");
+    "Den lever i ørkener. Den bliver aktiv om\n"
+    "natten når den jager bytte udmattet\n"
+    "af ørkensens varme.");
 
 const u8 gCacturnePokedexTextUnused[] = _("");
 
 const u8 gSwabluPokedexText[] = _(
     "Den plejer konstant sine bomuldslignende\n"
-    "vinger. Den tager et brusebad for at göre\n"
+    "vinger. Den tager et brusebad for at gøre\n"
     "sig ren hvis den bliver snavset.");
 
 const u8 gSwabluPokedexTextUnused[] = _("");
@@ -2354,77 +2354,77 @@ const u8 gAltariaPokedexText[] = _(
 const u8 gAltariaPokedexTextUnused[] = _("");
 
 const u8 gZangoosePokedexText[] = _(
-    "Hvis den möder en SEVIPER, rejser dens pels\n"
+    "Hvis den møder en SEVIPER, rejser dens pels\n"
     "sig og den indtager sin kampstilling. Dens\n"
-    "skarpe klör er dens bedste vâben.");
+    "skarpe klør er dens bedste våben.");
 
 const u8 gZangoosePokedexTextUnused[] = _("");
 
 const u8 gSeviperPokedexText[] = _(
-    "Den hvässer sin svärdlignende hale pâ hârde\n"
-    "klipper. Den skjuler sig i höjt gräs og\n"
-    "slâr uforsigtigt bytte med giftige hugtänder.");
+    "Den hvæsser sin sværdlignende hale på hårde\n"
+    "klipper. Den skjuler sig i højt græs og\n"
+    "slår uforsigtigt bytte med giftige hugtænder.");
 
 const u8 gSeviperPokedexTextUnused[] = _("");
 
 const u8 gLunatonePokedexText[] = _(
-    "Dens helbred ebbes og flyder med mânecyklussen.\n"
-    "Den flyder over med kraft nâr den udsättes\n"
-    "for fuldmânens lys.");
+    "Dens helbred ebbes og flyder med månecyklussen.\n"
+    "Den flyder over med kraft når den udsættes\n"
+    "for fuldmånens lys.");
 
 const u8 gLunatonePokedexTextUnused[] = _("");
 
 const u8 gSolrockPokedexText[] = _(
     "Den absorberer solenergi om dagen. Altid\n"
-    "udtrykslös kan den märke hvad dens fjende\n"
-    "tänker.");
+    "udtryksløs kan den mærke hvad dens fjende\n"
+    "tænker.");
 
 const u8 gSolrockPokedexTextUnused[] = _("");
 
 const u8 gBarboachPokedexText[] = _(
-    "Den undersöger mudrede flodleje med sine to\n"
+    "Den undersøger mudrede flodleje med sine to\n"
     "lange whiskers. En slimede film beskytter\n"
     "dens krop.");
 
 const u8 gBarboachPokedexTextUnused[] = _("");
 
 const u8 gWhiscashPokedexText[] = _(
-    "Den laver sit rede pâ bunden af sumpe.\n"
+    "Den laver sit rede på bunden af sumpe.\n"
     "Den spiser hvad som helst - hvis det er\n"
     "i live, spiser WHISCASH det.");
 
 const u8 gWhiscashPokedexTextUnused[] = _("");
 
 const u8 gCorphishPokedexText[] = _(
-    "Den kom fra oversöen. Det er et meget robust\n"
-    "väsen der hurtigt formerer sig, selv i\n"
-    "forurenede vandlöb.");
+    "Den kom fra oversøen. Det er et meget robust\n"
+    "væsen der hurtigt formerer sig, selv i\n"
+    "forurenede vandløb.");
 
 const u8 gCorphishPokedexTextUnused[] = _("");
 
 const u8 gCrawdauntPokedexText[] = _(
-    "En hârd type der vildt svinger sine kämpe\n"
-    "klör. Den siges at väre yderst svär at\n"
+    "En hård type der vildt svinger sine kæmpe\n"
+    "klør. Den siges at være yderst svær at\n"
     "opdrage.");
 
 const u8 gCrawdauntPokedexTextUnused[] = _("");
 
 const u8 gBaltoyPokedexText[] = _(
     "Den blev opdaget i oldtidsruiner. Mens den\n"
-    "beväger sig, snurrer den konstant. Den\n"
-    "stâer pâ et ben selv nâr den sover.");
+    "bevæger sig, snurrer den konstant. Den\n"
+    "ståer på et ben selv når den sover.");
 
 const u8 gBaltoyPokedexTextUnused[] = _("");
 
 const u8 gClaydolPokedexText[] = _(
-    "Den lader til at väre födt af lerdukker lavet\n"
+    "Den lader til at være født af lerdukker lavet\n"
     "af oldtidens folk. Den bruger telekinese til\n"
-    "at svärve og bevärge sig.");
+    "at sværve og beværge sig.");
 
 const u8 gClaydolPokedexTextUnused[] = _("");
 
 const u8 gLileepPokedexText[] = _(
-    "Den uddöde for omkring 100 millioner âr\n"
+    "Den uddøde for omkring 100 millioner år\n"
     "siden. Den blev regenereret fra et fossil\n"
     "ved avancerede teknikker.");
 
@@ -2432,22 +2432,22 @@ const u8 gLileepPokedexTextUnused[] = _("");
 
 const u8 gCradilyPokedexText[] = _(
     "Den fanger bytte med sine otte tentakler.\n"
-    "Den oplöser derefter byttet med stärk syre\n"
-    "för den spiser.");
+    "Den opløser derefter byttet med stærk syre\n"
+    "før den spiser.");
 
 const u8 gCradilyPokedexTextUnused[] = _("");
 
 const u8 gAnorithPokedexText[] = _(
     "Den er en slags POKéMON-forfader. Den bruger\n"
-    "sine udstrakte klör til at fange bytte der\n"
-    "skjuler sig mellem klipper pâ havbunden.");
+    "sine udstrakte klør til at fange bytte der\n"
+    "skjuler sig mellem klipper på havbunden.");
 
 const u8 gAnorithPokedexTextUnused[] = _("");
 
 const u8 gArmaldoPokedexText[] = _(
-    "Beskyttet af et hârdt skjold er dens krop\n"
+    "Beskyttet af et hårdt skjold er dens krop\n"
     "meget robust. Den spidder bytte med sine\n"
-    "klör for at äde.");
+    "klør for at æde.");
 
 const u8 gArmaldoPokedexTextUnused[] = _("");
 
@@ -2460,47 +2460,47 @@ const u8 gFeebasPokedexTextUnused[] = _("");
 
 const u8 gMiloticPokedexText[] = _(
     "MILOTIC er betagende smuk. De der ser den\n"
-    "siges at glemme deres campând.");
+    "siges at glemme deres campånd.");
 
 const u8 gMiloticPokedexTextUnused[] = _("");
 
 const u8 gCastformPokedexText[] = _(
     "Den har evnen til at skifte sin form til\n"
-    "solen, regnen eller en sne sky, afhängigt\n"
+    "solen, regnen eller en sne sky, afhængigt\n"
     "af vejret.");
 
 const u8 gCastformPokedexTextUnused[] = _("");
 
 const u8 gKecleonPokedexText[] = _(
     "Den skifter kropfarve for at smelte sammen\n"
-    "med omgivelserne. Den skifter ogsâ farve\n"
+    "med omgivelserne. Den skifter også farve\n"
     "hvis den er glad eller trist.");
 
 const u8 gKecleonPokedexTextUnused[] = _("");
 
 const u8 gShuppetPokedexText[] = _(
-    "Den elsker at näre sig af fölelser som\n"
-    "misundelse og ondskab. Dens opretstâende\n"
-    "horn fanger menneskers fölelser.");
+    "Den elsker at nære sig af følelser som\n"
+    "misundelse og ondskab. Dens opretstående\n"
+    "horn fanger menneskers følelser.");
 
 const u8 gShuppetPokedexTextUnused[] = _("");
 
 const u8 gBanettePokedexText[] = _(
-    "Stärke hadfölelser forvandlede en dukke til\n"
-    "et POKéMON. Hvis den âbner munden, slipper\n"
+    "Stærke hadfølelser forvandlede en dukke til\n"
+    "et POKéMON. Hvis den åbner munden, slipper\n"
     "dens forbandede energi ud.");
 
 const u8 gBanettePokedexTextUnused[] = _("");
 
 const u8 gDuskullPokedexText[] = _(
-    "Den gör sig usynlig og snegler sig lydlöst\n"
-    "ind pâ bytte. Den kan glide gennem tykke\n"
+    "Den gør sig usynlig og snegler sig lydløst\n"
+    "ind på bytte. Den kan glide gennem tykke\n"
     "mure.");
 
 const u8 gDuskullPokedexTextUnused[] = _("");
 
 const u8 gDusclopsPokedexText[] = _(
-    "Dens krop er helt hul. Nâr den âbner munden,\n"
+    "Dens krop er helt hul. Når den åbner munden,\n"
     "suger den alt ind som om den var et sort\n"
     "hul.");
 
@@ -2509,63 +2509,63 @@ const u8 gDusclopsPokedexTextUnused[] = _("");
 const u8 gTropiusPokedexText[] = _(
     "Den lever i tropiske jungler. Frugtbunken\n"
     "omkring halsen er delikat. Frugten vokser\n"
-    "to gange om âret.");
+    "to gange om året.");
 
 const u8 gTropiusPokedexTextUnused[] = _("");
 
 const u8 gChimechoPokedexText[] = _(
-    "Den rejser ved at ride pâ vinde. Den bruger\n"
-    "klogt sin lange hale til at plukke nödder og\n"
-    "bär, som den elsker at spise.");
+    "Den rejser ved at ride på vinde. Den bruger\n"
+    "klogt sin lange hale til at plukke nødder og\n"
+    "bær, som den elsker at spise.");
 
 const u8 gChimechoPokedexTextUnused[] = _("");
 
 const u8 gAbsolPokedexText[] = _(
-    "Den viser sig nâr den märker en forestâende\n"
+    "Den viser sig når den mærker en forestående\n"
     "naturkatastrofe. Derfor blev den fejlagtigt\n"
     "anseet som ulykkesbud.");
 
 const u8 gAbsolPokedexTextUnused[] = _("");
 
 const u8 gWynautPokedexText[] = _(
-    "Den beväger sig gerne i flok med andre.\n"
-    "De klynger sig sammen i en tät gruppe for\n"
+    "Den bevæger sig gerne i flok med andre.\n"
+    "De klynger sig sammen i en tæt gruppe for\n"
     "at sove i en hule.");
 
 const u8 gWynautPokedexTextUnused[] = _("");
 
 const u8 gSnoruntPokedexText[] = _(
-    "Det siges at et hjem besögt af en SNORUNT\n"
-    "vil trives. Den tâler kulde pâ minus 65\n"
+    "Det siges at et hjem besøgt af en SNORUNT\n"
+    "vil trives. Den tåler kulde på minus 65\n"
     "grader Celsius.");
 
 const u8 gSnoruntPokedexTextUnused[] = _("");
 
 const u8 gGlaliePokedexText[] = _(
     "Den har en krop af is der ikke smelter,\n"
-    "selv med ild. Den kan öjeblikkeligt fryse\n"
-    "fugt i atmosfären.");
+    "selv med ild. Den kan øjeblikkeligt fryse\n"
+    "fugt i atmosfæren.");
 
 const u8 gGlaliePokedexTextUnused[] = _("");
 
 const u8 gSphealPokedexText[] = _(
-    "Dens krop er däkket af blöd pels. Pelsen\n"
+    "Dens krop er dækket af blød pels. Pelsen\n"
     "holder den fra at fryse mens den ruller\n"
-    "pâ is.");
+    "på is.");
 
 const u8 gSphealPokedexTextUnused[] = _("");
 
 const u8 gSealeoPokedexText[] = _(
-    "Den rörer nye ting med näsen for at teste\n"
-    "lugt og föle. Den leger ved at snurre\n"
-    "SPHEAL pâ näsen.");
+    "Den rører nye ting med næsen for at teste\n"
+    "lugt og føle. Den leger ved at snurre\n"
+    "SPHEAL på næsen.");
 
 const u8 gSealeoPokedexTextUnused[] = _("");
 
 const u8 gWalreinPokedexText[] = _(
-    "Den svömmer gennem isnende have mens den\n"
-    "splintrer isflage med sine store stødtänder.\n"
-    "Den er beskyttet af sin tykke späk.");
+    "Den svømmer gennem isnende have mens den\n"
+    "splintrer isflage med sine store stødtænder.\n"
+    "Den er beskyttet af sin tykke spæk.");
 
 const u8 gWalreinPokedexTextUnused[] = _("");
 
@@ -2578,21 +2578,21 @@ const u8 gClamperlPokedexTextUnused[] = _("");
 
 const u8 gHuntailPokedexText[] = _(
     "Den lever dybt i havet hvor intet lys\n"
-    "nâr ned. Den oplyser sin lille fiskelignende\n"
-    "hale for at tilträkke bytte.");
+    "når ned. Den oplyser sin lille fiskelignende\n"
+    "hale for at tiltrække bytte.");
 
 const u8 gHuntailPokedexTextUnused[] = _("");
 
 const u8 gGorebyssPokedexText[] = _(
-    "Dens svömmform er udsögt elegant. Med sin\n"
+    "Dens svømmform er udsøgt elegant. Med sin\n"
     "tynde mund spiser den tang der vokser\n"
     "mellem klipper.");
 
 const u8 gGorebyssPokedexTextUnused[] = _("");
 
 const u8 gRelicanthPokedexText[] = _(
-    "Den har forblevet uändret i 100 millioner\n"
-    "âr. Den blev opdaget under en dybhavs-\n"
+    "Den har forblevet uændret i 100 millioner\n"
+    "år. Den blev opdaget under en dybhavs-\n"
     "ekspedition.");
 
 const u8 gRelicanthPokedexTextUnused[] = _("");
@@ -2604,77 +2604,77 @@ const u8 gLuvdiscPokedexText[] = _(
 const u8 gLuvdiscPokedexTextUnused[] = _("");
 
 const u8 gBagonPokedexText[] = _(
-    "Dens stâlhârde hoved kan splintre klippeblokke.\n"
-    "Den hâber längselsfuldt pâ at fâ vinger sâ\n"
+    "Dens stålhårde hoved kan splintre klippeblokke.\n"
+    "Den håber længselsfuldt på at få vinger så\n"
     "den kan flyve.");
 
 const u8 gBagonPokedexTextUnused[] = _("");
 
 const u8 gShelgonPokedexText[] = _(
-    "Dens panserede krop fâr alle angreb til at\n"
-    "prelle af. Panseret er dog for hârdt og\n"
-    "gör den tung og noget slöv.");
+    "Dens panserede krop får alle angreb til at\n"
+    "prelle af. Panseret er dog for hårdt og\n"
+    "gør den tung og noget sløv.");
 
 const u8 gShelgonPokedexTextUnused[] = _("");
 
 const u8 gSalamencePokedexText[] = _(
     "Den bliver ukontrollerbar hvis den bliver\n"
-    "rasende. Den ödelägger alt med sine\n"
-    "rivende klör og ild.");
+    "rasende. Den ødelægger alt med sine\n"
+    "rivende klør og ild.");
 
 const u8 gSalamencePokedexTextUnused[] = _("");
 
 const u8 gBeldumPokedexText[] = _(
-    "Den bruger magnetiske bölger til at tale med\n"
-    "sine artsfäller. Alle celler i dens krop er\n"
+    "Den bruger magnetiske bølger til at tale med\n"
+    "sine artsfæller. Alle celler i dens krop er\n"
     "magnetiske.");
 
 const u8 gBeldumPokedexTextUnused[] = _("");
 
 const u8 gMetangPokedexText[] = _(
-    "Den sväver i luften ved magnetism. Dens krop\n"
-    "er sâ hârd at selv et sammenstød med et jet-\n"
+    "Den svæver i luften ved magnetism. Dens krop\n"
+    "er så hård at selv et sammenstød med et jet-\n"
     "fly ikke efterlader ridse.");
 
 const u8 gMetangPokedexTextUnused[] = _("");
 
 const u8 gMetagrossPokedexText[] = _(
     "Den dannes ved at to METANG smelter sammen.\n"
-    "Dens fire hjerner siges at väre overlegne\n"
+    "Dens fire hjerner siges at være overlegne\n"
     "over en supercomputer.");
 
 const u8 gMetagrossPokedexTextUnused[] = _("");
 
 const u8 gRegirockPokedexText[] = _(
-    "Den er helt sammensat af klipper uden tegn pâ\n"
+    "Den er helt sammensat af klipper uden tegn på\n"
     "hjerne eller hjerte. Den er et mysterium selv\n"
     "for moderne forskere.");
 
 const u8 gRegirockPokedexTextUnused[] = _("");
 
 const u8 gRegicePokedexText[] = _(
-    "Forskning afslörede at dens krop er lavet af\n"
-    "samme slags is som findes pâ Sydpolen.");
+    "Forskning afslørede at dens krop er lavet af\n"
+    "samme slags is som findes på Sydpolen.");
 
 const u8 gRegicePokedexTextUnused[] = _("");
 
 const u8 gRegisteelPokedexText[] = _(
     "Den er mere solid end nogen form for metal.\n"
-    "Den härdede under tryk under jorden over\n"
-    "titusindvis af âr.");
+    "Den hærdede under tryk under jorden over\n"
+    "titusindvis af år.");
 
 const u8 gRegisteelPokedexTextUnused[] = _("");
 
 const u8 gLatiasPokedexText[] = _(
     "Den kan kommunikere telepatisk med mennesker.\n"
-    "Den skifter udseende ved hjälp af sit dun\n"
+    "Den skifter udseende ved hjælp af sit dun\n"
     "der bryder lys.");
 
 const u8 gLatiasPokedexTextUnused[] = _("");
 
 const u8 gLatiosPokedexText[] = _(
     "Den har et mildt temperament og kan ikke lide\n"
-    "at kämpe. Ved at träkke forbenene ind kan\n"
+    "at kæmpe. Ved at trække forbenene ind kan\n"
     "den flyve hurtigere end et jetfly.");
 
 const u8 gLatiosPokedexTextUnused[] = _("");
@@ -2688,28 +2688,28 @@ const u8 gKyogrePokedexTextUnused[] = _("");
 
 const u8 gGroudonPokedexText[] = _(
     "Dette legendariske POKéMON siges at\n"
-    "repräsentere landet. Den faldt i sövn efter\n"
+    "repræsentere landet. Den faldt i søvn efter\n"
     "at have duelleret med KYOGRE.");
 
 const u8 gGroudonPokedexTextUnused[] = _("");
 
 const u8 gRayquazaPokedexText[] = _(
-    "Den har levet i hundreder af millioner âr i\n"
+    "Den har levet i hundreder af millioner år i\n"
     "ozonlaget. Dens flyvende form ligner en\n"
     "meteor.");
 
 const u8 gRayquazaPokedexTextUnused[] = _("");
 
 const u8 gJirachiPokedexText[] = _(
-    "Den siges at opfylde ethvert önske.\n"
-    "Den er vâgen i kun syv dage ud af\n"
-    "tusind âr.");
+    "Den siges at opfylde ethvert ønske.\n"
+    "Den er vågen i kun syv dage ud af\n"
+    "tusind år.");
 
 const u8 gJirachiPokedexTextUnused[] = _("");
 
 const u8 gDeoxysPokedexText[] = _(
     "Denne DEOXYS har forvandlet sig til sin\n"
     "aggressive skikkelse. Den kan narre fjender\n"
-    "ved at ändre sit udseende.");
+    "ved at ændre sit udseende.");
 
 const u8 gDeoxysPokedexTextUnused[] = _("");

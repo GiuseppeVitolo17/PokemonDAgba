@@ -4,7 +4,7 @@ Help_Text_WhatShouldIDo::
 Help_Text_HowDoIDoThis::
 	.string "Hvordan gör jeg det her?$"
 
-Help_Text_WhatDösThisTermMean::
+Help_Text_WhatDoesThisTermMean::
 	.string "Hvad betyder dette begreb?$"
 
 Help_Text_AboutThisGame::
@@ -30,7 +30,7 @@ Help_Text_DescHowDoIDoThis::
 	.string "Detaljerede instruktioner gives for\n"
 	.string "forskellige handlinger.$"
 
-Help_Text_DescWhatDösThisTermMean::
+Help_Text_DescWhatDoesThisTermMean::
 	.string "Detaljerede beskrivelser gives for\n"
 	.string "begreber der opträder i spillet.$"
 
@@ -145,7 +145,7 @@ Help_Text_WantToAddMoreMoves::
 Help_Text_WantToMakeMonStronger::
 	.string "Jeg vil göre mine POKeMON stärkere.$"
 
-Help_Text_FöMonsTooStrong::
+Help_Text_FoeMonsTooStrong::
 	.string "Fjendens POKeMON er for stärke!$"
 
 Help_Text_WhatDoIDoInCave::
@@ -169,7 +169,7 @@ Help_Text_WhatsAMon::
 Help_Text_WhatIsThatPersonLike::
 	.string "Hvordan er den person?$"
 
-Help_Text_WhatDösHiddenMoveDo::
+Help_Text_WhatDoesHiddenMoveDo::
 	.string "Hvad gör et SKJULT angreb?$"
 
 Help_Text_WhatDoIDoInSafari::
@@ -437,7 +437,7 @@ Help_Text_AnswerWantToMakeMonStronger::
 	.string "them. Battle wild POKeMON often to\l"
 	.string "level up your party.$"
 
-Help_Text_AnswerFöMonsTooStrong::
+Help_Text_AnswerFoeMonsTooStrong::
 	.string "If your fös are too strong, try\n"
 	.string "leveling up your POKeMON some more.\l"
 	.string "Go back the way you came and battle\l"
@@ -493,7 +493,7 @@ Help_Text_AnswerWhatIsThatPersonLike::
 	.string "KEY ITEMS in your BAG.\l"
 	.string "It may give you a hint, so try it out.$"
 
-Help_Text_AnswerWhatDösHiddenMoveDo::
+Help_Text_AnswerWhatDoesHiddenMoveDo::
 	.string "A HIDDEN move is taught to a POKeMON\n"
 	.string "using an HM (Hidden Machine).\l"
 	.string "A HIDDEN move is important for helping\l"

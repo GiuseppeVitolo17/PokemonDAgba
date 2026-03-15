@@ -11,13 +11,18 @@
 #define CHAR_E_CIRCUMFLEX      0x07
 #define CHAR_E_DIAERESIS       0x08
 #define CHAR_I_GRAVE           0x09
+#define CHAR_O_STROKE          0x09  /* Danish Ø (shared with Ì) */
 //#define CHAR_I_ACUTE         0x0A // Is 0x5A instead
 #define CHAR_I_CIRCUMFLEX      0x0B
+#define CHAR_A_RING            0x0B  /* Danish Å (shared with Î) */
 #define CHAR_I_DIAERESIS       0x0C
+#define CHAR_a_RING            0x0C  /* Danish å (shared with Ï) */
 #define CHAR_O_GRAVE           0x0D
+#define CHAR_o_STROKE          0x0D  /* Danish ø (shared with Ò) */
 #define CHAR_O_ACUTE           0x0E
 #define CHAR_O_CIRCUMFLEX      0x0F
 #define CHAR_OE                0x10
+#define CHAR_AE_CAP            0x10  /* Danish Æ (shared with Œ) */
 #define CHAR_U_GRAVE           0x11
 #define CHAR_U_ACUTE           0x12
 #define CHAR_U_CIRCUMFLEX      0x13
@@ -39,6 +44,7 @@
 #define CHAR_o_ACUTE           0x23
 #define CHAR_o_CIRCUMFLEX      0x24
 #define CHAR_oe                0x25
+#define CHAR_ae                0x25  /* Danish æ (shared with œ) */
 #define CHAR_u_GRAVE           0x26
 #define CHAR_u_ACUTE           0x27
 #define CHAR_u_CIRCUMFLEX      0x28

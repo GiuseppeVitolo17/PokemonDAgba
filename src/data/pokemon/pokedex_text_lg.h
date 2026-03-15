@@ -1256,12 +1256,12 @@ const u8 gMareepPokedexText[] = _(
 
 const u8 gMareepPokedexTextUnused[] = _("");
 
-const u8 gFlâffyPokedexText[] = _(
+const u8 gFlaaffyPokedexText[] = _(
     "Som folge af at lagre for meget\n"
     "elektricitet udviklede den pletter hvor\n"
     "selv dunuld ikke vokser.");
 
-const u8 gFlâffyPokedexTextUnused[] = _("");
+const u8 gFlaaffyPokedexTextUnused[] = _("");
 
 const u8 gAmpharosPokedexText[] = _(
     "Halens spids skinner kraftigt og kan ses\n"
@@ -1298,12 +1298,12 @@ const u8 gSudowoodoPokedexText[] = _(
 
 const u8 gSudowoodoPokedexTextUnused[] = _("");
 
-const u8 gPolitödPokedexText[] = _(
+const u8 gPolitoedPokedexText[] = _(
     "Hörer POLIWAG og POLIWHIRL dens ekko-\n"
     "skrig, samles de som svar fra vidt og\n"
     "bredt.");
 
-const u8 gPolitödPokedexTextUnused[] = _("");
+const u8 gPolitoedPokedexTextUnused[] = _("");
 
 const u8 gHoppipPokedexText[] = _(
     "For ikke at bläse väk af vinden samles de\n"
