@@ -1,18 +1,18 @@
 PalletTown_Text_OakDontGoOut::
     .string "OAK: Hej! Vent!\n"
-    .string "Gaa ikke ud!$"
+    .string "Gâ ikke ud!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
     .string "OAK: Det er farligt!\n"
-    .string "Vilde POKeMON lever i hoejt graes!\p"
+    .string "Vilde POKeMON lever i höjt gräs!\p"
     .string "Du har brug for din egen POKeMON\n"
     .string "til beskyttelse.\p"
     .string "Jeg ved det!\n"
     .string "Kom med mig!$"
 
 PalletTown_Text_RaisingMonsToo::
-    .string "Jeg opdrager ogsaa POKeMON.\p"
-    .string "Naar de bliver staerke, kan de\n"
+    .string "Jeg opdrager ogsâ POKeMON.\p"
+    .string "Nâr de bliver stärke, kan de\n"
     .string "beskytte mig.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
@@ -38,23 +38,23 @@ PalletTown_Text_OakLetMeSeePokedex::
     .string "Du er tilbage?\p"
     .string "Hvor meget har du udfyldt i din\n"
     .string "POKeDEX?\p"
-    .string "Maa jeg se den?\p"
+    .string "Mâ jeg se den?\p"
     .string "Lad mig se…$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
     .string "Du har fanget {STR_VAR_2}…\p"
-    .string "Hm, det ser ud til at du goer et\n"
-    .string "aerligt forsoeg.\p"
-    .string "Naar du faar udfyldt mere, kom og\n"
+    .string "Hm, det ser ud til at du gör et\n"
+    .string "ärligt forsög.\p"
+    .string "Nâr du fâr udfyldt mere, kom og\n"
     .string "vis mig det.$"
 
 PalletTown_Text_CaughtXImpressiveFollowMe::
     .string "Du har fanget… {STR_VAR_2}!?\n"
     .string "Det er imponerende!\p"
-    .string "Der er noget jeg vil spoerge dig om,\n"
+    .string "Der er noget jeg vil spörge dig om,\n"
     .string "{PLAYER}.\p"
     .string "Kom.\n"
-    .string "Foelg mig.$"
+    .string "Fölg mig.$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
     .string "OAK: Ah, {PLAYER}!\n"

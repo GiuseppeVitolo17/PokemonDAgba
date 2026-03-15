@@ -1,5 +1,5 @@
 Route13_Text_SebastianIntro::
-    .string "Mine fugle-POKeMON vil kaempe\n"
+    .string "Mine fugle-POKeMON vil kämpe\n"
     .string "mod dig!$"
 
 Route13_Text_SebastianDefeat::
@@ -11,7 +11,7 @@ Route13_Text_SebastianPostBattle::
     .string "de tabte.$"
 
 Route13_Text_SusieIntro::
-    .string "Jeg har faaet at vide at jeg er god\n"
+    .string "Jeg har fâet at vide at jeg er god\n"
     .string "til et barn.$"
 
 Route13_Text_SusieDefeat::
@@ -20,7 +20,7 @@ Route13_Text_SusieDefeat::
 
 Route13_Text_SusiePostBattle::
     .string "Jeg vil blive en god TRAINER.\n"
-    .string "Jeg traener haardt, bare se.$"
+    .string "Jeg träner hârdt, bare se.$"
 
 Route13_Text_ValerieIntro::
     .string "Wow!\n"
@@ -34,42 +34,42 @@ Route13_Text_ValeriePostBattle::
     .string "LEADERS. Det ved jeg!$"
 
 Route13_Text_GwenIntro::
-    .string "Mine soede POKeMON vil gerne laere\n"
+    .string "Mine söde POKeMON vil gerne läre\n"
     .string "dig at kende.$"
 
 Route13_Text_GwenDefeat::
-    .string "Godt gaaet!\n"
+    .string "Godt gâet!\n"
     .string "Du vandt totalt!$"
 
 Route13_Text_GwenPostBattle::
-    .string "Man skal lade POKeMON kaempe for\n"
-    .string "at staerke dem.$"
+    .string "Man skal lade POKeMON kämpe for\n"
+    .string "at stärke dem.$"
 
 Route13_Text_AlmaIntro::
     .string "Jeg fandt CARBOS i en grotte engang\n"
     .string "da jeg udforskede huler.$"
 
 Route13_Text_AlmaDefeat::
-    .string "Aa, for daarligt!\n"
+    .string "Aa, for dârligt!\n"
     .string "Jeg rodede det bare til!$"
 
 Route13_Text_AlmaPostBattle::
-    .string "CARBOS boede HASTIGHEDEN af mine\n"
+    .string "CARBOS böde HASTIGHEDEN af mine\n"
     .string "POKeMON.$"
 
 Route13_Text_PerryIntro::
-    .string "Jeg taenker ikke at tabe.\n"
-    .string "Ikke naar vinden blaeser min vej!$"
+    .string "Jeg tänker ikke at tabe.\n"
+    .string "Ikke nâr vinden bläser min vej!$"
 
 Route13_Text_PerryDefeat::
     .string "Vinden vendte!$"
 
 Route13_Text_PerryPostBattle::
-    .string "Jeg er slaaet.\n"
+    .string "Jeg er slâet.\n"
     .string "Jeg flyver hjem, tror jeg.$"
 
 Route13_Text_LolaIntro::
-    .string "Selvfoelgelig leger jeg med dig,\n"
+    .string "Selvfölgelig leger jeg med dig,\n"
     .string "skat.$"
 
 Route13_Text_LolaDefeat::
@@ -77,11 +77,11 @@ Route13_Text_LolaDefeat::
     .string "Dit lille uhyre!$"
 
 Route13_Text_LolaPostBattle::
-    .string "Jeg spekulerer paa hvem der er\n"
-    .string "staerkest, han eller hun POKeMON?$"
+    .string "Jeg spekulerer pâ hvem der er\n"
+    .string "stärkest, han eller hun POKeMON?$"
 
 Route13_Text_SheilaIntro::
-    .string "Vil du kaempe med nogle\n"
+    .string "Vil du kämpe med nogle\n"
     .string "POKeMON mod mig?$"
 
 Route13_Text_SheilaDefeat::
@@ -94,11 +94,11 @@ Route13_Text_SheilaPostBattle::
     .string "for deres udseende!$"
 
 Route13_Text_JaredIntro::
-    .string "Hvad glor du paa?$"
+    .string "Hvad glor du pâ?$"
 
 Route13_Text_JaredDefeat::
     .string "Pokker!\n"
-    .string "Gaar i staa!$"
+    .string "Gâr i stâ!$"
 
 Route13_Text_JaredPostBattle::
     .string "Forsvind!$"
@@ -108,10 +108,10 @@ Route13_Text_RobertIntro::
     .string "Jeg har viet mig til dem.$"
 
 Route13_Text_RobertDefeat::
-    .string "Stroemmen er slukket!$"
+    .string "Strömmen er slukket!$"
 
 Route13_Text_RobertPostBattle::
-    .string "Jeg ville oenske jeg kunne flyve som\n"
+    .string "Jeg ville önske jeg kunne flyve som\n"
     .string "PIDGEY og PIDGEOTTO...$"
 
 Route13_Text_LookToLeftOfThatPost::

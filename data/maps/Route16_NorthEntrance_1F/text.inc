@@ -1,9 +1,9 @@
 Route16_NorthEntrance_1F_Text_NoPedestriansOnCyclingRoad::
-    .string "Fodgaengere er ikke tilladt paa\n"
+    .string "Fodgängere er ikke tilladt pâ\n"
     .string "CYKELVEJ!$"
 
 Route16_NorthEntrance_1F_Text_CyclingRoadIsDownhillCourse::
-    .string "CYKELVEJ er en nedadgaaende bane\n"
+    .string "CYKELVEJ er en nedadgâende bane\n"
     .string "ved havet. Det er en fantastisk tur.$"
 
 Route16_NorthEntrance_1F_Text_ExcuseMeWaitUp::

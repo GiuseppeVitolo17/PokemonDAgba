@@ -1,18 +1,18 @@
 PokemonTower_3F_Text_HopeIntro::
-    .string "Urrg… Awaa…\n"
-    .string "Huhu… Graa…$"
+    .string "Urrg… Awâ…\n"
+    .string "Huhu… Grâ…$"
 
 PokemonTower_3F_Text_HopeDefeat::
     .string "Hwa!\n"
     .string "Jeg er reddet!$"
 
 PokemonTower_3F_Text_HopePostBattle::
-    .string "Spoegelserne kan identificeres med\n"
+    .string "Spögelserne kan identificeres med\n"
     .string "SILPH SCOPE.$"
 
 PokemonTower_3F_Text_CarlyIntro::
     .string "Kekeke…\n"
-    .string "Kwaaah!$"
+    .string "Kwâah!$"
 
 PokemonTower_3F_Text_CarlyDefeat::
     .string "Hmm?\n"
@@ -24,12 +24,12 @@ PokemonTower_3F_Text_CarlyPostBattle::
 
 PokemonTower_3F_Text_PatriciaIntro::
     .string "Forsvind!\n"
-    .string "Ondskaabsfuld aand!$"
+    .string "Ondskâbsfuld ând!$"
 
 PokemonTower_3F_Text_PatriciaDefeat::
     .string "Puha!\n"
     .string "Aanden forlod!$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-    .string "De andre ovenpaa…\n"
-    .string "De maa have vaeret besat.$"
+    .string "De andre ovenpâ…\n"
+    .string "De mâ have väret besat.$"

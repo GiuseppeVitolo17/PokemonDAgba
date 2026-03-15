@@ -1,15 +1,15 @@
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
     .string "LORELEI: Der er noget der tynger\n"
-    .string "meget paa mit sind.\p"
-    .string "Hvis der skete noget paa oeen hvor\n"
-    .string "jeg er foedt…\p"
+    .string "meget pâ mit sind.\p"
+    .string "Hvis der skete noget pâ öen hvor\n"
+    .string "jeg er födt…\p"
     .string "Ville jeg ikke vide det hvis jeg var\n"
     .string "i POKeMON LEAGUE.\p"
-    .string "Jeg spekulerer paa om det ville\n"
-    .string "goere mig uansvarlig over for mit hjem…$"
+    .string "Jeg spekulerer pâ om det ville\n"
+    .string "göre mig uansvarlig over for mit hjem…$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
-    .string "LORELEI: Saa du loeste alle\n"
+    .string "LORELEI: Sâ du löste alle\n"
     .string "problemerne her?\p"
     .string "Det er vidunderligt.\p"
     .string "Det betyder der ikke er nogen grund\n"
@@ -21,7 +21,7 @@ FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
 FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
     .string "Jeg ved ikke hvad der sker i\n"
     .string "fremtiden, men…\p"
-    .string "Jeg goer hvad jeg kan her og nu.\n"
+    .string "Jeg gör hvad jeg kan her og nu.\n"
     .string "Det er alt jeg kan.$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::

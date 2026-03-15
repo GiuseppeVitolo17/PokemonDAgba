@@ -109,69 +109,69 @@ EventScript_GiveProfile:
 	end
 
 Text_IdLoveToHearYourProfile:
-	.string "Hi, glad to meet you!\p"
-	.string "…That's unfriendly of you.\n"
-	.string "How about saying hi back?\p"
-	.string "So, come on, tell me about\n"
-	.string "yourself.\p"
-	.string "I'd love to hear your profile!$"
+	.string "Hej, dejligt at möde dig!\p"
+	.string "…Det er uvenligt af dig.\n"
+	.string "Hvad med at sige hej tilbage?\p"
+	.string "Kom nu, fortäl mig om\n"
+	.string "dig selv.\p"
+	.string "Jeg vil meget gerne höre din profil!$"
 
 Text_TellMeWhatsYourProfile:
-	.string "Tell me something good about\n"
-	.string "yourself. What's your profile?$"
+	.string "Fortäl mig noget godt om\n"
+	.string "dig selv. Hvad er din profil?$"
 
 Text_ExplainProfile:
-	.string "A profile is written using four\n"
-	.string "words or phrases.\p"
-	.string "There're plenty of words to choose\n"
-	.string "from for your profile.\p"
-	.string "The words and phrases are placed\n"
-	.string "in several convenient groups.\p"
-	.string "First, choose a group, then choose\n"
-	.string "a word or phrase.\p"
-	.string "…It's easier than it sounds.\n"
-	.string "Why don't you try it?$"
+	.string "En profil skrives med fire\n"
+	.string "ord eller udtryk.\p"
+	.string "Der er masser af ord at välge\n"
+	.string "mellem til din profil.\p"
+	.string "Ordene og udtrykkene er placeret\n"
+	.string "i flere praktiske grupper.\p"
+	.string "Först välg en gruppe, derefter\n"
+	.string "et ord eller udtryk.\p"
+	.string "…Det er nemmere end det lyder.\n"
+	.string "Pröv det dog!$"
 
 Text_WhatsYourProfile:
-	.string "What's your profile?$"
+	.string "Hvad er din profil?$"
 
 Text_DontBeLikeThat:
-	.string "Aww… Don't be like that.\n"
-	.string "You can tell me your profile.$"
+	.string "Av… Vär nu ikke sâ led.\n"
+	.string "Du kan godt fortälle mig din profil.$"
 
 Text_DecidedNotTo:
-	.string "Oh, you've decided not to?\n"
-	.string "You're fickle, aren't you?$"
+	.string "Aa, du har besluttet dig for ikke?\n"
+	.string "Du er väglende, er du ikke?$"
 
 Text_HiWeMeetAgain:
-	.string "Hi!\n"
-	.string "We meet again!$"
+	.string "Hej!\n"
+	.string "Vi mödes igen!$"
 
 Text_ChangeYourProfile:
-	.string "Would you like to change your\n"
-	.string "profile?$"
+	.string "Vil du gerne ändre din\n"
+	.string "profil?$"
 
 Text_WhatAreYouLikeNow:
-	.string "What are you like now?\n"
-	.string "I'd really like to know.$"
+	.string "Hvordan er du nu?\n"
+	.string "Det vil jeg virkelig gerne vide.$"
 
 Text_LikeProfileWayItIs:
-	.string "Okay, you like your profile the\n"
-	.string "way it is.\p"
-	.string "I think so, too.$"
+	.string "Ok, du kan lide din profil\n"
+	.string "som den er.\p"
+	.string "Det synes jeg ogsâ.$"
 
 Text_ProfileSaysSomethingAboutYou:
 	.string "Hmhm…\p"
-	.string "Your profile really says something\n"
-	.string "about who you are.\p"
-	.string "Now that I know you better, it \n"
-	.string "makes us better friends than ever!$"
+	.string "Din profil siger virkelig noget\n"
+	.string "om hvem du er.\p"
+	.string "Nu hvor jeg kender dig bedre,\n"
+	.string "bliver vi bedre venner end nogensinde!$"
 
 Text_HeardThatBefore:
-	.string "Oh, I've heard that before…\p"
-	.string "My cousin, who lives far away,\n"
-	.string "always used to say that, I think.$"
+	.string "Aa, det har jeg hört för…\p"
+	.string "Min kusine, der bor langt väk,\n"
+	.string "sagde altid det, tror jeg.$"
 
 Text_TellMoreNextTime:
-	.string "Please tell me more about\n"
-	.string "yourself next time!$"
+	.string "Fortäl mig venligst mere om\n"
+	.string "dig selv näste gang!$"

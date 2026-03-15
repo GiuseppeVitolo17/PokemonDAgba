@@ -1,6 +1,6 @@
 PokedexRating_Text_HowIsPokedexComingAlong::
 	.string "OAK: Godt at se dig!\n"
-	.string "Hvordan gaar det med din POKeDEX?\p"
+	.string "Hvordan gâr det med din POKeDEX?\p"
 	.string "Lad mig tage et kig.$"
 
 PokedexRating_Text_SeenXOwnedY::
@@ -11,36 +11,36 @@ PokedexRating_Text_SeenXOwnedY::
 
 PokedexRating_Text_LessThan10::
 	.string "Du har stadig meget at gore.\p"
-	.string "Ga ind i hver graesplet du ser\n"
+	.string "Ga ind i hver gräsplet du ser\n"
 	.string "og led efter POKeMON!$"
 
 PokedexRating_Text_LessThan20::
-	.string "Det ser ud til at du er paa rette\n"
+	.string "Det ser ud til at du er pâ rette\n"
 	.string "vej!\p"
 	.string "Jeg har givet en af mine assistenter\n"
-	.string "en FLASH-HM. Haent den!$"
+	.string "en FLASH-HM. Hänt den!$"
 
 PokedexRating_Text_LessThan30::
 	.string "Din POKeDEX kunne bruge lidt mere\n"
 	.string "indhold!\p"
-	.string "Forsoeg at fange andre POKeMON-\n"
+	.string "Forsög at fange andre POKeMON-\n"
 	.string "arter!$"
 
 PokedexRating_Text_LessThan40::
 	.string "Godt, det er tydeligt at du\n"
-	.string "goer dig umage!\p"
+	.string "gör dig umage!\p"
 	.string "Jeg har givet en af mine assistenter\n"
-	.string "en GENSTANDSFINDER. Haent den!$"
+	.string "en GENSTANDSFINDER. Hänt den!$"
 
 PokedexRating_Text_LessThan50::
 	.string "Din POKeDEX kommer godt fra sted!\p"
 	.string "Jeg har givet en af mine assistenter\n"
-	.string "et AMULET-MOENT. Haent det!$"
+	.string "et AMULET-MÖNT. Hänt det!$"
 
 PokedexRating_Text_LessThan60::
 	.string "Ah, du har endelig over 50 arter!\p"
 	.string "Jeg har givet en af mine assistenter\n"
-	.string "et EXP.-DELER. Haent det!$"
+	.string "et EXP.-DELER. Hänt det!$"
 
 PokedexRating_Text_LessThan70::
 	.string "Hoho! Det her bliver en rigtig\n"
@@ -52,15 +52,15 @@ PokedexRating_Text_LessThan80::
 	.string "POKeMON ved at fiske!$"
 
 PokedexRating_Text_LessThan90::
-	.string "Vidunderligt! Lad mig gaette… Du\n"
+	.string "Vidunderligt! Lad mig gätte… Du\n"
 	.string "kan godt lide at samle, ikke?$"
 
 PokedexRating_Text_LessThan100::
 	.string "Jeg er imponeret!\n"
-	.string "Det maa have vaeret svaert!$"
+	.string "Det mâ have väret svärt!$"
 
 PokedexRating_Text_LessThan110::
-	.string "Du har endelig naaet 100 arter!\n"
+	.string "Du har endelig nâet 100 arter!\n"
 	.string "Utroligt hvor dygtig du er!$"
 
 PokedexRating_Text_LessThan120::
@@ -69,10 +69,10 @@ PokedexRating_Text_LessThan120::
 
 PokedexRating_Text_LessThan130::
 	.string "Fremragende! Bytt med venner for\n"
-	.string "at faa flere!$"
+	.string "at fâ flere!$"
 
 PokedexRating_Text_LessThan140::
-	.string "Enestaende!\n"
+	.string "Enestände!\n"
 	.string "Du er blevet en rigtig ekspert!$"
 
 PokedexRating_Text_LessThan150::
@@ -80,7 +80,7 @@ PokedexRating_Text_LessThan150::
 	.string "Du er POKeMON-professoren nu!$"
 
 PokedexRating_Text_Complete::
-	.string "Din POKeDEX er helt faerdig!\n"
+	.string "Din POKeDEX er helt färdig!\n"
 	.string "Tillykke!!$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
@@ -89,21 +89,21 @@ PokedexRating_Text_NationalDexSeenXOwnedY::
 	.string "{STR_VAR_2} POKeMON ejet.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
-	.string "Jeg glaeder mig til at se dig\n"
+	.string "Jeg gläder mig til at se dig\n"
 	.string "udfylde NATIONAL POKeDEX!$"
 
 PokedexRating_Text_YouveCompletedDex::
 	.string "Endelig…\p"
-	.string "Du har endelig faerdiggjort\n"
+	.string "Du har endelig färdiggjort\n"
 	.string "POKeDEX!\p"
-	.string "Det er storslaaet!\n"
+	.string "Det er storslâet!\n"
 	.string "Virkelig en fantastisk bedrift!$"
 
-PokedexRating_Text_Wroooaaarrr::
-	.string "Wroooooooaaaaaarrrr!$"
+PokedexRating_Text_Wroooâarrr::
+	.string "Wroooooooââârrrr!$"
 
 PokedexRating_Text_HaHa::
-	.string "はあ はあ‥$"
+	.string "Ha ha...$"
 
 PokedexRating_Text_ThankYouMadeDreamReality::
 	.string "Tak, {PLAYER}!\n"
@@ -112,7 +112,7 @@ PokedexRating_Text_ThankYouMadeDreamReality::
 
 PokedexRating_Text_LoveSeeingYourPokedex::
 	.string "OAK: Ah, velkommen!\p"
-	.string "Sig mig, hvordan gaar det med\n"
+	.string "Sig mig, hvordan gâr det med\n"
 	.string "din POKeDEX?\p"
 	.string "Wahaha!\p"
 	.string "Faktisk ved jeg hvordan det er,\n"

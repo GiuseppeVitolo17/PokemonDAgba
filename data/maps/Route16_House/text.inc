@@ -1,8 +1,8 @@
 Route16_House_Text_FoundMySecretRetreat::
-    .string "Aa, kaere.\n"
+    .string "Aa, käre.\n"
     .string "Du har fundet mit hemmelige tilflugtssted.\p"
-    .string "Fortael det ikke til nogen.\n"
-    .string "Jeg goer det godt med dette!$"
+    .string "Fortäl det ikke til nogen.\n"
+    .string "Jeg gör det godt med dette!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
     .string "{PLAYER} modtog HM02\n"

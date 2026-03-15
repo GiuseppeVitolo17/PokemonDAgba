@@ -2,8 +2,8 @@
 
 DayCare_Text_ImDaycareManSpeakToMyWife::
 	.string "Jeg er DAGPLEJEMANDEN.\p"
-	.string "Jeg hjaelper med at passe TRAINERs\n"
-	.string "kaere POKeMON.\p"
+	.string "Jeg hjälper med at passe TRAINERs\n"
+	.string "käre POKeMON.\p"
 	.string "Hvis du vil have mig til at opdrage\n"
 	.string "dine POKeMON, tal med min kone.$"
 
@@ -11,7 +11,7 @@ DayCare_Text_DoYouWantEgg::
 	.string "Ah, det er dig!\p"
 	.string "Vi passede dine POKeMON, og\n"
 	.string "gode gud, blev vi overraskede!\p"
-	.string "Din POKeMON fik et AEG!\p"
+	.string "Din POKeMON fik et ÄG!\p"
 	.string "Vi ved ikke hvordan det skete,\n"
 	.string "men din POKeMON havde det.\p"
 	.string "Du vil gerne have det, ikke?$"
@@ -21,19 +21,19 @@ DayCare_Text_YourMonIsDoingFine::
 	.string "Din {STR_VAR_1} har det fint.$"
 
 DayCare_Text_IllKeepIt::
-	.string "Na, saa beholder jeg det.\n"
+	.string "Na, sâ beholder jeg det.\n"
 	.string "Tak!$"
 
 DayCare_Text_YouHaveNoRoomForIt::
 	.string "Du har ikke plads til det…\n"
-	.string "Kom tilbage naar du har lavet plads.$"
+	.string "Kom tilbage nâr du har lavet plads.$"
 
 DayCare_Text_ReceivedEgg::
-	.string "{PLAYER} modtog AEGGET fra\n"
+	.string "{PLAYER} modtog ÄGGET fra\n"
 	.string "DAGPLEJEMANDEN.$"
 
 DayCare_Text_TakeGoodCareOfIt::
-	.string "Pas godt paa det.$"
+	.string "Pas godt pâ det.$"
 
 DayCare_Text_SeeWifeIfYouWantToPickUpMon::
 	.string "ポケモンを　ひきとりたい　ときは\n"
@@ -77,7 +77,7 @@ DayCare_Text_NotEnoughMoney::
 	.string "Du har ikke nok penge…$"
 
 DayCare_Text_TakeOtherOneBackToo::
-	.string "Vil du ogsaa hente den anden?$"
+	.string "Vil du ogsâ hente den anden?$"
 
 DayCare_Text_ComeAgain::
 	.string "Fint.\n"
@@ -86,7 +86,7 @@ DayCare_Text_ComeAgain::
 DayCare_Text_GoodToSeeYou::
 	.string "Ah, det er dig!\n"
 	.string "Godt at se dig.\p"
-	.string "Dine POKeMON maa have det\n"
+	.string "Dine POKeMON mâ have det\n"
 	.string "godt!$"
 
 DayCare_Text_YourMonHasGrownXLevels::
@@ -95,7 +95,7 @@ DayCare_Text_YourMonHasGrownXLevels::
 
 DayCare_Text_YourPartyIsFull::
 	.string "Din POKeMON-hold er fuldt.\n"
-	.string "Lav plads, og kom saa til mig.$"
+	.string "Lav plads, og kom sâ til mig.$"
 
 DayCare_Text_TakeBackWhichMon::
 	.string "どっちの　ポケモンを　ひきとるかい？$"
@@ -122,7 +122,7 @@ DayCare_Text_TakeYourMonBack::
 
 DayCare_Text_WhatWillYouBattleWith::
 	.string "Hvis du efterlader den POKeMON,\n"
-	.string "hvad vil du saa kaempe med?\p"
+	.string "hvad vil du sâ kämpe med?\p"
 	.string "Kom tilbage en anden gang.$"
 
 DayCare_Text_Huh::

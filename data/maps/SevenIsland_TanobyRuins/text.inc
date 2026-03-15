@@ -3,13 +3,13 @@ SevenIsland_TanobyRuins_Text_BrandonIntro::
     .string "stenskammer?$"
 
 SevenIsland_TanobyRuins_Text_BrandonDefeat::
-    .string "Det var unoedvendigt.\n"
-    .string "Du behoevede ikke vaere saa haard.$"
+    .string "Det var unödvendigt.\n"
+    .string "Du behövede ikke väre sâ hârd.$"
 
 SevenIsland_TanobyRuins_Text_BrandonPostBattle::
     .string "TANOBY RUINS er mindst\n"
-    .string "1.500 aar gamle.\p"
-    .string "Men det er et gaadefuldt mysterium\n"
+    .string "1.500 âr gamle.\p"
+    .string "Men det er et gâdefuldt mysterium\n"
     .string "hvorfor det overhovedet blev bygget.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminIntro::
@@ -17,36 +17,36 @@ SevenIsland_TanobyRuins_Text_BenjaminIntro::
     .string "inde her.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminDefeat::
-    .string "Jeg er ikke saerlig god til kamp.$"
+    .string "Jeg er ikke särlig god til kamp.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminPostBattle::
-    .string "Jeg hoerer at der er andre ruiner\n"
+    .string "Jeg hörer at der er andre ruiner\n"
     .string "som den her.\p"
-    .string "Kunne de vaere hvilesteder for\n"
+    .string "Kunne de väre hvilesteder for\n"
     .string "andre mystiske POKeMON?$"
 
 SevenIsland_TanobyRuins_Text_EdnaIntro::
-    .string "CLIFFORD laerer mig at male.$"
+    .string "CLIFFORD lärer mig at male.$"
 
 SevenIsland_TanobyRuins_Text_EdnaDefeat::
-    .string "Vi kan faa problemer for at vaere\n"
+    .string "Vi kan fâ problemer for at väre\n"
     .string "lystige her.$"
 
 SevenIsland_TanobyRuins_Text_EdnaPostBattle::
     .string "Jeg sagde at jeg ville male en\n"
     .string "gammel bygning.\p"
-    .string "Saa CLIFFORD bragte mig her.$"
+    .string "Sâ CLIFFORD bragte mig her.$"
 
 SevenIsland_TanobyRuins_Text_CliffordIntro::
     .string "I dag kom vi for at se kammeret\n"
     .string "ud over vores lektion.$"
 
 SevenIsland_TanobyRuins_Text_CliffordDefeat::
-    .string "Min, hvor usaedvanligt.$"
+    .string "Min, hvor usädvanligt.$"
 
 SevenIsland_TanobyRuins_Text_CliffordPostBattle::
-    .string "Aah, saa du studerer POKeMON\n"
-    .string "paa egen haand…\p"
+    .string "Aah, sâ du studerer POKeMON\n"
+    .string "pâ egen hând…\p"
     .string "Ja, du er virkelig en ganske\n"
-    .string "usaedvanlig person.$"
+    .string "usädvanlig person.$"
 

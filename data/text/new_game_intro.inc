@@ -126,15 +126,15 @@ gNameChoice_Suzi::
 
 gControlsGuide_Text_Intro::
     .string "De forskellige knapper forklares i\n"
-    .string "raekkefoelge efter deres vigtighed.$"
+    .string "räkkefölge efter deres vigtighed.$"
 
 gControlsGuide_Text_DPad::
-    .string "Bevaeger hovedpersonen.\n"
-    .string "Bruges ogsaa til at vaelge data\n"
+    .string "Beväger hovedpersonen.\n"
+    .string "Bruges ogsâ til at välge data\n"
     .string "og overskrifter.$"
 
 gControlsGuide_Text_AButton::
-    .string "Bruges til at bekraefte valg, tjekke\n"
+    .string "Bruges til at bekräfte valg, tjekke\n"
     .string "ting, snakke og scrolle i teksten.$"
 
 gControlsGuide_Text_BButton::
@@ -142,7 +142,7 @@ gControlsGuide_Text_BButton::
     .string "valg eller afbryde en tilstand.$"
 
 gControlsGuide_Text_StartButton::
-    .string "Tryk for at aabne\n"
+    .string "Tryk for at âbne\n"
     .string "MENUEN.$"
 
 gControlsGuide_Text_SelectButton::
@@ -150,47 +150,47 @@ gControlsGuide_Text_SelectButton::
     .string "bruge en registreret genstand.$"
 
 gControlsGuide_Text_LRButtons::
-    .string "Hvis du har brug for hjaelp til\n"
-    .string "spillet eller hvad du skal goere,\n"
-    .string "tryk paa L- eller R-knappen.$"
+    .string "Hvis du har brug for hjälp til\n"
+    .string "spillet eller hvad du skal göre,\n"
+    .string "tryk pâ L- eller R-knappen.$"
 
 gOakSpeech_Text_AskPlayerGender::
     .string "Sig mig. Er du en dreng?\n"
     .string "Eller er du en pige?$"
 
 gPikachuIntro_Text_Page1::
-    .string "I den verden du snart traeder ind i,\n"
+    .string "I den verden du snart träder ind i,\n"
     .string "venter et stort eventyr med dig\n"
     .string "som helten.\n"
     .string "\n"
     .string "Snak med folk og tjek ting overalt,\n"
-    .string "i byer, paa veje eller i huler.\n"
+    .string "i byer, pâ veje eller i huler.\n"
     .string "Saml oplysninger og spor fra\n"
     .string "alle kilder.$"
 
 gPikachuIntro_Text_Page2::
-    .string "Nye veje aabner sig ved at hjaelpe\n"
-    .string "folk i noed, overvinde udfordringer\n"
-    .string "og loese mysterier.\n"
+    .string "Nye veje âbner sig ved at hjälpe\n"
+    .string "folk i nöd, overvinde udfordringer\n"
+    .string "og löse mysterier.\n"
     .string "\n"
     .string "Til tider bliver du udfordret af\n"
-    .string "andre og angrebet af vilde vaesner.\n"
-    .string "Vaer modig og bliv ved.$"
+    .string "andre og angrebet af vilde väsner.\n"
+    .string "Vär modig og bliv ved.$"
 
 gPikachuIntro_Text_Page3::
-    .string "Gennem dit eventyr haaber vi at du\n"
-    .string "moeder alle slags mennesker og\n"
-    .string "vokser personligt. Det er vigtigste maal.\n"
+    .string "Gennem dit eventyr hâber vi at du\n"
+    .string "möder alle slags mennesker og\n"
+    .string "vokser personligt. Det er vigtigste mâl.\n"
     .string "\n"
-    .string "Tryk paa A-knappen og lad dit\n"
+    .string "Tryk pâ A-knappen og lad dit\n"
     .string "eventyr begynde!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
     .string "Hej med dig!\n"
-    .string "Dejligt at moede dig!\p"
+    .string "Dejligt at möde dig!\p"
     .string "Velkommen til POKeMONs verden!\p"
     .string "Jeg hedder OAK.\p"
-    .string "Folk kalder mig kaerligt\n"
+    .string "Folk kalder mig kärligt\n"
     .string "for POKeMON-professoren.\p$"
 
 gOakSpeech_Text_ThisWorld::
@@ -198,16 +198,16 @@ gOakSpeech_Text_ThisWorld::
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
     .string "…er befolket overalt af\n"
-    .string "vaesner kaldet POKeMON.\p$"
+    .string "väsner kaldet POKeMON.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "For nogle er POKeMON kaeledyr.\n"
+    .string "For nogle er POKeMON käledyr.\n"
     .string "Andre bruger dem til kamp.\p"
-    .string "Hvad mig angaar…\p"
+    .string "Hvad mig angâr…\p"
     .string "Jeg studerer POKeMON til profession.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
-    .string "Men fortael mig foerst lidt om\n"
+    .string "Men fortäl mig först lidt om\n"
     .string "dig selv.\p$"
 
 gOakSpeech_Text_YourNameWhatIsIt::
@@ -216,12 +216,12 @@ gOakSpeech_Text_YourNameWhatIsIt::
 
 gOakSpeech_Text_SoYourNameIsPlayer::
     .string "Ja…\n"
-    .string "Saa du hedder {PLAYER}.$"
+    .string "Sâ du hedder {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
     .string "Dette er min barnebarn.\p"
-    .string "Han har vaeret din rival siden I\n"
-    .string "begge var smaa.\p"
+    .string "Han har väret din rival siden I\n"
+    .string "begge var smâ.\p"
     .string "…Hmm, hvad hed han nu?$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
@@ -231,7 +231,7 @@ gOakSpeech_Text_ConfirmRivalName::
     .string "…Var det {RIVAL}?$"
 
 gOakSpeech_Text_RememberRivalsName::
-    .string "Praecis! Nu husker jeg det!\n"
+    .string "Präcis! Nu husker jeg det!\n"
     .string "Han hedder {RIVAL}!\p$"
 
 gOakSpeech_Text_LetsGo::
@@ -239,4 +239,4 @@ gOakSpeech_Text_LetsGo::
     .string "Din egen POKeMON-legende er\n"
     .string "ved at begynde!\p"
     .string "En verden af dromme og eventyr\n"
-    .string "med POKeMON venter! Lad os goere det!$"
+    .string "med POKeMON venter! Lad os göre det!$"

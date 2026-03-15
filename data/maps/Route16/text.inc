@@ -5,8 +5,8 @@ Route16_Text_LaoDefeat::
     .string "Vag dig for at grine!$"
 
 Route16_Text_LaoPostBattle::
-    .string "Vi kan bare lide at haenge her.\n"
-    .string "Hvad raeger det dig?$"
+    .string "Vi kan bare lide at hänge her.\n"
+    .string "Hvad räger det dig?$"
 
 Route16_Text_KojiIntro::
     .string "Fin CYKEL!\n"
@@ -35,21 +35,21 @@ Route16_Text_HideoDefeat::
     .string "Kaboom!$"
 
 Route16_Text_HideoPostBattle::
-    .string "Vi haenger altid her\n"
+    .string "Vi hänger altid her\n"
     .string "selv om du ikke kan lide det.\p"
-    .string "Du kan koere omvej til VERMILION\n"
+    .string "Du kan köre omvej til VERMILION\n"
     .string "fra FUCHSIA langs kysten.$"
 
 Route16_Text_CamronIntro::
     .string "Jeg er sulten og ond!\n"
-    .string "Jeg har brug for en punchingsaek!$"
+    .string "Jeg har brug for en punchingsäk!$"
 
 Route16_Text_CamronDefeat::
-    .string "Daarligt, daarligt, daarligt!$"
+    .string "Dârligt, dârligt, dârligt!$"
 
 Route16_Text_CamronPostBattle::
     .string "Hvis jeg skal have POKeMON, kan de\n"
-    .string "lige saa godt vaere vilde.\p"
+    .string "lige sâ godt väre vilde.\p"
     .string "Jeg ville bruge dem til at efterlade\n"
     .string "mine fjender i stykker.$"
 
@@ -58,20 +58,20 @@ Route16_Text_RubenIntro::
     .string "Lad os more os ordentligt!$"
 
 Route16_Text_RubenDefeat::
-    .string "Goer mig ikke vred!$"
+    .string "Gör mig ikke vred!$"
 
 Route16_Text_RubenPostBattle::
-    .string "Jeg faar kicks af at chikanere folk\n"
+    .string "Jeg fâr kicks af at chikanere folk\n"
     .string "med mine stinkende POKeMON.\p"
-    .string "De er gode til at skraemme folk.\n"
-    .string "Og de bider ogsaa.$"
+    .string "De er gode til at skrämme folk.\n"
+    .string "Og de bider ogsâ.$"
 
 Route16_Text_MonSprawledOutInSlumber::
     .string "En POKeMON ligger og sover dybt\n"
     .string "og behageligt.$"
 
 Route16_Text_CyclingRoadSign::
-    .string "Nyd skraaningen!\n"
+    .string "Nyd skrâningen!\n"
     .string "CYKELVEJ$"
 
 Route16_Text_RouteSign::
@@ -79,24 +79,24 @@ Route16_Text_RouteSign::
     .string "CELADON CITY - FUCHSIA CITY$"
 
 Route16_Text_JedIntro::
-    .string "JED: Vor kaerlighed kender ingen\n"
-    .string "graenser. Vi er forelskede!$"
+    .string "JED: Vor kärlighed kender ingen\n"
+    .string "gränser. Vi er forelskede!$"
 
 Route16_Text_JedDefeat::
     .string "JED: Aa, nej!\n"
-    .string "Min kaerlighed saa mig som taber!$"
+    .string "Min kärlighed sâ mig som taber!$"
 
 Route16_Text_JedPostBattle::
     .string "JED: Hor, LEA.\n"
-    .string "Du skal fokusere mindre paa mig.$"
+    .string "Du skal fokusere mindre pâ mig.$"
 
 Route16_Text_JedNotEnoughMons::
     .string "JED: Du har kun en POKeMON?\n"
-    .string "Er der ingen kaerlighed i dit hjerte?$"
+    .string "Er der ingen kärlighed i dit hjerte?$"
 
 Route16_Text_LeaIntro::
-    .string "LEA: Nogle gange skraemmer styrken\n"
-    .string "af vor kaerlighed mig.$"
+    .string "LEA: Nogle gange skrämmer styrken\n"
+    .string "af vor kärlighed mig.$"
 
 Route16_Text_LeaDefeat::
     .string "LEA: Aah! Men JED ser sej ud\n"
@@ -104,10 +104,10 @@ Route16_Text_LeaDefeat::
 
 Route16_Text_LeaPostBattle::
     .string "LEA: Ehehe, undskyld.\n"
-    .string "JED er saa sej.$"
+    .string "JED er sâ sej.$"
 
 Route16_Text_LeaNotEnoughMons::
     .string "LEA: Aa, du har ikke to\n"
     .string "POKeMON med dig?\p"
-    .string "Foeles det ikke ensomt for dig eller\n"
+    .string "Föles det ikke ensomt for dig eller\n"
     .string "dine POKeMON?$"

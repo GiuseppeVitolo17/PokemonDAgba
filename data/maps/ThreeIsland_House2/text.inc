@@ -1,10 +1,10 @@
 ThreeIsland_House2_Text_CantMakeThisSpoonBend::
     .string "Urrrrrrrrgggghhhh…\n"
-    .string "Kwaaaaah!\p"
-    .string "…Det er nytteloest! Jeg kan ikke faa\n"
-    .string "denne ske til at boeje med mit sind.\p"
-    .string "Maaske har jeg virkelig ikke nogen\n"
-    .string "psykiske kraefter.$"
+    .string "Kwââah!\p"
+    .string "…Det er nyttelöst! Jeg kan ikke fâ\n"
+    .string "denne ske til at böje med mit sind.\p"
+    .string "Mâske har jeg virkelig ikke nogen\n"
+    .string "psykiske kräfter.$"
 
 ThreeIsland_House2_Text_IAdmireSabrina::
     .string "Kender du en pige GYM LEADER\n"
@@ -12,6 +12,6 @@ ThreeIsland_House2_Text_IAdmireSabrina::
     .string "Hun bruger PSYCHIC-type POKeMON,\n"
     .string "ikke?\p"
     .string "Jeg beundrer hende, virkelig.\p"
-    .string "Jeg har hoert at hun er cool\n"
-    .string "og smuk ogsaa.$"
+    .string "Jeg har hört at hun er cool\n"
+    .string "og smuk ogsâ.$"
 

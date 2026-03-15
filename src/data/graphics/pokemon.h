@@ -985,12 +985,12 @@ const u32 gMonShinyPalette_Kabutops[] = INCBIN_U32("graphics/pokemon/kabutops/sh
 const u8 gMonIcon_Kabutops[] = INCBIN_U8("graphics/pokemon/kabutops/icon.4bpp");
 const u8 gMonFootprint_Kabutops[] = INCBIN_U8("graphics/pokemon/kabutops/footprint.1bpp");
 
-const u32 gMonFrontPic_Aerodactyl[] = INCBIN_U32("graphics/pokemon/aerodactyl/front.4bpp.lz");
-const u32 gMonPalette_Aerodactyl[] = INCBIN_U32("graphics/pokemon/aerodactyl/normal.gbapal.lz");
-const u32 gMonBackPic_Aerodactyl[] = INCBIN_U32("graphics/pokemon/aerodactyl/back.4bpp.lz");
-const u32 gMonShinyPalette_Aerodactyl[] = INCBIN_U32("graphics/pokemon/aerodactyl/shiny.gbapal.lz");
-const u8 gMonIcon_Aerodactyl[] = INCBIN_U8("graphics/pokemon/aerodactyl/icon.4bpp");
-const u8 gMonFootprint_Aerodactyl[] = INCBIN_U8("graphics/pokemon/aerodactyl/footprint.1bpp");
+const u32 gMonFrontPic_Aerodactyl[] = INCBIN_U32("graphics/pokemon/ärodactyl/front.4bpp.lz");
+const u32 gMonPalette_Aerodactyl[] = INCBIN_U32("graphics/pokemon/ärodactyl/normal.gbapal.lz");
+const u32 gMonBackPic_Aerodactyl[] = INCBIN_U32("graphics/pokemon/ärodactyl/back.4bpp.lz");
+const u32 gMonShinyPalette_Aerodactyl[] = INCBIN_U32("graphics/pokemon/ärodactyl/shiny.gbapal.lz");
+const u8 gMonIcon_Aerodactyl[] = INCBIN_U8("graphics/pokemon/ärodactyl/icon.4bpp");
+const u8 gMonFootprint_Aerodactyl[] = INCBIN_U8("graphics/pokemon/ärodactyl/footprint.1bpp");
 
 const u32 gMonFrontPic_Snorlax[] = INCBIN_U32("graphics/pokemon/snorlax/front.4bpp.lz");
 const u32 gMonPalette_Snorlax[] = INCBIN_U32("graphics/pokemon/snorlax/normal.gbapal.lz");
@@ -1251,12 +1251,12 @@ const u32 gMonShinyPalette_Mareep[] = INCBIN_U32("graphics/pokemon/mareep/shiny.
 const u8 gMonIcon_Mareep[] = INCBIN_U8("graphics/pokemon/mareep/icon.4bpp");
 const u8 gMonFootprint_Mareep[] = INCBIN_U8("graphics/pokemon/mareep/footprint.1bpp");
 
-const u32 gMonFrontPic_Flaaffy[] = INCBIN_U32("graphics/pokemon/flaaffy/front.4bpp.lz");
-const u32 gMonPalette_Flaaffy[] = INCBIN_U32("graphics/pokemon/flaaffy/normal.gbapal.lz");
-const u32 gMonBackPic_Flaaffy[] = INCBIN_U32("graphics/pokemon/flaaffy/back.4bpp.lz");
-const u32 gMonShinyPalette_Flaaffy[] = INCBIN_U32("graphics/pokemon/flaaffy/shiny.gbapal.lz");
-const u8 gMonIcon_Flaaffy[] = INCBIN_U8("graphics/pokemon/flaaffy/icon.4bpp");
-const u8 gMonFootprint_Flaaffy[] = INCBIN_U8("graphics/pokemon/flaaffy/footprint.1bpp");
+const u32 gMonFrontPic_Flaaffy[] = INCBIN_U32("graphics/pokemon/flâffy/front.4bpp.lz");
+const u32 gMonPalette_Flaaffy[] = INCBIN_U32("graphics/pokemon/flâffy/normal.gbapal.lz");
+const u32 gMonBackPic_Flaaffy[] = INCBIN_U32("graphics/pokemon/flâffy/back.4bpp.lz");
+const u32 gMonShinyPalette_Flaaffy[] = INCBIN_U32("graphics/pokemon/flâffy/shiny.gbapal.lz");
+const u8 gMonIcon_Flaaffy[] = INCBIN_U8("graphics/pokemon/flâffy/icon.4bpp");
+const u8 gMonFootprint_Flaaffy[] = INCBIN_U8("graphics/pokemon/flâffy/footprint.1bpp");
 
 const u32 gMonFrontPic_Ampharos[] = INCBIN_U32("graphics/pokemon/ampharos/front.4bpp.lz");
 const u32 gMonPalette_Ampharos[] = INCBIN_U32("graphics/pokemon/ampharos/normal.gbapal.lz");
@@ -1293,12 +1293,12 @@ const u32 gMonShinyPalette_Sudowoodo[] = INCBIN_U32("graphics/pokemon/sudowoodo/
 const u8 gMonIcon_Sudowoodo[] = INCBIN_U8("graphics/pokemon/sudowoodo/icon.4bpp");
 const u8 gMonFootprint_Sudowoodo[] = INCBIN_U8("graphics/pokemon/sudowoodo/footprint.1bpp");
 
-const u32 gMonFrontPic_Politoed[] = INCBIN_U32("graphics/pokemon/politoed/front.4bpp.lz");
-const u32 gMonPalette_Politoed[] = INCBIN_U32("graphics/pokemon/politoed/normal.gbapal.lz");
-const u32 gMonBackPic_Politoed[] = INCBIN_U32("graphics/pokemon/politoed/back.4bpp.lz");
-const u32 gMonShinyPalette_Politoed[] = INCBIN_U32("graphics/pokemon/politoed/shiny.gbapal.lz");
-const u8 gMonIcon_Politoed[] = INCBIN_U8("graphics/pokemon/politoed/icon.4bpp");
-const u8 gMonFootprint_Politoed[] = INCBIN_U8("graphics/pokemon/politoed/footprint.1bpp");
+const u32 gMonFrontPic_Politoed[] = INCBIN_U32("graphics/pokemon/politöd/front.4bpp.lz");
+const u32 gMonPalette_Politoed[] = INCBIN_U32("graphics/pokemon/politöd/normal.gbapal.lz");
+const u32 gMonBackPic_Politoed[] = INCBIN_U32("graphics/pokemon/politöd/back.4bpp.lz");
+const u32 gMonShinyPalette_Politoed[] = INCBIN_U32("graphics/pokemon/politöd/shiny.gbapal.lz");
+const u8 gMonIcon_Politoed[] = INCBIN_U8("graphics/pokemon/politöd/icon.4bpp");
+const u8 gMonFootprint_Politoed[] = INCBIN_U8("graphics/pokemon/politöd/footprint.1bpp");
 
 const u32 gMonFrontPic_Hoppip[] = INCBIN_U32("graphics/pokemon/hoppip/front.4bpp.lz");
 const u32 gMonPalette_Hoppip[] = INCBIN_U32("graphics/pokemon/hoppip/normal.gbapal.lz");

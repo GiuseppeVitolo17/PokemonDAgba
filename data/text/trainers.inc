@@ -476,7 +476,7 @@ Route17_Text_ZeekRematchIntro::
 	.string "absolutely won't evolve. Why?$"
 
 Route17_Text_JamalRematchIntro::
-	.string "Gaah! I really need to exercise\n"
+	.string "Gâh! I really need to exercise\n"
 	.string "and seriously trim some flab!$"
 
 Route17_Text_CoreyRematchIntro::
@@ -959,9 +959,9 @@ SevenIsland_SevaultCanyon_Text_CyndyRematchIntro::
 	.string "My conditioning's in top form!$"
 
 SevenIsland_SevaultCanyon_Text_EvanRematchIntro::
-	.string "It doesn't matter if you happen to\n"
+	.string "It dösn't matter if you happen to\n"
 	.string "have the strongest POKeMON…\p"
-	.string "It doesn't mean a thing if you don't\n"
+	.string "It dösn't mean a thing if you don't\n"
 	.string "know how to use them properly!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonRematchIntro::
@@ -970,7 +970,7 @@ SevenIsland_SevaultCanyon_Text_JacksonRematchIntro::
 
 SevenIsland_SevaultCanyon_Text_KatelynRematchIntro::
 	.string "Every time we meet, you have those\n"
-	.string "snazzy shoes on.$"
+	.string "snazzy shös on.$"
 
 SevenIsland_SevaultCanyon_Text_LeroyRematchIntro::
 	.string "You must have gotten tougher.\n"

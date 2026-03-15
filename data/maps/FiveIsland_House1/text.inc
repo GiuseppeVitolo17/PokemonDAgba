@@ -6,10 +6,10 @@ FiveIsland_House1_JPText_HusbandWentOffFishing::
     .string "しんじて　いいのかねえ$"
 
 FiveIsland_House1_Text_HusbandWentOffFishing::
-    .string "Bekymr dig ikke om at koebe noget\n"
+    .string "Bekymr dig ikke om at köbe noget\n"
     .string "til middag i aften!\p"
     .string "…Det sagde min mand, da han tog\n"
     .string "ud at fiske i dag.\p"
-    .string "Jeg er ikke sikker paa om jeg kan\n"
-    .string "regne med at han holder det loefte.$"
+    .string "Jeg er ikke sikker pâ om jeg kan\n"
+    .string "regne med at han holder det löfte.$"
 

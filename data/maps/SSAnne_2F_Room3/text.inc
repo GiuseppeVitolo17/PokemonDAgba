@@ -1,12 +1,12 @@
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
     .string "Aah ja, jeg har set nogle POKeMON\n"
-    .string "faerge folk over vandet!$"
+    .string "färge folk over vandet!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
-    .string "Smaa traeer kan faeldes med\n"
-    .string "traekket CUT.\p"
+    .string "Smâ träer kan fäldes med\n"
+    .string "träkket CUT.\p"
     .string "Men husk!\n"
     .string "CUT er en HM-teknik.\p"
-    .string "Naar den er laert, er den ikke saa\n"
+    .string "Nâr den er lärt, er den ikke sâ\n"
     .string "nem at slippe af med.$"
 

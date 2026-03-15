@@ -24,21 +24,21 @@ Text_MimicTeach::
     .string "Til mig?\n"
     .string "Tak!\p"
     .string "Ved du hvad?\n"
-    .string "Jeg kan laere angrebet MIMIC.$"
+    .string "Jeg kan läre angrebet MIMIC.$"
 
 Text_MimicDeclined::
     .string "Kan du ikke lide MIMIC?$"
 
 Text_MimicWhichMon::
     .string "Jeg elsker virkelig MIMIC!\n"
-    .string "Hvem skal laere det?$"
+    .string "Hvem skal läre det?$"
 
 Text_MimicTaughtMale::
     .string "{PLAYER}: Hej!\n"
     .string "Tak for tidligere!\p"
     .string "{PLAYER}: Undskyld?\p"
-    .string "{PLAYER}: Er det saa sjovt at efterligne\n"
-    .string "hver min bevaegelse?\p"
+    .string "{PLAYER}: Er det sâ sjovt at efterligne\n"
+    .string "hver min bevägelse?\p"
     .string "COPYCAT: Ja da!\n"
     .string "Det er vanvittigt!$"
 
@@ -46,8 +46,8 @@ Text_MimicTaughtFemale::
     .string "{PLAYER}: Hej!\n"
     .string "Tak for hvad du gjorde for os.\p"
     .string "{PLAYER}: Undskyld?\p"
-    .string "{PLAYER}: Er det virkelig saa sjovt at\n"
-    .string "kopiere hvad jeg siger og goer?\p"
+    .string "{PLAYER}: Er det virkelig sâ sjovt at\n"
+    .string "kopiere hvad jeg siger og gör?\p"
     .string "COPYCAT: Ja da!\n"
     .string "Det er vanvittigt!$"
 
@@ -84,12 +84,12 @@ SaffronCity_CopycatsHouse_2F_Text_Doduo::
     .string "SEE HOW PRETTY I CAN BE?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-    .string "Det her er et sjaeldent POKeMON!\n"
+    .string "Det her er et själdent POKeMON!\n"
     .string "Hva? Det er kun en dukke!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
     .string "Et spil med MARIO med en spand\n"
-    .string "paa hovedet!$"
+    .string "pâ hovedet!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
     .string "…\p"

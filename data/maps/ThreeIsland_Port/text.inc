@@ -1,8 +1,8 @@
 ThreeIsland_Port_Text_WereKantoRiderFederation::
     .string "Vi er KANTO RIDER FEDERATION!\n"
     .string "Vroom! Vavavavooom! Vroom!\p"
-    .string "Min cykel er svag, saa jeg maa\n"
-    .string "lave udstoedningslyde selv!$"
+    .string "Min cykel er svag, sâ jeg mâ\n"
+    .string "lave udstödningslyde selv!$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
     .string "Hey, hey, dame!\n"
@@ -15,12 +15,12 @@ ThreeIsland_Port_Text_IllCallThePolice::
 
 ThreeIsland_Port_Text_ThankGoodnessBikersGone::
     .string "De BIKERS…\n"
-    .string "Er de vaek?\p"
+    .string "Er de väk?\p"
     .string "Aah, tak gud!\n"
-    .string "De skraemte mig virkelig!$"
+    .string "De skrämte mig virkelig!$"
 
 ThreeIsland_Port_Text_EverythingTurnedOutForBest::
-    .string "De BIKERS loeb vaek, og\n"
+    .string "De BIKERS löb väk, og\n"
     .string "LOSTELLE blev fundet i sikkerhed.\p"
     .string "Alt endte for det bedste!$"
 

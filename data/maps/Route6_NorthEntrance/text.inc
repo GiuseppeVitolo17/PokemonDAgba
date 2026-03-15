@@ -1,14 +1,14 @@
 Route6_NorthEntrance_Text_ThirstyOnGuardDuty::
-    .string "Jeg er paa vagt.\n"
-    .string "Av, jeg er toerstig!\p"
+    .string "Jeg er pâ vagt.\n"
+    .string "Av, jeg er törstig!\p"
     .string "Oh vent, vejen er lukket.$"
 
 Route6_NorthEntrance_Text_ThatTeaLooksTasty::
     .string "Oh, den TEA…\n"
-    .string "Den ser rigtig laekker ud…$"
+    .string "Den ser rigtig läkker ud…$"
 
 Route6_NorthEntrance_Text_ThanksIllShareTeaWithGuards::
-    .string "Hvad? Maa jeg faa den drink?\n"
+    .string "Hvad? Mâ jeg fâ den drink?\n"
     .string "Av, tak!\l"
     .string "… …\l"
     .string "Glug, glug…\l"
@@ -17,9 +17,9 @@ Route6_NorthEntrance_Text_ThanksIllShareTeaWithGuards::
     .string "Hvis du vil til SAFFRON\l"
     .string "CITY…\l"
     .string "… …\l"
-    .string "Ma du gaae igennem.\p"
+    .string "Ma du gâe igennem.\p"
     .string "Jeg deler denne TEA med de andre\n"
     .string "vagter!$"
 
 Route6_NorthEntrance_Text_HiHowsItGoing::
-    .string "Hej, hvordan gaar det?$"
+    .string "Hej, hvordan gâr det?$"

@@ -1,6 +1,6 @@
 CinnabarIsland_Mart_Text_DontTheyHaveXAttack::
     .string "Har de ikke X ATTACK?\p"
-    .string "Jeg kan lide det fordi det oeger\n"
+    .string "Jeg kan lide det fordi det öger\n"
     .string "ATTACK staten i kamp.$"
 
 CinnabarIsland_Mart_Text_ExtraItemsNeverHurt::

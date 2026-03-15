@@ -64,8 +64,8 @@ const u32 gMetatileAttributes_Building[] = INCBIN_U32("data/tilesets/primary/bui
 const u16 gMetatiles_Dummy1[] = INCBIN_U16("data/tilesets/secondary/dummy_1/metatiles.bin");
 const u32 gMetatileAttributes_Dummy1[] = INCBIN_U32("data/tilesets/secondary/dummy_1/metatile_attributes.bin");
 
-const u16 gMetatiles_HoennBuilding[] = INCBIN_U16("data/tilesets/secondary/hoenn_building/metatiles.bin");
-const u32 gMetatileAttributes_HoennBuilding[] = INCBIN_U32("data/tilesets/secondary/hoenn_building/metatile_attributes.bin");
+const u16 gMetatiles_HoennBuilding[] = INCBIN_U16("data/tilesets/secondary/hönn_building/metatiles.bin");
+const u32 gMetatileAttributes_HoennBuilding[] = INCBIN_U32("data/tilesets/secondary/hönn_building/metatile_attributes.bin");
 
 const u16 gMetatiles_BikeShop[] = INCBIN_U16("data/tilesets/secondary/bike_shop/metatiles.bin");
 const u32 gMetatileAttributes_BikeShop[] = INCBIN_U32("data/tilesets/secondary/bike_shop/metatile_attributes.bin");

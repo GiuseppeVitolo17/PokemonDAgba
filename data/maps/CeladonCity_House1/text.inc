@@ -1,16 +1,16 @@
 CeladonCity_House1_Text_SlotsReelInTheDough::
     .string "Hehehe!\p"
-    .string "Spilleautomaterne traekker bare\n"
+    .string "Spilleautomaterne träkker bare\n"
     .string "penge ind, stort!$"
 
 CeladonCity_House1_Text_ShippedMonsAsSlotPrizes::
     .string "CHEF!\p"
     .string "Vi har lige sendt to tusind\n"
-    .string "flere POKeMON som spillepraemier\l"
+    .string "flere POKeMON som spilleprämier\l"
     .string "igen i dag!$"
 
 CeladonCity_House1_Text_DontTouchGameCornerPoster::
-    .string "Roer ikke plakaten ved GAME\n"
+    .string "Rör ikke plakaten ved GAME\n"
     .string "CORNER!\p"
     .string "Der er ingen hemmelig kontakt bag den!$"
 

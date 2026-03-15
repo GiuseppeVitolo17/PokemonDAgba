@@ -3,11 +3,11 @@ Aide_Text_HaventCaughtEnoughMonsForItem::
 	.string "Uha! Du har kun fanget\l"
 	.string "{STR_VAR_3} slags POKeMON!\p"
 	.string "Du har brug for {STR_VAR_1} slags\n"
-	.string "for at faa {STR_VAR_2}.$"
+	.string "for at fâ {STR_VAR_2}.$"
 
 Aide_Text_GetEnoughMonsComeBackForItem::
-	.string "…Oh. Jeg forstaar.\p"
-	.string "Naar du har {STR_VAR_1} slags POKeMON,\n"
+	.string "…Oh. Jeg forstâr.\p"
+	.string "Nâr du har {STR_VAR_1} slags POKeMON,\n"
 	.string "kom tilbage efter {STR_VAR_2}.$"
 
 Aide_Text_DontHaveAnyRoomForItem::

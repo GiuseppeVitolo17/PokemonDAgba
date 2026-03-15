@@ -1,11 +1,11 @@
 ViridianCity_House_Text_NicknamingIsFun::
-    .string "At finde paa kaldenavne er sjovt,\n"
-    .string "men det er ikke saa nemt at goere.\p"
+    .string "At finde pâ kaldenavne er sjovt,\n"
+    .string "men det er ikke sâ nemt at göre.\p"
     .string "Smart navne er rare, men enkle\n"
     .string "navne er lettere at huske.$"
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
-    .string "Min far elsker ogsaa POKeMON.$"
+    .string "Min far elsker ogsâ POKeMON.$"
 
 ViridianCity_House_Text_Speary::
     .string "SPEARY: Tetweet!$"

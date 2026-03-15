@@ -7,19 +7,19 @@ SaffronCity_Text_BossTakeTownForTeamRocket::
     .string "i TEAM ROCKETs navn!$"
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
-    .string "Vaer ikke trodsig!\n"
-    .string "Saa skal jeg goere dig ondt!$"
+    .string "Vär ikke trodsig!\n"
+    .string "Sâ skal jeg göre dig ondt!$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
-    .string "SAFFRON tilhoerer TEAM ROCKET!$"
+    .string "SAFFRON tilhörer TEAM ROCKET!$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
-    .string "Mit liv som kriminel faar mig til at\n"
-    .string "foele mig sa levende!$"
+    .string "Mit liv som kriminel fâr mig til at\n"
+    .string "föle mig sa levende!$"
 
 SaffronCity_Text_WatchWhereYoureWalking::
     .string "Av!\n"
-    .string "Pas paa hvor du gaar!$"
+    .string "Pas pâ hvor du gâr!$"
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
     .string "Med SILPH under kontrol kan vi\n"
@@ -31,18 +31,18 @@ SaffronCity_Text_YouBeatTeamRocket::
     .string "Det er fantastisk!$"
 
 SaffronCity_Text_SafeToGoOutAgain::
-    .string "Ja! TEAM ROCKET er vaek!\n"
+    .string "Ja! TEAM ROCKET er väk!\n"
     .string "Det er sikkert at ga ud igen!$"
 
 SaffronCity_Text_PeopleComingBackToSaffron::
     .string "Folk flygtede herfra i hobetal\n"
     .string "da de ROCKETs kom.\p"
-    .string "De boer flyde tilbage til\n"
+    .string "De bör flyde tilbage til\n"
     .string "SAFFRON nu.$"
 
 SaffronCity_Text_FlewHereOnPidgeot::
-    .string "Jeg floj hertil paa min PIDGEOT da\n"
-    .string "jeg laeste om SILPH.\p"
+    .string "Jeg floj hertil pâ min PIDGEOT da\n"
+    .string "jeg läste om SILPH.\p"
     .string "Er det allerede forbi?\n"
     .string "Jeg missede medieaktionen…$"
 
@@ -55,7 +55,7 @@ SaffronCity_Text_SawRocketBossEscaping::
 
 SaffronCity_Text_ImASecurityGuard::
     .string "Jeg er sikkerhedsvagt.\p"
-    .string "Mistaenkelige boern lukker jeg ikke ind!$"
+    .string "Mistänkelige börn lukker jeg ikke ind!$"
 
 SaffronCity_Text_HesTakingASnooze::
     .string "…\n"
@@ -77,16 +77,16 @@ SaffronCity_Text_GymSign::
 SaffronCity_Text_FullHealCuresStatus::
     .string "TRAINER TIPS\p"
     .string "FULL HEAL kurerer alle plager som\n"
-    .string "braend, lamhed, forgiftning,\l"
-    .string "frysning og soevn.\p"
+    .string "bränd, lamhed, forgiftning,\l"
+    .string "frysning og sövn.\p"
     .string "Det koster lidt mere, men det er\n"
-    .string "mere bekvemt end at koebe andre ting.$"
+    .string "mere bekvemt end at köbe andre ting.$"
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
     .string "TRAINER TIPS\p"
     .string "Den nye GREAT BALL giver bedre\n"
     .string "fangstrate.\p"
-    .string "Proev den paa de svaert-fangbare\n"
+    .string "Pröv den pâ de svärt-fangbare\n"
     .string "POKeMON.$"
 
 SaffronCity_Text_SilphCoSign::
@@ -97,19 +97,19 @@ SaffronCity_Text_MrPsychicsHouse::
 
 SaffronCity_Text_SilphsLatestProduct::
     .string "SILPHs seneste produkt!\n"
-    .string "Udgivelse afgoeres…$"
+    .string "Udgivelse afgöres…$"
 
 SaffronCity_Text_TrainerFanClubSign::
     .string "POKeMON TRAINER FAN CLUB\p"
     .string "Mange TRAINERE har skrevet deres\n"
-    .string "navne paa dette skilt.$"
+    .string "navne pâ dette skilt.$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
     .string "Denne FAN CLUB…\n"
     .string "Ingen her aner noget!\p"
     .string "Hvordan kunne de ikke genkende\n"
     .string "brilliancen der er LANCE?\p"
-    .string "Han staar for retfaerdighed!\n"
+    .string "Han stâr for retfärdighed!\n"
     .string "Han er cool og alligevel passioneret!\l"
-    .string "Han er den stoerste, LANCE!$"
+    .string "Han er den störste, LANCE!$"
 

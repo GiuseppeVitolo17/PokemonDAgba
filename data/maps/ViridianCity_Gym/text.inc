@@ -1,13 +1,13 @@
 ViridianCity_Gym_Text_GiovanniIntro::
     .string "Fwahahaha!\n"
     .string "Velkommen til mit skjul!\p"
-    .string "Saadan forbliver det indtil jeg kan genskabe\n"
+    .string "Sâdan forbliver det indtil jeg kan genskabe\n"
     .string "TEAM ROCKET til sin tidligere storhed.\p"
     .string "Men du har fundet mig igen.\n"
-    .string "Saa vaer det.\l"
+    .string "Sâ vär det.\l"
     .string "Denne gang holder jeg ikke tilbage!\p"
-    .string "Endnu en gang skal du moede\n"
-    .string "GIOVANNI, den stoerste TRAeNER!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
+    .string "Endnu en gang skal du möde\n"
+    .string "GIOVANNI, den störste TRAeNER!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
 
 ViridianCity_Gym_Text_GiovanniDefeat::
     .string "Ha!\n"
@@ -17,24 +17,24 @@ ViridianCity_Gym_Text_GiovanniDefeat::
     .string "{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
 
 ViridianCity_Gym_Text_GiovanniPostBattle::
-    .string "Efter at have tabt paa denne maade,\n"
-    .string "kan jeg ikke moede mine foelgere.\l"
-    .string "Jeg har forraadt deres tillid.\p"
+    .string "Efter at have tabt pâ denne mâde,\n"
+    .string "kan jeg ikke möde mine fölgere.\l"
+    .string "Jeg har forrâdt deres tillid.\p"
     .string "Fra i dag er TEAM ROCKET\n"
     .string "sluttet for evigt!\p"
-    .string "Hvad mig selv angaar, vil jeg vie\n"
-    .string "mit liv til traening igen.\p"
-    .string "Lad os moedes igen en dag!\n"
+    .string "Hvad mig selv angâr, vil jeg vie\n"
+    .string "mit liv til träning igen.\p"
+    .string "Lad os mödes igen en dag!\n"
     .string "Farvel!$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
-    .string "EARTHBADGE faar POKeMON paa ethvert\n"
-    .string "niveau til at adlyde uden spoergsmaal.\p"
-    .string "Det er bevis paa din mesterskab som\n"
+    .string "EARTHBADGE fâr POKeMON pâ ethvert\n"
+    .string "niveau til at adlyde uden spörgsmâl.\p"
+    .string "Det er bevis pâ din mesterskab som\n"
     .string "POKeMON TRAeNER.\p"
     .string "Med den kan du udfordre\n"
     .string "POKeMON LEAGUE.\p"
-    .string "Tag ogsaa denne TM.\p"
+    .string "Tag ogsâ denne TM.\p"
     .string "Betragt den som en gave til din POKeMON\n"
     .string "LEAGUE udfordring.$"
 
@@ -44,23 +44,23 @@ ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
 
 ViridianCity_Gym_Text_ExplainTM26::
     .string "TM26 indeholder EARTHQUAKE.\p"
-    .string "Det er et kraftfuldt angreb der foraarsager\n"
-    .string "et massivt jordskaelv.\p"
+    .string "Det er et kraftfuldt angreb der forârsager\n"
+    .string "et massivt jordskälv.\p"
     .string "Jeg lavede den da jeg drev GYM her,\n"
-    .string "for alt for laenge siden… $"
+    .string "for alt for länge siden… $"
 
 ViridianCity_Gym_Text_YouDoNotHaveSpace::
     .string "Du har ikke plads til dette!$"
 
 ViridianCity_Gym_Text_YujiIntro::
     .string "Heh!\n"
-    .string "Du maa snart vaere ved at loebe toer for damp!$"
+    .string "Du mâ snart väre ved at löbe tör for damp!$"
 
 ViridianCity_Gym_Text_YujiDefeat::
-    .string "Jeg loeb toer for benzin!$"
+    .string "Jeg löb tör for benzin!$"
 
 ViridianCity_Gym_Text_YujiPostBattle::
-    .string "Du faar brug for styrke for at foelge med\n"
+    .string "Du fâr brug for styrke for at fölge med\n"
     .string "vores GYM LEDER.$"
 
 ViridianCity_Gym_Text_AtsushiIntro::
@@ -71,7 +71,7 @@ ViridianCity_Gym_Text_AtsushiDefeat::
     .string "Wargh!$"
 
 ViridianCity_Gym_Text_AtsushiPostBattle::
-    .string "Jeg er stadig ikke vaerdig!$"
+    .string "Jeg er stadig ikke värdig!$"
 
 ViridianCity_Gym_Text_JasonIntro::
     .string "POKeMON og jeg, vi laver vidunderlig\n"
@@ -92,7 +92,7 @@ ViridianCity_Gym_Text_KiyoDefeat::
     .string "Aiyah!$"
 
 ViridianCity_Gym_Text_KiyoPostBattle::
-    .string "Hvis mine POKeMON var lige saa gode til\n"
+    .string "Hvis mine POKeMON var lige sâ gode til\n"
     .string "karate som jeg…$"
 
 ViridianCity_Gym_Text_WarrenIntro::
@@ -102,12 +102,12 @@ ViridianCity_Gym_Text_WarrenDefeat::
     .string "Jeg mistede grebet!$"
 
 ViridianCity_Gym_Text_WarrenPostBattle::
-    .string "LEDEREN vil skaelde mig ud for\n"
-    .string "at tabe paa denne maade…$"
+    .string "LEDEREN vil skälde mig ud for\n"
+    .string "at tabe pâ denne mâde…$"
 
 ViridianCity_Gym_Text_TakashiIntro::
     .string "Jeg er KARATE KONGEN!\n"
-    .string "Din skaebne hviler hos mig!$"
+    .string "Din skäbne hviler hos mig!$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
     .string "Ayah!$"
@@ -118,11 +118,11 @@ ViridianCity_Gym_Text_TakashiPostBattle::
 
 ViridianCity_Gym_Text_ColeIntro::
     .string "Dine POKeMON vil krybe sammen ved\n"
-    .string "smaeldet af min pisk!$"
+    .string "smäldet af min pisk!$"
 
 ViridianCity_Gym_Text_ColeDefeat::
     .string "Yowch!\n"
-    .string "Piskesmaeld!$"
+    .string "Piskesmäld!$"
 
 ViridianCity_Gym_Text_ColePostBattle::
     .string "Vent!\n"
@@ -134,7 +134,7 @@ ViridianCity_Gym_Text_SamuelIntro::
     .string "Men nu er vores LEDER tilbage!$"
 
 ViridianCity_Gym_Text_SamuelDefeat::
-    .string "Jeg blev slaaet?$"
+    .string "Jeg blev slâet?$"
 
 ViridianCity_Gym_Text_SamuelPostBattle::
     .string "Du kan kun komme videre til POKeMON\n"
@@ -143,17 +143,17 @@ ViridianCity_Gym_Text_SamuelPostBattle::
 
 ViridianCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
-    .string "Champion i gaere!\p"
+    .string "Champion i gäre!\p"
     .string "Selv jeg kender ikke VIRIDIAN\n"
     .string "LEDERs identitet.\p"
     .string "Men en ting er sikker.\n"
-    .string "Dette bliver den haardeste af alle\l"
+    .string "Dette bliver den hârdeste af alle\l"
     .string "GYM LEDERE.\p"
-    .string "Jeg hoerte ogsaa at TRAeNERNE\n"
+    .string "Jeg hörte ogsâ at TRAeNERNE\n"
     .string "her kan lide JORD-type POKeMON.$"
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
-    .string "Blaes mig vaek! GIOVANNI var\n"
+    .string "Bläs mig väk! GIOVANNI var\n"
     .string "GYM LEDEREN af VIRIDIAN?$"
 
 ViridianCity_Gym_Text_GymStatue::

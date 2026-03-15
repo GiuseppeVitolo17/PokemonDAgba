@@ -1,5 +1,5 @@
 SSAnne_1F_Room3_Text_CruiseIsElegantAndCozy::
-    .string "En verdensomsejling er saa elegant og\n"
+    .string "En verdensomsejling er sâ elegant og\n"
     .string "hyggelig!$"
 
 SSAnne_1F_Room3_Text_AlwaysTravelWithWigglytuff::

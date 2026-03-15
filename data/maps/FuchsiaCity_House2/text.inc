@@ -1,13 +1,13 @@
 FuchsiaCity_House2_Text_DoYouLikeToFish::
-    .string "Jeg er FISKE-GURUENS aeldre\n"
+    .string "Jeg er FISKE-GURUENS äldre\n"
     .string "bror.\p"
     .string "Jeg elsker simpelthen at fiske!\n"
-    .string "Jeg kan ikke undvaere det.\p"
+    .string "Jeg kan ikke undväre det.\p"
     .string "Sig mig, kan du lide at fiske?$"
 
 FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
     .string "Stort! Jeg kan lide din stil.\n"
-    .string "Jeg tror vi kan vaere venner.\p"
+    .string "Jeg tror vi kan väre venner.\p"
     .string "Tag dette og fisk, unge ven!$"
 
 FuchsiaCity_House2_Text_ReceivedGoodRod::
@@ -16,15 +16,15 @@ FuchsiaCity_House2_Text_ReceivedGoodRod::
 
 FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
     .string "Fiskeri er en livsstil!\n"
-    .string "Det er som den fineste poesi.\p"
-    .string "En daarlig OLD ROD kunne kun fange\n"
+    .string "Det er som den fineste pösi.\p"
+    .string "En dârlig OLD ROD kunne kun fange\n"
     .string "MAGIKARP, ikke?\p"
     .string "Men med en GOOD ROD kan du fange\n"
     .string "meget bedre POKeMON.$"
 
 FuchsiaCity_House2_Text_OhThatsDisappointing::
     .string "Oeh…\n"
-    .string "Saa skuffende…$"
+    .string "Sâ skuffende…$"
 
 FuchsiaCity_House2_Text_HowAreTheFishBiting::
     .string "Hej med dig, {PLAYER}!\p"

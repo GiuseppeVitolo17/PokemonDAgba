@@ -1,17 +1,17 @@
 Text_BootedUpPC::
-	.string "{PLAYER} taendte PC'en.$"
+	.string "{PLAYER} tändte PC'en.$"
 
 Text_AccessWhichPC::
-	.string "Hvilken PC skal der tilgaas?$"
+	.string "Hvilken PC skal der tilgâs?$"
 
 Text_AccessedSomeonesPC::
-	.string "Tilgaaet En andens PC.$"
+	.string "Tilgâet En andens PC.$"
 
 Text_OpenedPkmnStorage::
-	.string "POKeMON-opbevaring aabnet.$"
+	.string "POKeMON-opbevaring âbnet.$"
 
 Text_AccessedPlayersPC::
-	.string "Tilgaaet {PLAYER}s PC.$"
+	.string "Tilgâet {PLAYER}s PC.$"
 
 Text_AccessedBillsPC::
-	.string "Tilgaaet BILLs PC.$"
+	.string "Tilgâet BILLs PC.$"

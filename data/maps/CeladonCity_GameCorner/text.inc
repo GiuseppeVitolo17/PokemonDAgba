@@ -1,12 +1,12 @@
 CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor::
     .string "Velkommen!\p"
-    .string "Du kan indloese dine COINS for\n"
-    .string "fremragende praemier ved siden af.$"
+    .string "Du kan indlöse dine COINS for\n"
+    .string "fremragende prämier ved siden af.$"
 
 CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
     .string "Velkommen til ROCKET GAME CORNER!\p"
     .string "Har du brug for nogle spil-COINS?\n"
-    .string "Vil du koebe nogle?$"
+    .string "Vil du köbe nogle?$"
 
 CeladonCity_GameCorner_Text_ComePlaySometime::
     .string "Nej?\n"
@@ -21,7 +21,7 @@ CeladonCity_GameCorner_Text_CoinCaseIsFull::
     .string "Din COIN CASE er fuld.$"
 
 CeladonCity_GameCorner_Text_CantAffordCoins::
-    .string "Du har ikke raad til COINS.$"
+    .string "Du har ikke râd til COINS.$"
 
 CeladonCity_GameCorner_Text_HereAreYourCoins::
     .string "Tak.\n"
@@ -47,7 +47,7 @@ CeladonCity_GameCorner_Text_DontNeedMyCoins::
     .string "Du har ikke brug for mine COINS!$"
 
 CeladonCity_GameCorner_Text_WinsComeAndGo::
-    .string "Sejre kommer og gaar.\n"
+    .string "Sejre kommer og gâr.\n"
     .string "Intet er sikkert.$"
 
 CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuck::
@@ -61,22 +61,22 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
     .string "CELADON GYMs LEADER er ERIKA.\p"
     .string "Hun bruger GRASS-type\n"
     .string "POKeMON og er et med naturen.\p"
-    .string "Hun virker maaske rolig pga.\n"
+    .string "Hun virker mâske rolig pga.\n"
     .string "sine blomsterarrangementer…\p"
     .string "Men hun er ikke en man skal\n"
-    .string "tage let paa!$"
+    .string "tage let pâ!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-    .string "De tilbyder sjaeldne POKeMON der kan\n"
-    .string "indloeses for dine COINS.\p"
+    .string "De tilbyder själdne POKeMON der kan\n"
+    .string "indlöses for dine COINS.\p"
     .string "Men jeg kan bare ikke vinde!$"
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
-    .string "Spil er skraemmende!\n"
-    .string "Det er saa nemt at blive afhaengig!$"
+    .string "Spil er skrämmende!\n"
+    .string "Det er sâ nemt at blive afhängig!$"
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
-    .string "Hvad saa?\n"
+    .string "Hvad sâ?\n"
     .string "Vil du have nogle COINS?$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
@@ -92,7 +92,7 @@ CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
     .string "Hey, hvad? Du distraherer mig!\n"
-    .string "Her er nogle COINS, saa foersvind!$"
+    .string "Her er nogle COINS, sâ försvind!$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
     .string "{PLAYER} modtog 20 COINS\n"
@@ -103,7 +103,7 @@ CeladonCity_GameCorner_Text_YouveGotPlentyCoins::
     .string "COINS!$"
 
 CeladonCity_GameCorner_Text_WatchReelsClosely::
-    .string "Kunsten er at se hjulene noeje.$"
+    .string "Kunsten er at se hjulene nöje.$"
 
 CeladonCity_GameCorner_Text_GruntIntro::
     .string "Jeg vogter denne plakat!\n"
@@ -115,15 +115,15 @@ CeladonCity_GameCorner_Text_GruntDefeat::
 CeladonCity_GameCorner_Text_GruntPostBattle::
     .string "TEAM ROCKET HIDEOUT kunne\n"
     .string "blive opdaget!\p"
-    .string "Jeg boer fortaelle det til BOSS!$"
+    .string "Jeg bör fortälle det til BOSS!$"
 
 CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
     .string "Hey!\p"
     .string "En kontakt bag plakaten!?\n"
-    .string "Lad os trykke paa den!$"
+    .string "Lad os trykke pâ den!$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsRequired::
-    .string "En COIN CASE er noedvendig…$"
+    .string "En COIN CASE er nödvendig…$"
 
 CeladonCity_GameCorner_Text_DontHaveCoinCase::
     .string "Ups!\n"
@@ -138,9 +138,9 @@ CeladonCity_GameCorner_Text_OutOfOrder::
     .string "Denne er i stykker.$"
 
 CeladonCity_GameCorner_Text_OutToLunch::
-    .string "PAA FROKOST\n"
+    .string "PÂ FROKOST\n"
     .string "Denne er reserveret.$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::
-    .string "Nogens noegler!\n"
+    .string "Nogens nögler!\n"
     .string "De kommer tilbage.$"

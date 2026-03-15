@@ -1,7 +1,7 @@
 CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
     .string "Hej!\n"
     .string "Velkommen til CELADON DEPT. STORE.\p"
-    .string "Tavlen til hoejre beskriver\n"
+    .string "Tavlen til höjre beskriver\n"
     .string "butikkens layout.$"
 
 CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::

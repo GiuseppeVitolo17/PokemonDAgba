@@ -1,25 +1,25 @@
 Text_MonSentToBoxInSomeonesPC::
-    .string "{STR_VAR_2} blev overfoert til\n"
+    .string "{STR_VAR_2} blev overfört til\n"
     .string "Nogens PC.\p"
     .string "Den blev placeret i\n"
     .string "BOX “{STR_VAR_1}.”$"
 
 Text_MonSentToBoxInBillsPC::
-    .string "{STR_VAR_2} blev overfoert til\n"
+    .string "{STR_VAR_2} blev overfört til\n"
     .string "BILLs PC.\p"
     .string "Den blev placeret i\n"
     .string "BOX “{STR_VAR_1}.”$"
 
 Text_MonSentToBoxSomeonesBoxFull::
-    .string "BOX “{STR_VAR_3}” paa\n"
+    .string "BOX “{STR_VAR_3}” pâ\n"
     .string "Nogens PC var fuld.\p"
-    .string "{STR_VAR_2} blev overfoert til\n"
+    .string "{STR_VAR_2} blev overfört til\n"
     .string "BOX “{STR_VAR_1}.”$"
 
 Text_MonSentToBoxBillsBoxFull::
-    .string "BOX “{STR_VAR_3}” paa\n"
+    .string "BOX “{STR_VAR_3}” pâ\n"
     .string "BILLs PC var fuld.\p"
-    .string "{STR_VAR_2} blev overfoert til\n"
+    .string "{STR_VAR_2} blev overfört til\n"
     .string "BOX “{STR_VAR_1}.”$"
 
 Text_PlayerObtainedTheMon::

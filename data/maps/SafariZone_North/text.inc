@@ -6,12 +6,12 @@ SafariZone_North_Text_SecretHouseStillAhead::
     .string "DET HEMMELIGE HUS er stadig foran.$"
 
 SafariZone_North_Text_Area2::
-    .string "OMRAADE 2$"
+    .string "OMRÂDE 2$"
 
 SafariZone_North_Text_ZigzagThroughTallGrass::
     .string "TRAINER TIPS\p"
-    .string "POKeMON gemmer sig i hoejt graes.\p"
-    .string "Snoev gennem graesomraader for at\n"
+    .string "POKeMON gemmer sig i höjt gräs.\p"
+    .string "Snöv gennem gräsomrâder for at\n"
     .string "jage dem frem.$"
 
 SafariZone_North_Text_WinFreeHMFindSecretHouse::

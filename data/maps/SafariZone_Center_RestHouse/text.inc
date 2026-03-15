@@ -1,5 +1,5 @@
 SafariZone_Center_Text_WhereDidErikGo::
-    .string "SARA: Hvor gik min kaereste,\n"
+    .string "SARA: Hvor gik min käreste,\n"
     .string "ERIK, hen?$"
 
 SafariZone_Center_Text_CatchingMonsAsGifts::

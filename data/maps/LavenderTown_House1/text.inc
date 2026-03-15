@@ -2,15 +2,15 @@ LavenderTown_House1_Text_Cubone::
     .string "CUBONE: Kyarugoo!$"
 
 LavenderTown_House1_Text_RocketsKilledCubonesMother::
-    .string "De forfaerdelige ROCKET!\n"
-    .string "De fortjener ingen naade!\p"
+    .string "De forfärdelige ROCKET!\n"
+    .string "De fortjener ingen nâde!\p"
     .string "Den stakkels CUBONEs mor…\p"
-    .string "Den blev draebt under flugt fra\n"
+    .string "Den blev dräbt under flugt fra\n"
     .string "TEAM ROCKET.$"
 
 LavenderTown_House1_Text_GhostOfPokemonTowerIsGone::
-    .string "Spoegelsen fra POKeMON TOWER er\n"
-    .string "vaek!\p"
-    .string "Nogen maa have beroliget dens\n"
-    .string "rastloese aand!$"
+    .string "Spögelsen fra POKeMON TOWER er\n"
+    .string "väk!\p"
+    .string "Nogen mâ have beroliget dens\n"
+    .string "rastlöse ând!$"
 

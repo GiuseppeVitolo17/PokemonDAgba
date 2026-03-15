@@ -1,10 +1,10 @@
 CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
-    .string "SUPER REPEL holder svaekke POKeMON\n"
-    .string "paa afstand…\p"
-    .string "Hmm, det er en staerkere REPEL.$"
+    .string "SUPER REPEL holder sväkke POKeMON\n"
+    .string "pâ afstand…\p"
+    .string "Hmm, det er en stärkere REPEL.$"
 
 CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::
-    .string "Til lange ture boer du koebe\n"
+    .string "Til lange ture bör du köbe\n"
     .string "REVIVE.$"
 
 CeladonCity_DepartmentStore_2F_Text_FloorSign::
@@ -14,6 +14,6 @@ CeladonCity_DepartmentStore_2F_Text_FloorSign::
 CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
     .string "Vi har en kunde, LANCE, som\n"
     .string "kommer lejlighedsvis.\p"
-    .string "Han koeber altid kapper.\p"
+    .string "Han köber altid kapper.\p"
     .string "Jeg undrer mig… Har han mange\n"
     .string "identiske kapper derhjemme?$"

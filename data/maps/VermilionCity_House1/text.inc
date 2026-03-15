@@ -1,7 +1,7 @@
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
     .string "Jeg er FISKE-GURUEN!\p"
     .string "Jeg elsker simpelthen at fiske!\n"
-    .string "Jeg kan ikke undvaere det.\p"
+    .string "Jeg kan ikke undväre det.\p"
     .string "Sig mig, kan du lide at fiske?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
@@ -15,13 +15,13 @@ VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
     .string "Fiskeri er en livsstil!\n"
-    .string "Det er som den fineste poesi.\p"
-    .string "Fra havet til floder, gaa ud\n"
+    .string "Det er som den fineste pösi.\p"
+    .string "Fra havet til floder, gâ ud\n"
     .string "og fang den store, min ven.$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
     .string "Aah…\n"
-    .string "Det er saa skuffende…$"
+    .string "Det er sâ skuffende…$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
     .string "Hej med dig, {PLAYER}!\p"

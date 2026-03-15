@@ -1,16 +1,16 @@
 SSAnne_1F_Room2_Text_TylerIntro::
     .string "Jeg elsker POKeMON!\n"
-    .string "Goer du?$"
+    .string "Gör du?$"
 
 SSAnne_1F_Room2_Text_TylerDefeat::
     .string "Wow!\n"
     .string "Du er fantastisk!$"
 
 SSAnne_1F_Room2_Text_TylerPostBattle::
-    .string "Hoer, hoer!\n"
-    .string "Lad mig vaere din ven, okay?\p"
-    .string "Saa kan vi bytte POKeMON og\n"
-    .string "saa videre.$"
+    .string "Hör, hör!\n"
+    .string "Lad mig väre din ven, okay?\p"
+    .string "Sâ kan vi bytte POKeMON og\n"
+    .string "sâ videre.$"
 
 SSAnne_1F_Room2_Text_AnnIntro::
     .string "Jeg har samlet disse POKeMON\n"
@@ -22,10 +22,10 @@ SSAnne_1F_Room2_Text_AnnDefeat::
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
     .string "Du skadede mine stakkels POKeMON!\p"
-    .string "Jeg kraever at du helbreder dem paa\n"
+    .string "Jeg kräver at du helbreder dem pâ\n"
     .string "et POKeMON CENTER!$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::
     .string "Vi sejler rundt i verden,\n"
-    .string "mine boern og jeg.$"
+    .string "mine börn og jeg.$"
 

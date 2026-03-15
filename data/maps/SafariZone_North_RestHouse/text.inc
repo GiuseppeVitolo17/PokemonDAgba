@@ -1,12 +1,12 @@
 SafariZone_East_Text_KeepAnyItemFoundOnSafari::
-    .string "Du maa beholde enhver genstand du\n"
+    .string "Du mâ beholde enhver genstand du\n"
     .string "finder i SAFARI ZONE.\p"
-    .string "Men tiden loeb ud hvis du proever\n"
-    .string "at faa dem alle paa en gang.$"
+    .string "Men tiden löb ud hvis du pröver\n"
+    .string "at fâ dem alle pâ en gang.$"
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
     .string "Ga til den dybeste del af\n"
-    .string "SAFARI ZONE. Du vinder en praemie!$"
+    .string "SAFARI ZONE. Du vinder en prämie!$"
 
 SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
     .string "Min EEVEE udviklede sig til FLAREON.\p"

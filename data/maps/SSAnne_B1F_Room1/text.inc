@@ -1,13 +1,13 @@
 SSAnne_B1F_Room1_Text_PhillipIntro::
-    .string "Kammerat, du gaar planken hvis\n"
+    .string "Kammerat, du gâr planken hvis\n"
     .string "du taber!$"
 
 SSAnne_B1F_Room1_Text_PhillipDefeat::
     .string "Argh!\n"
-    .string "Slaaet af et barn!$"
+    .string "Slâet af et barn!$"
 
 SSAnne_B1F_Room1_Text_PhillipPostBattle::
-    .string "Naar vi er ude paa havet, driver\n"
+    .string "Nâr vi er ude pâ havet, driver\n"
     .string "vandmands-POKeMON nogle gange forbi.$"
 
 SSAnne_B1F_Room1_Text_BarnyIntro::
@@ -18,7 +18,7 @@ SSAnne_B1F_Room1_Text_BarnyIntro::
 
 SSAnne_B1F_Room1_Text_BarnyDefeat::
     .string "Pokkers!\n"
-    .string "Jeg lod den slippe vaek!$"
+    .string "Jeg lod den slippe väk!$"
 
 SSAnne_B1F_Room1_Text_BarnyPostBattle::
     .string "Jeg ville lige have gjort dig til min\n"

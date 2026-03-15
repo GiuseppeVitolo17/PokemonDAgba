@@ -7,4 +7,4 @@ SafariZone_Center_Text_PressStartToCheckTime::
     .string "resterende tid.$"
 
 SafariZone_Center_Text_CenterArea::
-    .string "CENTRE OMRAADE$"
+    .string "CENTRE OMRÂDE$"

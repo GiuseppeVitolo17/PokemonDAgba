@@ -1,5 +1,5 @@
 SilphCo_2F_Text_ConnorIntro::
-    .string "Hjaelp!\n"
+    .string "Hjälp!\n"
     .string "Jeg er SILPH-ansat.$"
 
 SilphCo_2F_Text_ConnorDefeat::
@@ -7,31 +7,31 @@ SilphCo_2F_Text_ConnorDefeat::
     .string "at jeg var ROCKET?$"
 
 SilphCo_2F_Text_ConnorPostBattle::
-    .string "Jeg arbejder for baade SILPH og TEAM\n"
+    .string "Jeg arbejder for bâde SILPH og TEAM\n"
     .string "ROCKET.$"
 
 SilphCo_2F_Text_JerryIntro::
-    .string "Det er forbudt omraade her!\n"
+    .string "Det er forbudt omrâde her!\n"
     .string "Ga hjem!$"
 
 SilphCo_2F_Text_JerryDefeat::
     .string "Du er god.$"
 
 SilphCo_2F_Text_JerryPostBattle::
-    .string "Kan du loese labyrinten her?\n"
+    .string "Kan du löse labyrinten her?\n"
     .string "Det er ikke nemt, siger jeg dig!$"
 
 SilphCo_2F_Text_Grunt1Intro::
-    .string "Boern har ikke adgang her!$"
+    .string "Börn har ikke adgang her!$"
 
 SilphCo_2F_Text_Grunt1Defeat::
-    .string "Haardt!$"
+    .string "Hârdt!$"
 
 SilphCo_2F_Text_Grunt1PostBattle::
     .string "Diamantformede fliser er teleport-\n"
     .string "blokke.\p"
-    .string "De er transportoerer i denne\n"
-    .string "hoejteknologiske bygning.$"
+    .string "De er transportörer i denne\n"
+    .string "höjteknologiske bygning.$"
 
 SilphCo_2F_Text_Grunt2Intro::
     .string "Hey, unge!\n"
@@ -46,10 +46,10 @@ SilphCo_2F_Text_Grunt2PostBattle::
 
 Text_ThunderWaveTeach::
     .string "Eeek!\n"
-    .string "Nej! Stop! Hjaelp!\p"
+    .string "Nej! Stop! Hjälp!\p"
     .string "Oh, du er ikke med TEAM ROCKET.\n"
-    .string "Undskyld, jeg troede…\p"
-    .string "Tilgiver du mig hvis jeg laerer dig\n"
+    .string "Undskyld, jeg tröde…\p"
+    .string "Tilgiver du mig hvis jeg lärer dig\n"
     .string "THUNDER WAVE-teknikken?$"
 
 Text_ThunderWaveDeclined::
@@ -57,16 +57,16 @@ Text_ThunderWaveDeclined::
     .string "Men THUNDER WAVE er bekvem…$"
 
 Text_ThunderWaveWhichMon::
-    .string "Hvilket POKeMON skal jeg laere\n"
+    .string "Hvilket POKeMON skal jeg läre\n"
     .string "THUNDER WAVE?$"
 
 Text_ThunderWaveTaught::
-    .string "THUNDER WAVE foraarsager lamhed hos\n"
-    .string "maal-POKeMON.\p"
-    .string "Et lamt POKeMON kan vaere ude af stand\n"
-    .string "til at bevaege sig i kamp.\p"
-    .string "Det er et ELECTRIC-type angreb, saa det\n"
-    .string "virker ikke paa nogle POKeMON.$"
+    .string "THUNDER WAVE forârsager lamhed hos\n"
+    .string "mâl-POKeMON.\p"
+    .string "Et lamt POKeMON kan väre ude af stand\n"
+    .string "til at beväge sig i kamp.\p"
+    .string "Det er et ELECTRIC-type angreb, sâ det\n"
+    .string "virker ikke pâ nogle POKeMON.$"
 
 SilphCo_2F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

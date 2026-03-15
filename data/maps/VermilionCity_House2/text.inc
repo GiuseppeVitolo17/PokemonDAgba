@@ -5,11 +5,11 @@ VermilionCity_House2_Text_DoYouHaveMonWantToTradeForMyMon::
 	.string "{STR_VAR_2}?$"
 
 VermilionCity_House2_Text_ThatsTooBad::
-	.string "Det var aergerligt.$"
+	.string "Det var ärgerligt.$"
 
 VermilionCity_House2_Text_ThisIsNoMon::
 	.string "…Det her er ikke en {STR_VAR_1}.\p"
-	.string "Hvis du faar en, saa byt den venligst\n"
+	.string "Hvis du fâr en, sâ byt den venligst\n"
 	.string "til mig!$"
 
 VermilionCity_House2_Text_ThankYou::

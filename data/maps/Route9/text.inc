@@ -6,33 +6,33 @@ Route9_Text_AliciaDefeat::
     .string "Du bedrog mig…$"
 
 Route9_Text_AliciaPostBattle::
-    .string "Tunnelen forude er baelgmoerk\n"
+    .string "Tunnelen forude er bälgmörk\n"
     .string "inde.\p"
     .string "Du har brug for FLASH for at\n"
     .string "komme igennem.$"
 
 Route9_Text_ChrisIntro::
-    .string "Hvem er det der gaar med saadanne\n"
+    .string "Hvem er det der gâr med sâdanne\n"
     .string "flotte POKeMON?$"
 
 Route9_Text_ChrisDefeat::
     .string "Ude som et lys!$"
 
 Route9_Text_ChrisPostBattle::
-    .string "Bliv ved at gaa!$"
+    .string "Bliv ved at gâ!$"
 
 Route9_Text_DrewIntro::
     .string "Jeg tager ROCK TUNNEL for at\n"
     .string "komme til LAVENDER…$"
 
 Route9_Text_DrewDefeat::
-    .string "Kan ikke maale mig…$"
+    .string "Kan ikke mâle mig…$"
 
 Route9_Text_DrewPostBattle::
-    .string "Skal du ogsaa til ROCK TUNNEL?$"
+    .string "Skal du ogsâ til ROCK TUNNEL?$"
 
 Route9_Text_CaitlinIntro::
-    .string "Du maa ikke tale ned til mig!$"
+    .string "Du mâ ikke tale ned til mig!$"
 
 Route9_Text_CaitlinDefeat::
     .string "Nej!\n"
@@ -53,18 +53,18 @@ Route9_Text_JeremyDefeat::
 
 Route9_Text_JeremyPostBattle::
     .string "Du havde virkelig mod til at\n"
-    .string "staa op mod mig, eh?$"
+    .string "stâ op mod mig, eh?$"
 
 Route9_Text_BriceIntro::
     .string "Hahaha!\n"
-    .string "Er du ikke en lille haardnakket en!$"
+    .string "Er du ikke en lille hârdnakket en!$"
 
 Route9_Text_BriceDefeat::
     .string "Hvad var det?$"
 
 Route9_Text_BricePostBattle::
     .string "Hahaha!\n"
-    .string "Boern boer vaere haardnakkede!$"
+    .string "Börn bör väre hârdnakkede!$"
 
 Route9_Text_BrentIntro::
     .string "Jeg stod op tidligt hver dag for at\n"
@@ -75,8 +75,8 @@ Route9_Text_BrentDefeat::
     .string "Sikke et spild af tid!$"
 
 Route9_Text_BrentPostBattle::
-    .string "Jeg maa samle mere end insekter\n"
-    .string "for at blive staerkere…$"
+    .string "Jeg mâ samle mere end insekter\n"
+    .string "for at blive stärkere…$"
 
 Route9_Text_AlanIntro::
     .string "Hahahaha!\n"
@@ -84,11 +84,11 @@ Route9_Text_AlanIntro::
 
 Route9_Text_AlanDefeat::
     .string "Hahahaha!\n"
-    .string "Du slog mig aerligt!$"
+    .string "Du slog mig ärligt!$"
 
 Route9_Text_AlanPostBattle::
     .string "Hahahaha!\n"
-    .string "Os haertige fyre griner altid!$"
+    .string "Os härtige fyre griner altid!$"
 
 Route9_Text_ConnerIntro::
     .string "Frem, mine super BUG POKeMON!$"

@@ -1,6 +1,6 @@
 PewterCity_Mart_Text_BoughtWeirdFishFromShadyGuy::
-    .string "En mistaenkelig gammel fyr fik mig til at\n"
-    .string "koebe denne underlige fisk-POKeMON!\p"
+    .string "En mistänkelig gammel fyr fik mig til at\n"
+    .string "köbe denne underlige fisk-POKeMON!\p"
     .string "Den er totalt svag og kostede ¥500!$"
 
 PewterCity_Mart_Text_GoodThingsIfRaiseMonsDiligently::

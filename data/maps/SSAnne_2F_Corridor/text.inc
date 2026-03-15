@@ -7,12 +7,12 @@ SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
 SSAnne_2F_Corridor_Text_RivalIntro::
     .string "{RIVAL}: Bonjour!\n"
     .string "{PLAYER}!\p"
-    .string "Taenk at moede dig her!\n"
+    .string "Tänk at möde dig her!\n"
     .string "{PLAYER}, var du virkelig inviteret?\p"
     .string "Hvordan kommer din POKeDEX?\p"
     .string "Jeg har allerede fanget 40 slags, makker.\n"
     .string "Forskellige slags er overalt.\p"
-    .string "Krav rundt i graesomraader og\n"
+    .string "Krav rundt i gräsomrâder og\n"
     .string "kig grundigt efter dem.$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
@@ -27,11 +27,11 @@ SSAnne_2F_Corridor_Text_RivalVictory::
     .string "きたえた　ほうが　いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
-    .string "{RIVAL}: Jeg hoerte at der var en CUT-\n"
+    .string "{RIVAL}: Jeg hörte at der var en CUT-\n"
     .string "mester om bord.\p"
-    .string "Men han var bare en soesyg gammel mand!\p"
+    .string "Men han var bare en sösyg gammel mand!\p"
     .string "CUT selv er virkelig nyttig.\n"
-    .string "Ja, den vil vaere handy.\p"
-    .string "Du boer ogsaa gaa og se ham.\n"
+    .string "Ja, den vil väre handy.\p"
+    .string "Du bör ogsâ gâ og se ham.\n"
     .string "Vi ses!$"
 

@@ -1,6 +1,6 @@
 Text_OnlySkilledTrainersAllowedThrough::
 	.string "Kun virkelig dygtige TRAINERs\n"
-	.string "maa komme forbi.\p"
+	.string "mâ komme forbi.\p"
 	.string "Du har ikke {STR_VAR_1}\n"
 	.string "endnu!$"
 
@@ -17,7 +17,7 @@ Text_OnlyPassWithBadgeDontHaveYet::
 	.string "{STR_VAR_1}.\p"
 	.string "Du har ikke {STR_VAR_1}\n"
 	.string "endnu.\p"
-	.string "Du skal have den for at naa\n"
+	.string "Du skal have den for at nâ\n"
 	.string "POKeMON LEAGUE.$"
 
 Text_OnlyPassWithBadgeOhGoAhead::

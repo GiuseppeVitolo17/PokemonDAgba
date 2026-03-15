@@ -1,6 +1,6 @@
 CeladonCity_Condominiums_3F_Text_ImTheProgrammer::
     .string "Mig?\n"
-    .string "Jeg er programmoeren!$"
+    .string "Jeg er programmören!$"
 
 CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
     .string "Jeg er grafikeren!\n"
@@ -8,20 +8,20 @@ CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
     .string "Jeg skrev historien!\n"
-    .string "Er ERIKA ikke soed?\p"
-    .string "Jeg kan ogsaa godt lide MISTY!\n"
+    .string "Er ERIKA ikke söd?\p"
+    .string "Jeg kan ogsâ godt lide MISTY!\n"
     .string "Aah, og SABRINA, jeg kan lide hende!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
     .string "Er det rigtigt?\p"
     .string "Jeg er spildesigneren!\p"
-    .string "At udfylde din POKeDEX er svaert,\n"
+    .string "At udfylde din POKeDEX er svärt,\n"
     .string "men giv ikke op!\p"
-    .string "Naar du er faerdig, kom og sig det til mig!$"
+    .string "Nâr du er färdig, kom og sig det til mig!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
     .string "Wow! Fremragende!\n"
-    .string "Du fuldfoerte din POKeDEX!\l"
+    .string "Du fuldförte din POKeDEX!\l"
     .string "Tillykke!\l"
     .string "…$"
 
@@ -35,7 +35,7 @@ CeladonCity_Condominiums_3F_Text_SomeonesPlayingGame::
 
 CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
     .string "Det er manuskriptet!\n"
-    .string "Se hellere ikke paa slutningen!$"
+    .string "Se hellere ikke pâ slutningen!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
     .string "GAME FREAK Udviklingslokale$"

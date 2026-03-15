@@ -4,28 +4,28 @@ SSAnne_Kitchen_Text_BusyOutOfTheWay::
     .string "Af vejen!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
-    .string "Jeg saa et underligt BAeR i skraldet.\n"
-    .string "Jeg spekulerer paa hvad det var?$"
+    .string "Jeg sâ et underligt BAeR i skraldet.\n"
+    .string "Jeg spekulerer pâ hvad det var?$"
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
-    .string "Jeg har saa travlt at jeg bliver svimmel!\n"
-    .string "Du maa give mig plads her!$"
+    .string "Jeg har sâ travlt at jeg bliver svimmel!\n"
+    .string "Du mâ give mig plads her!$"
 
 SSAnne_Kitchen_Text_PeelSpudsEveryDay::
     .string "Hum-de-hum-de-ho…\p"
-    .string "Jeg skraeller kartofler hver dag!\n"
+    .string "Jeg skräller kartofler hver dag!\n"
     .string "Hum-hum…$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-    .string "Hoerte du om SNORLAX?\n"
-    .string "Det er en fraadser.\p"
+    .string "Hörte du om SNORLAX?\n"
+    .string "Det er en frâdser.\p"
     .string "Ingen anden POKeMON spiser og sover\n"
-    .string "som SNORLAX kan og goer!$"
+    .string "som SNORLAX kan og gör!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
-    .string "Snoeft… Snus…\p"
-    .string "Jeg maa kun skraelle loeg…\n"
-    .string "Snoeft…$"
+    .string "Snöft… Snus…\p"
+    .string "Jeg mâ kun skrälle lög…\n"
+    .string "Snöft…$"
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
     .string "Er-hem!\n"
@@ -34,12 +34,12 @@ SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
     .string "Salmon du Salad!\p"
-    .string "Gaesterne brokker sig maaske over at det\n"
+    .string "Gästerne brokker sig mâske over at det\n"
     .string "igen er fisk!$"
 
 SSAnne_Kitchen_Text_EelsAuBarbecue::
     .string "Eels au Barbecue!\p"
-    .string "Gaesterne vil mytteri, frygter jeg.$"
+    .string "Gästerne vil mytteri, frygter jeg.$"
 
 SSAnne_Kitchen_Text_PrimeBeefsteak::
     .string "Prime Beefsteak!\p"

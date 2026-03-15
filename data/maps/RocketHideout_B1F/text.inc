@@ -11,18 +11,18 @@ RocketHideout_B1F_Text_Grunt1PostBattle::
     .string "ROCKET, ikke?$"
 
 RocketHideout_B1F_Text_Grunt2Intro::
-    .string "Du broed ind i TEAM ROCKETs\n"
-    .string "operation? Hvilken fraekhed!$"
+    .string "Du bröd ind i TEAM ROCKETs\n"
+    .string "operation? Hvilken fräkhed!$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
     .string "Boom!$"
 
 RocketHideout_B1F_Text_Grunt2PostBattle::
     .string "Du slipper ikke godt fra dette,\n"
-    .string "moegunge!$"
+    .string "mögunge!$"
 
 RocketHideout_B1F_Text_Grunt3Intro::
-    .string "Indtraenger alarm!$"
+    .string "Indtränger alarm!$"
 
 RocketHideout_B1F_Text_Grunt3Defeat::
     .string "Jeg kan ikke!$"
@@ -48,5 +48,5 @@ RocketHideout_B1F_Text_Grunt5Defeat::
     .string "Hvorfor…?$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
-    .string "Uh-oh, den larm aabnede paa en eller\n"
-    .string "anden maade doeren!$"
+    .string "Uh-oh, den larm âbnede pâ en eller\n"
+    .string "anden mâde dören!$"

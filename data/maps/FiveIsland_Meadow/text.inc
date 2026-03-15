@@ -7,21 +7,21 @@ FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
     .string "{PLAYER} indtastede en adgangskode.\p"
     .string "GOLDEEN need log.\p"
     .string "… …  … …  … …\p"
-    .string "En adgangskode mere behoeves for at\n"
-    .string "aabne doeren…$"
+    .string "En adgangskode mere behöves for at\n"
+    .string "âbne dören…$"
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
     .string "{PLAYER} indtastede to adgangskoder.\p"
     .string "GOLDEEN need log.\n"
     .string "Yes, nah, CHANSEY.\p"
     .string "… …  … …  … …\p"
-    .string "LAGERETS doer gik op!$"
+    .string "LAGERETS dör gik op!$"
 
 FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen::
-    .string "LAGERETS doer er allerede aaben.$"
+    .string "LAGERETS dör er allerede âben.$"
 
 FiveIsland_Meadow_Text_Rocket1Intro::
-    .string "Dette omraade er strengt forbudt!\n"
+    .string "Dette omrâde er strengt forbudt!\n"
     .string "Ud, ud!$"
 
 FiveIsland_Meadow_Text_Rocket1Defeat::
@@ -29,12 +29,12 @@ FiveIsland_Meadow_Text_Rocket1Defeat::
 
 FiveIsland_Meadow_Text_Rocket1PostBattle::
     .string "Du har ingen forretning her!\n"
-    .string "Gaa hjem!$"
+    .string "Gâ hjem!$"
 
 FiveIsland_Meadow_Text_Rocket2Intro::
     .string "Der er intet herfra undtagen\n"
     .string "vores LAGER.\p"
-    .string "Saa hvad bringer dig her?$"
+    .string "Sâ hvad bringer dig her?$"
 
 FiveIsland_Meadow_Text_Rocket2Defeat::
     .string "Det skulle ikke ske…$"
@@ -50,7 +50,7 @@ FiveIsland_Meadow_Text_Rocket3Intro::
     .string "kommer forbi mig.$"
 
 FiveIsland_Meadow_Text_Rocket3Defeat::
-    .string "Oeh, det goer mig rasende!$"
+    .string "Oeh, det gör mig rasende!$"
 
 FiveIsland_Meadow_Text_Rocket3PostBattle::
     .string "Du kommer ikke ind uden\n"

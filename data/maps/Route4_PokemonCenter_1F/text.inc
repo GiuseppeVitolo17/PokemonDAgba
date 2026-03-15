@@ -1,13 +1,13 @@
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-    .string "Okay, saet seks POKe BALLS i mit\n"
-    .string "baelte…\p"
-    .string "Ja, det goer det. Du kan hoejest have\n"
+    .string "Okay, sät seks POKe BALLS i mit\n"
+    .string "bälte…\p"
+    .string "Ja, det gör det. Du kan höjest have\n"
     .string "seks POKeMON med dig.$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
     .string "TEAM ROCKET angriber CERULEAN-\n"
     .string "borgere…\p"
-    .string "Der gaar ikke en dag uden TEAM\n"
+    .string "Der gâr ikke en dag uden TEAM\n"
     .string "ROCKET er i nyhederne.$"
 
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
@@ -15,21 +15,21 @@ Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
     .string "Har jeg et tilbud til dig!\p"
     .string "Jeg giver dig en hemmelig POKeMON\n"
     .string "- en MAGIKARP - for kun ¥500!\p"
-    .string "Saa du koeber den, ikke?$"
+    .string "Sâ du köber den, ikke?$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
     .string "MAND: Hej der, skat!\n"
     .string "Har jeg et tilbud til dig!\p"
     .string "Jeg giver dig en hemmelig POKeMON\n"
     .string "- en MAGIKARP - for kun ¥500!\p"
-    .string "Saa du koeber den, ikke?$"
+    .string "Sâ du köber den, ikke?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
     .string "{PLAYER} betalte ublu ¥500\n"
-    .string "og koebte MAGIKARP…$"
+    .string "og köbte MAGIKARP…$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
-    .string "Nej? Du siger nej? Jeg goer det kun\n"
+    .string "Nej? Du siger nej? Jeg gör det kun\n"
     .string "som en tjeneste for dig!$"
 
 Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
@@ -45,9 +45,9 @@ Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
 
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
     .string "Nogle gange har du for mange\n"
-    .string "POKeMON med dig til at tilfoeje flere.\p"
-    .string "I saa fald boer du bare gemme nogle\n"
-    .string "paa en PC.$"
+    .string "POKeMON med dig til at tilföje flere.\p"
+    .string "I sâ fald bör du bare gemme nogle\n"
+    .string "pâ en PC.$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::
     .string "Det er en avis.$"

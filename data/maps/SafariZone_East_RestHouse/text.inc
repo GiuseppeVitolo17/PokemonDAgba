@@ -4,8 +4,8 @@ SafariZone_East_Text_HowManyDidYouCatch::
 
 SafariZone_East_Text_CaughtChanseyAllWorthwhile::
     .string "Jeg fangede en CHANSEY!\p"
-    .string "Det goer det hele vaerd at moede op.$"
+    .string "Det gör det hele värd at möde op.$"
 
 SafariZone_East_Text_TiredFromAllTheFun::
     .string "Puha!\n"
-    .string "Jeg er traet af al det sjovt!$"
+    .string "Jeg er trät af al det sjovt!$"

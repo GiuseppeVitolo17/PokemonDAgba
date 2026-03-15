@@ -4,10 +4,10 @@ SSAnne_2F_Room2_Text_BrooksIntro::
 
 SSAnne_2F_Room2_Text_BrooksDefeat::
     .string "God kamp!\n"
-    .string "Aah, jeg foeler mig ung igen!$"
+    .string "Aah, jeg föler mig ung igen!$"
 
 SSAnne_2F_Room2_Text_BrooksPostBattle::
-    .string "For femten aar siden ville\n"
+    .string "For femten âr siden ville\n"
     .string "jeg have vundet!$"
 
 SSAnne_2F_Room2_Text_DaleIntro::
@@ -18,6 +18,6 @@ SSAnne_2F_Room2_Text_DaleDefeat::
 
 SSAnne_2F_Room2_Text_DalePostBattle::
     .string "Fest?\p"
-    .string "Krydstogtskibets fest burde vaere\n"
+    .string "Krydstogtskibets fest burde väre\n"
     .string "forbi nu.$"
 

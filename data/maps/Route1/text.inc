@@ -1,11 +1,11 @@
 Route1_Text_WorkAtPokeMartTakeSample::
     .string "Hej!\n"
     .string "Jeg arbejder i en POKeMON BUTIK.\p"
-    .string "Det er del af en kede, der saelger\n"
+    .string "Det er del af en kede, der sälger\n"
     .string "alle mulige ting.\p"
     .string "Besog os i VIRIDIAN CITY.\p"
-    .string "Jeg giver dig en proeve.\n"
-    .string "Vaersgo!$"
+    .string "Jeg giver dig en pröve.\n"
+    .string "Värsgo!$"
 
 Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
     .string "Kom forbi, hvis du har brug for\n"
@@ -17,9 +17,9 @@ Route1_Text_PutPotionAway::
 
 Route1_Text_CanJumpFromLedges::
     .string "Ser du kanten langs vejen?\p"
-    .string "Det er lidt skraemmende, men du\n"
+    .string "Det er lidt skrämmende, men du\n"
     .string "kan hoppe ned fra dem.\p"
-    .string "Saadan kommer du hurtigere tilbage\n"
+    .string "Sâdan kommer du hurtigere tilbage\n"
     .string "til PALLET TOWN.$"
 
 Route1_Text_RouteSign::

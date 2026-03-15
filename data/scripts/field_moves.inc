@@ -45,14 +45,14 @@ EventScript_DontCutTree::
 	end
 
 Text_CutTreeDown::
-	.string "Dette trae kan maaske faeldes med CUT!\p"
+	.string "Dette trä kan mâske fäldes med CUT!\p"
 	.string "Vil du bruge CUT?$"
 
 Text_MonUsedMove::
 	.string "{STR_VAR_1} brugte {STR_VAR_2}!$"
 
 Text_TreeCanBeCutDown::
-	.string "Dette trae kan maaske faeldes med CUT!$"
+	.string "Dette trä kan mâske fäldes med CUT!$"
 
 EventScript_RockSmash::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -112,7 +112,7 @@ Text_UseRockSmash::
 
 Text_MonMaySmashRock::
 	.string "Det er en ru sten, men en POKeMON\n"
-	.string "kan maaske smadre den.$"
+	.string "kan mâske smadre den.$"
 
 EventScript_StrengthBoulder::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -195,8 +195,8 @@ EventScript_EndWaterfall:
 	end
 
 Text_WallOfWaterCrashingDown::
-	.string "En vandvaeg styrteder ned\n"
-	.string "med et maegtigt brag.$"
+	.string "En vandväg styrteder ned\n"
+	.string "med et mägtigt brag.$"
 
 Text_UseWaterfall::
 	.string "Det er et stort vandfald.\n"
@@ -254,7 +254,7 @@ EventScript_EndSurface:
 
 Text_MonMayGoUnderwater::
 	.string "Havet er dybt her. En POKeMON\n"
-	.string "kan maaske dykke ned.$"
+	.string "kan mâske dykke ned.$"
 
 Text_SeaIsDeepUseDive::
 	.string "Havet er dybt her.\n"
@@ -265,7 +265,7 @@ Text_MonUsedDive::
 
 Text_MonMaySurface::
 	.string "Lys sipper ned ovenfra.\n"
-	.string "En POKeMON kan maaske stige op.$"
+	.string "En POKeMON kan mâske stige op.$"
 
 Text_LightFilteringUseDive::
 	.string "Lys sipper ned ovenfra.\n"
@@ -280,4 +280,4 @@ EventScript_FailSweetScent::
 	end
 
 Text_LooksLikeNothingHere::
-	.string "Der ser ikke ud til at vaere noget her…$"
+	.string "Der ser ikke ud til at väre noget her…$"

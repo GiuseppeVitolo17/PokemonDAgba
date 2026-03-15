@@ -1,6 +1,6 @@
 SilphCo_9F_Text_YouShouldTakeQuickNap::
-    .string "Du ser traet ud.\n"
-    .string "Du boer tage en kort lur.$"
+    .string "Du ser trät ud.\n"
+    .string "Du bör tage en kort lur.$"
 
 SilphCo_9F_Text_DontGiveUp::
     .string "Giv ikke op!$"
@@ -13,33 +13,33 @@ SilphCo_9F_Text_Grunt1Intro::
     .string "unge!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
-    .string "Ghaaah!$"
+    .string "Ghâah!$"
 
 SilphCo_9F_Text_Grunt1PostBattle::
     .string "Hvis jeg var startet som TRAINER i\n"
     .string "din alder…$"
 
 SilphCo_9F_Text_EdIntro::
-    .string "Dine POKeMON har svaaghedspunkter!\n"
+    .string "Dine POKeMON har svâghedspunkter!\n"
     .string "Jeg kan ramme dem!$"
 
 SilphCo_9F_Text_EdDefeat::
     .string "Du hamrede mig!$"
 
 SilphCo_9F_Text_EdPostBattle::
-    .string "At udnytte svaaghedspunkter virker.\n"
-    .string "Taenk paa typefordele.$"
+    .string "At udnytte svâghedspunkter virker.\n"
+    .string "Tänk pâ typefordele.$"
 
 SilphCo_9F_Text_Grunt2Intro::
     .string "Jeg er en af de fire ROCKET\n"
-    .string "BROEDRE!$"
+    .string "BRÖDRE!$"
 
 SilphCo_9F_Text_Grunt2Defeat::
     .string "Warg!\n"
-    .string "Broedre, jeg tabte!$"
+    .string "Brödre, jeg tabte!$"
 
 SilphCo_9F_Text_Grunt2PostBattle::
-    .string "Mine broedre vil haevne mig!$"
+    .string "Mine brödre vil hävne mig!$"
 
 SilphCo_9F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

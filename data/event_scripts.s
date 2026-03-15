@@ -870,7 +870,7 @@ Text_TrainerSchoolEmail::
 	.string "‥‥　‥‥　‥‥$"
 
 Text_PlayerBootedUpPC::
-	.string "{PLAYER} taendte PC'en.$"
+	.string "{PLAYER} tändte PC'en.$"
 
 @ Unused
 Text_LinkWasCanceled::
@@ -878,29 +878,29 @@ Text_LinkWasCanceled::
 
 @ Unused
 Text_GiveNicknameToReceivedMon::
-	.string "Want to give a nickname to the\n"
-	.string "{STR_VAR_2} you received?$"
+	.string "Vil du give et kaldenavn til den\n"
+	.string "{STR_VAR_2} du modtog?$"
 
 gText_PkmnFainted3::
 	.string "{STR_VAR_1} fainted…\p"
 	.string "$"
 
 Text_WelcomeWantToHealPkmn::
-	.string "Welcome to our POKeMON CENTER!\p"
-	.string "Would you like me to heal your\n"
-	.string "POKeMON back to perfect health?$"
+	.string "Velkommen til vores POKeMON CENTER!\p"
+	.string "Vil du have mig til at helbrede dine\n"
+	.string "POKeMON helt?$"
 
 Text_TakeYourPkmnForFewSeconds::
-	.string "Okay, I'll take your POKeMON for a\n"
-	.string "few seconds.$"
+	.string "Okay, jeg tager dine POKeMON et\n"
+	.string "par sekunder.$"
 
 Text_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "Vi hâber at se dig igen!$"
 
 Text_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\n"
-	.string "We've restored your POKeMON to\l"
-	.string "full health.$"
+	.string "Tak for din tâlmodighed.\n"
+	.string "Vi har genoprettet dine POKeMON til\l"
+	.string "fuld helbred.$"
 
 	.include "data/text/surf.inc"
 
@@ -928,8 +928,8 @@ Text_HandedOverItem::
 	.string "{STR_VAR_1}.$"
 
 Text_GiveNicknameToThisMon::
-	.string "Do you want to give a nickname to\n"
-	.string "this {STR_VAR_1}?$"
+	.string "Vil du give et kaldenavn til denne\n"
+	.string "{STR_VAR_1}?$"
 
 	.include "data/text/itemfinder.inc"
 	.include "data/text/route23.inc"
@@ -945,16 +945,16 @@ Text_ItNeedsCardKey::
 	.string "It needs a CARD KEY!$"
 
 Text_AccessedProfOaksPC::
-	.string "Accessed PROF. OAK's PC…\p"
-	.string "Accessed the POKeDEX Rating\n"
-	.string "System…$"
+	.string "Fik adgang til PROF. OAK's PC…\p"
+	.string "Fik adgang til POKeDEX-\n"
+	.string "vurderingssystemet…$"
 
 Text_HavePokedexRated::
-	.string "Would you like to have your\n"
-	.string "POKeDEX rated?$"
+	.string "Vil du have din\n"
+	.string "POKeDEX vurderet?$"
 
 Text_ClosedLinkToProfOaksPC::
-	.string "Closed link to PROF. OAK's PC.$"
+	.string "Lukket forbindelse til PROF. OAK's PC.$"
 
 Text_VoiceRangOutDontRunAway::
 	.string "Someone's voice rang out,\n"
@@ -1014,7 +1014,7 @@ EventScript_ResetAllMapFlags::
 	setflag FLAG_HIDE_OAK_IN_HIS_LAB
 	setflag FLAG_HIDE_OAK_IN_PALLET_TOWN
 	setflag FLAG_HIDE_BILL_HUMAN_SEA_COTTAGE
-	setflag FLAG_HIDE_PEWTER_CITY_RUNNING_SHOES_GUY
+	setflag FLAG_HIDE_PEWTER_CITY_RUNNING_SHÖS_GUY
 	setflag FLAG_HIDE_POKEHOUSE_FUJI
 	setflag FLAG_HIDE_LIFT_KEY
 	setflag FLAG_HIDE_SILPH_SCOPE

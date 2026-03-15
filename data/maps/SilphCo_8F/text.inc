@@ -1,18 +1,18 @@
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-    .string "Jeg spekulerer paa om SILPH er faerdig…$"
+    .string "Jeg spekulerer pâ om SILPH er färdig…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
     .string "Tak for at redde os!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-    .string "Saa langt kommer du ikke!$"
+    .string "Sâ langt kommer du ikke!$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-    .string "Ikke nok kampaaand!$"
+    .string "Ikke nok kampâand!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
     .string "Hvis du ikke vender om…\n"
-    .string "Saa ringer jeg efter forstaerkning!$"
+    .string "Sâ ringer jeg efter forstärkning!$"
 
 SilphCo_8F_Text_ParkerIntro::
     .string "Du skaber os problemer!$"
@@ -22,19 +22,19 @@ SilphCo_8F_Text_ParkerDefeat::
     .string "Jeg tabte?$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-    .string "Saa hvad synes du om SILPH\n"
+    .string "Sâ hvad synes du om SILPH\n"
     .string "BYGNINGs labyrint?$"
 
 SilphCo_8F_Text_Grunt2Intro::
     .string "Jeg er en af de fire ROCKET\n"
-    .string "BROEDRE!$"
+    .string "BRÖDRE!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
     .string "Whoo!\n"
-    .string "Oh, Broedre!$"
+    .string "Oh, Brödre!$"
 
 SilphCo_8F_Text_Grunt2PostBattle::
-    .string "Jeg overlader dig til mine broedre.$"
+    .string "Jeg overlader dig til mine brödre.$"
 
 SilphCo_8F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"
@@ -43,7 +43,7 @@ SilphCo_8F_Text_FloorSign::
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
     .string "TEAM ROCKETs BOSS er frygtelig\n"
     .string "grausom!\p"
-    .string "For ham er POKeMON bare vaerktoejer\n"
+    .string "For ham er POKeMON bare värktöjer\n"
     .string "der skal bruges.\p"
     .string "Hvad sker der hvis den tyran\n"
     .string "overtar vores virksomhed…$"

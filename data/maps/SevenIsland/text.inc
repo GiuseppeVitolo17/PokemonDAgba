@@ -1,38 +1,38 @@
 Text_SwordsDanceTeach::
     .string "Ikke mange kommer herud.\p"
-    .string "Hvis jeg traener her, er jeg overbevist om at\n"
-    .string "jeg bliver staerkere og staerkere.\p"
-    .string "Ja, staerkere og staerkere…\p"
-    .string "Vil du laere et traek som det?\n"
+    .string "Hvis jeg träner her, er jeg overbevist om at\n"
+    .string "jeg bliver stärkere og stärkere.\p"
+    .string "Ja, stärkere og stärkere…\p"
+    .string "Vil du läre et träk som det?\n"
     .string "Det er SWORDS DANCE.$"
 
 Text_SwordsDanceDeclined::
-    .string "Ja, det er ogsaa fint.$"
+    .string "Ja, det er ogsâ fint.$"
 
 Text_SwordsDanceWhichMon::
-    .string "Okay, vaelg hvilken POKeMON\n"
-    .string "jeg skal laere det.$"
+    .string "Okay, välg hvilken POKeMON\n"
+    .string "jeg skal läre det.$"
 
 Text_SwordsDanceTaught::
     .string "Hvis bare vi kunne blive ved med at blive\n"
-    .string "staerkere og staerkere, hva?$"
+    .string "stärkere og stärkere, hva?$"
 
 SevenIsland_Text_IslandSign::
     .string "SEVEN ISLAND\n"
-    .string "Opgaveoeen med uendelighed$"
+    .string "Opgaveöen med uendelighed$"
 
 SevenIsland_Text_IslandsMadeInSevenDays::
-    .string "Disse oeer kaldes SEVII ISLANDS\n"
+    .string "Disse öer kaldes SEVII ISLANDS\n"
     .string "fordi der er syv.\p"
     .string "…Eller det er i hvert fald hvad de unge\n"
     .string "tror.\p"
-    .string "Sandheden er at disse oeer er opkaldt\n"
-    .string "saa fordi de siges at vaere lavet\l"
-    .string "paa syv dage.$"
+    .string "Sandheden er at disse öer er opkaldt\n"
+    .string "sâ fordi de siges at väre lavet\l"
+    .string "pâ syv dage.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
-    .string "Denne oe er blevet naesten uberoert\n"
+    .string "Denne ö er blevet nästen uberört\n"
     .string "i sin naturlige tilstand.\p"
-    .string "Det kan vaere lidt vanskeligt at\n"
-    .string "vandre rundt paa grund af det.$"
+    .string "Det kan väre lidt vanskeligt at\n"
+    .string "vandre rundt pâ grund af det.$"
 

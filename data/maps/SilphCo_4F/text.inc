@@ -4,7 +4,7 @@ SilphCo_4F_Text_CantYouSeeImHiding::
 
 SilphCo_4F_Text_TeamRocketIsGone::
     .string "Hva?\n"
-    .string "TEAM ROCKET er vaek?$"
+    .string "TEAM ROCKET er väk?$"
 
 SilphCo_4F_Text_Grunt1Intro::
     .string "TEAM ROCKET har taget kontrol\n"
@@ -22,22 +22,22 @@ SilphCo_4F_Text_RodneyIntro::
 
 SilphCo_4F_Text_RodneyDefeat::
     .string "Pokkers!\n"
-    .string "I svaage POKeMON!$"
+    .string "I svâge POKeMON!$"
 
 SilphCo_4F_Text_RodneyPostBattle::
-    .string "Doerene er elektronisk\n"
-    .string "laast.\p"
-    .string "Det kraever en CARD KEY for at aabne\n"
-    .string "doerene her.$"
+    .string "Dörene er elektronisk\n"
+    .string "lâst.\p"
+    .string "Det kräver en CARD KEY for at âbne\n"
+    .string "dörene her.$"
 
 SilphCo_4F_Text_Grunt2Intro::
-    .string "Indtraenger spottet!$"
+    .string "Indtränger spottet!$"
 
 SilphCo_4F_Text_Grunt2Defeat::
     .string "Hvem er du?$"
 
 SilphCo_4F_Text_Grunt2PostBattle::
-    .string "Jeg boer fortaelle BOSS paa 11. sal!$"
+    .string "Jeg bör fortälle BOSS pâ 11. sal!$"
 
 SilphCo_4F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

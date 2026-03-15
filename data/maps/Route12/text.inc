@@ -3,12 +3,12 @@ Route12_Text_MonSprawledOutInSlumber::
     .string "og behageligt.$"
 
 Text_SnorlaxWokeUp::
-    .string "SNORLAX vaagnede!\p"
+    .string "SNORLAX vâgnede!\p"
     .string "Den angreb i arrig vrede!$"
 
 Text_SnorlaxReturnedToMountains::
     .string "SNORLAX blev rolig.\n"
-    .string "Den gav et kaempe gaben…\l"
+    .string "Den gav et kämpe gaben…\l"
     .string "Og vendte tilbage til bjergene.$"
 
 Text_WantToUsePokeFlute::
@@ -30,11 +30,11 @@ Route12_Text_NedPostBattle::
     .string "Min line er sat fast!$"
 
 Route12_Text_ChipIntro::
-    .string "Hav taalmodighed.\n"
+    .string "Hav tâlmodighed.\n"
     .string "Fiskeri er et ventespil.$"
 
 Route12_Text_ChipDefeat::
-    .string "Den slap vaek!$"
+    .string "Den slap väk!$"
 
 Route12_Text_ChipPostBattle::
     .string "Med et bedre ROD kunne jeg fange\n"
@@ -50,7 +50,7 @@ Route12_Text_JustinDefeat::
 Route12_Text_JustinPostBattle::
     .string "Jeg kunne have ladet mine POKeMON\n"
     .string "udvikle sig med en MOON STONE.\p"
-    .string "Saa havde jeg vundet, vaedder jeg.$"
+    .string "Sâ havde jeg vundet, vädder jeg.$"
 
 Route12_Text_LucaIntro::
     .string "Elektricitet er min speciale.\p"
@@ -61,8 +61,8 @@ Route12_Text_LucaDefeat::
     .string "Afpluget!$"
 
 Route12_Text_LucaPostBattle::
-    .string "Vand leder elektricitet, saa du\n"
-    .string "boer give hav-POKeMON stoed.$"
+    .string "Vand leder elektricitet, sâ du\n"
+    .string "bör give hav-POKeMON stöd.$"
 
 Route12_Text_HankIntro::
     .string "FISHING FOOL mod POKeMON KID!$"
@@ -71,22 +71,22 @@ Route12_Text_HankDefeat::
     .string "For meget!$"
 
 Route12_Text_HankPostBattle::
-    .string "Jeg gaetter man bliver god til det\n"
+    .string "Jeg gätter man bliver god til det\n"
     .string "man kan lide.\p"
     .string "Du slog mig i POKeMON, men du\n"
-    .string "kan ikke slaa mig til fiskeri.$"
+    .string "kan ikke slâ mig til fiskeri.$"
 
 Route12_Text_ElliotIntro::
-    .string "Jeg elsker fiskeri, misforstaa ikke.\p"
-    .string "Men det ville vaere bedst hvis jeg\n"
-    .string "ogsaa havde mere arbejde.$"
+    .string "Jeg elsker fiskeri, misforstâ ikke.\p"
+    .string "Men det ville väre bedst hvis jeg\n"
+    .string "ogsâ havde mere arbejde.$"
 
 Route12_Text_ElliotDefeat::
     .string "Det er ikke nemt…$"
 
 Route12_Text_ElliotPostBattle::
     .string "Det er okay.\n"
-    .string "At tabe gener mig ikke laengere.$"
+    .string "At tabe gener mig ikke längere.$"
 
 Route12_Text_AndrewIntro::
     .string "Hvad fanges?\p"
@@ -118,12 +118,12 @@ Route12_Text_JesDefeat::
 
 Route12_Text_JesPostBattle::
     .string "JES: Oh, GIA, tilgiv mig,\n"
-    .string "min kaerlighed!$"
+    .string "min kärlighed!$"
 
 Route12_Text_JesNotEnoughMons::
     .string "JES: GIA og jeg, vi bliver\n"
     .string "sammen for evigt.\p"
-    .string "Vi kaemper ikke medmindre du har\n"
+    .string "Vi kämper ikke medmindre du har\n"
     .string "to POKeMON selv.$"
 
 Route12_Text_GiaIntro::
@@ -136,9 +136,9 @@ Route12_Text_GiaDefeat::
 
 Route12_Text_GiaPostBattle::
     .string "GIA: JES, din tosser!\n"
-    .string "Du oedelagde det!$"
+    .string "Du ödelagde det!$"
 
 Route12_Text_GiaNotEnoughMons::
-    .string "GIA: Jeg kan ikke kaempe uden\n"
+    .string "GIA: Jeg kan ikke kämpe uden\n"
     .string "min JES!\p"
     .string "Har du ikke en POKeMON mere?$"

@@ -8,7 +8,7 @@ OneIsland_PokemonCenter_1F_Text_CelioCantBelieveYouCameOut::
 
 OneIsland_PokemonCenter_1F_Text_BillHowsYourResearchComing::
     .string "BILL: Ja, helt sikkert!\n"
-    .string "Hvordan gaar din forskning?\p"
+    .string "Hvordan gâr din forskning?\p"
     .string "…Oh, vent lige.$"
 
 OneIsland_PokemonCenter_1F_Text_ThisIsMyBuddyCelio::
@@ -26,40 +26,40 @@ OneIsland_PokemonCenter_1F_Text_PlayerIsReigningPokemonChamp::
 OneIsland_PokemonCenter_1F_Text_CelioThatsReallyImpressive::
     .string "CELIO: Det er virkelig imponerende.\p"
     .string "Jeg hader at sige det, men jeg har\n"
-    .string "nul anlaeg for kamp.\p"
-    .string "Men jeg er glad for at moede dig.$"
+    .string "nul anläg for kamp.\p"
+    .string "Men jeg er glad for at möde dig.$"
 
 OneIsland_PokemonCenter_1F_Text_BillBringMeUpToSpeed::
     .string "BILL: Sa opdater mig.\n"
-    .string "Hvordan koerer din maskine?$"
+    .string "Hvordan körer din maskine?$"
 
 OneIsland_PokemonCenter_1F_Text_CelioPCsCantLinkWithYours::
-    .string "CELIO: Den koerer fint, men vi er\n"
+    .string "CELIO: Den körer fint, men vi er\n"
     .string "for afsides herude.\p"
-    .string "PC'erne paa denne oe kan bare ikke\n"
+    .string "PC'erne pâ denne ö kan bare ikke\n"
     .string "forbinde til din PC, BILL.$"
 
 OneIsland_PokemonCenter_1F_Text_BillLetMeHelpYou::
     .string "BILL: Oh ja?\n"
     .string "Okay, lad mig tage et kig.\p"
     .string "…Vent lige…\n"
-    .string "Jeg tror vi kan faa det til at virke.\l"
-    .string "Lad mig hjaelpe dig, okay?$"
+    .string "Jeg tror vi kan fâ det til at virke.\l"
+    .string "Lad mig hjälpe dig, okay?$"
 
 OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayer::
-    .string "{PLAYER}, kan du vente paa mig\n"
+    .string "{PLAYER}, kan du vente pâ mig\n"
     .string "bare lidt?\p"
-    .string "…Faktisk, kan du goere mig en\n"
+    .string "…Faktisk, kan du göre mig en\n"
     .string "tjeneste?\p"
     .string "Oen ved siden af hedder\n"
     .string "TWO ISLAND.\p"
-    .string "Der er en fyr der koerer et\n"
+    .string "Der er en fyr der körer et\n"
     .string "GAME CORNER.\p"
-    .string "Han er vild med sjaeldne sten\n"
-    .string "og aedelstene.\p"
+    .string "Han er vild med själdne sten\n"
+    .string "og ädelstene.\p"
     .string "Vi holder kontakten som\n"
     .string "med-maniacs.\p"
-    .string "Saa kan du levere denne\n"
+    .string "Sâ kan du levere denne\n"
     .string "METEORITE til ham?$"
 
 OneIsland_PokemonCenter_1F_Text_AcceptedMeteoriteFromBill::
@@ -71,11 +71,11 @@ OneIsland_PokemonCenter_1F_Text_CelioPleaseTakeThis::
     .string "TWO ISLAND, tag dette med.$"
 
 OneIsland_PokemonCenter_1F_Text_PassLetsYouTravelBetweenIslands::
-    .string "Det er et PASS til faergeen der\n"
-    .string "betjener de lokale oeer.\p"
+    .string "Det er et PASS til färgeen der\n"
+    .string "betjener de lokale öer.\p"
     .string "Det lader dig rejse mellem\n"
     .string "ISLAND ONE, TWO og THREE.\p"
-    .string "Oh, du skal ogsaa have dette.$"
+    .string "Oh, du skal ogsâ have dette.$"
 
 OneIsland_PokemonCenter_1F_Text_ReceivedExtraPageForTownMap::
     .string "{PLAYER} modtog en ekstra side\n"
@@ -91,35 +91,35 @@ OneIsland_PokemonCenter_1F_Text_BillCatchYouLater::
 
 OneIsland_PokemonCenter_1F_Text_HmmHowAboutLikeThis::
     .string "Hmm…\p"
-    .string "Hvad med at vi proever saadan…$"
+    .string "Hvad med at vi pröver sâdan…$"
 
 OneIsland_PokemonCenter_1F_Text_GotPCWorkingStrollAWhileMore::
     .string "Oh, hej {PLAYER}!\p"
-    .string "Saa du det?\n"
+    .string "Sâ du det?\n"
     .string "Vi fik PC'en til at virke!\p"
     .string "Jeg har noget at vise CELIO her.\p"
-    .string "Kan du gaa en tur eller noget\n"
+    .string "Kan du gâ en tur eller noget\n"
     .string "endnu en tid?$"
 
 OneIsland_PokemonCenter_1F_Text_SorryForBeingPoorHost::
-    .string "Undskyld at jeg tog saa meget af\n"
+    .string "Undskyld at jeg tog sâ meget af\n"
     .string "BILLs tid.\p"
-    .string "Undskyld ogsaa at jeg var saadan en\n"
-    .string "daarlig vaert paa dit besoeg her.$"
+    .string "Undskyld ogsâ at jeg var sâdan en\n"
+    .string "dârlig värt pâ dit besög her.$"
 
 OneIsland_PokemonCenter_1F_Text_UsualPCServicesUnavailable::
-    .string "De saedvanlige PC-tjenester er\n"
-    .string "ikke tilgaengelige…$"
+    .string "De sädvanlige PC-tjenester er\n"
+    .string "ikke tilgängelige…$"
 
 OneIsland_PokemonCenter_1F_Text_BillOhHeyPlayer::
     .string "BILL: Oh, hej!\n"
     .string "{PLAYER}!$"
 
 OneIsland_PokemonCenter_1F_Text_BillWeGotItDone::
-    .string "BILL: Hvad tog saa laenge?\n"
+    .string "BILL: Hvad tog sâ länge?\n"
     .string "Havde du det hyggeligt?\p"
-    .string "Vi fik det faerdigt.\n"
-    .string "PC'erne koerer!$"
+    .string "Vi fik det färdigt.\n"
+    .string "PC'erne körer!$"
 
 OneIsland_PokemonCenter_1F_Text_CelioJobWentQuick::
     .string "CELIO: Opgaven gik utroligt\n"
@@ -127,71 +127,71 @@ OneIsland_PokemonCenter_1F_Text_CelioJobWentQuick::
     .string "BILL er fantastisk…$"
 
 OneIsland_PokemonCenter_1F_Text_BillYouveLearnedALot::
-    .string "BILL: Nej, nej! Der var naesten\n"
+    .string "BILL: Nej, nej! Der var nästen\n"
     .string "intet tilbage til mig.\p"
-    .string "CELIO, jeg maa give dig ros.\n"
-    .string "Du har laert meget.$"
+    .string "CELIO, jeg mâ give dig ros.\n"
+    .string "Du har lärt meget.$"
 
 OneIsland_PokemonCenter_1F_Text_CelioOhReallyEhehe::
     .string "CELIO: Oh virkelig?\n"
     .string "Ehehe…$"
 
 OneIsland_PokemonCenter_1F_Text_BillWeShouldHeadBackToKanto::
-    .string "BILL: Naa, sa er vi der.\n"
-    .string "Jeg er faerdig med opgaven.\l"
-    .string "Vi boer tage tilbage til KANTO.\p"
+    .string "BILL: Nâ, sa er vi der.\n"
+    .string "Jeg er färdig med opgaven.\l"
+    .string "Vi bör tage tilbage til KANTO.\p"
     .string "CELIO, vi ses igen.$"
 
 OneIsland_PokemonCenter_1F_Text_CelioPromiseIllShowYouAroundSometime::
     .string "CELIO: {PLAYER}, jeg er virkelig\n"
     .string "ked af vi sendte dig afsted alene i dag.\p"
-    .string "Jeg lover at vise dig rundt paa\n"
-    .string "disse oeer en gang.$"
+    .string "Jeg lover at vise dig rundt pâ\n"
+    .string "disse öer en gang.$"
 
 OneIsland_PokemonCenter_1F_Text_CelioImModifyingMyNetworkMachine::
     .string "CELIO: Hej!\n"
     .string "Du ser frygtelig travl ud som altid.\p"
-    .string "Hvordan gaar det for mig?\p"
-    .string "Jeg modificerer min Netvaerks-\n"
+    .string "Hvordan gâr det for mig?\p"
+    .string "Jeg modificerer min Netvärks-\n"
     .string "maskine.\p"
-    .string "Naar jeg er faerdig med maskinen,\n"
-    .string "haaber jeg du vil bruge den foerst,\l"
+    .string "Nâr jeg er färdig med maskinen,\n"
+    .string "hâber jeg du vil bruge den först,\l"
     .string "{PLAYER}.$"
 
 OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUseful::
     .string "CELIO: {PLAYER}, hvordan har det\n"
-    .string "vaeret for dig?\p"
+    .string "väret for dig?\p"
     .string "Oh, virkelig?\n"
     .string "Du har fanget flere POKeMON.\p"
     .string "Ved du hvad?\n"
-    .string "Maaske jeg kan vaere nyttig for dig.$"
+    .string "Mâske jeg kan väre nyttig for dig.$"
 
 OneIsland_PokemonCenter_1F_Text_YoullBeTradingFromTrainersFarAway::
-    .string "Jeg modificerer Netvaerksmaskinen\n"
+    .string "Jeg modificerer Netvärksmaskinen\n"
     .string "lige nu.\p"
-    .string "Jeg aendrer den saa den kan haandtere\n"
+    .string "Jeg ändrer den sâ den kan hândtere\n"
     .string "bytter over lange afstande.\p"
-    .string "Naar jeg er faerdig, kan du\n"
+    .string "Nâr jeg er färdig, kan du\n"
     .string "bytte exotiske POKeMON med\l"
-    .string "TRAINERE langt vaek.$"
+    .string "TRAINERE langt väk.$"
 
 OneIsland_PokemonCenter_1F_Text_NeedsSpecialGemstone::
     .string "Men der er en lille ulempe.\p"
     .string "For at forbindelsen virker, skal\n"
-    .string "maskinen bruge en saerlig aedelsten.\p"
-    .string "Den skulle vaere paa ONE ISLAND,\n"
+    .string "maskinen bruge en särlig ädelsten.\p"
+    .string "Den skulle väre pâ ONE ISLAND,\n"
     .string "men jeg har ikke fundet en endnu.\p"
-    .string "Hvem ved hvor den kunne vaere.$"
+    .string "Hvem ved hvor den kunne väre.$"
 
 OneIsland_PokemonCenter_1F_Text_TryingToFindGem::
-    .string "Jeg forsoegte at finde aedelstenen\n"
+    .string "Jeg forsögte at finde ädelstenen\n"
     .string "mens jeg studerede.\p"
     .string "Som resultat er jeg ikke kommet\n"
-    .string "videre i soegning eller studier…\p"
-    .string "Hvis jeg stolede paa BILL, ville\n"
+    .string "videre i sögning eller studier…\p"
+    .string "Hvis jeg stolede pâ BILL, ville\n"
     .string "min forskning sikkert fremskride.\p"
-    .string "Men denne gang vil jeg proeve at\n"
-    .string "goere tingene selv.$"
+    .string "Men denne gang vil jeg pröve at\n"
+    .string "göre tingene selv.$"
 
 OneIsland_PokemonCenter_1F_Text_OhThats::
     .string "Oh!\n"
@@ -205,23 +205,23 @@ OneIsland_PokemonCenter_1F_Text_MayIAskOneMoreFavor::
     .string "Tak!\n"
     .string "{PLAYER}, du er simpelthen fantastisk.\p"
     .string "… … …  … … …\p"
-    .string "Oeh… Maa jeg bede om endnu en kaempe\n"
+    .string "Oeh… Mâ jeg bede om endnu en kämpe\n"
     .string "tjeneste?$"
 
 OneIsland_PokemonCenter_1F_Text_PleaseINeedYourHelp::
-    .string "Det… Det er ikke noget maerkeligt.\n"
-    .string "Jeg har brug for din hjaelp!$"
+    .string "Det… Det er ikke noget märkeligt.\n"
+    .string "Jeg har brug for din hjälp!$"
 
 OneIsland_PokemonCenter_1F_Text_AnotherGemstoneInSeviiIslands::
-    .string "Mens jeg studerede aedelstene,\n"
+    .string "Mens jeg studerede ädelstene,\n"
     .string "opdagede jeg noget vigtigt.\p"
-    .string "Der er en anden aedelsten der danner\n"
+    .string "Der er en anden ädelsten der danner\n"
     .string "et par med denne RUBIN.\p"
-    .string "Den anden aedelsten skulle vaere\n"
+    .string "Den anden ädelsten skulle väre\n"
     .string "i SEVII ISLANDS.\p"
     .string "{PLAYER}, ga venligst og find\n"
-    .string "den anden aedelsten.\p"
-    .string "{PLAYER}, maa jeg faa din faerge-\n"
+    .string "den anden ädelsten.\p"
+    .string "{PLAYER}, mâ jeg fâ din färge-\n"
     .string "PASS og BYKORTET?$"
 
 OneIsland_PokemonCenter_1F_Text_ReturnedTriPassForRainbowPass::
@@ -232,22 +232,22 @@ OneIsland_PokemonCenter_1F_Text_ObtainedExtraMapPage::
     .string "Fik en ekstra side til BYKORTET!$"
 
 OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslands::
-    .string "Dette er min egen faerge-PASS.\p"
+    .string "Dette er min egen färge-PASS.\p"
     .string "Den lader dig komme til alle\n"
     .string "SEVII ISLANDS.\p"
-    .string "{PLAYER}, jeg kan ikke goere det\n"
-    .string "uden din hjaelp.$"
+    .string "{PLAYER}, jeg kan ikke göre det\n"
+    .string "uden din hjälp.$"
 
 OneIsland_PokemonCenter_1F_Text_HandedSapphireToCelio::
     .string "{PLAYER} gav SAPFIREN\n"
     .string "til CELIO.$"
 
 OneIsland_PokemonCenter_1F_Text_ThankYouGiveMeTime::
-    .string "CELIO: Saa dette er aedelstenen der\n"
+    .string "CELIO: Sâ dette er ädelstenen der\n"
     .string "danner par med RUBINEN…\p"
-    .string "{PLAYER}, du har vaeret igennem meget\n"
+    .string "{PLAYER}, du har väret igennem meget\n"
     .string "for at fa dette, ikke?\p"
-    .string "Du behoever ikke fortaelle mig. Jeg ved\n"
+    .string "Du behöver ikke fortälle mig. Jeg ved\n"
     .string "det var ikke nemt.\p"
     .string "Mange tak!\p"
     .string "Nu er det min tur at arbejde for dig!\n"
@@ -264,42 +264,42 @@ OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYou::
     .string "{PLAYER}…\n"
     .string "{PLAYER}, jeg gjorde det!\p"
     .string "Jeg fik forbundet med TRAINERE\n"
-    .string "i HOENN-regionen!\p"
-    .string "Endelig er Netvaerksmaskinen\n"
+    .string "i HÖNN-regionen!\p"
+    .string "Endelig er Netvärksmaskinen\n"
     .string "fuldt operationel!\p"
     .string "{PLAYER}, jeg skylder det alt til dig!\p"
-    .string "Takket vaere dig blev min droem\n"
+    .string "Takket väre dig blev min dröm\n"
     .string "til virkelighed…$"
 
 OneIsland_PokemonCenter_1F_Text_WishYouBestOfLuck::
     .string "Jeg…\n"
-    .string "Jeg graeder ikke.\p"
+    .string "Jeg gräder ikke.\p"
     .string "Nok om mig!\p"
     .string "{PLAYER}, du bliver ved med at\n"
     .string "lede efter exotiske POKeMON, ikke?\p"
-    .string "Jeg oensker dig al mulig held!$"
+    .string "Jeg önsker dig al mulig held!$"
 
 OneIsland_PokemonCenter_1F_Text_CelioHearingRumorsAboutYou::
     .string "CELIO: Hej!\p"
-    .string "{PLAYER}, jeg har hoert rygter\n"
+    .string "{PLAYER}, jeg har hört rygter\n"
     .string "om dig.$"
 
 OneIsland_PokemonCenter_1F_Text_BillsFirstMonWasAbra::
     .string "{PLAYER}, hvad er din yndlings-\n"
     .string "POKeMON?\p"
-    .string "BILL er en POKeMANIAC, saa han\n"
+    .string "BILL er en POKeMANIAC, sâ han\n"
     .string "elsker alle slags.\p"
-    .string "Aabenbart var den foerste han\n"
+    .string "Aabenbart var den förste han\n"
     .string "fangede en ABRA.$"
 
 OneIsland_PokemonCenter_1F_Text_BillsHometownInGoldenrod::
     .string "For resten, {PLAYER}, du er fra\n"
     .string "PALLET TOWN, ikke?\p"
-    .string "Jeg har hoert at det er et stille og\n"
+    .string "Jeg har hört at det er et stille og\n"
     .string "behageligt sted.\p"
     .string "BILLs hjemby er GOLDENROD CITY,\n"
-    .string "hvor hans foraeldre stadig bor.\p"
-    .string "Jeg har hoert at det er en festlig,\n"
+    .string "hvor hans foräldre stadig bor.\p"
+    .string "Jeg har hört at det er en festlig,\n"
     .string "livlig by.\p"
     .string "Jeg vil gerne derhen en dag.$"
 
@@ -307,7 +307,7 @@ OneIsland_PokemonCenter_1F_Text_BillCantStomachMilk::
     .string "{PLAYER}, er der noget du\n"
     .string "slet ikke kan li?\p"
     .string "Aabenbart kan BILL slet ikke\n"
-    .string "taale maelk.$"
+    .string "tâle mälk.$"
 
 OneIsland_PokemonCenter_1F_Text_CameFromPalletDontKnowIt::
     .string "Oh, du er fremmed her!\n"
@@ -316,39 +316,39 @@ OneIsland_PokemonCenter_1F_Text_CameFromPalletDontKnowIt::
     .string "Jeg kender den ikke!$"
 
 OneIsland_PokemonCenter_1F_Text_EnormousVolcanoOnIsland::
-    .string "Paa denne oe er der en kaempe\n"
+    .string "Pâ denne ö er der en kämpe\n"
     .string "vulkan.\p"
     .string "Den har ikke udbrudt for nylig,\n"
-    .string "saa hvorfor ikke nyde en vandring?$"
+    .string "sâ hvorfor ikke nyde en vandring?$"
 
 OneIsland_PokemonCenter_1F_Text_WishICouldTradeWithBoyfriend::
-    .string "Jeg ville oenske jeg kunne bytte\n"
-    .string "POKeMON med min kaereste langt vaek…$"
+    .string "Jeg ville önske jeg kunne bytte\n"
+    .string "POKeMON med min käreste langt väk…$"
 
 OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriend::
-    .string "Jeg byttede POKeMON med min kaereste\n"
-    .string "langt vaek!\p"
+    .string "Jeg byttede POKeMON med min käreste\n"
+    .string "langt väk!\p"
     .string "Alle siger at vi kan takke dig\n"
     .string "og CELIO.\p"
-    .string "Saa tak!$"
+    .string "Sâ tak!$"
 
 OneIsland_PokemonCenter_1F_Text_MachineUnderAdjustment::
-    .string "Netvaerksmaskine\n"
+    .string "Netvärksmaskine\n"
     .string "Link Niveau 0\p"
     .string "…POKeMON-opbevaring under\n"
     .string "justering…$"
 
 OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKanto::
-    .string "Netvaerksmaskine\n"
+    .string "Netvärksmaskine\n"
     .string "Link Niveau 1\p"
     .string "Forbindelse etableret med KANTO-\n"
     .string "regionen.$"
 
 OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKantoAndHoenn::
-    .string "Netvaerksmaskine\n"
+    .string "Netvärksmaskine\n"
     .string "Link Niveau 2\p"
     .string "Forbindelse etableret med KANTO-\n"
-    .string "og HOENN-regionerne.$"
+    .string "og HÖNN-regionerne.$"
 
 OneIsland_PokemonCenter_1F_Text_ObtainedTriPass::
     .string "Fik TRI-PASS!$"

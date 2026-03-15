@@ -2,7 +2,7 @@
 static const u8 sEasyChatWord_Meet[] = _("MEET");
 static const u8 sEasyChatWord_Play[] = _("PLAY");
 static const u8 sEasyChatWord_Hurried[] = _("HURRIED");
-static const u8 sEasyChatWord_Goes[] = _("GOES");
+static const u8 sEasyChatWord_Goes[] = _("GÖS");
 static const u8 sEasyChatWord_Giddy[] = _("GIDDY");
 static const u8 sEasyChatWord_Happy[] = _("HAPPY");
 static const u8 sEasyChatWord_Happiness[] = _("HAPPINESS");

@@ -1,7 +1,7 @@
 
 static const u8 sEasyChatWord_Thanks[] = _("THANKS");
 static const u8 sEasyChatWord_Yes[] = _("YES");
-static const u8 sEasyChatWord_HereGoes[] = _("HERE GOES");
+static const u8 sEasyChatWord_HereGoes[] = _("HERE GÖS");
 static const u8 sEasyChatWord_HereICome[] = _("HERE I COME");
 static const u8 sEasyChatWord_HereItIs[] = _("HERE IT IS");
 static const u8 sEasyChatWord_Yeah[] = _("YEAH");

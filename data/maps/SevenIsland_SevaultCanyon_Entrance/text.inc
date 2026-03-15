@@ -1,14 +1,14 @@
 SevenIsland_SevaultCanyon_Entrance_Text_MiahIntro::
     .string "Kyahaha!\n"
-    .string "Jeg fejer dig vaek uden besvaer!$"
+    .string "Jeg fejer dig väk uden besvär!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahDefeat::
     .string "Tch!\n"
-    .string "For staerk for mig!$"
+    .string "For stärk for mig!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahPostBattle::
     .string "Hvad er det?\n"
-    .string "Jeg opfoerer mig ikke som jeg ser ud?\p"
+    .string "Jeg opförer mig ikke som jeg ser ud?\p"
     .string "Heh, det er en del af min strategi!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonIntro::
@@ -16,17 +16,17 @@ SevenIsland_SevaultCanyon_Entrance_Text_MasonIntro::
     .string "Er du medlem af min fanclub?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonDefeat::
-    .string "Aah, saa du er ikke en fan…\p"
-    .string "Ja, jeg kan aendre det.\n"
+    .string "Aah, sâ du er ikke en fan…\p"
+    .string "Ja, jeg kan ändre det.\n"
     .string "Lad mig synge for dig!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattle::
     .string "Lalalah…\n"
     .string "Min POKeMON, jeg sender dem ud,\l"
-    .string "alle pigerne skriger og raaber!$"
+    .string "alle pigerne skriger og râber!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntro::
-    .string "Denne oe er for spredt…\n"
+    .string "Denne ö er for spredt…\n"
     .string "Det er ikke nemt at patruljere.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasDefeat::
@@ -34,9 +34,9 @@ SevenIsland_SevaultCanyon_Entrance_Text_NicolasDefeat::
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasPostBattle::
     .string "TRAINERS som dig fra byer,\n"
-    .string "de er virkelig haarde.\p"
+    .string "de er virkelig hârde.\p"
     .string "Du tager til TOWER,\n"
-    .string "goer du ikke?$"
+    .string "gör du ikke?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineIntro::
     .string "Jeg straffer folk der misbruger\n"
@@ -48,46 +48,46 @@ SevenIsland_SevaultCanyon_Entrance_Text_MadelineDefeat::
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelinePostBattle::
     .string "Hvis du behandler dine POKeMON med\n"
-    .string "venlighed, forstaar de.$"
+    .string "venlighed, forstâr de.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveIntro::
-    .string "EVE: Jeg slaar mig sammen med JON og\n"
-    .string "kaemper sammen.$"
+    .string "EVE: Jeg slâr mig sammen med JON og\n"
+    .string "kämper sammen.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveDefeat::
     .string "EVE: Mig og JON tabte vi.\n"
     .string "Ehehe.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EvePostBattle::
-    .string "EVE: Jeg vil arbejde haardere med\n"
+    .string "EVE: Jeg vil arbejde hârdere med\n"
     .string "JON.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveNotEnoughMons::
-    .string "EVE: Jeg vil gerne slaa mig sammen med JON\n"
-    .string "naar jeg kaemper mod dig.\p"
+    .string "EVE: Jeg vil gerne slâ mig sammen med JON\n"
+    .string "nâr jeg kämper mod dig.\p"
     .string "Kom tilbage med to POKeMON, okay?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonIntro::
-    .string "JON: Naar jeg er med EVE, foeles det\n"
+    .string "JON: Nâr jeg er med EVE, föles det\n"
     .string "som om vi aldrig kunne tabe.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonDefeat::
-    .string "JON: Naar jeg er med EVE,\n"
-    .string "foeles det ikke som om jeg har tabt!$"
+    .string "JON: Nâr jeg er med EVE,\n"
+    .string "föles det ikke som om jeg har tabt!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonPostBattle::
-    .string "JON: Naar jeg er med EVE, foeler jeg mig\n"
+    .string "JON: Nâr jeg er med EVE, föler jeg mig\n"
     .string "svimmel om jeg vinder eller taber.\p"
     .string "Det er magisk!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonNotEnoughMons::
-    .string "JON: Hvis det er med EVE, kaemper jeg\n"
+    .string "JON: Hvis det er med EVE, kämper jeg\n"
     .string "gerne mod dig.\p"
-    .string "Saa jeg vil gerne goere det til en\n"
-    .string "to-mod-to kamp, om jeg maa.$"
+    .string "Sâ jeg vil gerne göre det til en\n"
+    .string "to-mod-to kamp, om jeg mâ.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_RouteSign::
     .string "SEVAULT CANYON ENTRANCE\p"
     .string "TRAINERS bedes undlade at\n"
-    .string "skaade planter i CANYON.$"
+    .string "skâde planter i CANYON.$"
 

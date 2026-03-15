@@ -4,19 +4,19 @@ VermilionCity_PokemonFanClub_Text_AdmirePikachusTail::
 
 VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute::
     .string "Hmph!\p"
-    .string "Min PIKACHU er dobbelt saa nuttet som\n"
+    .string "Min PIKACHU er dobbelt sâ nuttet som\n"
     .string "den der!$"
 
 VermilionCity_PokemonFanClub_Text_AdoreMySeel::
     .string "Jeg tilbeder bare min SEEL!\n"
-    .string "Den er saa elskvaerdig!\p"
-    .string "Den hyler Kyuuuh naar jeg\n"
+    .string "Den er sâ elskvärdig!\p"
+    .string "Den hyler Kyuuuh nâr jeg\n"
     .string "krammer den!$"
 
 VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive::
-    .string "Aah, kaere!\p"
+    .string "Aah, käre!\p"
     .string "Min SEEL er langt mere tillokkende.\n"
-    .string "Dobbelt saa meget, vil jeg sige.$"
+    .string "Dobbelt sâ meget, vil jeg sige.$"
 
 VermilionCity_PokemonFanClub_Text_Pikachu::
     .string "PIKACHU: Chu! Pikachu!$"
@@ -28,26 +28,26 @@ VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
     .string "Jeg er formand for POKeMON Fan Klubben!\p"
     .string "Jeg opfostrer mere end hundrede\n"
     .string "POKeMON!\p"
-    .string "Jeg er meget kraesen naar det gaelder\n"
+    .string "Jeg er meget kräsen nâr det gälder\n"
     .string "POKeMON! Det er jeg virkelig!\p"
-    .string "Saa…\p"
-    .string "Kom du for at hoere om\n"
+    .string "Sâ…\p"
+    .string "Kom du for at höre om\n"
     .string "mine POKeMON?$"
 
 VermilionCity_PokemonFanClub_Text_ChairmansStory::
     .string "Godt!\n"
-    .string "Saa lyt med!\p"
+    .string "Sâ lyt med!\p"
     .string "Min yndlings RAPIDASH…\p"
     .string "Den er…nuttede…dejlig…klog…\n"
     .string "plus…fantastisk…synes du ikke?…\l"
-    .string "aah ja…den er…blaendende…\l"
+    .string "âh ja…den er…bländende…\l"
     .string "venlig…elsker den!\p"
-    .string "Kram den…naar…den sover…varm\n"
-    .string "og putte…spektakulaer…\l"
+    .string "Kram den…nâr…den sover…varm\n"
+    .string "og putte…spektakulär…\l"
     .string "betagende…\l"
     .string "…Ups! Se tiden!\l"
-    .string "Jeg holdt dig for laenge!\p"
-    .string "Tak fordi du hoerte paa mig!\n"
+    .string "Jeg holdt dig for länge!\p"
+    .string "Tak fordi du hörte pâ mig!\n"
     .string "Jeg vil gerne give dig dette!$"
 
 VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
@@ -61,29 +61,29 @@ VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
     .string "gratis!\p"
     .string "Bare rolig, min yndlings FEAROW\n"
     .string "vil FLYVE mig hvor jeg skal hen.\p"
-    .string "Saa jeg har ikke brug for en CYKEL.\p"
-    .string "Jeg haaber du kan lide at cykle!$"
+    .string "Sâ jeg har ikke brug for en CYKEL.\p"
+    .string "Jeg hâber du kan lide at cykle!$"
 
 VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
-    .string "Aah. Kom tilbage naar du vil\n"
-    .string "hoere min historie!$"
+    .string "Aah. Kom tilbage nâr du vil\n"
+    .string "höre min historie!$"
 
 VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
     .string "Hej, {PLAYER}!\p"
-    .string "Kom du for at hoere om mine\n"
+    .string "Kom du for at höre om mine\n"
     .string "POKeMON igen?\p"
     .string "Nej?\n"
-    .string "Saa aergerligt!$"
+    .string "Sâ ärgerligt!$"
 
 VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
-    .string "Goer plads til dette!$"
+    .string "Gör plads til dette!$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon::
     .string "Vores FORMAND er meget vokal omkring\n"
     .string "POKeMON.$"
 
 VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers::
-    .string "Lad os alle lytte hoefligt til andre\n"
+    .string "Lad os alle lytte höfligt til andre\n"
     .string "TRAeNERE!$"
 
 VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::

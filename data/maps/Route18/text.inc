@@ -1,23 +1,23 @@
 Route18_Text_WiltonIntro::
-    .string "Jeg tjekker altid hvert graesomraade\n"
+    .string "Jeg tjekker altid hvert gräsomrâde\n"
     .string "for nye POKeMON.$"
 
 Route18_Text_WiltonDefeat::
     .string "Tch!$"
 
 Route18_Text_WiltonPostBattle::
-    .string "Jeg ville oenske jeg havde en CYKEL!$"
+    .string "Jeg ville önske jeg havde en CYKEL!$"
 
 Route18_Text_RamiroIntro::
     .string "Kurukkoo!\n"
     .string "Hvordan kan du lide mit fuglekald?$"
 
 Route18_Text_RamiroDefeat::
-    .string "Jeg maatte irritere dig!$"
+    .string "Jeg mâtte irritere dig!$"
 
 Route18_Text_RamiroPostBattle::
     .string "Jeg samler hav-POKeMON i weekenden\n"
-    .string "fordi havet er saa taet paa.$"
+    .string "fordi havet er sâ tät pâ.$"
 
 Route18_Text_JacobIntro::
     .string "Dette er mit territorium!\n"
@@ -36,4 +36,4 @@ Route18_Text_RouteSign::
 
 Route18_Text_CyclingRoadSign::
     .string "CYKELVEJ\n"
-    .string "Fodgaengere forbudt!$"
+    .string "Fodgängere forbudt!$"

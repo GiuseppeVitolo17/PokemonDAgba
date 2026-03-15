@@ -7,11 +7,11 @@ CeruleanCity_House1_Text_AnyInterestInBerries::
     .string "i BERRIES?$"
 
 CeruleanCity_House1_Text_HaveJustTheThing::
-    .string "Ah, godt! For dig har jeg saa\n"
+    .string "Ah, godt! For dig har jeg sâ\n"
     .string "lige det rigtige.$"
 
 CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
-    .string "Der er noget nyt paa anden sal\n"
+    .string "Der er noget nyt pâ anden sal\n"
     .string "i POKeMON CENTERS, ved\l"
     .string "DIRECT CORNER.\p"
     .string "De installerede en Wireless Adapter-\n"
@@ -29,7 +29,7 @@ CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
     .string "BERRY POWDER og bring det til mig.$"
 
 CeruleanCity_House1_Text_WhyMustYouLieNoBerries::
-    .string "Hvorfor maa du lyve for mig?\p"
+    .string "Hvorfor mâ du lyve for mig?\p"
     .string "Hvor mange BERRIES har du?\n"
     .string "Ikke een!$"
 
@@ -61,8 +61,8 @@ CeruleanCity_House1_Text_TradeMoreBerryPowder::
     .string "POWDER for noget andet?$"
 
 CeruleanCity_House1_Text_HopeToSeeYouAgain::
-    .string "Det er fint, saa.\n"
-    .string "Jeg haaber at se dig igen.$"
+    .string "Det er fint, sâ.\n"
+    .string "Jeg hâber at se dig igen.$"
 
 CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder::
     .string "Kom til mig hvis du vil bytte\n"

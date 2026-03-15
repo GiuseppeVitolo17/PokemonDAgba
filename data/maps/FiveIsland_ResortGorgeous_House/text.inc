@@ -3,32 +3,32 @@ FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
     .string "Kender jeg dig et sted fra?\p"
     .string "Men det er lige meget.\p"
     .string "Jeg keder mig uendeligt.\n"
-    .string "Hoer venligst min oenskning.$"
+    .string "Hör venligst min önskning.$"
 
 FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
     .string "Jeg vil gerne se en POKeMON.\n"
-    .string "En soed {STR_VAR_1}.\p"
+    .string "En söd {STR_VAR_1}.\p"
     .string "Jeg vil se en med det samme.\n"
-    .string "Opfyld venligst min oenskning.$"
+    .string "Opfyld venligst min önskning.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
-    .string "SELPHY: Av, jeg er traet af det.\n"
-    .string "Jeg er traet af at vente paa dig.\p"
+    .string "SELPHY: Av, jeg er trät af det.\n"
+    .string "Jeg er trät af at vente pâ dig.\p"
     .string "Jeg tilgiver dig denne gang, men\n"
-    .string "vaer venlig ikke at skuffe naeste gang.$"
+    .string "vär venlig ikke at skuffe näste gang.$"
 
 FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
     .string "SELPHY: Oeh, hej.\p"
-    .string "Oeh, du godeste. Det maa vaere den\n"
+    .string "Oeh, du godeste. Det mâ väre den\n"
     .string "{STR_VAR_1}, du fangede til mig.\p"
     .string "Fnise…\n"
     .string "Den ligner dig.\p"
     .string "Mange tak.\p"
     .string "… …  … …  … …\n"
     .string "Er der noget galt?\p"
-    .string "Du maa gaa.\p"
+    .string "Du mâ gâ.\p"
     .string "… …  … …  … …\n"
-    .string "Naaja, jeg forstaar nu.\p"
+    .string "Nâja, jeg forstâr nu.\p"
     .string "SEBASTIAN!\n"
     .string "Jeg har brug for dig med det samme!$"
 
@@ -36,11 +36,11 @@ FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
     .string "Butler: Ja, min frue.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation::
-    .string "SELPHY: Soerg for at denne person\n"
-    .string "faar en takkegaver.$"
+    .string "SELPHY: Sörg for at denne person\n"
+    .string "fâr en takkegaver.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
-    .string "Butler: Jeg goer som De befaler,\n"
+    .string "Butler: Jeg gör som De befaler,\n"
     .string "min frue.$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
@@ -50,20 +50,20 @@ FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
     .string "tak…$"
 
 FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
-    .string "Butler: Din TASKE lader til at vaere\n"
-    .string "desvaerre fuld.$"
+    .string "Butler: Din TASKE lader til at väre\n"
+    .string "desvärre fuld.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
     .string "Oeh…\n"
-    .string "Saa skuffende.$"
+    .string "Sâ skuffende.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck::
-    .string "SELPHY: Jeg oensker dig al mulig\n"
+    .string "SELPHY: Jeg önsker dig al mulig\n"
     .string "lykke.$"
 
 FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSun::
     .string "Butler: Frue SELPHYs smil har\n"
     .string "solens glans.\p"
-    .string "Jeg beder dig bringe glaede til\n"
+    .string "Jeg beder dig bringe gläde til\n"
     .string "frue SELPHY.$"
 

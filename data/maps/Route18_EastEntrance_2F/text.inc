@@ -4,4 +4,4 @@ Route18_EastEntrance_2F_Text_PalletTownInWest::
 
 Route18_EastEntrance_2F_Text_PeopleSwimming::
     .string "Lad os se hvad kikkerten viser...\p"
-    .string "Der er folk der svoemmer.$"
+    .string "Der er folk der svömmer.$"

@@ -4,11 +4,11 @@ SixIsland_GreenPath_Text_JaclynIntro::
     .string "det er her jeg TELEPORTERER?$"
 
 SixIsland_GreenPath_Text_JaclynDefeat::
-    .string "Stor boelle!$"
+    .string "Stor bölle!$"
 
 SixIsland_GreenPath_Text_JaclynPostBattle::
-    .string "Jeg er saa forstroet!\p"
-    .string "Jeg skal fokusere saa jeg kan\n"
+    .string "Jeg er sâ forströt!\p"
+    .string "Jeg skal fokusere sâ jeg kan\n"
     .string "TELEPORTERE ordentligt til mit hus!$"
 
 SixIsland_GreenPath_Text_LeftRouteSign::
@@ -17,5 +17,5 @@ SixIsland_GreenPath_Text_LeftRouteSign::
 
 SixIsland_GreenPath_Text_RightRouteSign::
     .string "GREEN PATH\n"
-    .string "Taenk groent, hold naturen ren!$"
+    .string "Tänk grönt, hold naturen ren!$"
 

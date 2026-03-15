@@ -9,8 +9,8 @@ SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
     .string "Du ved det allerede, ikke?\n"
     .string "TM29 er PSYCHIC.\p"
-    .string "Det er et angreb der ogsaa kan\n"
-    .string "saenke maalets specialstats.$"
+    .string "Det er et angreb der ogsâ kan\n"
+    .string "sänke mâlets specialstats.$"
 
 SaffronCity_MrPsychicsHouse_Text_YouveNoRoom::
     .string "Hvor vil du putte dette?\n"

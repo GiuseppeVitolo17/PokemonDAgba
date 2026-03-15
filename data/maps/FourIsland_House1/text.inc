@@ -21,6 +21,6 @@ JPText_BodySlamTaught::
     .string "ぼよよーん！$"
 
 FourIsland_House1_Text_YoureAwfullyHeavy::
-    .string "Saa! Boing!\n"
-    .string "Du er forfaerdelig tung!$"
+    .string "Sâ! Boing!\n"
+    .string "Du er forfärdelig tung!$"
 

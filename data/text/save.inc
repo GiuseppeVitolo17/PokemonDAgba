@@ -7,7 +7,7 @@ gText_AlreadySaveFile_WouldLikeToOverwrite::
 
 gText_SavingDontTurnOffThePower::
 	.string "GEMmer…\n"
-	.string "SLUK IKKE FOR STROEMMEN.$"
+	.string "SLUK IKKE FOR STRÖMMEN.$"
 
 gText_PlayerSavedTheGame::
 	.string "{PLAYER} gemte spillet.$"
@@ -22,5 +22,5 @@ gText_DifferentGameFile::
 	.string "Hvis du gemmer nu, vil den anden\n"
 	.string "fils eventyr, inkl. genstande og\l"
 	.string "POKeMON, ga tabt.\p"
-	.string "Er du sikker paa at du vil gemme nu\n"
+	.string "Er du sikker pâ at du vil gemme nu\n"
 	.string "og overskrive den anden gemte fil?$"

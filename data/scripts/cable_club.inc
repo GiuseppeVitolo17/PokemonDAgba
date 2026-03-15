@@ -414,7 +414,7 @@ CableClub_EventScript_EnterTradeCenter::
 CableClub_EventScript_CheckPartyTradeRequirements::
 	specialvar VAR_RESULT, CalculatePlayerPartyCount
 	goto_if_lt VAR_RESULT, 2, CableClub_EventScript_NeedTwoMonsToTrade
-	specialvar VAR_RESULT, DoesPartyHaveEnigmaBerry
+	specialvar VAR_RESULT, DösPartyHaveEnigmaBerry
 	goto_if_eq VAR_RESULT, TRUE, CableClub_EventScript_CantTradeEnigmaBerry
 	setvar VAR_RESULT, TRUE
 	return
@@ -803,7 +803,7 @@ CableClub_EventScript_EnterUnionRoom::
 CableClub_EventScript_CheckPartyUnionRoomRequirements::
 	specialvar VAR_RESULT, CountPartyNonEggMons
 	goto_if_lt VAR_RESULT, 2, CableClub_EventScript_NeedTwoMonsForUnionRoom
-	specialvar VAR_RESULT, DoesPartyHaveEnigmaBerry
+	specialvar VAR_RESULT, DösPartyHaveEnigmaBerry
 	goto_if_eq VAR_RESULT, TRUE, CableClub_EventScript_NoEnigmaBerryInUnionRoom
 	setvar VAR_RESULT, TRUE
 	return
@@ -1577,7 +1577,7 @@ Text_LeavingDoComeAgain::
 	.string "またこいよ！$"
 
 EventScript_ExplainPokemonJumpRequirements::
-	.string "It doesn't look like you have any\n"
+	.string "It dösn't look like you have any\n"
 	.string "POKeMON that you can enter…\p"
 	.string "Would you like me to explain what\n"
 	.string "kinds of POKeMON can enter?$"
