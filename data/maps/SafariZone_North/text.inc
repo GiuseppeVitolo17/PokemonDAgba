@@ -10,7 +10,7 @@ SafariZone_North_Text_Area2::
 
 SafariZone_North_Text_ZigzagThroughTallGrass::
     .string "TRAINER TIPS\p"
-    .string "POKeMON gemmer sig i höjt gräs.\p"
+    .string "POKéMON gemmer sig i höjt gräs.\p"
     .string "Snöv gennem gräsomrâder for at\n"
     .string "jage dem frem.$"
 

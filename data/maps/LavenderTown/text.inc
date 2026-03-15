@@ -12,14 +12,14 @@ LavenderTown_Text_JustImaginingWhiteHand::
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
     .string "Denne by er kendt som gravstedet\n"
-    .string "for POKeMON.\p"
+    .string "for POKéMON.\p"
     .string "Mindehöjtideligheder afholdes i\n"
-    .string "POKeMON TOWER.$"
+    .string "POKéMON TOWER.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-    .string "Spögelser dukkede op i POKeMON\n"
+    .string "Spögelser dukkede op i POKéMON\n"
     .string "TOWER.\p"
-    .string "Jeg tror de er ânderne af POKeMON\n"
+    .string "Jeg tror de er ânderne af POKéMON\n"
     .string "som ROCKET dräbte.$"
 
 LavenderTown_Text_TownSign::
@@ -33,9 +33,9 @@ LavenderTown_Text_SilphScopeNotice::
 
 LavenderTown_Text_VolunteerPokemonHouse::
     .string "LAVENDER FRIVILLIG\n"
-    .string "POKeMON HUS$"
+    .string "POKéMON HUS$"
 
 LavenderTown_Text_PokemonTowerSign::
-    .string "POKeMON TOWER\n"
-    .string "Berolig POKeMONs ânder$"
+    .string "POKéMON TOWER\n"
+    .string "Berolig POKéMONs ânder$"
 

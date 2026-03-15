@@ -1,7 +1,7 @@
 Text_MetronomeTeach::
     .string "Tch-tch-tch!\n"
     .string "Jeg lärer dig et smart trick.\p"
-    .string "Lär det til en POKeMON, og se\n"
+    .string "Lär det til en POKéMON, og se\n"
     .string "morön udfolde sig!\p"
     .string "Det er et trick kaldt METRONOME.\n"
     .string "Lyder det tiltalende?$"
@@ -11,19 +11,19 @@ Text_MetronomeDeclined::
 
 Text_MetronomeWhichMon::
     .string "Okay!\n"
-    .string "Hvilken POKeMON skal jeg läre?$"
+    .string "Hvilken POKéMON skal jeg läre?$"
 
 Text_MetronomeTaught::
     .string "Tch-tch-tch!\n"
     .string "Det er lyden af en METRONOME.\p"
-    .string "Det fâr din POKeMONs hjerne til at\n"
+    .string "Det fâr din POKéMONs hjerne til at\n"
     .string "bruge tricks den ikke engang kender.$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
     .string "Hej!\p"
     .string "Jeg er vigtig doktor.\n"
     .string "Ja, meget, sandelig.\p"
-    .string "Her studerer jeg själdne POKeMON-fossiler.\n"
+    .string "Her studerer jeg själdne POKéMON-fossiler.\n"
     .string "Hele tiden studerer jeg.\p"
     .string "Dig!\n"
     .string "Har du et fossil til mig?$"
@@ -56,9 +56,9 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
     .string "Oh!\n"
     .string "Det er {STR_VAR_2}, det er!\p"
     .string "Det er fossil af {STR_VAR_1},\n"
-    .string "en POKeMON der allerede er uddöd!\p"
+    .string "en POKéMON der allerede er uddöd!\p"
     .string "Min Genopstandelsesmaskine vil fâ\n"
-    .string "den POKeMON til at leve igen!$"
+    .string "den POKéMON til at leve igen!$"
 
 @ TODO: Resolve text dump error below?
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::

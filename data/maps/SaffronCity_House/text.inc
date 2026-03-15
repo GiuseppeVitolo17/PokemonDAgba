@@ -14,7 +14,7 @@ SaffronCity_House_Text_GettingCopycatPokeDoll::
 SaffronCity_House_Text_ExplainPPUp::
     .string "Jeg fik en PP UP i gave.\p"
     .string "Den bruges til at oge PP for\n"
-    .string "et POKeMONs angreb.\p"
+    .string "et POKéMONs angreb.\p"
     .string "Jeg bör bruge den pâ et kräftigt\n"
     .string "angreb med kun fâ PP.$"
 

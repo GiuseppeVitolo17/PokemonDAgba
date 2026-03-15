@@ -1,5 +1,5 @@
 Trade_Text_LookingForMonWannaTradeForMon::
-	.string "Jeg leder efter POKeMON\n"
+	.string "Jeg leder efter POKéMON\n"
 	.string "{STR_VAR_1}!\p"
 	.string "Vil du bytte en mod min\n"
 	.string "{STR_VAR_2}?$"

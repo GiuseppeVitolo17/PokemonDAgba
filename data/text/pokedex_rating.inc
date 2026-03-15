@@ -1,18 +1,18 @@
 PokedexRating_Text_HowIsPokedexComingAlong::
 	.string "OAK: Godt at se dig!\n"
-	.string "Hvordan gâr det med din POKeDEX?\p"
+	.string "Hvordan gâr det med din POKéDEX?\p"
 	.string "Lad mig tage et kig.$"
 
 PokedexRating_Text_SeenXOwnedY::
-	.string "Din fremgang i POKeDEX er:\p"
-	.string "{STR_VAR_1} POKeMON set og\n"
-	.string "{STR_VAR_2} POKeMON ejet.\p"
+	.string "Din fremgang i POKéDEX er:\p"
+	.string "{STR_VAR_1} POKéMON set og\n"
+	.string "{STR_VAR_2} POKéMON ejet.\p"
 	.string "{FONT_NORMAL}PROF. OAKs vurdering:$"
 
 PokedexRating_Text_LessThan10::
 	.string "Du har stadig meget at gore.\p"
 	.string "Ga ind i hver gräsplet du ser\n"
-	.string "og led efter POKeMON!$"
+	.string "og led efter POKéMON!$"
 
 PokedexRating_Text_LessThan20::
 	.string "Det ser ud til at du er pâ rette\n"
@@ -21,9 +21,9 @@ PokedexRating_Text_LessThan20::
 	.string "en FLASH-HM. Hänt den!$"
 
 PokedexRating_Text_LessThan30::
-	.string "Din POKeDEX kunne bruge lidt mere\n"
+	.string "Din POKéDEX kunne bruge lidt mere\n"
 	.string "indhold!\p"
-	.string "Forsög at fange andre POKeMON-\n"
+	.string "Forsög at fange andre POKéMON-\n"
 	.string "arter!$"
 
 PokedexRating_Text_LessThan40::
@@ -33,7 +33,7 @@ PokedexRating_Text_LessThan40::
 	.string "en GENSTANDSFINDER. Hänt den!$"
 
 PokedexRating_Text_LessThan50::
-	.string "Din POKeDEX kommer godt fra sted!\p"
+	.string "Din POKéDEX kommer godt fra sted!\p"
 	.string "Jeg har givet en af mine assistenter\n"
 	.string "et AMULET-MÖNT. Hänt det!$"
 
@@ -44,12 +44,12 @@ PokedexRating_Text_LessThan60::
 
 PokedexRating_Text_LessThan70::
 	.string "Hoho! Det her bliver en rigtig\n"
-	.string "respektabel POKeDEX!$"
+	.string "respektabel POKéDEX!$"
 
 PokedexRating_Text_LessThan80::
 	.string "Meget godt!\p"
 	.string "Jeg tror du fanger endnu flere\n"
-	.string "POKeMON ved at fiske!$"
+	.string "POKéMON ved at fiske!$"
 
 PokedexRating_Text_LessThan90::
 	.string "Vidunderligt! Lad mig gätte… Du\n"
@@ -65,7 +65,7 @@ PokedexRating_Text_LessThan110::
 
 PokedexRating_Text_LessThan120::
 	.string "Du har endda udviklede former\n"
-	.string "af POKeMON! Super!$"
+	.string "af POKéMON! Super!$"
 
 PokedexRating_Text_LessThan130::
 	.string "Fremragende! Bytt med venner for\n"
@@ -77,25 +77,25 @@ PokedexRating_Text_LessThan140::
 
 PokedexRating_Text_LessThan150::
 	.string "Jeg har intet mere at sige!\n"
-	.string "Du er POKeMON-professoren nu!$"
+	.string "Du er POKéMON-professoren nu!$"
 
 PokedexRating_Text_Complete::
-	.string "Din POKeDEX er helt färdig!\n"
+	.string "Din POKéDEX er helt färdig!\n"
 	.string "Tillykke!!$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
-	.string "Og din NATIONAL POKeDEX er:\p"
-	.string "{STR_VAR_1} POKeMON set og\n"
-	.string "{STR_VAR_2} POKeMON ejet.$"
+	.string "Og din NATIONAL POKéDEX er:\p"
+	.string "{STR_VAR_1} POKéMON set og\n"
+	.string "{STR_VAR_2} POKéMON ejet.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
 	.string "Jeg gläder mig til at se dig\n"
-	.string "udfylde NATIONAL POKeDEX!$"
+	.string "udfylde NATIONAL POKéDEX!$"
 
 PokedexRating_Text_YouveCompletedDex::
 	.string "Endelig…\p"
 	.string "Du har endelig färdiggjort\n"
-	.string "POKeDEX!\p"
+	.string "POKéDEX!\p"
 	.string "Det er storslâet!\n"
 	.string "Virkelig en fantastisk bedrift!$"
 
@@ -113,7 +113,7 @@ PokedexRating_Text_ThankYouMadeDreamReality::
 PokedexRating_Text_LoveSeeingYourPokedex::
 	.string "OAK: Ah, velkommen!\p"
 	.string "Sig mig, hvordan gâr det med\n"
-	.string "din POKeDEX?\p"
+	.string "din POKéDEX?\p"
 	.string "Wahaha!\p"
 	.string "Faktisk ved jeg hvordan det er,\n"
 	.string "men jeg elsker at se den alligevel!\p"

@@ -6,9 +6,9 @@ FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
     .string "VOGTER SLOWPOKE er meget\n"
-    .string "velinformeret om POKeMON.\p"
+    .string "velinformeret om POKéMON.\p"
     .string "Han har endda fossiler af själde,\n"
-    .string "uddöde POKeMON.$"
+    .string "uddöde POKéMON.$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
     .string "VOGTER SLOWPOKE kom ind, men\n"

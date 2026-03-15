@@ -1,5 +1,5 @@
 SixIsland_OutcastIsland_Text_RocketIntro::
-    .string "Der er ingen själdne POKeMON omkring\n"
+    .string "Der er ingen själdne POKéMON omkring\n"
     .string "disse egne! Ikke én!\p"
     .string "Det ärger mig, mand.\n"
     .string "Jeg tager det ud over dig!$"
@@ -9,7 +9,7 @@ SixIsland_OutcastIsland_Text_RocketDefeat::
 
 SixIsland_OutcastIsland_Text_RocketPostBattle::
     .string "Hör her, har du ikke set nogen\n"
-    .string "själdne POKeMON?$"
+    .string "själdne POKéMON?$"
 
 SixIsland_OutcastIsland_Text_TylorIntro::
     .string "Jeg har slet ikke heldet med mig.\n"
@@ -36,7 +36,7 @@ SixIsland_OutcastIsland_Text_MymoPostBattle::
     .string "Jeg er udmattet…$"
 
 SixIsland_OutcastIsland_Text_NicoleIntro::
-    .string "Det er ikke sâ let at sende POKeMON\n"
+    .string "Det er ikke sâ let at sende POKéMON\n"
     .string "ud mens man svömmer, ved du?$"
 
 SixIsland_OutcastIsland_Text_NicoleDefeat::
@@ -64,7 +64,7 @@ SixIsland_OutcastIsland_Text_AvaPostBattle::
 SixIsland_OutcastIsland_Text_AvaNotEnoughMons::
     .string "AVA: Du udfordrer os til\n"
     .string "en kamp?\p"
-    .string "Du skal bruge mindst to POKeMON\n"
+    .string "Du skal bruge mindst to POKéMON\n"
     .string "hvis du vil göre det.$"
 
 SixIsland_OutcastIsland_Text_GebIntro::
@@ -82,4 +82,4 @@ SixIsland_OutcastIsland_Text_GebPostBattle::
 SixIsland_OutcastIsland_Text_GebNotEnoughMons::
     .string "GEB: Kämp venligst mod mig og\n"
     .string "min söster!\p"
-    .string "…Aah, har du ikke to POKeMON?$"
+    .string "…Aah, har du ikke to POKéMON?$"

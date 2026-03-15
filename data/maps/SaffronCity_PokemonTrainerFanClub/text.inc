@@ -123,13 +123,13 @@ SaffronCity_PokemonTrainerFanClub_Text_YouveStillAWaysToGo::
     .string "Du har bestemt udseendet af\n"
     .string "en vinder.\p"
     .string "Men for at jeg accepterer dig som\n"
-    .string "en ägte POKeMON-storhed…\p"
+    .string "en ägte POKéMON-storhed…\p"
     .string "… …\p"
     .string "Har du stadig vej at ga!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_YoullBeTalkedAboutIfYouKeepWinning::
     .string "Alle os samlet her er fans\n"
-    .string "af POKeMON TRAINERE.\p"
+    .string "af POKéMON TRAINERE.\p"
     .string "Sâdan ser de ud i kamp…\n"
     .string "De er billedet pâ coolhed.\p"
     .string "Mâske bliver du ogsâ omtalt\n"

@@ -20,7 +20,7 @@ RockTunnel_1F_Text_OliverDefeat::
     .string "Hvilken vej er ud?$"
 
 RockTunnel_1F_Text_OliverPostBattle::
-    .string "Den sovende POKeMON pâ ROUTE 12\n"
+    .string "Den sovende POKéMON pâ ROUTE 12\n"
     .string "tvang mig til at tage denne omvej.$"
 
 RockTunnel_1F_Text_LucasIntro::
@@ -34,7 +34,7 @@ RockTunnel_1F_Text_LucasPostBattle::
     .string "Du er talentfuld nok til at vandre!$"
 
 RockTunnel_1F_Text_AshtonIntro::
-    .string "POKeMON kämper!\n"
+    .string "POKéMON kämper!\n"
     .string "Klar, start!$"
 
 RockTunnel_1F_Text_AshtonDefeat::
@@ -56,17 +56,17 @@ RockTunnel_1F_Text_LeahPostBattle::
 
 RockTunnel_1F_Text_DanaIntro::
     .string "Jeg kom sâ langt for at lede efter vilde\n"
-    .string "POKeMON.$"
+    .string "POKéMON.$"
 
 RockTunnel_1F_Text_DanaDefeat::
-    .string "Jeg har ikke flere POKeMON!$"
+    .string "Jeg har ikke flere POKéMON!$"
 
 RockTunnel_1F_Text_DanaPostBattle::
     .string "Du sâ söd og harmlös ud.\n"
     .string "Hvor tog jeg fejl!$"
 
 RockTunnel_1F_Text_ArianaIntro::
-    .string "Du har POKeMON!\n"
+    .string "Du har POKéMON!\n"
     .string "Lad os starte!$"
 
 RockTunnel_1F_Text_ArianaDefeat::

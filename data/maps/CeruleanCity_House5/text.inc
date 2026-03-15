@@ -12,7 +12,7 @@ CeruleanCity_House1_Text_HaveJustTheThing::
 
 CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
     .string "Der er noget nyt pâ anden sal\n"
-    .string "i POKeMON CENTERS, ved\l"
+    .string "i POKéMON CENTERS, ved\l"
     .string "DIRECT CORNER.\p"
     .string "De installerede en Wireless Adapter-\n"
     .string "maskine til at knuse BERRIES.\p"
@@ -22,7 +22,7 @@ CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
     .string "Kunne du lave BERRY POWDER til\n"
     .string "mig med den maskine?\p"
     .string "Glem ikke, maskinen er ved\n"
-    .string "DIRECT CORNER i POKeMON CENTERS.\p"
+    .string "DIRECT CORNER i POKéMON CENTERS.\p"
     .string "Jeg laver medicin til dig hvis\n"
     .string "du bringer mig noget BERRY POWDER.\p"
     .string "Glem ikke, knus BERRIES til\n"

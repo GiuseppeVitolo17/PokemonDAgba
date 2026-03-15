@@ -22,7 +22,7 @@ SevenIsland_SevaultCanyon_Entrance_Text_MasonDefeat::
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattle::
     .string "Lalalah…\n"
-    .string "Min POKeMON, jeg sender dem ud,\l"
+    .string "Min POKéMON, jeg sender dem ud,\l"
     .string "alle pigerne skriger og râber!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntro::
@@ -40,14 +40,14 @@ SevenIsland_SevaultCanyon_Entrance_Text_NicolasPostBattle::
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineIntro::
     .string "Jeg straffer folk der misbruger\n"
-    .string "POKeMON!$"
+    .string "POKéMON!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineDefeat::
     .string "Du virker ikke som et problem-\n"
     .string "TRAINER.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelinePostBattle::
-    .string "Hvis du behandler dine POKeMON med\n"
+    .string "Hvis du behandler dine POKéMON med\n"
     .string "venlighed, forstâr de.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveIntro::
@@ -65,7 +65,7 @@ SevenIsland_SevaultCanyon_Entrance_Text_EvePostBattle::
 SevenIsland_SevaultCanyon_Entrance_Text_EveNotEnoughMons::
     .string "EVE: Jeg vil gerne slâ mig sammen med JON\n"
     .string "nâr jeg kämper mod dig.\p"
-    .string "Kom tilbage med to POKeMON, okay?$"
+    .string "Kom tilbage med to POKéMON, okay?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonIntro::
     .string "JON: Nâr jeg er med EVE, föles det\n"

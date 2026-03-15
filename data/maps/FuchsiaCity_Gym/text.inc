@@ -8,7 +8,7 @@ FuchsiaCity_Gym_Text_KogaIntro::
     .string "Gift bringer sikker undergang.\n"
     .string "Sövn gör fjender hjelpelöse.\p"
     .string "Fortvivl over den kravlende skräk\n"
-    .string "fra GIFT-type POKeMON!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "fra GIFT-type POKéMON!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 FuchsiaCity_Gym_Text_KogaDefeat::
     .string "Humph!\n"
@@ -18,14 +18,14 @@ FuchsiaCity_Gym_Text_KogaDefeat::
 
 FuchsiaCity_Gym_Text_KogaPostBattle::
     .string "Nâr TOXIC rammer, lider en\n"
-    .string "POKeMON mere og mere.\p"
+    .string "POKéMON mere og mere.\p"
     .string "Skaden forvärres efterhânden som\n"
     .string "kampen skrider frem!\p"
     .string "Det vil skrämme fjender!$"
 
 FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
     .string "Nu hvor du har SOULBADGE,\n"
-    .string "stiger dine POKeMONs FORSVAR.\p"
+    .string "stiger dine POKéMONs FORSVAR.\p"
     .string "Det lader dig ogsâ SURFE uden for\n"
     .string "kamp.\p"
     .string "Ah!\n"
@@ -44,9 +44,9 @@ FuchsiaCity_Gym_Text_MakeSpaceForThis::
     .string "Gör plads til dette, barn!$"
 
 FuchsiaCity_Gym_Text_KaydenIntro::
-    .string "Styrke er ikke nöglen til POKeMON.\n"
+    .string "Styrke er ikke nöglen til POKéMON.\n"
     .string "Forstâr du?\p"
-    .string "POKeMON handler om strategi!\p"
+    .string "POKéMON handler om strategi!\p"
     .string "Jeg viser hvordan strategi slâr\n"
     .string "râ styrke.$"
 
@@ -139,13 +139,13 @@ FuchsiaCity_Gym_Text_GymGuyPostVictory::
     .string "kan skrämme, selv nu!$"
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "FUCHSIA POKeMON GYM\n"
+    .string "FUCHSIA POKéMON GYM\n"
     .string "LEDER: KOGA\p"
     .string "VINDENDE TRAINERS:\n"
     .string "{RIVAL}$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "FUCHSIA POKeMON GYM\n"
+    .string "FUCHSIA POKéMON GYM\n"
     .string "LEDER: KOGA\p"
     .string "VINDENDE TRAINERS:\n"
     .string "{RIVAL}, {PLAYER}$"

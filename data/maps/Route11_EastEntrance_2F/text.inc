@@ -1,18 +1,18 @@
 Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
     .string "Hej! Husker du mig?\n"
     .string "Jeg er en af PROF. OAKs ASSISTENTER.\p"
-    .string "Hvis din POKeDEX har fulde data\n"
+    .string "Hvis din POKéDEX har fulde data\n"
     .string "pâ {STR_VAR_1} arter, skal jeg give dig\l"
     .string "en belönning.\p"
     .string "PROF. OAK betröde mig\n"
     .string "{STR_VAR_2} til dig.\p"
     .string "Sâ, {PLAYER}, lad mig spörge.\p"
     .string "Har du samlet data pâ mindst\n"
-    .string "{STR_VAR_1} slags POKeMON?$"
+    .string "{STR_VAR_1} slags POKéMON?$"
 
 Route11_EastEntrance_2F_Text_GreatHereYouGo::
     .string "Stort! Du har fanget eller ejet\n"
-    .string "{STR_VAR_3} slags POKeMON!\p"
+    .string "{STR_VAR_3} slags POKéMON!\p"
     .string "Tillykke!\n"
     .string "Värsgo!$"
 
@@ -34,7 +34,7 @@ Route11_EastEntrance_2F_Text_ExplainItemfinder::
 
 Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad::
     .string "Lad os se hvad kikkerten viser…\p"
-    .string "Et stort POKeMON sover pâ en vej!$"
+    .string "Et stort POKéMON sover pâ en vej!$"
 
 Route11_EastEntrance_2F_Text_WhatABreathtakingView::
     .string "Lad os se hvad kikkerten viser…\p"

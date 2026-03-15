@@ -49,8 +49,8 @@ OneIsland_Text_IslandSign::
     .string "Venner mödes pâ Knot Island$"
 
 OneIsland_Text_PokemonNetCenterSign::
-    .string "Udvider POKeMON-verdenen!\n"
-    .string "POKeMON NET CENTER$"
+    .string "Udvider POKéMON-verdenen!\n"
+    .string "POKéMON NET CENTER$"
 
 @ Unused
 OneIsland_Text_ReturnToCinnabar::

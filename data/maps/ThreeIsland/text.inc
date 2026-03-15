@@ -124,7 +124,7 @@ ThreeIsland_Text_PaxtonPostBattle::
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
     .string "Tak! De banditter var ikke\n"
     .string "andet end ballade.\p"
-    .string "Aah, se, din POKeMON blev skadet\n"
+    .string "Aah, se, din POKéMON blev skadet\n"
     .string "pâ min konto.$"
 
 ThreeIsland_Text_GivenFullRestore::
@@ -137,7 +137,7 @@ ThreeIsland_Text_OhYourBagIsFull::
 
 ThreeIsland_Text_YouveGotImpressiveMons::
     .string "Du har virkelig imponerende\n"
-    .string "POKeMON med dig.$"
+    .string "POKéMON med dig.$"
 
 ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
     .string "Det ville väre fantastisk hvis nogen\n"

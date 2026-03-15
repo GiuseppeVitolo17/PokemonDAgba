@@ -13,7 +13,7 @@ Text_JustMistaken::
 
 Text_AllowMeToTeachMonUltimateMove::
     .string "Aah! Det er den!\n"
-    .string "Det er POKeMON!\p"
+    .string "Det er POKéMON!\p"
     .string "Denne {STR_VAR_1} er värdig til at\n"
     .string "läre mit ultimative träk!\p"
     .string "Tillader du det?\p"

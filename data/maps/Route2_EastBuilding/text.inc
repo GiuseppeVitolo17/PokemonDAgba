@@ -1,18 +1,18 @@
 Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
     .string "Hej! Husker du mig?\n"
     .string "Jeg er en af PROF. OAKs ASSISTENTER.\p"
-    .string "Hvis din POKeDEX har fulde data\n"
+    .string "Hvis din POKéDEX har fulde data\n"
     .string "pâ ti arter, skal jeg give dig\l"
     .string "en belönning.\p"
     .string "PROF. OAK betröde mig\n"
     .string "HM05 til dig.\p"
     .string "Sâ, {PLAYER}, lad mig spörge.\p"
     .string "Har du samlet data pâ mindst\n"
-    .string "ti slags POKeMON?$"
+    .string "ti slags POKéMON?$"
 
 Route2_EastBuilding_Text_GreatHereYouGo::
     .string "Stort! Du har fanget eller ejet\n"
-    .string "{STR_VAR_3} slags POKeMON!\p"
+    .string "{STR_VAR_3} slags POKéMON!\p"
     .string "Tillykke!\n"
     .string "Värsgo!$"
 
@@ -27,5 +27,5 @@ Route2_EastBuilding_Text_ExplainHM05::
     .string "huler og fangehuller op.$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
-    .string "Nâr en POKeMON lärer FLASH, kan\n"
+    .string "Nâr en POKéMON lärer FLASH, kan\n"
     .string "du komme igennem ROCK TUNNEL.$"

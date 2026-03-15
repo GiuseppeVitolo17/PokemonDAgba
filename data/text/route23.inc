@@ -18,7 +18,7 @@ Text_OnlyPassWithBadgeDontHaveYet::
 	.string "Du har ikke {STR_VAR_1}\n"
 	.string "endnu.\p"
 	.string "Du skal have den for at nâ\n"
-	.string "POKeMON LEAGUE.$"
+	.string "POKéMON LEAGUE.$"
 
 Text_OnlyPassWithBadgeOhGoAhead::
 	.string "Du kan kun komme forbi her med\n"

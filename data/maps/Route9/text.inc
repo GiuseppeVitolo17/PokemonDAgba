@@ -1,5 +1,5 @@
 Route9_Text_AliciaIntro::
-    .string "Du har POKeMON med dig!\n"
+    .string "Du har POKéMON med dig!\n"
     .string "Du er min!$"
 
 Route9_Text_AliciaDefeat::
@@ -13,7 +13,7 @@ Route9_Text_AliciaPostBattle::
 
 Route9_Text_ChrisIntro::
     .string "Hvem er det der gâr med sâdanne\n"
-    .string "flotte POKeMON?$"
+    .string "flotte POKéMON?$"
 
 Route9_Text_ChrisDefeat::
     .string "Ude som et lys!$"
@@ -49,7 +49,7 @@ Route9_Text_JeremyIntro::
 Route9_Text_JeremyDefeat::
     .string "Kom med mere, eh!\p"
     .string "Oh vent.\n"
-    .string "Jeg har ikke flere POKeMON!$"
+    .string "Jeg har ikke flere POKéMON!$"
 
 Route9_Text_JeremyPostBattle::
     .string "Du havde virkelig mod til at\n"
@@ -68,7 +68,7 @@ Route9_Text_BricePostBattle::
 
 Route9_Text_BrentIntro::
     .string "Jeg stod op tidligt hver dag for at\n"
-    .string "opdrage mine POKeMON fra kokoner!$"
+    .string "opdrage mine POKéMON fra kokoner!$"
 
 Route9_Text_BrentDefeat::
     .string "HVAD?\p"
@@ -91,13 +91,13 @@ Route9_Text_AlanPostBattle::
     .string "Os härtige fyre griner altid!$"
 
 Route9_Text_ConnerIntro::
-    .string "Frem, mine super BUG POKeMON!$"
+    .string "Frem, mine super BUG POKéMON!$"
 
 Route9_Text_ConnerDefeat::
     .string "Mine insekter…$"
 
 Route9_Text_ConnerPostBattle::
-    .string "Hvis du ikke kan lide BUG POKeMON,\n"
+    .string "Hvis du ikke kan lide BUG POKéMON,\n"
     .string "irriterer du mig!$"
 
 Route9_Text_RouteSign::

@@ -1,5 +1,5 @@
 Route15_Text_KindraIntro::
-    .string "Jeg har lige fâet nogle POKeMON i\n"
+    .string "Jeg har lige fâet nogle POKéMON i\n"
     .string "bytte. Ma jeg pröve dem pâ dig?$"
 
 Route15_Text_KindraDefeat::
@@ -7,7 +7,7 @@ Route15_Text_KindraDefeat::
 
 Route15_Text_KindraPostBattle::
     .string "Du kan ikke ändre kaldenavnet pâ\n"
-    .string "POKeMON du fâr i et bytte.\p"
+    .string "POKéMON du fâr i et bytte.\p"
     .string "Kun den oprindelige TRAINER kan\n"
     .string "fâ kaldenavnet ändret.$"
 
@@ -25,7 +25,7 @@ Route15_Text_BeckyPostBattle::
 
 Route15_Text_EdwinIntro::
     .string "Nâr jeg flöjter, kan jeg tilkalde\n"
-    .string "fugle-POKeMON.$"
+    .string "fugle-POKéMON.$"
 
 Route15_Text_EdwinDefeat::
     .string "Av!\n"
@@ -46,11 +46,11 @@ Route15_Text_ChesterPostBattle::
     .string "Det her er sâ indlysende, du burde\n"
     .string "vide det, men...\p"
     .string "Angreb som EARTHQUAKE og FISSURE\n"
-    .string "har ingen effekt pâ fugle-POKeMON.$"
+    .string "har ingen effekt pâ fugle-POKéMON.$"
 
 Route15_Text_GraceIntro::
     .string "Aa, du er sâ söd!\n"
-    .string "Som en söd POKeMON!$"
+    .string "Som en söd POKéMON!$"
 
 Route15_Text_GraceDefeat::
     .string "Du sâ ogsâ sâ söd ud!$"
@@ -61,15 +61,15 @@ Route15_Text_GracePostBattle::
     .string "Jeg er en stor pige nu.$"
 
 Route15_Text_OliviaIntro::
-    .string "Jeg opdrager POKeMON til beskyttelse\n"
+    .string "Jeg opdrager POKéMON til beskyttelse\n"
     .string "fordi jeg bor alene.$"
 
 Route15_Text_OliviaDefeat::
-    .string "POKeMON handler ikke om at vinde\n"
+    .string "POKéMON handler ikke om at vinde\n"
     .string "eller tabe for mig.$"
 
 Route15_Text_OliviaPostBattle::
-    .string "Jeg elsker at mine POKeMON hilser\n"
+    .string "Jeg elsker at mine POKéMON hilser\n"
     .string "mig nâr jeg kommer hjem.\p"
     .string "Det er sâ betryggende.$"
 
@@ -98,17 +98,17 @@ Route15_Text_AlexPostBattle::
 
 Route15_Text_CeliaIntro::
     .string "Hvad er sejt og sker?\n"
-    .string "At bytte POKeMON!$"
+    .string "At bytte POKéMON!$"
 
 Route15_Text_CeliaDefeat::
     .string "Jeg sagde bytte!$"
 
 Route15_Text_CeliaPostBattle::
-    .string "Jeg bytter POKeMON med mine\n"
+    .string "Jeg bytter POKéMON med mine\n"
     .string "venner hele tiden.$"
 
 Route15_Text_YazminIntro::
-    .string "Vil du lege med mine POKeMON?$"
+    .string "Vil du lege med mine POKéMON?$"
 
 Route15_Text_YazminDefeat::
     .string "Jeg var for utâlmodig!$"
@@ -135,7 +135,7 @@ Route15_Text_MyaPostBattle::
 
 Route15_Text_MyaNotEnoughMons::
     .string "MYA: Vil du udfordre os?\n"
-    .string "Du skal bruge to POKeMON, dog.$"
+    .string "Du skal bruge to POKéMON, dog.$"
 
 Route15_Text_RonIntro::
     .string "RON: Min söster bliver skrämmende\n"
@@ -152,4 +152,4 @@ Route15_Text_RonPostBattle::
 Route15_Text_RonNotEnoughMons::
     .string "RON: Ville du kämpe med min\n"
     .string "söster og mig?\p"
-    .string "Du skal bruge to POKeMON, sâ.$"
+    .string "Du skal bruge to POKéMON, sâ.$"

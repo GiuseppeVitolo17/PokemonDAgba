@@ -1,6 +1,6 @@
 CeladonCity_GameCorner_Text_TryPokemonPrinter::
-	.string "Det er en POKeMON PRINTER!\p"
-	.string "Den kan putte et print af din POKeMON\n"
+	.string "Det er en POKéMON PRINTER!\p"
+	.string "Den kan putte et print af din POKéMON\n"
 	.string "pâ bagsiden af din TRAINER CARD.\p"
 	.string "Det koster kun ¥50.\n"
 	.string "Vil du pröve den?$"
@@ -17,7 +17,7 @@ CeladonCity_GameCorner_Text_BigSmileForPhoto::
 	.string "Blitz!$"
 
 CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
-	.string "Dit POKeMON-print er klar!\n"
+	.string "Dit POKéMON-print er klar!\n"
 	.string "Tjek din TRAINER CARD.$"
 
 FourIsland_House2_Text_WishICouldShowOffStickers::
@@ -64,7 +64,7 @@ FourIsland_House2_Text_WowHoFHigh::
 	.string "Wow! Du har väret i\n"
 	.string "ÄREGALLERIET sâ mange gange?\l"
 	.string "Det er virkelig utroligt, ja!\p"
-	.string "Du ejer POKeMON LEAGUE!\n"
+	.string "Du ejer POKéMON LEAGUE!\n"
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowHoFHighest::
@@ -88,7 +88,7 @@ FourIsland_House2_Text_LivingLegendHoF::
 	.string "Jeg har ingen STICKERS tilbage at give.$"
 
 FourIsland_House2_Text_WowEggsLowest::
-	.string "Oh, wow, der findes POKeMON ÄG?\n"
+	.string "Oh, wow, der findes POKéMON ÄG?\n"
 	.string "Det vidste jeg ikke!\p"
 	.string "Det er ret godt, ja!\n"
 	.string "Jeg giver dig en af disse.$"

@@ -9,7 +9,7 @@ ThreeIsland_House2_Text_CantMakeThisSpoonBend::
 ThreeIsland_House2_Text_IAdmireSabrina::
     .string "Kender du en pige GYM LEADER\n"
     .string "i SAFFRON CITY?\p"
-    .string "Hun bruger PSYCHIC-type POKeMON,\n"
+    .string "Hun bruger PSYCHIC-type POKéMON,\n"
     .string "ikke?\p"
     .string "Jeg beundrer hende, virkelig.\p"
     .string "Jeg har hört at hun er cool\n"

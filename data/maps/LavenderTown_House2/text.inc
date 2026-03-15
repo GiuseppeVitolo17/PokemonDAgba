@@ -2,10 +2,10 @@ LavenderTown_House2_Text_WantMeToRateNicknames::
     .string "Hej, hej!\n"
     .string "Jeg er den officielle NAVNGIVNING!\p"
     .string "Vil du have mig til at bedömme\n"
-    .string "dine POKeMONs kaldenavne?$"
+    .string "dine POKéMONs kaldenavne?$"
 
 LavenderTown_House2_Text_CritiqueWhichMonsNickname::
-    .string "Hvilken POKeMONs kaldenavn skal\n"
+    .string "Hvilken POKéMONs kaldenavn skal\n"
     .string "jeg bedömme?$"
 
 LavenderTown_House2_Text_GiveItANicerName::
@@ -21,7 +21,7 @@ LavenderTown_House2_Text_WhatShallNewNicknameBe::
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
     .string "Färdig! Fra nu af skal denne\n"
-    .string "POKeMON kaldes {STR_VAR_1}!\p"
+    .string "POKéMON kaldes {STR_VAR_1}!\p"
     .string "Det er et bedre navn end för!\n"
     .string "Heldigt for dig!$"
 
@@ -31,7 +31,7 @@ LavenderTown_House2_Text_ISeeComeVisitAgain::
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
     .string "Färdig! Fra nu af skal denne\n"
-    .string "POKeMON kaldes {STR_VAR_1}!\p"
+    .string "POKéMON kaldes {STR_VAR_1}!\p"
     .string "Det ser ikke anderledes ud end för,\n"
     .string "men det er langt bedre!\p"
     .string "Heldigt for dig!$"
@@ -43,5 +43,5 @@ LavenderTown_House2_Text_TrulyImpeccableName::
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
     .string "Nej, nej.\n"
-    .string "Det er blot et AeG!$"
+    .string "Det er blot et ÆG!$"
 

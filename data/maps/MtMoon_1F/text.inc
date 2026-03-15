@@ -1,7 +1,7 @@
 MtMoon_1F_Text_MarcosIntro::
     .string "WHOA!\n"
     .string "Du chokerede mig!\l"
-    .string "…Oeh, du er bare et barn!$"
+    .string "…Øh, du er bare et barn!$"
 
 MtMoon_1F_Text_MarcosDefeat::
     .string "Wow!\n"
@@ -28,7 +28,7 @@ MtMoon_1F_Text_MiriamIntro::
     .string "end jeg tröde!$"
 
 MtMoon_1F_Text_MiriamDefeat::
-    .string "Oeh!\n"
+    .string "Øh!\n"
     .string "Jeg tabte!$"
 
 MtMoon_1F_Text_MiriamPostBattle::
@@ -40,10 +40,10 @@ MtMoon_1F_Text_JovanIntro::
     .string "Sneg dig ikke op pâ mig!$"
 
 MtMoon_1F_Text_JovanDefeat::
-    .string "Mine POKeMON duer ikke!$"
+    .string "Mine POKéMON duer ikke!$"
 
 MtMoon_1F_Text_JovanPostBattle::
-    .string "Jeg mâ finde stärkere POKeMON.\n"
+    .string "Jeg mâ finde stärkere POKéMON.\n"
     .string "Hvor mon de er?$"
 
 MtMoon_1F_Text_IrisIntro::

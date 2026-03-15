@@ -6,7 +6,7 @@ CeladonCity_House1_Text_SlotsReelInTheDough::
 CeladonCity_House1_Text_ShippedMonsAsSlotPrizes::
     .string "CHEF!\p"
     .string "Vi har lige sendt to tusind\n"
-    .string "flere POKeMON som spilleprämier\l"
+    .string "flere POKéMON som spilleprämier\l"
     .string "igen i dag!$"
 
 CeladonCity_House1_Text_DontTouchGameCornerPoster::

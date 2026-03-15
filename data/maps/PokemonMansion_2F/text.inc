@@ -23,10 +23,10 @@ PokemonMansion_1F_Text_ArniePostBattle::
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
     .string "Dagbog: 5. juli\n"
     .string "Guyana, Sydamerika\p"
-    .string "En ny POKeMON blev opdaget dybt\n"
+    .string "En ny POKéMON blev opdaget dybt\n"
     .string "i junglen.$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
     .string "Dagbog: 10. juli\n"
     .string "Vi döbte den nylig opdagede\l"
-    .string "POKeMON, MEW.$"
+    .string "POKéMON, MEW.$"

@@ -29,7 +29,7 @@ SilphCo_11F_Text_ThatsOurSecretPrototype::
     .string "nogen steder.\p"
     .string "Det er vores hemmelige prototype\n"
     .string "MASTER BALL.\p"
-    .string "Den fanger ethvert POKeMON uden\n"
+    .string "Den fanger ethvert POKéMON uden\n"
     .string "at fejle!\p"
     .string "Du bör dog väre stille om at bruge den.$"
 
@@ -60,7 +60,7 @@ SilphCo_11F_Text_GiovanniPostBattle::
     .string "Du ödelagde vores planer for SILPH!\p"
     .string "Men TEAM ROCKET falder aldrig!\p"
     .string "{PLAYER}! Glem aldrig at alle\n"
-    .string "POKeMON eksisterer for TEAM ROCKET!\p"
+    .string "POKéMON eksisterer for TEAM ROCKET!\p"
     .string "Jeg mâ ga, men jeg vender tilbage!$"
 
 SilphCo_11F_Text_Grunt2Intro::
@@ -80,14 +80,14 @@ SilphCo_11F_Text_Grunt1Intro::
 
 SilphCo_11F_Text_Grunt1Defeat::
     .string "Gâh!\n"
-    .string "Oedelâgt!$"
+    .string "Ødelagt!$"
 
 SilphCo_11F_Text_Grunt1PostBattle::
     .string "Pas pâ…\n"
-    .string "Min BOSS kan lide sine POKeMON hârde!$"
+    .string "Min BOSS kan lide sine POKéMON hârde!$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
-    .string "Skärmen har POKeMON pâ den!$"
+    .string "Skärmen har POKéMON pâ den!$"
 
 SilphCo_11F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

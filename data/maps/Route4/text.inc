@@ -1,10 +1,10 @@
 Route4_Text_TrippedOverGeodude::
     .string "Av! Jeg snublede over et stenede\n"
-    .string "POKeMON, GEODUDE!$"
+    .string "POKéMON, GEODUDE!$"
 
 Route4_Text_CrissyIntro::
     .string "Jeg kom til MT. MOON for at lede\n"
-    .string "efter svampe-POKeMON.$"
+    .string "efter svampe-POKéMON.$"
 
 Route4_Text_CrissyDefeat::
     .string "Efter alt hvad jeg gjorde for at\n"
@@ -30,7 +30,7 @@ Text_MegaPunchTeach::
     .string "MEGA PUNCH det ultimative angreb!\l"
     .string "Det er du enig i, ikke?\p"
     .string "Nu!\n"
-    .string "Lad mig läre det til din POKeMON!$"
+    .string "Lad mig läre det til din POKéMON!$"
 
 Text_MegaPunchDeclined::
     .string "Du kommer tilbage nâr du forstâr\n"
@@ -38,7 +38,7 @@ Text_MegaPunchDeclined::
 
 Text_MegaPunchWhichMon::
     .string "Fint!\n"
-    .string "Hvilken POKeMON skal läre det?$"
+    .string "Hvilken POKéMON skal läre det?$"
 
 Text_MegaPunchTaught::
     .string "Nu er vi kammerater i slagets kunst!\p"
@@ -53,7 +53,7 @@ Text_MegaKickTeach::
     .string "MEGA KICK det ultimative angreb!\l"
     .string "Er du ikke enig?\p"
     .string "Okay!\n"
-    .string "Jeg lärer det til din POKeMON!$"
+    .string "Jeg lärer det til din POKéMON!$"
 
 Text_MegaKickDeclined::
     .string "Du kommer kravlende tilbage nâr du\n"
@@ -61,7 +61,7 @@ Text_MegaKickDeclined::
 
 Text_MegaKickWhichMon::
     .string "Okay!\n"
-    .string "Hvilken POKeMON vil läre det?$"
+    .string "Hvilken POKéMON vil läre det?$"
 
 Text_MegaKickTaught::
     .string "Nu er vi själefäller i sparkets kunst!\p"

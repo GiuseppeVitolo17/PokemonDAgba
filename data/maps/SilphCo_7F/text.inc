@@ -2,7 +2,7 @@ SilphCo_7F_Text_HaveMonForSavingUs::
     .string "Oh! Hej! Du er ikke en ROCKET!\n"
     .string "Du kom for at redde os?\l"
     .string "Hvor tak, tak!\p"
-    .string "Jeg vil give dig dette POKeMON\n"
+    .string "Jeg vil give dig dette POKéMON\n"
     .string "for at redde os.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
@@ -11,7 +11,7 @@ SilphCo_7F_Text_ObtainedLaprasFromEmployee::
 
 SilphCo_7F_Text_ExplainLapras::
     .string "Det er en LAPRAS.\n"
-    .string "Det er et meget intelligent POKeMON.\p"
+    .string "Det er et meget intelligent POKéMON.\p"
     .string "Vi holdt det i vores lab, men det\n"
     .string "vil have det meget bedre hos dig.\p"
     .string "Jeg tror du vil väre en god TRAINER\n"
@@ -33,7 +33,7 @@ SilphCo_7F_Text_SavedAtLast::
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
     .string "TEAM ROCKET jagede MASTER\n"
-    .string "BALL'en, der fanger ethvert POKeMON.$"
+    .string "BALL'en, der fanger ethvert POKéMON.$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
     .string "Vi annullerede MASTER BALL-\n"
@@ -41,7 +41,7 @@ SilphCo_7F_Text_CanceledMasterBallProject::
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
     .string "Det ville väre slemt hvis TEAM ROCKET\n"
-    .string "overtog SILPH eller vores POKeMON.$"
+    .string "overtog SILPH eller vores POKéMON.$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
     .string "Wow!\p"
@@ -128,11 +128,11 @@ SilphCo_7F_Text_RivalVictory::
 SilphCo_7F_Text_RivalPostBattle::
     .string "Nâ, {PLAYER}!\n"
     .string "Jeg rykker fremad og op!\p"
-    .string "Ved at tjekke min POKeDEX kan jeg\n"
+    .string "Ved at tjekke min POKéDEX kan jeg\n"
     .string "begynde at se hvad der er stärkt og\l"
     .string "hvordan de udvikler sig!\p"
     .string "Er jeg et geni eller hvad?\p"
-    .string "Jeg tager til POKeMON LEAGUE for at\n"
+    .string "Jeg tager til POKéMON LEAGUE for at\n"
     .string "smide ELITE FOUR ud.\p"
     .string "Jeg bliver verdens mest\n"
     .string "kraftfulde TRAINER!\p"

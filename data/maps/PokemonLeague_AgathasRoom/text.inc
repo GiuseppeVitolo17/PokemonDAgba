@@ -7,11 +7,11 @@ PokemonLeague_AgathasRoom_Text_Intro::
     .string "Men det var for ârtier siden.\n"
     .string "Han er en skygge af sig selv.\p"
     .string "Nu vil han bare pille ved\n"
-    .string "sin POKeDEX.\p"
+    .string "sin POKéDEX.\p"
     .string "Han tager fejl.\n"
-    .string "POKeMON er til kamp!\p"
+    .string "POKéMON er til kamp!\p"
     .string "{PLAYER}! Jeg viser dig hvordan en rigtig\n"
-    .string "TRAeNER kämper!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "TRÆNER kämper!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_RematchIntro::
     .string "Jeg er AGATHA fra ELITE FOUR.\p"
@@ -22,11 +22,11 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
     .string "Men det var for ârtier siden.\n"
     .string "Han er en skygge af sig selv.\p"
     .string "Nu vil han bare pille ved\n"
-    .string "sin POKeDEX.\p"
+    .string "sin POKéDEX.\p"
     .string "Han tager fejl.\n"
-    .string "POKeMON er til kamp!\p"
+    .string "POKéMON er til kamp!\p"
     .string "{PLAYER}! Jeg viser dig hvordan en rigtig\n"
-    .string "TRAeNER kämper!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "TRÆNER kämper!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_Defeat::
     .string "Aah, du!\n"

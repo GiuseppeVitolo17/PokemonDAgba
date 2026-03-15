@@ -132,7 +132,7 @@ OneIsland_KindleRoad_Text_KiaPostBattle::
 
 OneIsland_KindleRoad_Text_KiaNotEnoughMons::
     .string "KIA: Hvis du vil kämpe med os,\n"
-    .string "skal du have mindst to POKeMON\l"
+    .string "skal du have mindst to POKéMON\l"
     .string "med.$"
 
 OneIsland_KindleRoad_Text_MikIntro::
@@ -149,7 +149,7 @@ OneIsland_KindleRoad_Text_MikPostBattle::
 
 OneIsland_KindleRoad_Text_MikNotEnoughMons::
     .string "MIK: Hey, vil du kämpe med os to?\p"
-    .string "Tag to eller flere POKeMON med,\n"
+    .string "Tag to eller flere POKéMON med,\n"
     .string "sâ.$"
 
 OneIsland_KindleRoad_Text_RouteSign::

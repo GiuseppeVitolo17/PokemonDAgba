@@ -4,24 +4,24 @@ PalletTown_Text_OakDontGoOut::
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
     .string "OAK: Det er farligt!\n"
-    .string "Vilde POKeMON lever i höjt gräs!\p"
-    .string "Du har brug for din egen POKeMON\n"
+    .string "Vilde POKéMON lever i höjt gräs!\p"
+    .string "Du har brug for din egen POKéMON\n"
     .string "til beskyttelse.\p"
     .string "Jeg ved det!\n"
     .string "Kom med mig!$"
 
 PalletTown_Text_RaisingMonsToo::
-    .string "Jeg opdrager ogsâ POKeMON.\p"
+    .string "Jeg opdrager ogsâ POKéMON.\p"
     .string "Nâr de bliver stärke, kan de\n"
     .string "beskytte mig.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
     .string "Teknologi er utrolig!\p"
     .string "Du kan nu gemme og hente ting og\n"
-    .string "POKeMON som data via PC.$"
+    .string "POKéMON som data via PC.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-    .string "OAK POKeMON FORSKNINGSLAB$"
+    .string "OAK POKéMON FORSKNINGSLAB$"
 
 PalletTown_Text_PlayersHouse::
     .string "{PLAYER}s hus$"
@@ -37,7 +37,7 @@ PalletTown_Text_OakLetMeSeePokedex::
     .string "OAK: Ah, {PLAYER}!\n"
     .string "Du er tilbage?\p"
     .string "Hvor meget har du udfyldt i din\n"
-    .string "POKeDEX?\p"
+    .string "POKéDEX?\p"
     .string "Mâ jeg se den?\p"
     .string "Lad mig se…$"
 

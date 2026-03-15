@@ -1,6 +1,6 @@
 LavenderTown_Mart_Text_SearchingForStatRaiseItems::
     .string "Jeg leder efter genstande der öger\n"
-    .string "POKeMONs statistikker.\p"
+    .string "POKéMONs statistikker.\p"
     .string "De virker i löbet af en enkelt kamp.\p"
     .string "X ATTACK, X DEFEND, X SPEED og\n"
     .string "X SPECIAL er hvad jeg söger.\p"
@@ -8,12 +8,12 @@ LavenderTown_Mart_Text_SearchingForStatRaiseItems::
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
     .string "Köbte du REVIVES?\n"
-    .string "De genopliver besvimet POKeMON!$"
+    .string "De genopliver besvimet POKéMON!$"
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
     .string "Nogle gange udfordrer et TRAINER-\n"
-    .string "par dig med to POKeMON pâ én gang.\p"
-    .string "Sker det, skal du sende to POKeMON\n"
+    .string "par dig med to POKéMON pâ én gang.\p"
+    .string "Sker det, skal du sende to POKéMON\n"
     .string "ud i kamp ogsâ.$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::

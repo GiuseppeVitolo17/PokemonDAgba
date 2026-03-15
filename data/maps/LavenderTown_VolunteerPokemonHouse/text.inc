@@ -15,11 +15,11 @@ LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
     .string "Dette er faktisk MR. FUJIs hus.\p"
     .string "Han er virkelig venlig.\p"
     .string "Han passer forladte og foräldrelöse\n"
-    .string "POKeMON.$"
+    .string "POKéMON.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
     .string "Det er sâ varmt!\n"
-    .string "POKeMON er sâ rare at kramme.$"
+    .string "POKéMON er sâ rare at kramme.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
     .string "NIDORINO: Gaoo!$"
@@ -29,9 +29,9 @@ LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
     .string "MR. FUJI: {PLAYER}…\p"
-    .string "Din POKeDEX-rejse kräver stärk\n"
+    .string "Din POKéDEX-rejse kräver stärk\n"
     .string "engagement.\p"
-    .string "Uden dyb kärlighed til POKeMON kan\n"
+    .string "Uden dyb kärlighed til POKéMON kan\n"
     .string "din rejse mislykkes.\p"
     .string "Jeg ved ikke om det hjälper, men\n"
     .string "jeg vil gerne give dig dette.$"
@@ -42,8 +42,8 @@ LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
     .string "Nâr man hörer POKe FLUTE, vâgner\n"
-    .string "sovende POKeMON med det samme.\p"
-    .string "Pröv at bruge den pâ POKeMON der\n"
+    .string "sovende POKéMON med det samme.\p"
+    .string "Pröv at bruge den pâ POKéMON der\n"
     .string "er sovende hindringer.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
@@ -54,14 +54,14 @@ LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
     .string "hjulpet dig?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
-    .string "POKeMON FAN MAGAZINE\n"
+    .string "POKéMON FAN MAGAZINE\n"
     .string "Mânedlig hovedprämie-lodträkning!\p"
     .string "Ansögningsskemät er…\p"
     .string "Väk! Det er klippet ud.\n"
     .string "Nogen mâ allerede have ansögt.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
-    .string "POKeMON-magasiner stâr pâ hylden.\p"
-    .string "POKeMON INSIDER…\p"
-    .string "POKeMON FAN…$"
+    .string "POKéMON-magasiner stâr pâ hylden.\p"
+    .string "POKéMON INSIDER…\p"
+    .string "POKéMON FAN…$"
 

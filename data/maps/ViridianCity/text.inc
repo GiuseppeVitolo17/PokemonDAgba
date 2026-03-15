@@ -1,11 +1,11 @@
 ViridianCity_Text_CanCarryMonsAnywhere::
     .string "De POKe BALLS ved din talje!\n"
-    .string "Du har POKeMON, ikke?\p"
+    .string "Du har POKéMON, ikke?\p"
     .string "Det er fedt at du kan bäre og\n"
-    .string "bruge POKeMON nâr som helst, overalt.$"
+    .string "bruge POKéMON nâr som helst, overalt.$"
 
 ViridianCity_Text_GymClosedWonderWhoLeaderIs::
-    .string "Dette POKeMON GYM er altid lukket.\p"
+    .string "Dette POKéMON GYM er altid lukket.\p"
     .string "Jeg spekulerer pâ hvem LEDEREN er?$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
@@ -13,7 +13,7 @@ ViridianCity_Text_ViridiansGymLeaderReturned::
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
     .string "Vil du vide om de to slags\n"
-    .string "larve-POKeMON?$"
+    .string "larve-POKéMON?$"
 
 ViridianCity_Text_OhOkayThen::
     .string "Aah, okay sâ!$"
@@ -21,7 +21,7 @@ ViridianCity_Text_OhOkayThen::
 ViridianCity_Text_ExplainCaterpieWeedle::
     .string "CATERPIE har ikke gift,\n"
     .string "men WEEDLE har.\p"
-    .string "Pas pâ at dine POKeMON ikke bliver\n"
+    .string "Pas pâ at dine POKéMON ikke bliver\n"
     .string "stukket af WEEDLEs POISON STING.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
@@ -47,13 +47,13 @@ ViridianCity_Text_ShowYouHowToCatchMons::
     .string "Hm?\n"
     .string "Hvad er den röde boks du har?\p"
     .string "Ah, sâ du arbejder pâ din\n"
-    .string "POKeDEX.\p"
+    .string "POKéDEX.\p"
     .string "Sâ lad mig give dig et râd.\p"
-    .string "Nâr du fanger en POKeMON,\n"
-    .string "opdaterer POKeDEX automatisk\l"
+    .string "Nâr du fanger en POKéMON,\n"
+    .string "opdaterer POKéDEX automatisk\l"
     .string "sine data.\p"
     .string "…Du ved ikke hvordan man fanger\n"
-    .string "en POKeMON?\p"
+    .string "en POKéMON?\p"
     .string "Sâ mâ jeg vel vise dig det!$"
 
 ViridianCity_Text_ThatWasEducationalTakeThis::
@@ -65,7 +65,7 @@ ViridianCity_Text_WatchThatToLearnBasics::
     .string "Hvis der er noget du ikke\n"
     .string "forstâr, se det der.\p"
     .string "Det lärer dig grundläggende om\n"
-    .string "at väre en POKeMON TRAeNER.$"
+    .string "at väre en POKéMON TRÆNER.$"
 
 ViridianCity_Text_WeakenMonsFirstToCatch::
     .string "Nâ, nu har jeg haft min kaffe, og\n"
@@ -73,9 +73,9 @@ ViridianCity_Text_WeakenMonsFirstToCatch::
     .string "Men jeg lavede den for stärk.\n"
     .string "Den gav mig hovedpine…\p"
     .string "For resten, fylder du din\n"
-    .string "POKeDEX?\p"
+    .string "POKéDEX?\p"
     .string "Fokuser först pâ at sväkke\n"
-    .string "POKeMON för du pröver at fange den.$"
+    .string "POKéMON för du pröver at fange den.$"
 
 ViridianCity_Text_HowsTeachyTVHelping::
     .string "Nâ, nu har jeg haft min kaffe, og\n"
@@ -102,21 +102,21 @@ ViridianCity_Text_CitySign::
     .string "Det evigt grönne paradis$"
 
 ViridianCity_Text_CatchMonsForEasierBattles::
-    .string "TRAeNER TIPS\p"
-    .string "Fang POKeMON og udvid din\n"
+    .string "TRÆNER TIPS\p"
+    .string "Fang POKéMON og udvid din\n"
     .string "samling.\p"
     .string "Jo flere du har, jo lettere er det\n"
     .string "at kämpe.$"
 
 ViridianCity_Text_MovesLimitedByPP::
-    .string "TRAeNER TIPS\p"
-    .string "Kampbevägelserne af POKeMON er\n"
+    .string "TRÆNER TIPS\p"
+    .string "Kampbevägelserne af POKéMON er\n"
     .string "begränsede af deres POWER POINTS, PP.\p"
     .string "For at genopfriske PP, lad dine trätte\n"
-    .string "POKeMON hvile pâ et POKeMON CENTER.$"
+    .string "POKéMON hvile pâ et POKéMON CENTER.$"
 
 ViridianCity_Text_GymSign::
-    .string "VIRIDIAN CITY POKeMON GYM$"
+    .string "VIRIDIAN CITY POKéMON GYM$"
 
 ViridianCity_Text_GymDoorsAreLocked::
     .string "VIRIDIAN GYMs döre er lâst…$"

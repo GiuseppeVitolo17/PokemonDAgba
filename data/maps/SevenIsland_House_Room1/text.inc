@@ -38,7 +38,7 @@ SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
     .string "Dette skjulte rum er ikke bygget\n"
     .string "särlig solidt.\p"
     .string "Kan jeg fâ dig til at begränse det\n"
-    .string "til kampe med tre POKeMON per side?$"
+    .string "til kampe med tre POKéMON per side?$"
 
 SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
     .string "Fint! För din kamp, vil du\n"

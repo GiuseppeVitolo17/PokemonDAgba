@@ -4,7 +4,7 @@ FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
     .string "Selv du kender hende sikkert.\n"
     .string "Det er LORELEI fra ELITE FOUR!\p"
     .string "Da LORELEI var lille lärte jeg\n"
-    .string "hende om POKeMON.$"
+    .string "hende om POKéMON.$"
 
 FourIsland_Mart_Text_IcefallCaveIsFrigid::
     .string "SEVII ISLANDS er et varmt\n"
@@ -12,5 +12,5 @@ FourIsland_Mart_Text_IcefallCaveIsFrigid::
     .string "Men der er én undtagelse du skal\n"
     .string "vide om.\p"
     .string "ICEFALL CAVE er isnende pga. de\n"
-    .string "POKeMON der lever der.$"
+    .string "POKéMON der lever der.$"
 

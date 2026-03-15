@@ -57,16 +57,16 @@ Text_ThunderWaveDeclined::
     .string "Men THUNDER WAVE er bekvem…$"
 
 Text_ThunderWaveWhichMon::
-    .string "Hvilket POKeMON skal jeg läre\n"
+    .string "Hvilket POKéMON skal jeg läre\n"
     .string "THUNDER WAVE?$"
 
 Text_ThunderWaveTaught::
     .string "THUNDER WAVE forârsager lamhed hos\n"
-    .string "mâl-POKeMON.\p"
-    .string "Et lamt POKeMON kan väre ude af stand\n"
+    .string "mâl-POKéMON.\p"
+    .string "Et lamt POKéMON kan väre ude af stand\n"
     .string "til at beväge sig i kamp.\p"
     .string "Det er et ELECTRIC-type angreb, sâ det\n"
-    .string "virker ikke pâ nogle POKeMON.$"
+    .string "virker ikke pâ nogle POKéMON.$"
 
 SilphCo_2F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

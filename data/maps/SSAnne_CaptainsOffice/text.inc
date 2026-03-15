@@ -18,7 +18,7 @@ SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
     .string "teknik hvis jeg ikke var sâ syg…\p"
     .string "Jeg ved det! Du mâ fâ dette!\n"
     .string "Denne HIDDEN MACHINE!\p"
-    .string "Lär CUT til din POKeMON, og\n"
+    .string "Lär CUT til din POKéMON, og\n"
     .string "du kan se den CUTTE nâr som helst!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::

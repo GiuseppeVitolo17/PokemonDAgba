@@ -20,10 +20,10 @@ FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
     .string "En dârlig OLD ROD kunne kun fange\n"
     .string "MAGIKARP, ikke?\p"
     .string "Men med en GOOD ROD kan du fange\n"
-    .string "meget bedre POKeMON.$"
+    .string "meget bedre POKéMON.$"
 
 FuchsiaCity_House2_Text_OhThatsDisappointing::
-    .string "Oeh…\n"
+    .string "Øh…\n"
     .string "Sâ skuffende…$"
 
 FuchsiaCity_House2_Text_HowAreTheFishBiting::
@@ -31,7 +31,7 @@ FuchsiaCity_House2_Text_HowAreTheFishBiting::
     .string "Hvordan bider fiskene?$"
 
 FuchsiaCity_House2_Text_YouHaveNoRoomForGift::
-    .string "Oeh, nej!\p"
+    .string "Øh, nej!\p"
     .string "Jeg havde en gave til dig, men du\n"
     .string "har ikke plads til den!$"
 

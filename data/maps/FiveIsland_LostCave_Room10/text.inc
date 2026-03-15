@@ -3,7 +3,7 @@ FiveIsland_LostCave_Room10_Text_SelphyIntro::
     .string "mig?$"
 
 FiveIsland_LostCave_Room10_Text_SelphyDefeat::
-    .string "Oeh… Jeg var bange for at du\n"
+    .string "Øh… Jeg var bange for at du\n"
     .string "ville göre mig forträd.$"
 
 FiveIsland_LostCave_Room10_Text_MayIAskYouToTakeMeHome::

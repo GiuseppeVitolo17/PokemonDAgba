@@ -5,7 +5,7 @@ FiveIsland_MemorialPillar_Text_MiloIntro::
     .string "Det mâ väre näbbet.$"
 
 FiveIsland_MemorialPillar_Text_MiloDefeat::
-    .string "Oeh, sâ skarp!$"
+    .string "Øh, sâ skarp!$"
 
 FiveIsland_MemorialPillar_Text_MiloPostBattle::
     .string "Du kan flyve til FOUR ISLAND\n"
@@ -36,14 +36,14 @@ FiveIsland_MemorialPillar_Text_HaroldDefeat::
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
     .string "Det fylder mig med gläde nâr\n"
-    .string "fugle-POKeMON tigger legende…$"
+    .string "fugle-POKéMON tigger legende…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
     .string "Gnub, gnub…$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
     .string "Hej…\n"
-    .string "Dine POKeMON ser sunde ud…$"
+    .string "Dine POKéMON ser sunde ud…$"
 
 FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
     .string "Her er hvor jeg begravede min ONIX…\n"
@@ -73,7 +73,7 @@ FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
     .string "Värsgo tag dette som tak?$"
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
-    .string "Vär venlig ved dine POKeMON\n"
+    .string "Vär venlig ved dine POKéMON\n"
     .string "ogsâ.$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
@@ -81,7 +81,7 @@ FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
     .string "gemmer jeg det til näste gang.$"
 
 FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanks::
-    .string "Oeh, det er dig fra dengang…\p"
+    .string "Øh, det er dig fra dengang…\p"
     .string "Jeg har stadig den ting jeg ville\n"
     .string "give dig som tak.$"
 

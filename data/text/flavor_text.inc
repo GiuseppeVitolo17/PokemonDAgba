@@ -1,7 +1,7 @@
 @ Flavor text for interacting with various background objects
 
 Text_Bookshelf::
-	.string "Den er proppet med POKeMON-\n"
+	.string "Den er proppet med POKéMON-\n"
 	.string "böger.$"
 
 Text_NothingButPokemonBooks::
@@ -13,7 +13,7 @@ Text_ATownMap::
 
 Text_PokeMartShelf::
 	.string "Wow!\n"
-	.string "Masser af POKeMON-ting!$"
+	.string "Masser af POKéMON-ting!$"
 
 Text_DishesPlatesNeatlyLinedUp::
 	.string "Tallerkener og fade stâr pänt\n"
@@ -32,21 +32,21 @@ Text_Snacks::
 
 Text_PokemartSign::
 	.string "Alt hvad du behöver!\n"
-	.string "POKeMON MART$"
+	.string "POKéMON MART$"
 
 Text_PokecenterSign::
-	.string "Helbred dine POKeMON!\n"
-	.string "POKeMON CENTER$"
+	.string "Helbred dine POKéMON!\n"
+	.string "POKéMON CENTER$"
 
 Text_Indigo_UltimateGoal::
 	.string "INDIGO PLATEAU\p"
 	.string "TRÄNERNES ultimative mâl!\n"
-	.string "POKeMON LEAGUE HQ$"
+	.string "POKéMON LEAGUE HQ$"
 
 Text_Indigo_HighestAuthority::
 	.string "INDIGO PLATEAU\p"
-	.string "Den höjeste POKeMON-myndighed!\n"
-	.string "POKeMON LEAGUE HQ$"
+	.string "Den höjeste POKéMON-myndighed!\n"
+	.string "POKéMON LEAGUE HQ$"
 
 Text_Food::
 	.string "Den burde väre fuld af alle slags\n"
@@ -57,7 +57,7 @@ Text_Blueprints::
 	.string "Den er fuld af diagrammer og tekst.$"
 
 Text_Painting::
-	.string "Det er et smukt billede af en POKeMON.\n"
+	.string "Det er et smukt billede af en POKéMON.\n"
 	.string "Den ser ud til at have det godt.$"
 
 Text_PowerPlantMachine::
@@ -86,7 +86,7 @@ Text_TrashBin::
 	.string "Der er ingenting her!$"
 
 Text_Cup::
-	.string "Det er en kop med et POKeMON-\n"
+	.string "Det er en kop med et POKéMON-\n"
 	.string "märke pâ.$"
 
 Text_PolishedWindow::
@@ -118,5 +118,5 @@ Text_Burglary::
 	.string "her…$"
 
 Text_PlayerFacingTVScreen::
-	.string "Der er en POKeMON i TV!\n"
+	.string "Der er en POKéMON i TV!\n"
 	.string "Den ser ud til at more sig.$"

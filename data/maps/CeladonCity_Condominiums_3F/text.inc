@@ -15,13 +15,13 @@ CeladonCity_Condominiums_3F_Text_IWroteTheStory::
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
     .string "Er det rigtigt?\p"
     .string "Jeg er spildesigneren!\p"
-    .string "At udfylde din POKeDEX er svärt,\n"
+    .string "At udfylde din POKéDEX er svärt,\n"
     .string "men giv ikke op!\p"
     .string "Nâr du er färdig, kom og sig det til mig!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
     .string "Wow! Fremragende!\n"
-    .string "Du fuldförte din POKeDEX!\l"
+    .string "Du fuldförte din POKéDEX!\l"
     .string "Tillykke!\l"
     .string "…$"
 

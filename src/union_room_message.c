@@ -305,8 +305,8 @@ const u8 *const gTexts_UR_StartActivity[][GENDER_COUNT][3] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_BattleDeclinedMale[] = _("Undskyld! Mine POKeMON har det ikke\nsärlig godt lige nu.\lVi kämper en anden gang.\p");
-ALIGNED(4) static const u8 sText_BattleDeclinedFemale[] = _("Jeg er meget ked af det, mine POKeMON\nhar det ikke godt…\pLad os kämpe en anden gang.\p");
+ALIGNED(4) static const u8 sText_BattleDeclinedMale[] = _("Undskyld! Mine POKéMON har det ikke\nsärlig godt lige nu.\lVi kämper en anden gang.\p");
+ALIGNED(4) static const u8 sText_BattleDeclinedFemale[] = _("Jeg er meget ked af det, mine POKéMON\nhar det ikke godt…\pLad os kämpe en anden gang.\p");
 
 const u8 *const gTexts_UR_BattleDeclined[GENDER_COUNT] = {
     sText_BattleDeclinedMale,
@@ -330,8 +330,8 @@ const u8 *const gTexts_UR_IfYouWantToDoSomething[GENDER_COUNT] = {
 };
 
 ALIGNED(4) const u8 gText_UR_TrainerBattleBusy[] = _("Ups! Undskyld, jeg skal\ngöre noget andet.\lEn anden gang, okay?\p");
-ALIGNED(4) const u8 gText_UR_NeedTwoMonsOfLevel30OrLower1[] = _("Til kamp skal du have\nto POKeMON under Niv. 30.\p");
-ALIGNED(4) const u8 gText_UR_NeedTwoMonsOfLevel30OrLower2[] = _("Til kamp skal du have to\nPOKeMON under Niv. 30.\p");
+ALIGNED(4) const u8 gText_UR_NeedTwoMonsOfLevel30OrLower1[] = _("Til kamp skal du have\nto POKéMON under Niv. 30.\p");
+ALIGNED(4) const u8 gText_UR_NeedTwoMonsOfLevel30OrLower2[] = _("Til kamp skal du have to\nPOKéMON under Niv. 30.\p");
 
 ALIGNED(4) static const u8 sText_DeclineChatMale[] = _("Oh, all right.\nCome see me anytime, okay?\p");
 ALIGNED(4) static const u8 stext_DeclineChatFemale[] = _("Oh…\nKom forbi nâr som helst.\p");
@@ -354,11 +354,11 @@ const u8 *const gTexts_UR_ChatDeclined[GENDER_COUNT] = {
 ALIGNED(4) static const u8 sText_YoureToughMale[] = _("Wow!\nDu er da hârd!\p");
 ALIGNED(4) static const u8 sText_UsedGoodMoveMale[] = _("Brugte du det angreb?\nGod strategi!\p");
 ALIGNED(4) static const u8 sText_BattleSurpriseMale[] = _("Fedt!\nDet var en öjenabner!\p");
-ALIGNED(4) static const u8 sText_SwitchedMonsMale[] = _("Oh! Hvordan kunne du bruge den\nPOKeMON i den situation?\p");
-ALIGNED(4) static const u8 sText_YoureToughFemale[] = _("Den POKeMON…\nDen er opdraget rigtig godt!\p");
+ALIGNED(4) static const u8 sText_SwitchedMonsMale[] = _("Oh! Hvordan kunne du bruge den\nPOKéMON i den situation?\p");
+ALIGNED(4) static const u8 sText_YoureToughFemale[] = _("Den POKéMON…\nDen er opdraget rigtig godt!\p");
 ALIGNED(4) static const u8 sText_UsedGoodMoveFemale[] = _("Präcis!\nDet er det rigtige angreb nu!\p");
 ALIGNED(4) static const u8 sText_BattleSurpriseFemale[] = _("Fantastisk!\nKan man kämpe sâdan?\p");
-ALIGNED(4) static const u8 sText_SwitchedMonsFemale[] = _("Perfekt timing med at\nskifte POKeMON!\p");
+ALIGNED(4) static const u8 sText_SwitchedMonsFemale[] = _("Perfekt timing med at\nskifte POKéMON!\p");
 
 const u8 *const gTexts_UR_BattleReaction[GENDER_COUNT][4] = {
     {
@@ -412,10 +412,10 @@ const u8 *const gTexts_UR_TrainerCardReaction[GENDER_COUNT][2] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_MaleTraded1[] = _("Ja!\nJeg ville virkelig have denne POKeMON!\p");
-ALIGNED(4) static const u8 sText_MaleTraded2[] = _("Endelig fik jeg den POKeMON\njeg havde önsket mig i et bytte.\p");
-ALIGNED(4) static const u8 sText_FemaleTraded1[] = _("Jeg bytter POKeMON lige nu.\p");
-ALIGNED(4) static const u8 sText_FemaleTraded2[] = _("Endelig fik jeg den POKeMON\njeg ville have i et bytte!\p");
+ALIGNED(4) static const u8 sText_MaleTraded1[] = _("Ja!\nJeg ville virkelig have denne POKéMON!\p");
+ALIGNED(4) static const u8 sText_MaleTraded2[] = _("Endelig fik jeg den POKéMON\njeg havde önsket mig i et bytte.\p");
+ALIGNED(4) static const u8 sText_FemaleTraded1[] = _("Jeg bytter POKéMON lige nu.\p");
+ALIGNED(4) static const u8 sText_FemaleTraded2[] = _("Endelig fik jeg den POKéMON\njeg ville have i et bytte!\p");
 
 const u8 *const gTexts_UR_TradeReaction[GENDER_COUNT][4] = {
     {
@@ -428,22 +428,22 @@ const u8 *const gTexts_UR_TradeReaction[GENDER_COUNT][4] = {
 };
 
 const u8 gText_UR_XCheckedTradingBoard[] = _("{STR_VAR_1} tjekkede\nBYTTETAVLEN.\p");
-ALIGNED(4) const u8 gText_UR_RegisterMonAtTradingBoard[] = _("Velkommen til BYTTETAVLEN.\pDu kan registrere din POKeMON\nog tilbyde den til bytte.\pVil du registrere en af\ndine POKeMON?");
+ALIGNED(4) const u8 gText_UR_RegisterMonAtTradingBoard[] = _("Velkommen til BYTTETAVLEN.\pDu kan registrere din POKéMON\nog tilbyde den til bytte.\pVil du registrere en af\ndine POKéMON?");
 ALIGNED(4) const u8 gText_UR_TradingBoardInfo[] = _("BYTTETAVLEN bruges til at\n"
-                                                    "tilbyde en POKeMON til bytte.\p"
+                                                    "tilbyde en POKéMON til bytte.\p"
                                                     "Du skal bare registrere en\n"
-                                                    "POKeMON til bytte.\p"
+                                                    "POKéMON til bytte.\p"
                                                     "En anden TRÄNER kan tilbyde en\n"
-                                                    "POKeMON til gengäld.\p"
-                                                    "Vi hâber du registrerer POKeMON\n"
+                                                    "POKéMON til gengäld.\p"
+                                                    "Vi hâber du registrerer POKéMON\n"
                                                     "og bytter med mange andre\l"
                                                     "TRÄNERe.\p"
                                                     "Vil du registrere en af\n"
-                                                    "dine POKeMON?");
+                                                    "dine POKéMON?");
 ALIGNED(4) static const u8 sText_ThankYouForRegistering[] = _("こうかんけいじばん の とうろくが\nかんりょう しました\pごりよう ありがとう\nございました！\p");
 ALIGNED(4) static const u8 sText_NobodyHasRegistered[] = _("けいじばんに だれも ポケモンを\nとうろく していません\p\n");
-ALIGNED(4) const u8 gText_UR_ChooseRequestedMonType[] = _("Välg den type POKeMON\ndu vil have i byttet.\n");
-ALIGNED(4) const u8 gText_UR_WhichMonWillYouOffer[] = _("Hvilken af dine POKeMON vil\ndu tilbyde i bytte?\p");
+ALIGNED(4) const u8 gText_UR_ChooseRequestedMonType[] = _("Välg den type POKéMON\ndu vil have i byttet.\n");
+ALIGNED(4) const u8 gText_UR_WhichMonWillYouOffer[] = _("Hvilken af dine POKéMON vil\ndu tilbyde i bytte?\p");
 ALIGNED(4) const u8 gText_UR_RegistrationCanceled[] = _("Registreringen er annulleret.\p");
 ALIGNED(4) const u8 gText_UR_RegistraionCompleted[] = _("Registrering er gennemfört.\p");
 ALIGNED(4) const u8 gText_UR_TradeCanceled[] = _("Bytte er annulleret.\p");
@@ -455,11 +455,11 @@ ALIGNED(4) static const u8 sText_ChooseTrainerToTradeWith2[] = _("こうかん �
 ALIGNED(4) const u8 gText_UR_AskTrainerToMakeTrade[] = _("Vil du bede {STR_VAR_1} om\nat bytte?");
 ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer2[] = _("……\nあいての へんじを まっています");
 ALIGNED(4) static const u8 sText_NotRegisteredAMonForTrade[] = _("あなたが こうかんにだす\nポケモンが とうろくされていません\p");
-ALIGNED(4) const u8 gText_UR_DontHaveTypeTrainerWants[] = _("Du har ikke et {STR_VAR_2}-type\nPOKeMON som {STR_VAR_1} vil have.\p");
+ALIGNED(4) const u8 gText_UR_DontHaveTypeTrainerWants[] = _("Du har ikke et {STR_VAR_2}-type\nPOKéMON som {STR_VAR_1} vil have.\p");
 ALIGNED(4) const u8 gText_UR_DontHaveEggTrainerWants[] = _("Du har ikke et ÄG som\n{STR_VAR_1} vil have.\p");
 
-ALIGNED(4) static const u8 sText_PlayerCantTradeForYourMon[] = _("{STR_VAR_1} kan ikke bytte med\ndine POKeMON lige nu.\p");
-ALIGNED(4) static const u8 sText_CantTradeForPartnersMon[] = _("Du kan ikke bytte med\n{STR_VAR_1}s POKeMON lige nu.\p");
+ALIGNED(4) static const u8 sText_PlayerCantTradeForYourMon[] = _("{STR_VAR_1} kan ikke bytte med\ndine POKéMON lige nu.\p");
+ALIGNED(4) static const u8 sText_CantTradeForPartnersMon[] = _("Du kan ikke bytte med\n{STR_VAR_1}s POKéMON lige nu.\p");
 
 // Unused
 static const u8 *const sCantTradeMonTexts[] = {
@@ -477,7 +477,7 @@ ALIGNED(4) static const u8 sText_ChooseLeaderMultiBattle[] = _("Välg LEDEREN ti
 ALIGNED(4) static const u8 sText_ChooseTrainerToTradeWith[] = _("Välg TRÄNEREN du vil\nbytte med.");
 ALIGNED(4) static const u8 sText_ChooseTrainerToShareWonderCards[] = _("Välg TRÄNEREN der deler\nWONDER CARDS.");
 ALIGNED(4) static const u8 sText_ChooseTrainerToShareWonderNews[] = _("Välg TRÄNEREN der deler\nWONDER NEWS.");
-ALIGNED(4) static const u8 sText_ChooseLeaderPokemonJump[] = _("Hop med mini POKeMON!\nVälg LEDEREN.");
+ALIGNED(4) static const u8 sText_ChooseLeaderPokemonJump[] = _("Hop med mini POKéMON!\nVälg LEDEREN.");
 ALIGNED(4) static const u8 sText_ChooseLeaderBerryCrush[] = _("BERRY CRUSH!\nVälg LEDEREN.");
 ALIGNED(4) static const u8 sText_ChooseLeaderBerryPicking[] = _("DODRIO BERRY-PICKING!\nVälg LEDEREN.");
 
@@ -520,12 +520,12 @@ ALIGNED(4) const u8 gText_UR_NameWantedOfferLv[] = _("NAME{CLEAR_TO 0x3C}WANTED{
 ALIGNED(4) const u8 gText_UR_SingleBattle[] = _("SINGLE BATTLE");
 ALIGNED(4) const u8 gText_UR_DoubleBattle[] = _("DOUBLE BATTLE");
 ALIGNED(4) const u8 gText_UR_MultiBattle[] = _("MULTI BATTLE");
-ALIGNED(4) const u8 gText_UR_PokemonTrades[] = _("POKeMON TRADES");
+ALIGNED(4) const u8 gText_UR_PokemonTrades[] = _("POKéMON TRADES");
 ALIGNED(4) const u8 gText_UR_Chat[] = _("CHAT");
 ALIGNED(4) const u8 gText_UR_Cards[] = _("CARDS");
 ALIGNED(4) const u8 gText_UR_WonderCards[] = _("WONDER CARDS");
 ALIGNED(4) const u8 gText_UR_WonderNews[] = _("WONDER NEWS");
-ALIGNED(4) const u8 gText_UR_PokemonJump[] = _("POKeMON JUMP");
+ALIGNED(4) const u8 gText_UR_PokemonJump[] = _("POKéMON JUMP");
 ALIGNED(4) const u8 gText_UR_BerryCrush[] = _("BERRY CRUSH");
 ALIGNED(4) const u8 gText_UR_BerryPicking[] = _("BERRY-PICKING");
 ALIGNED(4) const u8 gText_UR_Search[] = _("SEARCH");
@@ -546,7 +546,7 @@ const u8 *const gTexts_UR_CardColor[] = {
     sText_ItsGoldCard
 };
 
-ALIGNED(4) const u8 gText_UR_TrainerCardInfoPage1[] = _("Dette er {DYNAMIC 0} {DYNAMIC 1}s\nTRÄNERKORT…\l{DYNAMIC 2}\pPOKeDEX: {DYNAMIC 3}\nTID:     {DYNAMIC 4}:{DYNAMIC 5}\p");
+ALIGNED(4) const u8 gText_UR_TrainerCardInfoPage1[] = _("Dette er {DYNAMIC 0} {DYNAMIC 1}s\nTRÄNERKORT…\l{DYNAMIC 2}\pPOKéDEX: {DYNAMIC 3}\nTID:     {DYNAMIC 4}:{DYNAMIC 5}\p");
 ALIGNED(4) const u8 gText_UR_TrainerCardInfoPage2[] = _("BATTLES: {DYNAMIC 0} WINS  {DYNAMIC 2} LOSSES\nTRADES:  {DYNAMIC 3} TIMES\p“{DYNAMIC 4} {DYNAMIC 5}\n{DYNAMIC 6} {DYNAMIC 7}”\p");
 ALIGNED(4) static const u8 sText_GladToMeetYouMale[] = _("{DYNAMIC 1}: Glad to have met you!{PAUSE 60}");
 ALIGNED(4) static const u8 sText_GladToMeetYouFemale[] = _("{DYNAMIC 1}: Glad to meet you!{PAUSE 60}");

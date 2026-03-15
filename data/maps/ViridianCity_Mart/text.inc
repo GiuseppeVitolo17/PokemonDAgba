@@ -9,7 +9,7 @@ ViridianCity_Mart_Text_TakeThisToProfOak::
 
 ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
     .string "{PLAYER} modtog OAKS PAKKEN\n"
-    .string "fra POKeMON MART ekspeditricen.$"
+    .string "fra POKéMON MART ekspeditricen.$"
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
     .string "Okay, tak! Sig hej til\n"
@@ -21,6 +21,6 @@ ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
 
 ViridianCity_Mart_Text_GotToBuySomePotions::
     .string "Jeg skal köbe nogle POTIONS.\p"
-    .string "Man ved aldrig hvornâr dine POKeMON\n"
+    .string "Man ved aldrig hvornâr dine POKéMON\n"
     .string "fâr brug for hurtig helbredelse.$"
 

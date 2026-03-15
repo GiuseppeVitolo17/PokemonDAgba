@@ -1,7 +1,7 @@
 IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
     .string "Yo!\n"
     .string "Champion i blomst!\p"
-    .string "Ved POKeMON LEAGUE möder du\n"
+    .string "Ved POKéMON LEAGUE möder du\n"
     .string "ELITE FOUR i träk.\p"
     .string "Taber du, skal du starte for\n"
     .string "fra igen!\p"
@@ -19,13 +19,13 @@ IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
     .string "tid med at komme her.\p"
     .string "LORELEI fra ELITE FOUR er\n"
     .string "nemlig fravärende.\p"
-    .string "Som fölge heraf er POKeMON\n"
+    .string "Som fölge heraf er POKéMON\n"
     .string "LEAGUE lukket for nu.$"
 
 IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
-    .string "AGATHAs SPÖGELSES-type POKeMON er\n"
+    .string "AGATHAs SPÖGELSES-type POKéMON er\n"
     .string "rädselsväkkende hârde.\p"
-    .string "Jeg tog mine KAMP-type POKeMON\n"
+    .string "Jeg tog mine KAMP-type POKéMON\n"
     .string "og tränede dem maksimalt.\p"
     .string "Jeg gik mod AGATHA ret selvsikker,\n"
     .string "men hun bankede os.\p"

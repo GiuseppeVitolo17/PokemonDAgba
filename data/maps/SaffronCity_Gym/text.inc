@@ -22,11 +22,11 @@ SaffronCity_Gym_Text_SabrinaPostBattle::
     .string "Folk er bare ikke klar over det.$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-    .string "MARSHBADGE fâr POKeMON op til\n"
+    .string "MARSHBADGE fâr POKéMON op til\n"
     .string "Lv. 70 til at adlyde dig.\p"
-    .string "Stärkere POKeMON bliver vilde og\n"
+    .string "Stärkere POKéMON bliver vilde og\n"
     .string "ignorerer dine ordre i kamp.\p"
-    .string "Opdrag bare ikke dine POKeMON for\n"
+    .string "Opdrag bare ikke dine POKéMON for\n"
     .string "meget for at undgâ det problem.\p"
     .string "Vent, tag venligst denne TM med.$"
 
@@ -36,7 +36,7 @@ SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
 
 SaffronCity_Gym_Text_ExplainTM04::
     .string "TM04 er CALM MIND.\p"
-    .string "Den fâr POKeMON til at koncentrere sig\n"
+    .string "Den fâr POKéMON til at koncentrere sig\n"
     .string "for at oge bâde SP. ATK og SP. DEF.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
@@ -62,13 +62,13 @@ SaffronCity_Gym_Text_JohanDefeat::
     .string "Det forudsa jeg aldrig!$"
 
 SaffronCity_Gym_Text_JohanPostBattle::
-    .string "PSYCHIC POKeMON frygter kun spögelser\n"
+    .string "PSYCHIC POKéMON frygter kun spögelser\n"
     .string "og insekter!$"
 
 SaffronCity_Gym_Text_StacyIntro::
-    .string "POKeMON antager udseendet af\n"
+    .string "POKéMON antager udseendet af\n"
     .string "deres TRAINERE.\p"
-    .string "Dine POKeMON mâ väre hârde, da!$"
+    .string "Dine POKéMON mâ väre hârde, da!$"
 
 SaffronCity_Gym_Text_StacyDefeat::
     .string "Jeg vidste det!$"
@@ -76,12 +76,12 @@ SaffronCity_Gym_Text_StacyDefeat::
 SaffronCity_Gym_Text_StacyPostBattle::
     .string "Jeg har meget at läre endnu…\p"
     .string "Jeg mâ mestre PSYCHIC og läre det\n"
-    .string "til mine POKeMON…$"
+    .string "til mine POKéMON…$"
 
 SaffronCity_Gym_Text_TyronIntro::
     .string "Du forstâr, ikke?\p"
     .string "At kraft alene ikke er nok til at\n"
-    .string "vinde i POKeMON-verdenen?$"
+    .string "vinde i POKéMON-verdenen?$"
 
 SaffronCity_Gym_Text_TyronDefeat::
     .string "Det tror jeg ikke pâ!$"
@@ -91,7 +91,7 @@ SaffronCity_Gym_Text_TyronPostBattle::
     .string "MESTEREN ved siden af.$"
 
 SaffronCity_Gym_Text_TashaIntro::
-    .string "Du og jeg, vores POKeMON skal\n"
+    .string "Du og jeg, vores POKéMON skal\n"
     .string "kämpe!$"
 
 SaffronCity_Gym_Text_TashaDefeat::
@@ -110,7 +110,7 @@ SaffronCity_Gym_Text_CameronDefeat::
     .string "Ned og ude!$"
 
 SaffronCity_Gym_Text_CameronPostBattle::
-    .string "Der var engang to POKeMON GYMS\n"
+    .string "Der var engang to POKéMON GYMS\n"
     .string "i SAFFRON.\p"
     .string "FIGHTING DOJO ved siden af mistede\n"
     .string "sin GYM-status, dog.\p"
@@ -118,7 +118,7 @@ SaffronCity_Gym_Text_CameronPostBattle::
     .string "besluttede at have kun eet GYM.$"
 
 SaffronCity_Gym_Text_PrestonIntro::
-    .string "SAFFRON POKeMON GYM er kendt for\n"
+    .string "SAFFRON POKéMON GYM er kendt for\n"
     .string "at träne psykikere.\p"
     .string "Du vil se SABRINA, ikke?\n"
     .string "Jeg kan märke det!$"
@@ -133,10 +133,10 @@ SaffronCity_Gym_Text_PrestonPostBattle::
 SaffronCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
     .string "Champion under opsejling!\p"
-    .string "SABRINAs POKeMON bruger psykisk\n"
+    .string "SABRINAs POKéMON bruger psykisk\n"
     .string "kraft i stedet for magt.\p"
-    .string "FIGHTING POKeMON er särligt\n"
-    .string "svâge over for PSYCHIC POKeMON.\p"
+    .string "FIGHTING POKéMON er särligt\n"
+    .string "svâge over for PSYCHIC POKéMON.\p"
     .string "De bliver odelagt för de overhovedet\n"
     .string "kan sigte et stöd!$"
 
@@ -146,13 +146,13 @@ SaffronCity_Gym_Text_GymGuyPostVictory::
     .string "en formue pâ spilleautomaterne!$"
 
 SaffronCity_Gym_Text_GymStatue::
-    .string "SAFFRON POKeMON GYM\n"
+    .string "SAFFRON POKéMON GYM\n"
     .string "LEADER: SABRINA\p"
     .string "VINDENDE TRAINERE:\n"
     .string "{RIVAL}$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-    .string "SAFFRON POKeMON GYM\n"
+    .string "SAFFRON POKéMON GYM\n"
     .string "LEADER: SABRINA\p"
     .string "VINDENDE TRAINERE:\n"
     .string "{RIVAL}, {PLAYER}$"

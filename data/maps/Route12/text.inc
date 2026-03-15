@@ -1,5 +1,5 @@
 Route12_Text_MonSprawledOutInSlumber::
-    .string "Et POKeMON ligger og sover dybt\n"
+    .string "Et POKéMON ligger og sover dybt\n"
     .string "og behageligt.$"
 
 Text_SnorlaxWokeUp::
@@ -38,7 +38,7 @@ Route12_Text_ChipDefeat::
 
 Route12_Text_ChipPostBattle::
     .string "Med et bedre ROD kunne jeg fange\n"
-    .string "bedre POKeMON…$"
+    .string "bedre POKéMON…$"
 
 Route12_Text_JustinIntro::
     .string "Jeg leder efter en MOON STONE.\n"
@@ -48,24 +48,24 @@ Route12_Text_JustinDefeat::
     .string "Av!$"
 
 Route12_Text_JustinPostBattle::
-    .string "Jeg kunne have ladet mine POKeMON\n"
+    .string "Jeg kunne have ladet mine POKéMON\n"
     .string "udvikle sig med en MOON STONE.\p"
     .string "Sâ havde jeg vundet, vädder jeg.$"
 
 Route12_Text_LucaIntro::
     .string "Elektricitet er min speciale.\p"
     .string "Jeg ved ikke noget om havets\n"
-    .string "POKeMON.$"
+    .string "POKéMON.$"
 
 Route12_Text_LucaDefeat::
     .string "Afpluget!$"
 
 Route12_Text_LucaPostBattle::
     .string "Vand leder elektricitet, sâ du\n"
-    .string "bör give hav-POKeMON stöd.$"
+    .string "bör give hav-POKéMON stöd.$"
 
 Route12_Text_HankIntro::
-    .string "FISHING FOOL mod POKeMON KID!$"
+    .string "FISHING FOOL mod POKéMON KID!$"
 
 Route12_Text_HankDefeat::
     .string "For meget!$"
@@ -73,7 +73,7 @@ Route12_Text_HankDefeat::
 Route12_Text_HankPostBattle::
     .string "Jeg gätter man bliver god til det\n"
     .string "man kan lide.\p"
-    .string "Du slog mig i POKeMON, men du\n"
+    .string "Du slog mig i POKéMON, men du\n"
     .string "kan ikke slâ mig til fiskeri.$"
 
 Route12_Text_ElliotIntro::
@@ -124,7 +124,7 @@ Route12_Text_JesNotEnoughMons::
     .string "JES: GIA og jeg, vi bliver\n"
     .string "sammen for evigt.\p"
     .string "Vi kämper ikke medmindre du har\n"
-    .string "to POKeMON selv.$"
+    .string "to POKéMON selv.$"
 
 Route12_Text_GiaIntro::
     .string "GIA: Hey, JES…\p"
@@ -141,4 +141,4 @@ Route12_Text_GiaPostBattle::
 Route12_Text_GiaNotEnoughMons::
     .string "GIA: Jeg kan ikke kämpe uden\n"
     .string "min JES!\p"
-    .string "Har du ikke en POKeMON mere?$"
+    .string "Har du ikke en POKéMON mere?$"

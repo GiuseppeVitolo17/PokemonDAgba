@@ -1,5 +1,5 @@
 CeladonCity_Hotel_Text_ThisHotelIsForPeople::
-    .string "POKeMON?\n"
+    .string "POKéMON?\n"
     .string "Nej, dette er et hotel for mennesker.\p"
     .string "Vi er desvärre fuldt booket.$"
 

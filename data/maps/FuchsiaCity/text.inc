@@ -1,13 +1,13 @@
 FuchsiaCity_Text_DidYouTrySafariGame::
     .string "Prövede du SAFARI GAME?\p"
-    .string "Der er nogle själde POKeMON der\n"
+    .string "Der er nogle själde POKéMON der\n"
     .string "kun kan fanges der.$"
 
 FuchsiaCity_Text_SafariZoneZooInFront::
     .string "SAFARI ZONE har en zoo foran\n"
     .string "indgangen.\p"
     .string "Bagved er SAFARI GAME til at\n"
-    .string "fange POKeMON.$"
+    .string "fange POKéMON.$"
 
 FuchsiaCity_Text_WheresSara::
     .string "ERIK: Hvor er SARA?\n"
@@ -17,31 +17,31 @@ FuchsiaCity_Text_ItemBallInThere::
     .string "Den genstandskugle derinde…\n"
     .string "Ville du have den?\p"
     .string "Mig ogsâ!\n"
-    .string "…Hvad? Det er en POKeMON?$"
+    .string "…Hvad? Det er en POKéMON?$"
 
 FuchsiaCity_Text_CitySign::
     .string "FUCHSIA CITY\n"
     .string "Se! Det er passioneret pink!$"
 
 FuchsiaCity_Text_SafariZoneSign::
-    .string "POKeMON PARADIS\n"
+    .string "POKéMON PARADIS\n"
     .string "SAFARI ZONE$"
 
 FuchsiaCity_Text_SafariGameSign::
     .string "SAFARI GAME\n"
-    .string "POKeMON-U-CATCH!$"
+    .string "POKéMON-U-CATCH!$"
 
 FuchsiaCity_Text_WardensHomeSign::
     .string "SAFARI ZONE\n"
     .string "WARDENS Hjem$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign::
-    .string "POKeMON PARADIS!\n"
+    .string "POKéMON PARADIS!\n"
     .string "Velkommen til SAFARI ZONE!\l"
     .string "SAFARI ZONE KONTOR$"
 
 FuchsiaCity_Text_GymSign::
-    .string "FUCHSIA CITY POKeMON GYM\n"
+    .string "FUCHSIA CITY POKéMON GYM\n"
     .string "LEDER: KOGA\l"
     .string "Den giftige ninjamester$"
 
@@ -55,7 +55,7 @@ FuchsiaCity_Text_VoltorbSign::
 
 FuchsiaCity_Text_KangaskhanSign::
     .string "Navn: KANGASKHAN\p"
-    .string "En moderlig POKeMON der opdrager\n"
+    .string "En moderlig POKéMON der opdrager\n"
     .string "sine unger i en pung pâ maven.$"
 
 FuchsiaCity_Text_SlowpokeSign::
@@ -68,12 +68,12 @@ FuchsiaCity_Text_LaprasSign::
 
 FuchsiaCity_Text_OmanyteSign::
     .string "Navn: OMANYTE\n"
-    .string "En yderst själden POKeMON gen-\l"
+    .string "En yderst själden POKéMON gen-\l"
     .string "regenereret fra et fossil.$"
 
 FuchsiaCity_Text_KabutoSign::
     .string "Navn: KABUTO\n"
-    .string "En yderst själden POKeMON gen-\l"
+    .string "En yderst själden POKéMON gen-\l"
     .string "regenereret fra et fossil.$"
 
 @ Unused. May have been meant to be the placeholder text for the zoo mons, similar to RB's "!" text
@@ -87,17 +87,17 @@ Text_SubstituteTeach::
     .string "for babyen…\p"
     .string "Og käle i moder KANGASKHANs\n"
     .string "mavepung.\p"
-    .string "Men kun POKeMON kan bruge\n"
+    .string "Men kun POKéMON kan bruge\n"
     .string "teknikken SUBSTITUTE…\p"
     .string "Skal jeg läre SUBSTITUTE til\n"
-    .string "en af dine POKeMON?$"
+    .string "en af dine POKéMON?$"
 
 Text_SubstituteDeclined::
-    .string "Oeh, virkelig?\n"
+    .string "Øh, virkelig?\n"
     .string "SUBSTITUTE lyder sâ sjov…$"
 
 Text_SubstituteWhichMon::
-    .string "Hvilken POKeMON vil läre\n"
+    .string "Hvilken POKéMON vil läre\n"
     .string "SUBSTITUTE?$"
 
 Text_SubstituteTaught::
@@ -109,5 +109,5 @@ FuchsiaCity_Text_MyFatherIsGymLeader::
     .string "Min far er GYM LEDER i\n"
     .string "denne by.\p"
     .string "Jeg träner i at bruge GIFT-\n"
-    .string "POKeMON ligesom min far.$"
+    .string "POKéMON ligesom min far.$"
 

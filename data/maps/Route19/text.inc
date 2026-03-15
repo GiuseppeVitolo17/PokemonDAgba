@@ -29,7 +29,7 @@ Route19_Text_MatthewDefeat::
     .string "Maveplasker!$"
 
 Route19_Text_MatthewPostBattle::
-    .string "Jeg kan slâ selv hav-POKeMON\n"
+    .string "Jeg kan slâ selv hav-POKéMON\n"
     .string "i svömning.$"
 
 Route19_Text_DouglasIntro::
@@ -43,14 +43,14 @@ Route19_Text_DouglasPostBattle::
 
 Route19_Text_DavidIntro::
     .string "Jeg prövede at dykke efter\n"
-    .string "POKeMON, men det lykkedes ikke.$"
+    .string "POKéMON, men det lykkedes ikke.$"
 
 Route19_Text_DavidDefeat::
     .string "Hjälp!$"
 
 Route19_Text_DavidPostBattle::
     .string "Jeg gätter pâ man skal fiske efter\n"
-    .string "hav-POKeMON.$"
+    .string "hav-POKéMON.$"
 
 Route19_Text_TonyIntro::
     .string "Jeg kigger pâ havet for at glemme\n"
@@ -107,7 +107,7 @@ Route19_Text_ConnieDefeat::
     .string "Jeg er udmattet...$"
 
 Route19_Text_ConniePostBattle::
-    .string "Hvis jeg skulle ride pâ en POKeMON\n"
+    .string "Hvis jeg skulle ride pâ en POKéMON\n"
     .string "pâ havet, ville jeg välge LAPRAS.\p"
     .string "LAPRAS er sâ stor, den holder\n"
     .string "mig sikkert tör pâ vandet.$"
@@ -132,11 +132,11 @@ Route19_Text_LiaPostBattle::
 Route19_Text_LiaNotEnoughMons::
     .string "LIA: Jeg vil kämpe sammen\n"
     .string "med min lillebror.\p"
-    .string "Har du ikke to POKeMON?$"
+    .string "Har du ikke to POKéMON?$"
 
 Route19_Text_LucIntro::
     .string "LUC: Min storesöster lärte mig at\n"
-    .string "svömme og träne POKeMON.$"
+    .string "svömme og träne POKéMON.$"
 
 Route19_Text_LucDefeat::
     .string "LUC: Aa, wow!\n"
@@ -149,4 +149,4 @@ Route19_Text_LucPostBattle::
 Route19_Text_LucNotEnoughMons::
     .string "LUC: Jeg vil ikke hvis jeg ikke kan\n"
     .string "kämpe dig med min storesöster.\p"
-    .string "Har du ikke to POKeMON?$"
+    .string "Har du ikke to POKéMON?$"

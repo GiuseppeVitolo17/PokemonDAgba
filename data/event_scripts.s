@@ -820,17 +820,17 @@ Text_WeHopeToSeeYouAgain2::
 
 @ Unused
 Text_WelcomeTradeCenter::
-	.string "Welcome to the POKeMON CABLE CLUB\n"
+	.string "Welcome to the POKéMON CABLE CLUB\n"
 	.string "TRADE CENTER.$"
 
 @ Unused
 Text_WelcomeColosseum::
-	.string "Welcome to the POKeMON CABLE CLUB\n"
+	.string "Welcome to the POKéMON CABLE CLUB\n"
 	.string "COLOSSEUM.$"
 
 @ Unused
 Text_WelcomeTimeCapsule::
-	.string "Welcome to the POKeMON CABLE CLUB\n"
+	.string "Welcome to the POKéMON CABLE CLUB\n"
 	.string "TIME CAPSULE.$"
 
 Text_PleaseComeAgain::
@@ -886,12 +886,12 @@ gText_PkmnFainted3::
 	.string "$"
 
 Text_WelcomeWantToHealPkmn::
-	.string "Velkommen til vores POKeMON CENTER!\p"
+	.string "Velkommen til vores POKéMON CENTER!\p"
 	.string "Vil du have mig til at helbrede dine\n"
-	.string "POKeMON helt?$"
+	.string "POKéMON helt?$"
 
 Text_TakeYourPkmnForFewSeconds::
-	.string "Okay, jeg tager dine POKeMON et\n"
+	.string "Okay, jeg tager dine POKéMON et\n"
 	.string "par sekunder.$"
 
 Text_WeHopeToSeeYouAgain::
@@ -899,7 +899,7 @@ Text_WeHopeToSeeYouAgain::
 
 Text_RestoredPkmnToFullHealth::
 	.string "Tak for din tâlmodighed.\n"
-	.string "Vi har genoprettet dine POKeMON til\l"
+	.string "Vi har genoprettet dine POKéMON til\l"
 	.string "fuld helbred.$"
 
 	.include "data/text/surf.inc"
@@ -916,7 +916,7 @@ Text_BigHoleInTheWall::
 
 Text_WirelessClubUndergoingAdjustments::
 	.string "I'm terribly sorry.\n"
-	.string "The POKeMON WIRELESS CLUB is\l"
+	.string "The POKéMON WIRELESS CLUB is\l"
 	.string "undergoing adjustments now.$"
 
 Text_AppearsToBeUndergoingAdjustments::
@@ -946,12 +946,12 @@ Text_ItNeedsCardKey::
 
 Text_AccessedProfOaksPC::
 	.string "Fik adgang til PROF. OAK's PC…\p"
-	.string "Fik adgang til POKeDEX-\n"
+	.string "Fik adgang til POKéDEX-\n"
 	.string "vurderingssystemet…$"
 
 Text_HavePokedexRated::
 	.string "Vil du have din\n"
-	.string "POKeDEX vurderet?$"
+	.string "POKéDEX vurderet?$"
 
 Text_ClosedLinkToProfOaksPC::
 	.string "Lukket forbindelse til PROF. OAK's PC.$"

@@ -9,7 +9,7 @@ LavenderTown_House1_Text_RocketsKilledCubonesMother::
     .string "TEAM ROCKET.$"
 
 LavenderTown_House1_Text_GhostOfPokemonTowerIsGone::
-    .string "Spögelsen fra POKeMON TOWER er\n"
+    .string "Spögelsen fra POKéMON TOWER er\n"
     .string "väk!\p"
     .string "Nogen mâ have beroliget dens\n"
     .string "rastlöse ând!$"

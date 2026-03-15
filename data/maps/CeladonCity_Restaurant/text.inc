@@ -4,7 +4,7 @@ CeladonCity_Restaurant_Text_TakingBreakRightNow::
     .string "lige nu.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-    .string "Mine POKeMON er sväkke, sâ jeg mâ ofte\n"
+    .string "Mine POKéMON er sväkke, sâ jeg mâ ofte\n"
     .string "til DRUGSTORE.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::

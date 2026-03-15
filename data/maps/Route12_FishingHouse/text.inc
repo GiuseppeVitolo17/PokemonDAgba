@@ -34,7 +34,7 @@ Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
     .string "Har du fisket?\p"
     .string "Pröv at fiske med SUPER ROD i\n"
     .string "enhver vandmasse.\p"
-    .string "Du finder forskellige POKeMON pâ\n"
+    .string "Du finder forskellige POKéMON pâ\n"
     .string "forskellige steder.\p"
     .string "Oh, og glem ikke at bringe mig\n"
     .string "kämpe MAGIKARP.$"

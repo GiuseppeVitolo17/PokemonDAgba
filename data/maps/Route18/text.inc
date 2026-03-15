@@ -1,6 +1,6 @@
 Route18_Text_WiltonIntro::
     .string "Jeg tjekker altid hvert gräsomrâde\n"
-    .string "for nye POKeMON.$"
+    .string "for nye POKéMON.$"
 
 Route18_Text_WiltonDefeat::
     .string "Tch!$"
@@ -16,7 +16,7 @@ Route18_Text_RamiroDefeat::
     .string "Jeg mâtte irritere dig!$"
 
 Route18_Text_RamiroPostBattle::
-    .string "Jeg samler hav-POKeMON i weekenden\n"
+    .string "Jeg samler hav-POKéMON i weekenden\n"
     .string "fordi havet er sâ tät pâ.$"
 
 Route18_Text_JacobIntro::
@@ -28,7 +28,7 @@ Route18_Text_JacobDefeat::
 
 Route18_Text_JacobPostBattle::
     .string "Dette er mit yndlingssted til at\n"
-    .string "fange POKeMON.$"
+    .string "fange POKéMON.$"
 
 Route18_Text_RouteSign::
     .string "ROUTE 18\n"

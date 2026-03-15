@@ -1,18 +1,18 @@
 Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
     .string "Hej! Husker du mig?\n"
     .string "Jeg er en af PROF. OAKs assistenter.\p"
-    .string "Hvis din POKeDEX har fulde data\n"
+    .string "Hvis din POKéDEX har fulde data\n"
     .string "om {STR_VAR_1} arter, skal jeg\l"
     .string "give dig en belönning.\p"
     .string "PROF. OAK betröde mig\n"
     .string "{STR_VAR_2} til dig.\p"
     .string "Sâ, {PLAYER}, lad mig spörge dig.\p"
     .string "Har du indsamlet data om mindst\n"
-    .string "{STR_VAR_1} slags POKeMON?$"
+    .string "{STR_VAR_1} slags POKéMON?$"
 
 Route15_WestEntrance_2F_Text_GreatHereYouGo::
     .string "Super! Du har fanget eller ejet\n"
-    .string "{STR_VAR_3} slags POKeMON!\p"
+    .string "{STR_VAR_3} slags POKéMON!\p"
     .string "Tillykke!\n"
     .string "Her har du den!$"
 
@@ -22,8 +22,8 @@ Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
 
 Route15_WestEntrance_2F_Text_ExplainExpShare::
     .string "EXP. SHARE er en genstand en\n"
-    .string "POKeMON kan bäre.\p"
-    .string "POKeMON modtager en del af\n"
+    .string "POKéMON kan bäre.\p"
+    .string "POKéMON modtager en del af\n"
     .string "EXP-pointene uden at kämpe.$"
 
 Route15_WestEntrance_2F_Text_LargeShiningBird::

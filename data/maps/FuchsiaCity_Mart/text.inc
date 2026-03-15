@@ -6,5 +6,5 @@ FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
 
 FuchsiaCity_Mart_Text_DidYouTryXSpeed::
     .string "Prövede du X SPEED?\n"
-    .string "Det öger en POKeMONs hastighed i kamp.$"
+    .string "Det öger en POKéMONs hastighed i kamp.$"
 

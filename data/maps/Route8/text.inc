@@ -1,5 +1,5 @@
 Route8_Text_AidanIntro::
-    .string "Du ser god ud til POKeMON, men hvad\n"
+    .string "Du ser god ud til POKéMON, men hvad\n"
     .string "er dit keminiveau?$"
 
 Route8_Text_AidanDefeat::
@@ -40,12 +40,12 @@ Route8_Text_PaigeDefeat::
     .string "Hvorfor??$"
 
 Route8_Text_PaigePostBattle::
-    .string "Nâr POKeMON bliver voksne, bliver\n"
+    .string "Nâr POKéMON bliver voksne, bliver\n"
     .string "de grimme! De bör ikke udvikle sig.$"
 
 Route8_Text_LeslieIntro::
     .string "Skole er sjovt, men det er\n"
-    .string "POKeMON ogsâ.$"
+    .string "POKéMON ogsâ.$"
 
 Route8_Text_LeslieDefeat::
     .string "Du viste mig tydeligt at jeg bör\n"
@@ -74,7 +74,7 @@ Route8_Text_MeganIntro::
 
 Route8_Text_MeganDefeat::
     .string "Se hvad du gjorde ved mine stakkels,\n"
-    .string "nuttede POKeMON!$"
+    .string "nuttede POKéMON!$"
 
 Route8_Text_MeganPostBattle::
     .string "SAFFRONs portvagt lukker ikke os\n"
@@ -89,12 +89,12 @@ Route8_Text_RichDefeat::
     .string "Missede chancen!$"
 
 Route8_Text_RichPostBattle::
-    .string "At spille spil og POKeMON er som\n"
+    .string "At spille spil og POKéMON er som\n"
     .string "at spise jordnödder! Kan ikke stoppe!$"
 
 Route8_Text_JuliaIntro::
     .string "Hvad er et nuttet, rundt og fluffy\n"
-    .string "POKeMON?$"
+    .string "POKéMON?$"
 
 Route8_Text_JuliaDefeat::
     .string "Stop!\p"
@@ -103,7 +103,7 @@ Route8_Text_JuliaDefeat::
 Route8_Text_JuliaPostBattle::
     .string "Jeg läste at CLEFAIRY udvikler sig\n"
     .string "nâr den udsättes for en MOON STONE.\p"
-    .string "Jeg läste det i et POKeMON JOURNAL.\n"
+    .string "Jeg läste det i et POKéMON JOURNAL.\n"
     .string "Tror du det er sandt?$"
 
 Route8_Text_UndergroundPathSign::
@@ -119,12 +119,12 @@ Route8_Text_EliDefeat::
     .string "Vi brugte vores tvillingekraft…$"
 
 Route8_Text_EliPostBattle::
-    .string "ELI: Jeg fangede mine POKeMON\n"
+    .string "ELI: Jeg fangede mine POKéMON\n"
     .string "sammen med ANNE!$"
 
 Route8_Text_EliNotEnoughMons::
     .string "ELI: Vi kan ikke kämpe hvis du ikke\n"
-    .string "har to POKeMON.$"
+    .string "har to POKéMON.$"
 
 Route8_Text_AnneIntro::
     .string "ANNE: Vi chokerer dig med vores\n"
@@ -134,12 +134,12 @@ Route8_Text_AnneDefeat::
     .string "ANNE: Vores tvillingekraft…$"
 
 Route8_Text_AnnePostBattle::
-    .string "ANNE: Jeg opdrager POKeMON sammen\n"
+    .string "ANNE: Jeg opdrager POKéMON sammen\n"
     .string "med ELI.$"
 
 Route8_Text_AnneNotEnoughMons::
     .string "ANNE: Hej, hej! Lad os kämpe!\n"
-    .string "Men tag to POKeMON med.$"
+    .string "Men tag to POKéMON med.$"
 
 Route8_Text_RicardoIntro::
     .string "Min cykel virker ikke, mand.$"

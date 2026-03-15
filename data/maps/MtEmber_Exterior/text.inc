@@ -12,7 +12,7 @@ Text_ExplosionDeclined::
 
 Text_ExplosionWhichMon::
     .string "Du er forfärdeligt modig!\p"
-    .string "Hvilken POKeMON skal jeg läre\n"
+    .string "Hvilken POKéMON skal jeg läre\n"
     .string "EXPLOSION?$"
 
 Text_ExplosionTaught::
@@ -58,7 +58,7 @@ MtEmber_Exterior_Text_PunchedThroughAtLast::
 MtEmber_Exterior_Text_WhatsPasswordAgain::
     .string "Al skat vi finder bringer vi tilbage\n"
     .string "til LAGERET, forstâet?\p"
-    .string "…Oeh, og hvad er adgangskoderne?\n"
+    .string "…Øh, og hvad er adgangskoderne?\n"
     .string "Ved ROCKET LAGERET, mener jeg.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::

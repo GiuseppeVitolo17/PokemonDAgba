@@ -16,7 +16,7 @@ OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
 OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
     .string "Vandet er perfekt varmt.\n"
     .string "Det föles udsögt…\p"
-    .string "{PLAYER} og POKeMONene blev\n"
+    .string "{PLAYER} og POKéMONene blev\n"
     .string "helt forfrisket!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
@@ -36,7 +36,7 @@ OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
     .string "BRUNO, som er senior over mig,\n"
     .string "besöger SPA'en lejlighedsvis.\p"
     .string "Han kommer for at rehabilitere\n"
-    .string "skader, bâde sine og sine POKeMONs.$"
+    .string "skader, bâde sine og sine POKéMONs.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
     .string "Varme kilder hänger sammen med\n"

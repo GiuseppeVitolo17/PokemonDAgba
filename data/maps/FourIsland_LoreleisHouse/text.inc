@@ -4,7 +4,7 @@ FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
     .string "Hvis der skete noget pâ öen hvor\n"
     .string "jeg er födt…\p"
     .string "Ville jeg ikke vide det hvis jeg var\n"
-    .string "i POKeMON LEAGUE.\p"
+    .string "i POKéMON LEAGUE.\p"
     .string "Jeg spekulerer pâ om det ville\n"
     .string "göre mig uansvarlig over for mit hjem…$"
 
@@ -15,7 +15,7 @@ FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
     .string "Det betyder der ikke er nogen grund\n"
     .string "til at jeg er her hele tiden.\p"
     .string "Tak…\p"
-    .string "Jeg vender tilbage til POKeMON\n"
+    .string "Jeg vender tilbage til POKéMON\n"
     .string "LEAGUE om kort tid.$"
 
 FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
@@ -25,5 +25,5 @@ FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
     .string "Det er alt jeg kan.$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
-    .string "POKeMON-stuffedukker i massevis!$"
+    .string "POKéMON-stuffedukker i massevis!$"
 

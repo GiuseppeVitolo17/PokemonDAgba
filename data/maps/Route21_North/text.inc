@@ -6,7 +6,7 @@ Route21_North_Text_RonaldDefeat::
 
 Route21_North_Text_RonaldPostBattle::
 	.string "Jeg kan ikke fange noget godt.\n"
-	.string "Ikke en eneste god POKeMON!$"
+	.string "Ikke en eneste god POKéMON!$"
 
 Route21_North_Text_WadeIntro::
 	.string "Jeg fik et stort fangst!\n"

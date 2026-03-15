@@ -1,7 +1,7 @@
 PokemonTower_2F_Text_RivalIntro::
     .string "{RIVAL}: Hey, {PLAYER}!\n"
     .string "Hvad bringer dig her?\l"
-    .string "Er din POKeMON död?\p"
+    .string "Er din POKéMON död?\p"
     .string "Hey! Den lever!\p"
     .string "Jeg kan i det mindste fâ dem til at besvime!\n"
     .string "Kom sâ!$"
@@ -20,7 +20,7 @@ PokemonTower_2F_Text_RivalVictory::
     .string "もっと　ちゃんと　そだてて　やれよ$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-    .string "Hvordan kommer din POKeDEX?\n"
+    .string "Hvordan kommer din POKéDEX?\n"
     .string "Jeg fangede lige en CUBONE!\p"
     .string "Jeg kan ikke finde den större MAROWAK.\n"
     .string "Hvor kan de väre?\p"

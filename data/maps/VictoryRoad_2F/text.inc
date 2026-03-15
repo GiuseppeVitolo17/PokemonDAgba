@@ -8,11 +8,11 @@ VictoryRoad_2F_Text_DawsonDefeat::
 
 VictoryRoad_2F_Text_DawsonPostBattle::
     .string "Jeg kan slâ dig nâr det gälder\n"
-    .string "viden om POKeMON!$"
+    .string "viden om POKéMON!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
     .string "Dette er VICTORY ROAD.\n"
-    .string "Det er den endelige pröve for TRAeNERE!$"
+    .string "Det er den endelige pröve for TRÆNERE!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
     .string "Atcho!$"
@@ -49,7 +49,7 @@ VictoryRoad_2F_Text_GregoryDefeat::
     .string "Godt gâet!$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-    .string "Mange TRAeNERE opgiver deres\n"
+    .string "Mange TRÆNERE opgiver deres\n"
     .string "udfordring her og tager hjem.$"
 
 @ Unused, old text for Moltres

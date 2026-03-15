@@ -1,7 +1,7 @@
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
     .string "{PLAYER}: Hej!\n"
-    .string "Kan du lide POKeMON?\p"
-    .string "{PLAYER}: Oehm, nej, jeg spurgte bare dig.\p"
+    .string "Kan du lide POKéMON?\p"
+    .string "{PLAYER}: Øhm, nej, jeg spurgte bare dig.\p"
     .string "{PLAYER}: Hvad?\n"
     .string "Du er underlig!\p"
     .string "COPYCAT: Hmm? Holde op med at efterligne?\n"
@@ -9,7 +9,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
     .string "{PLAYER}: Hej.\n"
-    .string "Du kan vel lide POKeMON.\p"
+    .string "Du kan vel lide POKéMON.\p"
     .string "{PLAYER}: Nej, ikke mig.\n"
     .string "Jeg spurgte dig.\p"
     .string "{PLAYER}: Undskyld?\n"
@@ -84,7 +84,7 @@ SaffronCity_CopycatsHouse_2F_Text_Doduo::
     .string "SEE HOW PRETTY I CAN BE?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-    .string "Det her er et själdent POKeMON!\n"
+    .string "Det her er et själdent POKéMON!\n"
     .string "Hva? Det er kun en dukke!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
@@ -96,7 +96,7 @@ SaffronCity_CopycatsHouse_2F_Text_MySecrets::
     .string "Mine hemmeligheder!\p"
     .string "Evne: Efterligning!\n"
     .string "Hobby: Samle dukker!\l"
-    .string "Yndlings-POKeMON: CLEFAIRY!$"
+    .string "Yndlings-POKéMON: CLEFAIRY!$"
 
 SaffronCity_CopycatsHouse_2F_Text_HuhCantSee::
     .string "？　みえないぞ‥$"

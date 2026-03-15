@@ -7,14 +7,14 @@ Text_SeismicTossTeach::
     .string "studere hardere, ikke give op.\p"
     .string "Det eneste du burde kaste…\p"
     .string "Nâ, hvad med SEISMIC TOSS?\n"
-    .string "Skal jeg läre det til en POKeMON?$"
+    .string "Skal jeg läre det til en POKéMON?$"
 
 Text_SeismicTossDeclined::
     .string "Er det sâ?\n"
     .string "Jeg er sikker pâ du kommer tilbage.$"
 
 Text_SeismicTossWhichMon::
-    .string "Hvilken POKeMON vil läre\n"
+    .string "Hvilken POKéMON vil läre\n"
     .string "SEISMIC TOSS?$"
 
 Text_SeismicTossTaught::

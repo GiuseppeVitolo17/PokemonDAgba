@@ -13,7 +13,7 @@ SevenIsland_TanobyRuins_Text_BrandonPostBattle::
     .string "hvorfor det overhovedet blev bygget.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminIntro::
-    .string "En mystisk POKeMON siges at sove\n"
+    .string "En mystisk POKéMON siges at sove\n"
     .string "inde her.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminDefeat::
@@ -23,7 +23,7 @@ SevenIsland_TanobyRuins_Text_BenjaminPostBattle::
     .string "Jeg hörer at der er andre ruiner\n"
     .string "som den her.\p"
     .string "Kunne de väre hvilesteder for\n"
-    .string "andre mystiske POKeMON?$"
+    .string "andre mystiske POKéMON?$"
 
 SevenIsland_TanobyRuins_Text_EdnaIntro::
     .string "CLIFFORD lärer mig at male.$"
@@ -45,7 +45,7 @@ SevenIsland_TanobyRuins_Text_CliffordDefeat::
     .string "Min, hvor usädvanligt.$"
 
 SevenIsland_TanobyRuins_Text_CliffordPostBattle::
-    .string "Aah, sâ du studerer POKeMON\n"
+    .string "Aah, sâ du studerer POKéMON\n"
     .string "pâ egen hând…\p"
     .string "Ja, du er virkelig en ganske\n"
     .string "usädvanlig person.$"

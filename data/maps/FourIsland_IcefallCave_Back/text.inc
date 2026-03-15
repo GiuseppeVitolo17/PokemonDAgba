@@ -1,6 +1,6 @@
 FourIsland_IcefallCave_Back_Text_LoreleiKeepHandsOffMons::
     .string "LORELEI: Hold dine beskidte händer\n"
-    .string "väk fra POKeMON i hulen!\p"
+    .string "väk fra POKéMON i hulen!\p"
     .string "Gör som jeg siger, eller du fâr mig\n"
     .string "at göre regnskab med!$"
 
@@ -15,7 +15,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
     .string "Lige nu har jeg brug for din hjälp.\p"
     .string "Hjälp mig med at smide de her\n"
     .string "dyrtyve ud för de gör mere.\p"
-    .string "De har fanget POKeMON her og\n"
+    .string "De har fanget POKéMON her og\n"
     .string "solgt dem!\p"
     .string "Er du klar?\n"
     .string "Du tager den der!$"
@@ -23,7 +23,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
 FourIsland_IcefallCave_Back_Text_GruntIntro::
     .string "H-hvad?!\p"
     .string "Hvem siger vi ikke mâ göre hvad\n"
-    .string "vi vil med de POKeMON vi fanger?$"
+    .string "vi vil med de POKéMON vi fanger?$"
 
 FourIsland_IcefallCave_Back_Text_GruntDefeat::
     .string "Det havde vi ikke planlagt!$"
@@ -34,7 +34,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
     .string "Du!\n"
     .string "Sig mig!\p"
     .string "Hvor har I taget de fangede\n"
-    .string "POKeMON hen?\p"
+    .string "POKéMON hen?\p"
     .string "Jeg tilintetgör jeres netvärk\n"
     .string "en gang for alle!$"
 
@@ -53,7 +53,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::
 FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
     .string "Wawâh! Okay!\n"
     .string "Jeg snakker!\p"
-    .string "POKeMON er i ROCKET LAGERET\n"
+    .string "POKéMON er i ROCKET LAGERET\n"
     .string "pâ FIVE ISLAND.\p"
     .string "Der! Jeg sagde det!\n"
     .string "Vi gâr nu!\p"

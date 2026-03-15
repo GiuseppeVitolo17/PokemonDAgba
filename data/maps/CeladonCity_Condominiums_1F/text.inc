@@ -12,7 +12,7 @@ CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
     .string "Det er virkelig det bedste.$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-    .string "Mine kere POKeMON holder mig selskab.\n"
+    .string "Mine kere POKéMON holder mig selskab.\n"
     .string "MEOWTH bräger endda penge hjem!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::

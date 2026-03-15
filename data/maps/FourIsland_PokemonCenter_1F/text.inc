@@ -7,14 +7,14 @@ Text_BodySlamTeach::
     .string "Hvis du deltog, ville du blive\n"
     .string "mast som en bille…\p"
     .string "Hvad med at jeg lärer BODY SLAM\n"
-    .string "til en af dine POKeMON i stedet?$"
+    .string "til en af dine POKéMON i stedet?$"
 
 Text_BodySlamDeclined::
     .string "Kom igen!\n"
     .string "Boing!$"
 
 Text_BodySlamWhichMon::
-    .string "Hvilken POKeMON vil läre at\n"
+    .string "Hvilken POKéMON vil läre at\n"
     .string "bruge BODY SLAM?$"
 
 Text_BodySlamTaught::
@@ -26,20 +26,20 @@ FourIsland_House1_Text_FatMan::
 
 FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
     .string "Der er en själden slags IS-\n"
-    .string "POKeMON der lever i hulen.\p"
+    .string "POKéMON der lever i hulen.\p"
     .string "Vi fâr mange besögende der\n"
-    .string "hâber at se den POKeMON.$"
+    .string "hâber at se den POKéMON.$"
 
 FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
-    .string "Oeh? Et POKeMON-AeG?\n"
+    .string "Øh? Et POKéMON-ÆG?\n"
     .string "…Jeg har ingen anelse.\p"
-    .string "…Oeh, vent. DAY-CARE-folkene i\n"
+    .string "…Øh, vent. DAY-CARE-folkene i\n"
     .string "byen sagde noget.\p"
-    .string "De sagde at de havde fundet AeG\n"
+    .string "De sagde at de havde fundet ÆG\n"
     .string "för pâ deres grund.$"
 
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
     .string "Hvad er det her?\p"
-    .string "Det nye POKeMON JOURNAL er ikke\n"
+    .string "Det nye POKéMON JOURNAL er ikke\n"
     .string "ankommet til denne ö?$"
 

@@ -18,7 +18,7 @@ PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
     .string "MOR: Oh, godt! Du og dine\n"
-    .string "POKeMON ser godt ud.\l"
+    .string "POKéMON ser godt ud.\l"
     .string "Pas pâ dig selv!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::

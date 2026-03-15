@@ -60,14 +60,14 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
     .string "champion i blive!\p"
     .string "CELADON GYMs LEADER er ERIKA.\p"
     .string "Hun bruger GRASS-type\n"
-    .string "POKeMON og er et med naturen.\p"
+    .string "POKéMON og er et med naturen.\p"
     .string "Hun virker mâske rolig pga.\n"
     .string "sine blomsterarrangementer…\p"
     .string "Men hun er ikke en man skal\n"
     .string "tage let pâ!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-    .string "De tilbyder själdne POKeMON der kan\n"
+    .string "De tilbyder själdne POKéMON der kan\n"
     .string "indlöses for dine COINS.\p"
     .string "Men jeg kan bare ikke vinde!$"
 
@@ -88,7 +88,7 @@ CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
 
 CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
     .string "Pokkers! Jeg har brug for flere COINS til den\n"
-    .string "POKeMON jeg vil have!$"
+    .string "POKéMON jeg vil have!$"
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
     .string "Hey, hvad? Du distraherer mig!\n"

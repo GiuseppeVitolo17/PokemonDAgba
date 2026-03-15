@@ -53,18 +53,18 @@ SilphCo_5F_Text_Grunt2PostBattle::
     .string "KOFFING udvikler sig til WEEZING!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-    .string "Det er en POKeMON RAPPORT!\p"
-    .string "POKeMON LAB skabte PORYGON,\n"
-    .string "det förste virtual-reality POKeMON.$"
+    .string "Det er en POKéMON RAPPORT!\p"
+    .string "POKéMON LAB skabte PORYGON,\n"
+    .string "det förste virtual-reality POKéMON.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-    .string "Det er en POKeMON RAPPORT!\p"
-    .string "Over 350 POKeMON-teknikker er\n"
+    .string "Det er en POKéMON RAPPORT!\p"
+    .string "Over 350 POKéMON-teknikker er\n"
     .string "blevet bekräftet.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-    .string "Det er en POKeMON RAPPORT!\p"
-    .string "Nogle POKeMON er bekräftet at\n"
+    .string "Det er en POKéMON RAPPORT!\p"
+    .string "Nogle POKéMON er bekräftet at\n"
     .string "udvikle sig nâr de byttes.$"
 
 SilphCo_5F_Text_FloorSign::
@@ -75,6 +75,6 @@ SilphCo_5F_Text_RocketBossLookingForStrongMons::
     .string "De böller der overtog vores\n"
     .string "bygning…\p"
     .string "Deres BOSS sagde han ledte efter\n"
-    .string "stärke POKeMON.\p"
+    .string "stärke POKéMON.\p"
     .string "Jeg hâber vores PRESIDENT undgik\n"
     .string "problemer…$"

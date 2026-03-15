@@ -11,17 +11,17 @@ CinnabarIsland_Text_ScientistsExperimentInMansion::
     .string "Forskere udförer eksperimenter\n"
     .string "i den nedbrändte bygning.\p"
     .string "Du ved, den de kalder\n"
-    .string "POKeMON MANSION.$"
+    .string "POKéMON MANSION.$"
 
 CinnabarIsland_Text_IslandSign::
     .string "CINNABAR ISLAND\n"
     .string "Den Ildende Bys Brändende Lyst$"
 
 CinnabarIsland_Text_PokemonLab::
-    .string "POKeMON LAB$"
+    .string "POKéMON LAB$"
 
 CinnabarIsland_Text_GymSign::
-    .string "CINNABAR ISLAND POKeMON GYM\n"
+    .string "CINNABAR ISLAND POKéMON GYM\n"
     .string "LEADER: BLAINE\l"
     .string "Den Hidsige Quiz-Mester!$"
 
@@ -51,7 +51,7 @@ CinnabarIsland_Text_IllBeWaitingInPokeCenter::
     .string "Hvad, er du for optaget?\p"
     .string "Nâr, okay.\n"
     .string "Bâden er ikke ankommet endnu.\p"
-    .string "Jeg venter i POKeMON\n"
+    .string "Jeg venter i POKéMON\n"
     .string "CENTER derovre.\p"
     .string "Kom til mig nâr du er färdig\n"
     .string "med dine ting her.$"

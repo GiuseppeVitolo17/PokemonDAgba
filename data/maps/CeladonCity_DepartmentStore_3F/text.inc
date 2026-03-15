@@ -1,5 +1,5 @@
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
-    .string "Fangede POKeMON registreres\n"
+    .string "Fangede POKéMON registreres\n"
     .string "med et ID No. og OT.\p"
     .string "OT stâer for Original TRAINER -\n"
     .string "TRAINERen der fangede den först.$"
@@ -15,10 +15,10 @@ CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
     .string "Jeg samler pâ dem!\p"
     .string "Hva?\p"
     .string "HAUNTER blev til en anden\n"
-    .string "POKeMON under byttehandlen!$"
+    .string "POKéMON under byttehandlen!$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-    .string "Du kan genkende POKeMON du fâr\n"
+    .string "Du kan genkende POKéMON du fâr\n"
     .string "ved bytte pâ deres ID-numre.$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
@@ -45,11 +45,11 @@ CeladonCity_DepartmentStore_3F_Text_TVGameShop::
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
     .string "Röd og Grön!\n"
-    .string "Begge er POKeMON!$"
+    .string "Begge er POKéMON!$"
 
 Text_CounterTeach::
     .string "Aah, hej!\n"
-    .string "Jeg er endelig färdig med POKeMON.\p"
+    .string "Jeg er endelig färdig med POKéMON.\p"
     .string "Ikke färdig endnu? Skal jeg läre dig\n"
     .string "et godt trick?\p"
     .string "Tricket jeg tänker pâ er\n"
@@ -62,9 +62,9 @@ Text_CounterDeclined::
     .string "hvis du ombestemmer dig.$"
 
 Text_CounterWhichMon::
-    .string "Hvilken POKeMON skal jeg läre\n"
+    .string "Hvilken POKéMON skal jeg läre\n"
     .string "COUNTER?$"
 
 Text_CounterTaught::
     .string "Bruger du det COUNTER-trick\n"
-    .string "jeg lärte din POKeMON?$"
+    .string "jeg lärte din POKéMON?$"

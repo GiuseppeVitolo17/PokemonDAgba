@@ -1,5 +1,5 @@
 SaffronCity_PokemonCenter_1F_Text_GrowthRatesDifferBySpecies::
-    .string "POKeMON väkstrater varierer fra\n"
+    .string "POKéMON väkstrater varierer fra\n"
     .string "art til art.$"
 
 SaffronCity_PokemonCenter_1F_Text_SilphCoVictimOfFame::

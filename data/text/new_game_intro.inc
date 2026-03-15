@@ -188,23 +188,23 @@ gPikachuIntro_Text_Page3::
 gOakSpeech_Text_WelcomeToTheWorld::
     .string "Hej med dig!\n"
     .string "Dejligt at möde dig!\p"
-    .string "Velkommen til POKeMONs verden!\p"
+    .string "Velkommen til POKéMONs verden!\p"
     .string "Jeg hedder OAK.\p"
     .string "Folk kalder mig kärligt\n"
-    .string "for POKeMON-professoren.\p$"
+    .string "for POKéMON-professoren.\p$"
 
 gOakSpeech_Text_ThisWorld::
     .string "Denne verden…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
     .string "…er befolket overalt af\n"
-    .string "väsner kaldet POKeMON.\p$"
+    .string "väsner kaldet POKéMON.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "For nogle er POKeMON käledyr.\n"
+    .string "For nogle er POKéMON käledyr.\n"
     .string "Andre bruger dem til kamp.\p"
     .string "Hvad mig angâr…\p"
-    .string "Jeg studerer POKeMON til profession.\p$"
+    .string "Jeg studerer POKéMON til profession.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
     .string "Men fortäl mig först lidt om\n"
@@ -236,7 +236,7 @@ gOakSpeech_Text_RememberRivalsName::
 
 gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
-    .string "Din egen POKeMON-legende er\n"
+    .string "Din egen POKéMON-legende er\n"
     .string "ved at begynde!\p"
     .string "En verden af dromme og eventyr\n"
-    .string "med POKeMON venter! Lad os göre det!$"
+    .string "med POKéMON venter! Lad os göre det!$"

@@ -1,5 +1,5 @@
 Route13_Text_SebastianIntro::
-    .string "Mine fugle-POKeMON vil kämpe\n"
+    .string "Mine fugle-POKéMON vil kämpe\n"
     .string "mod dig!$"
 
 Route13_Text_SebastianDefeat::
@@ -7,7 +7,7 @@ Route13_Text_SebastianDefeat::
     .string "tabte?$"
 
 Route13_Text_SebastianPostBattle::
-    .string "Mine POKeMON ser glade ud selv om\n"
+    .string "Mine POKéMON ser glade ud selv om\n"
     .string "de tabte.$"
 
 Route13_Text_SusieIntro::
@@ -34,7 +34,7 @@ Route13_Text_ValeriePostBattle::
     .string "LEADERS. Det ved jeg!$"
 
 Route13_Text_GwenIntro::
-    .string "Mine söde POKeMON vil gerne läre\n"
+    .string "Mine söde POKéMON vil gerne läre\n"
     .string "dig at kende.$"
 
 Route13_Text_GwenDefeat::
@@ -42,7 +42,7 @@ Route13_Text_GwenDefeat::
     .string "Du vandt totalt!$"
 
 Route13_Text_GwenPostBattle::
-    .string "Man skal lade POKeMON kämpe for\n"
+    .string "Man skal lade POKéMON kämpe for\n"
     .string "at stärke dem.$"
 
 Route13_Text_AlmaIntro::
@@ -55,7 +55,7 @@ Route13_Text_AlmaDefeat::
 
 Route13_Text_AlmaPostBattle::
     .string "CARBOS böde HASTIGHEDEN af mine\n"
-    .string "POKeMON.$"
+    .string "POKéMON.$"
 
 Route13_Text_PerryIntro::
     .string "Jeg tänker ikke at tabe.\n"
@@ -78,18 +78,18 @@ Route13_Text_LolaDefeat::
 
 Route13_Text_LolaPostBattle::
     .string "Jeg spekulerer pâ hvem der er\n"
-    .string "stärkest, han eller hun POKeMON?$"
+    .string "stärkest, han eller hun POKéMON?$"
 
 Route13_Text_SheilaIntro::
     .string "Vil du kämpe med nogle\n"
-    .string "POKeMON mod mig?$"
+    .string "POKéMON mod mig?$"
 
 Route13_Text_SheilaDefeat::
     .string "Er det allerede slut?$"
 
 Route13_Text_SheilaPostBattle::
     .string "Jeg ved faktisk ikke noget om\n"
-    .string "POKeMON.\p"
+    .string "POKéMON.\p"
     .string "Dem jeg bruger... jeg valgte dem\n"
     .string "for deres udseende!$"
 
@@ -104,7 +104,7 @@ Route13_Text_JaredPostBattle::
     .string "Forsvind!$"
 
 Route13_Text_RobertIntro::
-    .string "Jeg bruger altid fugle-POKeMON.\n"
+    .string "Jeg bruger altid fugle-POKéMON.\n"
     .string "Jeg har viet mig til dem.$"
 
 Route13_Text_RobertDefeat::

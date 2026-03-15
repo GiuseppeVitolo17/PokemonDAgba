@@ -52,14 +52,14 @@ Route17_Text_NikolasPostBattle::
     .string "forladte KRAFTVÄRK.$"
 
 Route17_Text_ZeekIntro::
-    .string "Jeg har level'et mine POKeMON op,\n"
+    .string "Jeg har level'et mine POKéMON op,\n"
     .string "men de udvikler sig ikke. Hvorfor?$"
 
 Route17_Text_ZeekDefeat::
     .string "Hvor du!$"
 
 Route17_Text_ZeekPostBattle::
-    .string "Mâske har nogle POKeMON brug for\n"
+    .string "Mâske har nogle POKéMON brug for\n"
     .string "element STONES for at udvikle sig.$"
 
 Route17_Text_JamalIntro::
@@ -108,8 +108,8 @@ Route17_Text_WatchOutForDiscardedItems::
 
 Route17_Text_SameSpeciesGrowDifferentRates::
     .string "TRAINER TIPS\p"
-    .string "Alle POKeMON er unikke.\p"
-    .string "Selv POKeMON af samme art og\n"
+    .string "Alle POKéMON er unikke.\p"
+    .string "Selv POKéMON af samme art og\n"
     .string "niveau vokser med forskellig hastighed.$"
 
 Route17_Text_PressBToStayInPlace::

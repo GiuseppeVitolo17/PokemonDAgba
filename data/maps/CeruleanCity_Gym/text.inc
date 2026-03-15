@@ -1,18 +1,18 @@
 CeruleanCity_Gym_Text_MistyIntro::
     .string "Hej, du er et nyt ansigt!\p"
     .string "Kun TRAINERS der har en politik om\n"
-    .string "POKeMON kan blive professionelle.\p"
+    .string "POKéMON kan blive professionelle.\p"
     .string "Hvad er din tilgang nâr du\n"
-    .string "fanger og träner POKeMON?\p"
+    .string "fanger og träner POKéMON?\p"
     .string "Min politik er et totalt angreb\n"
-    .string "med WATER-type POKeMON!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "med WATER-type POKéMON!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
     .string "TM03 lärer WATER PULSE.\p"
-    .string "Brug det pâ en vand-POKeMON!$"
+    .string "Brug det pâ en vand-POKéMON!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-    .string "CASCADEBADGE fâr alle POKeMON\n"
+    .string "CASCADEBADGE fâr alle POKéMON\n"
     .string "op til Lv. 30 til at adlyde.\p"
     .string "Det inkluderer endda dem du\n"
     .string "fik ved bytte.\p"
@@ -66,11 +66,11 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
     .string "Champion i blive!\p"
     .string "Lad mig give dig et râd!\p"
     .string "LEADERen, MISTY, er en pro der\n"
-    .string "bruger WATER-type POKeMON.\p"
+    .string "bruger WATER-type POKéMON.\p"
     .string "Du kan däne alt deres vand med\n"
-    .string "GRASS-type POKeMON.\p"
+    .string "GRASS-type POKéMON.\p"
     .string "Eller du kan bruge ELECTRIC-type\n"
-    .string "POKeMON og give dem stöd!$"
+    .string "POKéMON og give dem stöd!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
     .string "Du slog MISTY!\n"
@@ -79,13 +79,13 @@ CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
     .string "godt team!$"
 
 CeruleanCity_Gym_Text_GymStatue::
-    .string "CERULEAN POKeMON GYM\n"
+    .string "CERULEAN POKéMON GYM\n"
     .string "LEADER: MISTY\p"
     .string "VINDENDE TRAINERS:\n"
     .string "{RIVAL}$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-    .string "CERULEAN POKeMON GYM\n"
+    .string "CERULEAN POKéMON GYM\n"
     .string "LEADER: MISTY\p"
     .string "VINDENDE TRAINERS:\n"
     .string "{RIVAL}, {PLAYER}$"

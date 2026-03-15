@@ -1,13 +1,13 @@
 Route5_PokemonDayCare_Text_WantMeToRaiseMon::
 	.string "Jeg driver DAGPLEJE-tjenesten.\p"
 	.string "Vil du have mig til at opdrage en\n"
-	.string "af dine POKeMON?$"
+	.string "af dine POKéMON?$"
 
 Route5_PokemonDayCare_Text_ComeAgain::
 	.string "Kom igen.$"
 
 Route5_PokemonDayCare_Text_WhichMonShouldIRaise::
-	.string "Hvilken POKeMON skal jeg opdrage?$"
+	.string "Hvilken POKéMON skal jeg opdrage?$"
 
 Route5_PokemonDayCare_Text_ComeAnytimeYouLike::
 	.string "Fint.\n"
@@ -27,22 +27,22 @@ Route5_PokemonDayCare_Text_MonNeedsToSpendMoreTime::
 
 Route5_PokemonDayCare_Text_OweMeXForMonsReturn::
 	.string "Du skylder mig ¥{STR_VAR_2} for at fâ\n"
-	.string "denne POKeMON tilbage.$"
+	.string "denne POKéMON tilbage.$"
 
 Route5_PokemonDayCare_Text_ThankYouHeresMon::
 	.string "Tak!\n"
-	.string "Her er din POKeMON.$"
+	.string "Her er din POKéMON.$"
 
 Route5_PokemonDayCare_Text_PlayerGotMonBack::
 	.string "{PLAYER} fik {STR_VAR_1} tilbage\n"
 	.string "fra DAGPLEJE-manden.$"
 
 Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::
-	.string "Oh? Du har kun en POKeMON\n"
+	.string "Oh? Du har kun en POKéMON\n"
 	.string "med dig.$"
 
 Route5_PokemonDayCare_Text_WhatWillYouBattleWith::
-	.string "Hvis du efterlader den POKeMON hos\n"
+	.string "Hvis du efterlader den POKéMON hos\n"
 	.string "mig, hvad vil du sâ kämpe med?$"
 
 Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
@@ -53,7 +53,7 @@ Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
 	.string "Er jeg ikke fantastisk?$"
 
 Route5_PokemonDayCare_Text_YouveGotNoRoomForIt::
-	.string "Du kan ikke fâ denne POKeMON\n"
+	.string "Du kan ikke fâ denne POKéMON\n"
 	.string "tilbage hvis du ikke har plads.$"
 
 Route5_PokemonDayCare_Text_DontHaveEnoughMoney::
@@ -64,4 +64,4 @@ Route5_PokemonDayCare_Text_WantMeToTakeALookAtYours::
 
 Route5_PokemonDayCare_Text_CantAcceptMonWithHM::
     .string "Beklager, jeg kan ikke tage imod\n"
-    .string "POKeMON med skjulte träk.$"
+    .string "POKéMON med skjulte träk.$"

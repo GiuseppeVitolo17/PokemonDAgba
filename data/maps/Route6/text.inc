@@ -41,7 +41,7 @@ Route6_Text_JeffDefeat::
     .string "Jeg kunne ikke slâ din udfordring…$"
 
 Route6_Text_JeffPostBattle::
-    .string "Jeg burde tage flere POKeMON med.\n"
+    .string "Jeg burde tage flere POKéMON med.\n"
     .string "Sâdan föler jeg mig mere sikker.$"
 
 Route6_Text_IsabelleIntro::
@@ -63,7 +63,7 @@ Route6_Text_ElijahDefeat::
     .string "Du er for god!$"
 
 Route6_Text_ElijahPostBattle::
-    .string "Er mine POKeMON svage?\n"
+    .string "Er mine POKéMON svage?\n"
     .string "Eller er jeg bare dârlig?\l"
     .string "Hvad synes du?$"
 

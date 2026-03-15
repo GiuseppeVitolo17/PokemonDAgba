@@ -4,7 +4,7 @@ SSAnne_Kitchen_Text_BusyOutOfTheWay::
     .string "Af vejen!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
-    .string "Jeg sâ et underligt BAeR i skraldet.\n"
+    .string "Jeg sâ et underligt BÆR i skraldet.\n"
     .string "Jeg spekulerer pâ hvad det var?$"
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
@@ -19,7 +19,7 @@ SSAnne_Kitchen_Text_PeelSpudsEveryDay::
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
     .string "Hörte du om SNORLAX?\n"
     .string "Det er en frâdser.\p"
-    .string "Ingen anden POKeMON spiser og sover\n"
+    .string "Ingen anden POKéMON spiser og sover\n"
     .string "som SNORLAX kan og gör!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::

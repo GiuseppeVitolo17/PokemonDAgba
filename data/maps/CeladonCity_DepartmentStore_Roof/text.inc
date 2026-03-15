@@ -30,7 +30,7 @@ CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
     .string "TM20 indeholder SAFEGUARD.\p"
     .string "Det er et trick der forhindrer\n"
-    .string "statusproblemer hos dine POKeMON.$"
+    .string "statusproblemer hos dine POKéMON.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
     .string "Yay!\p"

@@ -9,7 +9,7 @@ SixIsland_WaterPath_Text_RoseDefeat::
 SixIsland_WaterPath_Text_RosePostBattle::
     .string "Jeg vil gerne til skoven derovre,\n"
     .string "men…\p"
-    .string "Der er masser af BUG POKeMON.\n"
+    .string "Der er masser af BUG POKéMON.\n"
     .string "De skrämmer mig lidt.$"
 
 SixIsland_WaterPath_Text_EdwardIntro::
@@ -44,7 +44,7 @@ SixIsland_WaterPath_Text_DeniseDefeat::
 
 SixIsland_WaterPath_Text_DenisePostBattle::
     .string "Nâr jeg ikke kan väre med min käreste,\n"
-    .string "tilbringer jeg tid med den POKeMON han\l"
+    .string "tilbringer jeg tid med den POKéMON han\l"
     .string "gav mig.$"
 
 SixIsland_WaterPath_Text_EarlIntro::
@@ -60,7 +60,7 @@ SixIsland_WaterPath_Text_EarlPostBattle::
     .string "disse egne?$"
 
 SixIsland_WaterPath_Text_MiuIntro::
-    .string "MIU: Hej, POKeMON!\n"
+    .string "MIU: Hej, POKéMON!\n"
     .string "Det er tid til at lege!$"
 
 SixIsland_WaterPath_Text_MiuDefeat::
@@ -76,7 +76,7 @@ SixIsland_WaterPath_Text_MiuNotEnoughMons::
     .string "Vi vil gerne kämpe sammen.$"
 
 SixIsland_WaterPath_Text_MiaIntro::
-    .string "MIA: Hej, POKeMON!\n"
+    .string "MIA: Hej, POKéMON!\n"
     .string "Det er tid til kamp!$"
 
 SixIsland_WaterPath_Text_MiaDefeat::
@@ -85,11 +85,11 @@ SixIsland_WaterPath_Text_MiaDefeat::
 
 SixIsland_WaterPath_Text_MiaPostBattle::
     .string "MIA: Aââah…\n"
-    .string "Undskyld, min POKeMON…$"
+    .string "Undskyld, min POKéMON…$"
 
 SixIsland_WaterPath_Text_MiaNotEnoughMons::
     .string "MIA: Aah, har du kun én\n"
-    .string "POKeMON?\p"
+    .string "POKéMON?\p"
     .string "Föler du dig ikke ensom?$"
 
 SixIsland_WaterPath_Text_WantedUltimateHorn::

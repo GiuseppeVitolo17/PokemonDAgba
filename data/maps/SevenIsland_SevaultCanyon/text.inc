@@ -11,7 +11,7 @@ SevenIsland_SevaultCanyon_Text_CyndyPostBattle::
 
 SevenIsland_SevaultCanyon_Text_EvanIntro::
     .string "Det gör ikke noget hvis du tilfäldigvis\n"
-    .string "har de stärkeste POKeMON…\p"
+    .string "har de stärkeste POKéMON…\p"
     .string "Det betyder intet hvis du ikke\n"
     .string "ved hvordan man bruger dem ordentligt!$"
 
@@ -20,9 +20,9 @@ SevenIsland_SevaultCanyon_Text_EvanDefeat::
 
 SevenIsland_SevaultCanyon_Text_EvanPostBattle::
     .string "Man ser dem ind imellem,\n"
-    .string "TRAINERS med fantastiske POKeMON\l"
+    .string "TRAINERS med fantastiske POKéMON\l"
     .string "der ikke aner hvad de skal göre.\p"
-    .string "För man träner POKeMON, skal\n"
+    .string "För man träner POKéMON, skal\n"
     .string "TRAINERS selv vokse.$"
 
 SevenIsland_SevaultCanyon_Text_JacksonIntro::

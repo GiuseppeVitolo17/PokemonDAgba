@@ -1,10 +1,10 @@
 FiveIsland_RocketWarehouse_Text_ManyMonsLockedInPen::
-    .string "Der er mange POKeMON lukket inde\n"
+    .string "Der er mange POKéMON lukket inde\n"
     .string "i folden…$"
 
 FiveIsland_RocketWarehouse_Text_PenUnlockedMonsFled::
     .string "Folddören er lâst op.\n"
-    .string "POKeMON ser ud til at väre flygtet.$"
+    .string "POKéMON ser ud til at väre flygtet.$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Intro::
     .string "Kom du her velvidende om at det er\n"
@@ -18,18 +18,18 @@ FiveIsland_RocketWarehouse_Text_Grunt2PostBattle::
     .string "Hvilken planet kommer du fra?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Intro::
-    .string "Oeh, dine POKeMON ser stärke ud.\n"
+    .string "Øh, dine POKéMON ser stärke ud.\n"
     .string "Vil du sälge dem?\p"
-    .string "Oeh?\n"
+    .string "Øh?\n"
     .string "Du ville kämpe?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Defeat::
-    .string "Oeh, men…\n"
+    .string "Øh, men…\n"
     .string "For meget!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1PostBattle::
     .string "Vi kan give dig et godt tilbud.\n"
-    .string "Sälg os dine POKeMON!$"
+    .string "Sälg os dine POKéMON!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3Intro::
     .string "Jeg har hört om dig fra de andre.\p"
@@ -101,7 +101,7 @@ FiveIsland_RocketWarehouse_Text_ReportWithGraphsAndText::
     .string "En rapport med grafer og tekst er\n"
     .string "pâ PC-skärmen.\p"
     .string "Magnetiske bolgers indflydelse pâ\n"
-    .string "POKeMON-evolution.\p"
+    .string "POKéMON-evolution.\p"
     .string "… … … … … …\p"
     .string "Det er for svärt at forstâ…$"
 

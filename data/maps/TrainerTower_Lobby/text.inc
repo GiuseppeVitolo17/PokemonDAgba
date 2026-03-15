@@ -88,7 +88,7 @@ TrainerTower_Lobby_Text_HereAreTheResults::
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
     .string "Dette er en to-mod-to kamp.\p"
     .string "Du mâ ikke kämpe medmindre du har\n"
-    .string "mindst to POKeMON.$"
+    .string "mindst to POKéMON.$"
 
 TrainerTower_Lobby_Text_ExplainTrainerTower::
     .string "Her i TRAINER TOWER er der en\n"

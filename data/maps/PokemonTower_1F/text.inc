@@ -1,15 +1,15 @@
 PokemonTower_1F_Text_ErectedInMemoryOfDeadMons::
-    .string "POKeMON TOWER blev rejst til\n"
-    .string "minde om POKeMON der döde.$"
+    .string "POKéMON TOWER blev rejst til\n"
+    .string "minde om POKéMON der döde.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsSon::
     .string "Kom du for at vise respekt?\p"
-    .string "Velsign dit POKeMON-elskkende hjerte,\n"
+    .string "Velsign dit POKéMON-elskkende hjerte,\n"
     .string "sön.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsGirl::
     .string "Kom du for at vise respekt?\p"
-    .string "Velsign dit POKeMON-elskkende hjerte,\n"
+    .string "Velsign dit POKéMON-elskkende hjerte,\n"
     .string "pige.$"
 
 PokemonTower_1F_Text_CameToPrayForDepartedClefairy::
@@ -25,4 +25,4 @@ PokemonTower_1F_Text_GrowlitheWhyDidYouDie::
 PokemonTower_1F_Text_SenseSpiritsUpToMischief::
     .string "Jeg er en CHANNELER.\p"
     .string "Der er ânder der laver ballade.\n"
-    .string "Jeg märker dem höjt i TAaRNET.$"
+    .string "Jeg märker dem höjt i TÅRNET.$"

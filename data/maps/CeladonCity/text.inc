@@ -48,7 +48,7 @@ CeladonCity_Text_CitySign::
     .string "Regnbuens Drommes By$"
 
 CeladonCity_Text_GymSign::
-    .string "CELADON CITY POKeMON GYM\n"
+    .string "CELADON CITY POKéMON GYM\n"
     .string "LEADER: ERIKA\l"
     .string "Den Naturkärlige Prinsesse!$"
 
@@ -61,7 +61,7 @@ CeladonCity_Text_DeptStoreSign::
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
     .string "TRAINER TIPS\p"
-    .string "GUARD SPEC. beskytter POKeMON\n"
+    .string "GUARD SPEC. beskytter POKéMON\n"
     .string "mod status-reduktions-trin under\l"
     .string "kamp.\p"
     .string "Köb dine ting i\n"
@@ -97,7 +97,7 @@ Text_SoftboiledDeclined::
     .string "Jeg hâber vi kan snakke igen.$"
 
 Text_SoftboiledWhichMon::
-    .string "Sa hvem er den POKeMON der fâr\n"
+    .string "Sa hvem er den POKéMON der fâr\n"
     .string "chancen for at läre SOFTBOILED?$"
 
 Text_SoftboiledTaught::

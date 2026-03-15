@@ -57,7 +57,7 @@ TwoIsland_Text_BrunoCameToIslandWhileBack::
     .string "Hör, hör.\n"
     .string "Vidste du det?\p"
     .string "En berömt TRAINER kom til\n"
-    .string "OeEN for ikke länge siden.\p"
+    .string "Øen for ikke länge siden.\p"
     .string "Han er en af ELITE FOUR.\n"
     .string "Hans navn er BRUNO.\p"
     .string "Han gik skuffet väk da han fandt\n"
@@ -71,13 +71,13 @@ TwoIsland_Text_BuyRareItemsHere::
 TwoIsland_Text_OldWomanLivesOutOnCape::
     .string "Der er en gammel dame der bor i\n"
     .string "et hus ude pâ nässet.\p"
-    .string "Hun giver POKeMON öjenene.\n"
+    .string "Hun giver POKéMON öjenene.\n"
     .string "Det er lidt uhyggeligt.$"
 
 TwoIsland_Text_HaveYouTriedJumpingGame::
     .string "Boing! Boing!\n"
     .string "Har du prövet hoppespillet?\p"
-    .string "Den POKeMON du kan bruge…\n"
+    .string "Den POKéMON du kan bruge…\n"
     .string "Boing!\p"
     .string "Nogle hopper boing!\p"
     .string "Og nogle hopper boooooooing!\p"

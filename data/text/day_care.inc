@@ -3,17 +3,17 @@
 DayCare_Text_ImDaycareManSpeakToMyWife::
 	.string "Jeg er DAGPLEJEMANDEN.\p"
 	.string "Jeg hjälper med at passe TRAINERs\n"
-	.string "käre POKeMON.\p"
+	.string "käre POKéMON.\p"
 	.string "Hvis du vil have mig til at opdrage\n"
-	.string "dine POKeMON, tal med min kone.$"
+	.string "dine POKéMON, tal med min kone.$"
 
 DayCare_Text_DoYouWantEgg::
 	.string "Ah, det er dig!\p"
-	.string "Vi passede dine POKeMON, og\n"
+	.string "Vi passede dine POKéMON, og\n"
 	.string "gode gud, blev vi overraskede!\p"
-	.string "Din POKeMON fik et ÄG!\p"
+	.string "Din POKéMON fik et ÄG!\p"
 	.string "Vi ved ikke hvordan det skete,\n"
-	.string "men din POKeMON havde det.\p"
+	.string "men din POKéMON havde det.\p"
 	.string "Du vil gerne have det, ikke?$"
 
 DayCare_Text_YourMonIsDoingFine::
@@ -49,11 +49,11 @@ DayCare_Text_IWillKeepDoYouWantIt::
 
 DayCare_Text_WouldYouLikeUsToRaiseMon::
 	.string "Jeg er DAGPLEJEKONEN.\p"
-	.string "Vi kan opdrage POKeMON for dig.\p"
+	.string "Vi kan opdrage POKéMON for dig.\p"
 	.string "Vil du have os til at opdrage en?$"
 
 DayCare_Text_WhichMonShouldWeRaise::
-	.string "Hvilken POKeMON skal vi opdrage\n"
+	.string "Hvilken POKéMON skal vi opdrage\n"
 	.string "for dig?$"
 
 DayCare_Text_WellRaiseYourMon::
@@ -62,9 +62,9 @@ DayCare_Text_WellRaiseYourMon::
 	.string "Kom tilbage efter den senere.$"
 
 DayCare_Text_WeCanRaiseOneMore::
-	.string "Vi kan opdrage to af dine POKeMON.\p"
+	.string "Vi kan opdrage to af dine POKéMON.\p"
 	.string "Vil du have os til at opdrage\n"
-	.string "en POKeMON mere for dig?$"
+	.string "en POKéMON mere for dig?$"
 
 DayCare_Text_HusbandWasLookingForYou::
 	.string "Min mand ledte efter dig.$"
@@ -86,7 +86,7 @@ DayCare_Text_ComeAgain::
 DayCare_Text_GoodToSeeYou::
 	.string "Ah, det er dig!\n"
 	.string "Godt at se dig.\p"
-	.string "Dine POKeMON mâ have det\n"
+	.string "Dine POKéMON mâ have det\n"
 	.string "godt!$"
 
 DayCare_Text_YourMonHasGrownXLevels::
@@ -94,7 +94,7 @@ DayCare_Text_YourMonHasGrownXLevels::
 	.string "{STR_VAR_2} niveau.$"
 
 DayCare_Text_YourPartyIsFull::
-	.string "Din POKeMON-hold er fuldt.\n"
+	.string "Din POKéMON-hold er fuldt.\n"
 	.string "Lav plads, og kom sâ til mig.$"
 
 DayCare_Text_TakeBackWhichMon::
@@ -106,7 +106,7 @@ DayCare_Text_ItWillCostX::
 
 DayCare_Text_HeresYourMon::
 	.string "Perfekt!\n"
-	.string "Her er din POKeMON.$"
+	.string "Her er din POKéMON.$"
 
 DayCare_Text_TookBackMon::
 	.string "{PLAYER} hentede {STR_VAR_1} hos\n"
@@ -114,14 +114,14 @@ DayCare_Text_TookBackMon::
 
 DayCare_Text_YouHaveJustOneMon::
 	.string "Oh? Men du har kun en\n"
-	.string "POKeMON.\p"
+	.string "POKéMON.\p"
 	.string "Kom tilbage en anden gang.$"
 
 DayCare_Text_TakeYourMonBack::
-	.string "Vil du hente din POKeMON tilbage?$"
+	.string "Vil du hente din POKéMON tilbage?$"
 
 DayCare_Text_WhatWillYouBattleWith::
-	.string "Hvis du efterlader den POKeMON,\n"
+	.string "Hvis du efterlader den POKéMON,\n"
 	.string "hvad vil du sâ kämpe med?\p"
 	.string "Kom tilbage en anden gang.$"
 

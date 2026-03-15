@@ -8,7 +8,7 @@ Route10_Text_MarkDefeat::
     .string "Jeg er ikke vred!$"
 
 Route10_Text_MarkPostBattle::
-    .string "Jeg har flere själdne POKeMON derhjemme!$"
+    .string "Jeg har flere själdne POKéMON derhjemme!$"
 
 Route10_Text_ClarkIntro::
     .string "Ha-hahah-ah-ha!$"
@@ -25,18 +25,18 @@ Route10_Text_ClarkPostBattle::
 
 Route10_Text_HermanIntro::
     .string "Hej, unge!\n"
-    .string "Vil du se mine POKeMON?$"
+    .string "Vil du se mine POKéMON?$"
 
 Route10_Text_HermanDefeat::
     .string "Oh, nej!\n"
-    .string "Mine POKeMON!$"
+    .string "Mine POKéMON!$"
 
 Route10_Text_HermanPostBattle::
     .string "Jeg kan ikke lide dig.\n"
     .string "Jeg kan ikke lide nogen bedre end mig!$"
 
 Route10_Text_HeidiIntro::
-    .string "Jeg har väret ved et POKeMON GYM\n"
+    .string "Jeg har väret ved et POKéMON GYM\n"
     .string "et par gange.\p"
     .string "…Men jeg taber altid.$"
 
@@ -69,10 +69,10 @@ Route10_Text_CarolDefeat::
     .string "Jeg var ikke klar til det.$"
 
 Route10_Text_CarolPostBattle::
-    .string "POKeMON her i bjergene er sâ\n"
+    .string "POKéMON her i bjergene er sâ\n"
     .string "tunge…\p"
     .string "Jeg ville önske der var lyseröde\n"
-    .string "POKeMON med blomstermönster!$"
+    .string "POKéMON med blomstermönster!$"
 
 Route10_Text_RockTunnelDetourToLavender::
     .string "ROCK TUNNEL\n"

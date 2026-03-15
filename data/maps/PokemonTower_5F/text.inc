@@ -46,5 +46,5 @@ PokemonTower_5F_Text_JanaePostBattle::
 PokemonTower_5F_Text_PurifiedZoneMonsFullyHealed::
     .string "Trâdte ind i den rensede og beskyttede\n"
     .string "zone.\p"
-    .string "{PLAYER}s POKeMON blev fuldt\n"
+    .string "{PLAYER}s POKéMON blev fuldt\n"
     .string "helbredt.$"

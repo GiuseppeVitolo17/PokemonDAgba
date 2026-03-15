@@ -1,12 +1,12 @@
 FuchsiaCity_House3_Text_WouldYouLikeToForgetMove::
-    .string "Oeh…\n"
+    .string "Øh…\n"
     .string "Ja, jeg er MOVE DELETER.\p"
-    .string "Jeg kan fâ POKeMON til at glemme\n"
+    .string "Jeg kan fâ POKéMON til at glemme\n"
     .string "deres angreb.\p"
     .string "Vil du have mig til at göre det?$"
 
 FuchsiaCity_House3_Text_WhichMonShouldForgetMove::
-    .string "Hvilken POKeMON skal glemme et\n"
+    .string "Hvilken POKéMON skal glemme et\n"
     .string "angreb?$"
 
 FuchsiaCity_House3_Text_WhichMoveShouldBeForgotten::
@@ -31,5 +31,5 @@ FuchsiaCity_House3_Text_ComeAgainToForgetOtherMoves::
 
 FuchsiaCity_House3_Text_NoEggShouldKnowMoves::
     .string "Hvad?\n"
-    .string "Et AeG bör ikke kende nogen angreb.$"
+    .string "Et ÆG bör ikke kende nogen angreb.$"
 

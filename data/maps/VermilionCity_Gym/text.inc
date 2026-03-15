@@ -3,7 +3,7 @@ VermilionCity_Gym_Text_LtSurgeIntro::
     .string "her?\p"
     .string "Du overlever ikke länge i kamp!\n"
     .string "Ikke med din svage styrke!\p"
-    .string "Jeg siger dig, unge, elektriske POKeMON\n"
+    .string "Jeg siger dig, unge, elektriske POKéMON\n"
     .string "reddede mig under krigen!\p"
     .string "De chokkede mine fjender til\n"
     .string "lammelse!\p"
@@ -13,12 +13,12 @@ VermilionCity_Gym_Text_LtSurgePostBattle::
     .string "Et lille ord af râd, unge!\p"
     .string "Elektricitet er virkelig kraftfuld!\p"
     .string "Men den er nyttelös mod JORD-\n"
-    .string "type POKeMON!$"
+    .string "type POKéMON!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
     .string "THUNDERBADGE öger din\n"
-    .string "POKeMONs HASTIGHED!\p"
-    .string "Den lader ogsâ din POKeMON FLYVE\n"
+    .string "POKéMONs HASTIGHED!\p"
+    .string "Den lader ogsâ din POKéMON FLYVE\n"
     .string "lynhurtigt nâr som helst, unge!\p"
     .string "Du er speciel, unge!\n"
     .string "Tag dette!$"
@@ -29,7 +29,7 @@ VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
 
 VermilionCity_Gym_Text_ExplainTM34::
     .string "TM34 indeholder SHOCK WAVE!\p"
-    .string "Lär det til en ELEKTRISK POKeMON!$"
+    .string "Lär det til en ELEKTRISK POKéMON!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
     .string "Yo, unge, gör plads i din TASKE!$"
@@ -89,8 +89,8 @@ VermilionCity_Gym_Text_GymGuyAdvice::
     .string "Folk kalder ham\n"
     .string "den amerikanske lynkaster!\p"
     .string "Han er ekspert i elektriske\n"
-    .string "POKeMON.\p"
-    .string "FUGL/VAND-type POKeMON matcher\n"
+    .string "POKéMON.\p"
+    .string "FUGL/VAND-type POKéMON matcher\n"
     .string "dârligt mod ELEKTRISK type.\p"
     .string "Pas ogsâ pâ lammelse.\p"
     .string "LT. SURGE er meget forsigtig.\p"
@@ -102,15 +102,15 @@ VermilionCity_Gym_Text_GymGuyPostVictory::
     .string "Den kamp var elektrisk!$"
 
 VermilionCity_Gym_Text_GymStatue::
-    .string "VERMILION POKeMON GYM\n"
+    .string "VERMILION POKéMON GYM\n"
     .string "LEDER: LT. SURGE\p"
-    .string "VINDENDE TRAeNERE:\n"
+    .string "VINDENDE TRÆNERE:\n"
     .string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-    .string "VERMILION POKeMON GYM\n"
+    .string "VERMILION POKéMON GYM\n"
     .string "LEDER: LT. SURGE\p"
-    .string "VINDENDE TRAeNERE:\n"
+    .string "VINDENDE TRÆNERE:\n"
     .string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::

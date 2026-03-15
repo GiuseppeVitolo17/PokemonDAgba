@@ -18,18 +18,18 @@ Route16_NorthEntrance_2F_Text_LongPathOverWater::
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
     .string "Hej! Husker du mig?\n"
     .string "Jeg er en af PROF. OAKs assistenter.\p"
-    .string "Hvis din POKeDEX har fulde data\n"
+    .string "Hvis din POKéDEX har fulde data\n"
     .string "om 40 arter, skal jeg\l"
     .string "give dig en belönning.\p"
     .string "PROF. OAK betröde mig et\n"
     .string "AMULET COIN til dig.\p"
     .string "Sâ, {PLAYER}, lad mig spörge dig.\p"
     .string "Har du indsamlet data om mindst\n"
-    .string "40 slags POKeMON?$"
+    .string "40 slags POKéMON?$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
     .string "Super! Du har fanget eller ejet\n"
-    .string "{STR_VAR_3} slags POKeMON!\p"
+    .string "{STR_VAR_3} slags POKéMON!\p"
     .string "Tillykke!\n"
     .string "Her har du den!$"
 
@@ -39,6 +39,6 @@ Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
     .string "Et AMULET COIN er en genstand en\n"
-    .string "POKeMON kan bäre.\p"
-    .string "Hvis POKeMON deltager i en vindende\n"
+    .string "POKéMON kan bäre.\p"
+    .string "Hvis POKéMON deltager i en vindende\n"
     .string "kamp, tjener du flere penge.$"

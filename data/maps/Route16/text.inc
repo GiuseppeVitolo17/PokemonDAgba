@@ -48,7 +48,7 @@ Route16_Text_CamronDefeat::
     .string "Dârligt, dârligt, dârligt!$"
 
 Route16_Text_CamronPostBattle::
-    .string "Hvis jeg skal have POKeMON, kan de\n"
+    .string "Hvis jeg skal have POKéMON, kan de\n"
     .string "lige sâ godt väre vilde.\p"
     .string "Jeg ville bruge dem til at efterlade\n"
     .string "mine fjender i stykker.$"
@@ -62,12 +62,12 @@ Route16_Text_RubenDefeat::
 
 Route16_Text_RubenPostBattle::
     .string "Jeg fâr kicks af at chikanere folk\n"
-    .string "med mine stinkende POKeMON.\p"
+    .string "med mine stinkende POKéMON.\p"
     .string "De er gode til at skrämme folk.\n"
     .string "Og de bider ogsâ.$"
 
 Route16_Text_MonSprawledOutInSlumber::
-    .string "En POKeMON ligger og sover dybt\n"
+    .string "En POKéMON ligger og sover dybt\n"
     .string "og behageligt.$"
 
 Route16_Text_CyclingRoadSign::
@@ -91,7 +91,7 @@ Route16_Text_JedPostBattle::
     .string "Du skal fokusere mindre pâ mig.$"
 
 Route16_Text_JedNotEnoughMons::
-    .string "JED: Du har kun en POKeMON?\n"
+    .string "JED: Du har kun en POKéMON?\n"
     .string "Er der ingen kärlighed i dit hjerte?$"
 
 Route16_Text_LeaIntro::
@@ -108,6 +108,6 @@ Route16_Text_LeaPostBattle::
 
 Route16_Text_LeaNotEnoughMons::
     .string "LEA: Aa, du har ikke to\n"
-    .string "POKeMON med dig?\p"
+    .string "POKéMON med dig?\p"
     .string "Föles det ikke ensomt for dig eller\n"
-    .string "dine POKeMON?$"
+    .string "dine POKéMON?$"

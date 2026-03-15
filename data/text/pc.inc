@@ -8,7 +8,7 @@ Text_AccessedSomeonesPC::
 	.string "Tilgâet En andens PC.$"
 
 Text_OpenedPkmnStorage::
-	.string "POKeMON-opbevaring âbnet.$"
+	.string "POKéMON-opbevaring âbnet.$"
 
 Text_AccessedPlayersPC::
 	.string "Tilgâet {PLAYER}s PC.$"

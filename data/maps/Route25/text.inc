@@ -6,10 +6,10 @@ Route25_Text_JoeyDefeat::
     .string "Du er okay.$"
 
 Route25_Text_JoeyPostBattle::
-    .string "Alle POKeMON har svagheder.\n"
+    .string "Alle POKéMON har svagheder.\n"
     .string "Selv de stärkeste.\p"
     .string "Derfor er det bedst at opdrage\n"
-    .string "POKeMON af forskellige typer.$"
+    .string "POKéMON af forskellige typer.$"
 
 Route25_Text_DanIntro::
     .string "Far tog mig med til en fest pâ\n"
@@ -52,12 +52,12 @@ Route25_Text_ChadDefeat::
     .string "Jeg vidste ogsâ jeg ville tabe!$"
 
 Route25_Text_ChadPostBattle::
-    .string "Hvis din POKeMON bliver forvirret,\n"
+    .string "Hvis din POKéMON bliver forvirret,\n"
     .string "skift den ud.\p"
     .string "Det er en god taktik.$"
 
 Route25_Text_HaleyIntro::
-    .string "Min veninde har mange söde POKeMON.\n"
+    .string "Min veninde har mange söde POKéMON.\n"
     .string "Jeg er sâ misundelig!$"
 
 Route25_Text_HaleyDefeat::
@@ -89,7 +89,7 @@ Route25_Text_NobPostBattle::
     .string "POKeMANIAC lever virkelig op til\n"
     .string "sit navn.\p"
     .string "Hans samling indeholder mange\n"
-    .string "själdne POKeMON-arter.$"
+    .string "själdne POKéMON-arter.$"
 
 Route25_Text_WayneIntro::
     .string "Skal du til BILL?\n"

@@ -20,7 +20,7 @@ CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
     .string "at tjekke UNION ROOM.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves::
-    .string "POKeMON kan stadig läre teknikker\n"
+    .string "POKéMON kan stadig läre teknikker\n"
     .string "efter at have annulleret evolution.\p"
     .string "Evolution kan vente til nye tricks\n"
     .string "er lärt.$"

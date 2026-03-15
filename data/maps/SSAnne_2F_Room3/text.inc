@@ -1,5 +1,5 @@
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
-    .string "Aah ja, jeg har set nogle POKeMON\n"
+    .string "Aah ja, jeg har set nogle POKéMON\n"
     .string "färge folk over vandet!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::

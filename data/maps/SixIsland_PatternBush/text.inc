@@ -1,19 +1,19 @@
 SixIsland_PatternBush_Text_BethanyIntro::
     .string "Jeg er nysgerrig, hvordan opdrager du\n"
-    .string "dine POKeMON?$"
+    .string "dine POKéMON?$"
 
 SixIsland_PatternBush_Text_BethanyDefeat::
-    .string "Du opdrager dine POKeMON med en\n"
+    .string "Du opdrager dine POKéMON med en\n"
     .string "masse kärlighed!$"
 
 SixIsland_PatternBush_Text_BethanyPostBattle::
     .string "Pâ samme mâde som din mor opdrog\n"
     .string "dig fuld af kärlighed, bör du opdrage\l"
-    .string "dine POKeMON.$"
+    .string "dine POKéMON.$"
 
 SixIsland_PatternBush_Text_AllisonIntro::
     .string "Jeg arbejder for at bevare den\n"
-    .string "naturlige ökologi af POKeMON her.$"
+    .string "naturlige ökologi af POKéMON her.$"
 
 SixIsland_PatternBush_Text_AllisonDefeat::
     .string "Aah, for en sâ ung er du\n"
@@ -21,17 +21,17 @@ SixIsland_PatternBush_Text_AllisonDefeat::
 
 SixIsland_PatternBush_Text_AllisonPostBattle::
     .string "Jeg siger ikke at du ikke bör\n"
-    .string "fange POKeMON.\p"
+    .string "fange POKéMON.\p"
     .string "Jeg vil bare have folk til at opdrage\n"
-    .string "deres POKeMON ansvarligt.$"
+    .string "deres POKéMON ansvarligt.$"
 
 SixIsland_PatternBush_Text_GarretIntro::
-    .string "Jeg fangede en BUG POKeMON der kun\n"
+    .string "Jeg fangede en BUG POKéMON der kun\n"
     .string "lever her omkring!$"
 
 SixIsland_PatternBush_Text_GarretDefeat::
     .string "Heheh…\n"
-    .string "Er min POKeMON ikke fantastisk?$"
+    .string "Er min POKéMON ikke fantastisk?$"
 
 SixIsland_PatternBush_Text_GarretPostBattle::
     .string "Der er en pige ved BUSH der\n"
@@ -39,11 +39,11 @@ SixIsland_PatternBush_Text_GarretPostBattle::
 
 SixIsland_PatternBush_Text_JonahIntro::
     .string "Du ved, det föles bare ikke rigtigt\n"
-    .string "hvis jeg ikke bruger BUG POKeMON.$"
+    .string "hvis jeg ikke bruger BUG POKéMON.$"
 
 SixIsland_PatternBush_Text_JonahDefeat::
     .string "Det er okay, at tabe er ogsâ en\n"
-    .string "sjov del af POKeMONs appel.$"
+    .string "sjov del af POKéMONs appel.$"
 
 SixIsland_PatternBush_Text_JonahPostBattle::
     .string "For resten, appel er et underligt\n"
@@ -53,7 +53,7 @@ SixIsland_PatternBush_Text_JonahPostBattle::
 
 SixIsland_PatternBush_Text_VanceIntro::
     .string "Ja, ja, ja!\n"
-    .string "Se alle BUG POKeMON!$"
+    .string "Se alle BUG POKéMON!$"
 
 SixIsland_PatternBush_Text_VanceDefeat::
     .string "Jeg blev slâet mens jeg stadig var\n"
@@ -104,7 +104,7 @@ SixIsland_PatternBush_Text_DaliaPostBattle::
     .string "Er det ikke forfriskende?$"
 
 SixIsland_PatternBush_Text_JoanaIntro::
-    .string "Jeg elsker BUG POKeMON.\n"
+    .string "Jeg elsker BUG POKéMON.\n"
     .string "Derfor er jeg her hele tiden.\p"
     .string "Er jeg den eneste pige sâdan?$"
 
@@ -114,7 +114,7 @@ SixIsland_PatternBush_Text_JoanaDefeat::
 
 SixIsland_PatternBush_Text_JoanaPostBattle::
     .string "Jeg bliver ved med at samle\n"
-    .string "BUG POKeMON.\p"
+    .string "BUG POKéMON.\p"
     .string "Er jeg den eneste pige sâdan?$"
 
 SixIsland_PatternBush_Text_RileyIntro::

@@ -19,7 +19,7 @@ SSAnne_Deck_Text_EdmondDefeat::
     .string "Du er imponerende!$"
 
 SSAnne_Deck_Text_EdmondPostBattle::
-    .string "Hvor mange slags POKeMON tror du\n"
+    .string "Hvor mange slags POKéMON tror du\n"
     .string "der er i denne store verden?$"
 
 SSAnne_Deck_Text_TrevorIntro::
@@ -31,5 +31,5 @@ SSAnne_Deck_Text_TrevorDefeat::
 
 SSAnne_Deck_Text_TrevorPostBattle::
     .string "Min far sagde der er 100 slags\n"
-    .string "POKeMON. Jeg tror der er flere.$"
+    .string "POKéMON. Jeg tror der er flere.$"
 

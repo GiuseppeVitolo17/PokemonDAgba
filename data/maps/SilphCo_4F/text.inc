@@ -18,11 +18,11 @@ SilphCo_4F_Text_Grunt1PostBattle::
     .string "Min BOSS har jaget dette sted!$"
 
 SilphCo_4F_Text_RodneyIntro::
-    .string "Mit POKeMON er min loyale tjener.$"
+    .string "Mit POKéMON er min loyale tjener.$"
 
 SilphCo_4F_Text_RodneyDefeat::
     .string "Pokkers!\n"
-    .string "I svâge POKeMON!$"
+    .string "I svâge POKéMON!$"
 
 SilphCo_4F_Text_RodneyPostBattle::
     .string "Dörene er elektronisk\n"

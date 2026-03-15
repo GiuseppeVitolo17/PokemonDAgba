@@ -12,7 +12,7 @@ Route3_Text_ColtonDefeat::
     .string "Du slog mig igen!$"
 
 Route3_Text_ColtonPostBattle::
-    .string "Der findes andre slags POKeMON\n"
+    .string "Der findes andre slags POKéMON\n"
     .string "end dem du finder i skove.$"
 
 Route3_Text_BenIntro::
@@ -25,10 +25,10 @@ Route3_Text_BenDefeat::
     .string "Det trör jeg ikke pâ!$"
 
 Route3_Text_BenPostBattle::
-    .string "Bruger du et POKeMON CENTERs PC\n"
-    .string "til at opbevare dine POKeMON?\p"
+    .string "Bruger du et POKéMON CENTERs PC\n"
+    .string "til at opbevare dine POKéMON?\p"
     .string "Hver BOX kan indeholde op til\n"
-    .string "30 POKeMON.$"
+    .string "30 POKéMON.$"
 
 Route3_Text_JaniceIntro::
     .string "Undskyld!\n"
@@ -46,11 +46,11 @@ Route3_Text_GregIntro::
     .string "Lad os komme i gang med det samme!$"
 
 Route3_Text_GregDefeat::
-    .string "Havde jeg haft nye POKeMON, havde\n"
+    .string "Havde jeg haft nye POKéMON, havde\n"
     .string "jeg vundet!$"
 
 Route3_Text_GregPostBattle::
-    .string "Hvis en POKeMON BOX pâ PC'en\n"
+    .string "Hvis en POKéMON BOX pâ PC'en\n"
     .string "bliver fuld, skift bare til en anden BOX.$"
 
 Route3_Text_SallyIntro::
@@ -77,14 +77,14 @@ Route3_Text_CalvinPostBattle::
     .string "vinteren. Det er min politik.$"
 
 Route3_Text_JamesIntro::
-    .string "Jeg kämper mod dig med de POKeMON\n"
+    .string "Jeg kämper mod dig med de POKéMON\n"
     .string "jeg lige har fanget.$"
 
 Route3_Text_JamesDefeat::
     .string "Färdig som aftensmad!$"
 
 Route3_Text_JamesPostBattle::
-    .string "Tränede POKeMON er stärkere end\n"
+    .string "Tränede POKéMON er stärkere end\n"
     .string "de vilde.$"
 
 Route3_Text_RobinIntro::

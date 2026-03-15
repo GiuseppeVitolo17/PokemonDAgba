@@ -3,7 +3,7 @@ CeruleanCity_Text_RivalIntro::
     .string "Du kämper stadig dig frem her\n"
     .string "bagved?\p"
     .string "Jeg har det fantastisk! Jeg fangede en masse\n"
-    .string "stärke og kloge POKeMON!\p"
+    .string "stärke og kloge POKéMON!\p"
     .string "Her, lad mig se hvad du fangede,\n"
     .string "{PLAYER}!$"
 
@@ -15,12 +15,12 @@ CeruleanCity_Text_RivalDefeat::
 CeruleanCity_Text_RivalPostBattle::
     .string "{RIVAL}: Hey, gät hvad?\p"
     .string "Jeg var hos BILL og fik ham til at\n"
-    .string "vise mig sine själdne POKeMON.\p"
+    .string "vise mig sine själdne POKéMON.\p"
     .string "Det tilföjede mange sider til min\n"
-    .string "POKeDEX!\p"
+    .string "POKéDEX!\p"
     .string "BILL er trods alt verdensberömt som\n"
     .string "POKeMANIAC.\p"
-    .string "Han opfandt ogsâ POKeMON Storage\n"
+    .string "Han opfandt ogsâ POKéMON Storage\n"
     .string "System pâ PC.\p"
     .string "Siden du bruger hans system,\n"
     .string "bör du takke ham.\p"
@@ -98,7 +98,7 @@ CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
 
 CeruleanCity_Text_PokemonEncyclopediaAmusing::
     .string "Du laver en leksikon om\n"
-    .string "POKeMON? Det lyder morsomt.$"
+    .string "POKéMON? Det lyder morsomt.$"
 
 CeruleanCity_Text_PeopleHereWereRobbed::
     .string "Folkene her blev rövet.\p"
@@ -126,8 +126,8 @@ CeruleanCity_Text_SlowbroWithdraw::
 
 CeruleanCity_Text_HardToControlMonsObedience::
     .string "Nej! Det er forkert!\n"
-    .string "Det er sâ svärt at kontrollere POKeMON!\p"
-    .string "Din POKeMONs lydighed afhänger af\n"
+    .string "Det er sâ svärt at kontrollere POKéMON!\p"
+    .string "Din POKéMONs lydighed afhänger af\n"
     .string "dine evner som TRAINER.$"
 
 CeruleanCity_Text_SlowbroTookSnooze::
@@ -149,12 +149,12 @@ CeruleanCity_Text_WantBrightRedBicycle::
 
 CeruleanCity_Text_ThisIsCeruleanCave::
     .string "Dette er CERULEAN CAVE.\p"
-    .string "Forfärdeligt stärke POKeMON bor\n"
+    .string "Forfärdeligt stärke POKéMON bor\n"
     .string "derinde.\p"
     .string "Det kräver en meget speciel TRAINER\n"
     .string "for at fâ lov til at komme ind.\p"
     .string "Du skal i det mindste väre stärk nok\n"
-    .string "til at blive POKeMON LEAGUE\l"
+    .string "til at blive POKéMON LEAGUE\l"
     .string "CHAMPION for at starte.\p"
     .string "Og du skal have gjort en stor\n"
     .string "bedrift.$"
@@ -166,16 +166,16 @@ CeruleanCity_Text_CitySign::
 
 CeruleanCity_Text_TrainerTipsHeldItems::
     .string "TRAINER TIPS\p"
-    .string "En POKeMON kan fâ et item at\n"
+    .string "En POKéMON kan fâ et item at\n"
     .string "holde.\p"
     .string "Nogle items kan endda bruges af\n"
-    .string "den holdende POKeMON i kamp.$"
+    .string "den holdende POKéMON i kamp.$"
 
 CeruleanCity_Text_BikeShopSign::
     .string "Gräs og huler hândteres nemt!\n"
     .string "BIKE SHOP$"
 
 CeruleanCity_Text_GymSign::
-    .string "CERULEAN CITY POKeMON GYM\n"
+    .string "CERULEAN CITY POKéMON GYM\n"
     .string "LEADER: MISTY\l"
     .string "Den drengede Havfrue!$"

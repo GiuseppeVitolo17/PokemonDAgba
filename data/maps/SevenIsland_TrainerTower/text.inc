@@ -12,14 +12,14 @@ SevenIsland_TrainerTower_Text_DarioPostBattle::
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
     .string "Et sted pâ denne ö sover\n"
-    .string "särlige POKeMON.$"
+    .string "särlige POKéMON.$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
     .string "Hvilken fantastisk TRAINER!$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
     .string "Et sted pâ denne ö sover\n"
-    .string "särlige POKeMON.\p"
+    .string "särlige POKéMON.\p"
     .string "Kunne det väre at de venter\n"
     .string "pâ dig?$"
 

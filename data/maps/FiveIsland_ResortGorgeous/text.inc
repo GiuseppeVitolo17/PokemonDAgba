@@ -29,7 +29,7 @@ FiveIsland_ResortGorgeous_Text_RaynaIntro::
     .string "Vinklen er ikke helt rigtig…$"
 
 FiveIsland_ResortGorgeous_Text_RaynaDefeat::
-    .string "Oeh…\n"
+    .string "Øh…\n"
     .string "Mine fölelser er blâe…$"
 
 FiveIsland_ResortGorgeous_Text_RaynaPostBattle::
@@ -43,7 +43,7 @@ FiveIsland_ResortGorgeous_Text_JackiIntro::
     .string "hvis du vil vide det.$"
 
 FiveIsland_ResortGorgeous_Text_JackiDefeat::
-    .string "Oeh, du er stärk.$"
+    .string "Øh, du er stärk.$"
 
 FiveIsland_ResortGorgeous_Text_JackiPostBattle::
     .string "Jeg synes det er behageligt at\n"
@@ -51,10 +51,10 @@ FiveIsland_ResortGorgeous_Text_JackiPostBattle::
 
 FiveIsland_ResortGorgeous_Text_GillianIntro::
     .string "Jeg overvejer at lave et pool\n"
-    .string "specielt til POKeMON.$"
+    .string "specielt til POKéMON.$"
 
 FiveIsland_ResortGorgeous_Text_GillianDefeat::
-    .string "Oeh, du godeste!$"
+    .string "Øh, du godeste!$"
 
 FiveIsland_ResortGorgeous_Text_GillianPostBattle::
     .string "Et pool ville väre rart, men et\n"

@@ -8,13 +8,13 @@ SSAnne_B1F_Room1_Text_PhillipDefeat::
 
 SSAnne_B1F_Room1_Text_PhillipPostBattle::
     .string "Nâr vi er ude pâ havet, driver\n"
-    .string "vandmands-POKeMON nogle gange forbi.$"
+    .string "vandmands-POKéMON nogle gange forbi.$"
 
 SSAnne_B1F_Room1_Text_BarnyIntro::
     .string "Hej, fremmed!\p"
     .string "Jeg kan ikke se om du er fra havet\n"
     .string "eller bjergene, men stop og snak.\p"
-    .string "Alle mine POKeMON er fra havet.$"
+    .string "Alle mine POKéMON er fra havet.$"
 
 SSAnne_B1F_Room1_Text_BarnyDefeat::
     .string "Pokkers!\n"

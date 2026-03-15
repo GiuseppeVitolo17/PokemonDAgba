@@ -24,9 +24,9 @@ PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
 
 PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
     .string "AMBER indeholder genetisk materiale\n"
-    .string "fra gamle POKeMON.\p"
+    .string "fra gamle POKéMON.\p"
     .string "Der er et LAB et sted der pröver at\n"
-    .string "genoplive POKeMON fra AMBER.$"
+    .string "genoplive POKéMON fra AMBER.$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
     .string "AMBER er faktisk saft, den kläbede\n"
@@ -48,15 +48,15 @@ PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
     .string "Ssst! Hör, jeg skal dele en\n"
     .string "hemmelighed med nogen.\p"
     .string "Jeg tror at dette stykke AMBER\n"
-    .string "indeholder POKeMON DNA!\p"
+    .string "indeholder POKéMON DNA!\p"
     .string "Det ville väre et rystende videnskabeligt\n"
-    .string "gennembrud hvis POKeMON kunne\l"
+    .string "gennembrud hvis POKéMON kunne\l"
     .string "genoplives fra det.\p"
     .string "Men mine kollegär ignorerer bare\n"
     .string "hvad jeg har at sige.\p"
     .string "Sâ jeg har en tjeneste at bede om!\p"
     .string "Jeg vil have dig til at fâ dette undersögt\n"
-    .string "ved et POKeMON LAB et sted.$"
+    .string "ved et POKéMON LAB et sted.$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
     .string "{PLAYER} modtog OLD AMBER\n"
@@ -71,7 +71,7 @@ PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
 
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
     .string "Vi har to fossiler af själdne,\n"
-    .string "forhistoriske POKeMON udstillet.$"
+    .string "forhistoriske POKéMON udstillet.$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
     .string "Der er et smukt stykke\n"
@@ -79,8 +79,8 @@ PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
     .string "ÄRODACTYL Fossil\n"
-    .string "En primitiv og själden POKeMON.$"
+    .string "En primitiv og själden POKéMON.$"
 
 PewterCity_Museum_1F_Text_KabutopsFossil::
     .string "KABUTOPS Fossil\n"
-    .string "En primitiv og själden POKeMON.$"
+    .string "En primitiv og själden POKéMON.$"

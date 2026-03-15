@@ -1,13 +1,13 @@
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-    .string "Mine POKeMONs aske opbevares i\n"
-    .string "POKeMON TOWER.\p"
+    .string "Mine POKéMONs aske opbevares i\n"
+    .string "POKéMON TOWER.\p"
     .string "Du mâ fâ denne TM.\n"
     .string "Jeg har ikke brug for den längere…$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-    .string "Mine POKeMONs aske opbevares i\n"
-    .string "POKeMON TOWER.\p"
+    .string "Mine POKéMONs aske opbevares i\n"
+    .string "POKéMON TOWER.\p"
     .string "Du mâ fâ denne TM.\n"
     .string "Jeg har ikke brug for den längere…$"
 
@@ -17,7 +17,7 @@ Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
     .string "TM27 er et träk kaldt RETURN…\p"
-    .string "Hvis du behandler din POKeMON godt,\n"
+    .string "Hvis du behandler din POKéMON godt,\n"
     .string "returnerer den din kärlighed ved at\l"
     .string "arbejde hârdest i kamp.$"
 
@@ -30,4 +30,4 @@ Route12_NorthEntrance_2F_Text_TheresManFishing::
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
     .string "Lad os se hvad kikkerten viser…\p"
-    .string "Det er POKeMON TOWER!$"
+    .string "Det er POKéMON TOWER!$"

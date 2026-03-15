@@ -6,14 +6,14 @@ Text_DreamEaterTeach::
     .string "Og…\n"
     .string "Jeg lärte at spise dromme…\p"
     .string "Ugh, det er for uhyggeligt!\p"
-    .string "Lad mig läre det til en POKeMON sâ\n"
+    .string "Lad mig läre det til en POKéMON sâ\n"
     .string "jeg kan glemme det!$"
 
 Text_DreamEaterDeclined::
     .string "…Snork…$"
 
 Text_DreamEaterWhichMon::
-    .string "Hvilken POKeMON vil läre\n"
+    .string "Hvilken POKéMON vil läre\n"
     .string "DREAM EATER?$"
 
 Text_DreamEaterTaught::
@@ -27,8 +27,8 @@ PewterCity_Text_ClefairyCameFromMoon::
     .string "faldt pâ MT. MOON.$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-    .string "Der er ikke mange seriöse POKeMON\n"
-    .string "TRAeNERE her.\p"
+    .string "Der er ikke mange seriöse POKéMON\n"
+    .string "TRÆNERE her.\p"
     .string "De er alle som BUG CATCHERS,\n"
     .string "du ved, bare hobbyister.\p"
     .string "Men PEWTER GYMs BROCK er ikke\n"
@@ -60,10 +60,10 @@ PewterCity_Text_ThatsRightItsHardWork::
 
 PewterCity_Text_SprayingRepelToKeepWildMonsOut::
     .string "Jeg sprayer REPEL for at holde vilde\n"
-    .string "POKeMON ude af min have!$"
+    .string "POKéMON ude af min have!$"
 
 PewterCity_Text_BrocksLookingForChallengersFollowMe::
-    .string "Du er TRAeNER, ikke?\p"
+    .string "Du er TRÆNER, ikke?\p"
     .string "BROCK leder efter nye\n"
     .string "udfordrere. Fölg mig!$"
 
@@ -72,13 +72,13 @@ PewterCity_Text_GoTakeOnBrock::
     .string "gâ og tag kampen op med BROCK!$"
 
 PewterCity_Text_TrainerTipsEarningEXP::
-    .string "TRAeNER TIPS\p"
-    .string "Alle POKeMON der opträder i kamp,\n"
+    .string "TRÆNER TIPS\p"
+    .string "Alle POKéMON der opträder i kamp,\n"
     .string "uanset hvor kort, fâr EXP Point.$"
 
 PewterCity_Text_CallPoliceIfInfoOnThieves::
     .string "OPSLAG!\p"
-    .string "Tyve har stjâlet POKeMON\n"
+    .string "Tyve har stjâlet POKéMON\n"
     .string "fossiler fra MT. MOON.\p"
     .string "Ring til PEWTER POLITIET hvis\n"
     .string "du har oplysninger.$"
@@ -87,9 +87,9 @@ PewterCity_Text_MuseumOfScience::
     .string "PEWTER MUSEUM FOR VIDENSKAB$"
 
 PewterCity_Text_GymSign::
-    .string "PEWTER CITY POKeMON GYM\n"
+    .string "PEWTER CITY POKéMON GYM\n"
     .string "LEDER: BROCK\l"
-    .string "Den stensikre POKeMON TRAeNER!$"
+    .string "Den stensikre POKéMON TRÆNER!$"
 
 PewterCity_Text_CitySign::
     .string "PEWTER CITY\n"

@@ -23,7 +23,7 @@ SilphCo_6F_Text_NeedsMeToLookAfterHim::
 
 SilphCo_6F_Text_RocketsTryingToConquerWorld::
     .string "TEAM ROCKET pröver at erobre\n"
-    .string "verden med POKeMON.$"
+    .string "verden med POKéMON.$"
 
 SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
     .string "TEAM ROCKET löb väk, og det er\n"
@@ -31,7 +31,7 @@ SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
     .string "De mâ have mâlrettet SILPH for\n"
-    .string "vores POKeMON-produkter.$"
+    .string "vores POKéMON-produkter.$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
     .string "Kom og arbejd for SILPH nâr du\n"

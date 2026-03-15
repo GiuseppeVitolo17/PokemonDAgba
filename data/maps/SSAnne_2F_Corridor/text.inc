@@ -9,7 +9,7 @@ SSAnne_2F_Corridor_Text_RivalIntro::
     .string "{PLAYER}!\p"
     .string "Tänk at möde dig her!\n"
     .string "{PLAYER}, var du virkelig inviteret?\p"
-    .string "Hvordan kommer din POKeDEX?\p"
+    .string "Hvordan kommer din POKéDEX?\p"
     .string "Jeg har allerede fanget 40 slags, makker.\n"
     .string "Forskellige slags er overalt.\p"
     .string "Krav rundt i gräsomrâder og\n"
@@ -18,7 +18,7 @@ SSAnne_2F_Corridor_Text_RivalIntro::
 SSAnne_2F_Corridor_Text_RivalDefeat::
     .string "Humph!\p"
     .string "I det mindste opdrager du dine\n"
-    .string "POKeMON!$"
+    .string "POKéMON!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
     .string "{PLAYER}‥！\n"

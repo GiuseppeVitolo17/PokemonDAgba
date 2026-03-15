@@ -111,7 +111,7 @@ Text_UseRockSmash::
 	.string "Vil du bruge ROCK SMASH?$"
 
 Text_MonMaySmashRock::
-	.string "Det er en ru sten, men en POKeMON\n"
+	.string "Det er en ru sten, men en POKéMON\n"
 	.string "kan mâske smadre den.$"
 
 EventScript_StrengthBoulder::
@@ -156,7 +156,7 @@ EventScript_DontUseStrength::
 	end
 
 Text_UseStrength::
-	.string "It's a big boulder, but a POKeMON\n"
+	.string "It's a big boulder, but a POKéMON\n"
 	.string "may be able to push it aside.\p"
 	.string "Would you like to use STRENGTH?$"
 
@@ -166,7 +166,7 @@ Text_MonUsedStrengthCanMoveBoulders::
 	.string "possible to move boulders around!$"
 
 Text_MonMayPushBoulder::
-	.string "It's a big boulder, but a POKeMON\n"
+	.string "It's a big boulder, but a POKéMON\n"
 	.string "may be able to push it aside.$"
 
 Text_StrengthMadeMovingBouldersPossible::
@@ -253,7 +253,7 @@ EventScript_EndSurface:
 	end
 
 Text_MonMayGoUnderwater::
-	.string "Havet er dybt her. En POKeMON\n"
+	.string "Havet er dybt her. En POKéMON\n"
 	.string "kan mâske dykke ned.$"
 
 Text_SeaIsDeepUseDive::
@@ -265,7 +265,7 @@ Text_MonUsedDive::
 
 Text_MonMaySurface::
 	.string "Lys sipper ned ovenfra.\n"
-	.string "En POKeMON kan mâske stige op.$"
+	.string "En POKéMON kan mâske stige op.$"
 
 Text_LightFilteringUseDive::
 	.string "Lys sipper ned ovenfra.\n"

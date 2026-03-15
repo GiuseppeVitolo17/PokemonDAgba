@@ -15,7 +15,7 @@ VermilionCity_Text_SSAnneHasDepartedForYear::
 VermilionCity_Text_BuildingOnThisLand::
     .string "Jeg bygger et hus pâ denne\n"
     .string "grund. Jeg ejer det hele.\p"
-    .string "Min POKeMON stampede jorden\n"
+    .string "Min POKéMON stampede jorden\n"
     .string "for at lägge fundamentet.$"
 
 VermilionCity_Text_Machop::
@@ -36,17 +36,17 @@ VermilionCity_Text_CitySign::
 VermilionCity_Text_SnorlaxBlockingRoute12::
     .string "OPSLAG!\p"
     .string "ROUTE 12 kan väre blokeret af en\n"
-    .string "sovende POKeMON.\p"
+    .string "sovende POKéMON.\p"
     .string "Kör omvej gennem ROCK TUNNEL til\n"
     .string "LAVENDER TOWN.\p"
     .string "VERMILION POLITI$"
 
 VermilionCity_Text_PokemonFanClubSign::
-    .string "POKeMON FAN KLUB\n"
-    .string "Alle POKeMON-fans velkomne!$"
+    .string "POKéMON FAN KLUB\n"
+    .string "Alle POKéMON-fans velkomne!$"
 
 VermilionCity_Text_GymSign::
-    .string "VERMILION CITY POKeMON GYM\n"
+    .string "VERMILION CITY POKéMON GYM\n"
     .string "LEDER: LT. SURGE\l"
     .string "Den amerikanske lynkaster!$"
 

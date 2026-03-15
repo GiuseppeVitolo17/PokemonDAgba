@@ -17,13 +17,13 @@ MtMoon_B2F_Text_ThenThisFossilIsMine::
 
 MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils::
     .string "Langt väk, pâ CINNABAR ISLAND,\n"
-    .string "er der et POKeMON LAB.\p"
+    .string "er der et POKéMON LAB.\p"
     .string "De forsker i at regenerere\n"
     .string "fossiler.$"
 
 MtMoon_B2F_Text_Grunt1Intro::
     .string "Vi, TEAM ROCKET, finder fossilerne!\p"
-    .string "At genoplive POKeMON fra dem\n"
+    .string "At genoplive POKéMON fra dem\n"
     .string "indbringer os enorme rigdomme!$"
 
 MtMoon_B2F_Text_Grunt1Defeat::
@@ -35,7 +35,7 @@ MtMoon_B2F_Text_Grunt1PostBattle::
     .string "TEAM ROCKET sätter dig pâ sort liste!$"
 
 MtMoon_B2F_Text_Grunt2Intro::
-    .string "Vi, TEAM ROCKET, er POKeMON-\n"
+    .string "Vi, TEAM ROCKET, er POKéMON-\n"
     .string "gangstere!\l"
     .string "Vi indgyder frygt med vores styrke!$"
 
@@ -66,7 +66,7 @@ MtMoon_B2F_Text_Grunt4Defeat::
     .string "Jeg er dampende!$"
 
 MtMoon_B2F_Text_Grunt4PostBattle::
-    .string "POKeMON levede her länge för\n"
+    .string "POKéMON levede her länge för\n"
     .string "mennesker kom.$"
 
 MtMoon_B2F_Text_YouWantDomeFossil::

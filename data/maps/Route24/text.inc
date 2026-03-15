@@ -14,7 +14,7 @@ Route24_Text_JoinTeamRocket::
     .string "For resten, hvad siger du til at\n"
     .string "bli med i TEAM ROCKET?\p"
     .string "Vi er en gruppe professionelle\n"
-    .string "kriminelle der specialiserer sig i POKeMON!\p"
+    .string "kriminelle der specialiserer sig i POKéMON!\p"
     .string "Vil du väre med?\p"
     .string "Er du sikker?\p"
     .string "Kom nu, vär med os!\p"

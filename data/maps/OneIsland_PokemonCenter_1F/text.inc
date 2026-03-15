@@ -17,11 +17,11 @@ OneIsland_PokemonCenter_1F_Text_ThisIsMyBuddyCelio::
 
 OneIsland_PokemonCenter_1F_Text_PlayerIsRisingPokemonChamp::
     .string "CELIO, dette er {PLAYER}, en stigende\n"
-    .string "udfordrer som POKeMON-mester!$"
+    .string "udfordrer som POKéMON-mester!$"
 
 OneIsland_PokemonCenter_1F_Text_PlayerIsReigningPokemonChamp::
     .string "CELIO, dette er {PLAYER}, den\n"
-    .string "regerende POKeMON-mester!$"
+    .string "regerende POKéMON-mester!$"
 
 OneIsland_PokemonCenter_1F_Text_CelioThatsReallyImpressive::
     .string "CELIO: Det er virkelig imponerende.\p"
@@ -51,7 +51,7 @@ OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayer::
     .string "bare lidt?\p"
     .string "…Faktisk, kan du göre mig en\n"
     .string "tjeneste?\p"
-    .string "Oen ved siden af hedder\n"
+    .string "Øen ved siden af hedder\n"
     .string "TWO ISLAND.\p"
     .string "Der er en fyr der körer et\n"
     .string "GAME CORNER.\p"
@@ -162,7 +162,7 @@ OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUseful::
     .string "CELIO: {PLAYER}, hvordan har det\n"
     .string "väret for dig?\p"
     .string "Oh, virkelig?\n"
-    .string "Du har fanget flere POKeMON.\p"
+    .string "Du har fanget flere POKéMON.\p"
     .string "Ved du hvad?\n"
     .string "Mâske jeg kan väre nyttig for dig.$"
 
@@ -172,7 +172,7 @@ OneIsland_PokemonCenter_1F_Text_YoullBeTradingFromTrainersFarAway::
     .string "Jeg ändrer den sâ den kan hândtere\n"
     .string "bytter over lange afstande.\p"
     .string "Nâr jeg er färdig, kan du\n"
-    .string "bytte exotiske POKeMON med\l"
+    .string "bytte exotiske POKéMON med\l"
     .string "TRAINERE langt väk.$"
 
 OneIsland_PokemonCenter_1F_Text_NeedsSpecialGemstone::
@@ -205,7 +205,7 @@ OneIsland_PokemonCenter_1F_Text_MayIAskOneMoreFavor::
     .string "Tak!\n"
     .string "{PLAYER}, du er simpelthen fantastisk.\p"
     .string "… … …  … … …\p"
-    .string "Oeh… Mâ jeg bede om endnu en kämpe\n"
+    .string "Øh… Mâ jeg bede om endnu en kämpe\n"
     .string "tjeneste?$"
 
 OneIsland_PokemonCenter_1F_Text_PleaseINeedYourHelp::
@@ -276,7 +276,7 @@ OneIsland_PokemonCenter_1F_Text_WishYouBestOfLuck::
     .string "Jeg gräder ikke.\p"
     .string "Nok om mig!\p"
     .string "{PLAYER}, du bliver ved med at\n"
-    .string "lede efter exotiske POKeMON, ikke?\p"
+    .string "lede efter exotiske POKéMON, ikke?\p"
     .string "Jeg önsker dig al mulig held!$"
 
 OneIsland_PokemonCenter_1F_Text_CelioHearingRumorsAboutYou::
@@ -286,10 +286,10 @@ OneIsland_PokemonCenter_1F_Text_CelioHearingRumorsAboutYou::
 
 OneIsland_PokemonCenter_1F_Text_BillsFirstMonWasAbra::
     .string "{PLAYER}, hvad er din yndlings-\n"
-    .string "POKeMON?\p"
+    .string "POKéMON?\p"
     .string "BILL er en POKeMANIAC, sâ han\n"
     .string "elsker alle slags.\p"
-    .string "Aabenbart var den förste han\n"
+    .string "Åbenbart var den förste han\n"
     .string "fangede en ABRA.$"
 
 OneIsland_PokemonCenter_1F_Text_BillsHometownInGoldenrod::
@@ -306,7 +306,7 @@ OneIsland_PokemonCenter_1F_Text_BillsHometownInGoldenrod::
 OneIsland_PokemonCenter_1F_Text_BillCantStomachMilk::
     .string "{PLAYER}, er der noget du\n"
     .string "slet ikke kan li?\p"
-    .string "Aabenbart kan BILL slet ikke\n"
+    .string "Åbenbart kan BILL slet ikke\n"
     .string "tâle mälk.$"
 
 OneIsland_PokemonCenter_1F_Text_CameFromPalletDontKnowIt::
@@ -323,10 +323,10 @@ OneIsland_PokemonCenter_1F_Text_EnormousVolcanoOnIsland::
 
 OneIsland_PokemonCenter_1F_Text_WishICouldTradeWithBoyfriend::
     .string "Jeg ville önske jeg kunne bytte\n"
-    .string "POKeMON med min käreste langt väk…$"
+    .string "POKéMON med min käreste langt väk…$"
 
 OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriend::
-    .string "Jeg byttede POKeMON med min käreste\n"
+    .string "Jeg byttede POKéMON med min käreste\n"
     .string "langt väk!\p"
     .string "Alle siger at vi kan takke dig\n"
     .string "og CELIO.\p"
@@ -335,7 +335,7 @@ OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriend::
 OneIsland_PokemonCenter_1F_Text_MachineUnderAdjustment::
     .string "Netvärksmaskine\n"
     .string "Link Niveau 0\p"
-    .string "…POKeMON-opbevaring under\n"
+    .string "…POKéMON-opbevaring under\n"
     .string "justering…$"
 
 OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKanto::

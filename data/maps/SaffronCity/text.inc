@@ -23,7 +23,7 @@ SaffronCity_Text_WatchWhereYoureWalking::
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
     .string "Med SILPH under kontrol kan vi\n"
-    .string "udnytte POKeMON verden over!\p"
+    .string "udnytte POKéMON verden over!\p"
     .string "Vi bliver stinkende rige, jaha!$"
 
 SaffronCity_Text_YouBeatTeamRocket::
@@ -70,9 +70,9 @@ SaffronCity_Text_FightingDojo::
     .string "FIGHTING DOJO$"
 
 SaffronCity_Text_GymSign::
-    .string "SAFFRON CITY POKeMON GYM\n"
+    .string "SAFFRON CITY POKéMON GYM\n"
     .string "LEADER: SABRINA\l"
-    .string "Mesteren af PSYCHIC POKeMON!$"
+    .string "Mesteren af PSYCHIC POKéMON!$"
 
 SaffronCity_Text_FullHealCuresStatus::
     .string "TRAINER TIPS\p"
@@ -87,7 +87,7 @@ SaffronCity_Text_GreatBallImprovedCatchRate::
     .string "Den nye GREAT BALL giver bedre\n"
     .string "fangstrate.\p"
     .string "Pröv den pâ de svärt-fangbare\n"
-    .string "POKeMON.$"
+    .string "POKéMON.$"
 
 SaffronCity_Text_SilphCoSign::
     .string "SILPH CO. KONTORBYGNING$"
@@ -100,7 +100,7 @@ SaffronCity_Text_SilphsLatestProduct::
     .string "Udgivelse afgöres…$"
 
 SaffronCity_Text_TrainerFanClubSign::
-    .string "POKeMON TRAINER FAN CLUB\p"
+    .string "POKéMON TRAINER FAN CLUB\p"
     .string "Mange TRAINERE har skrevet deres\n"
     .string "navne pâ dette skilt.$"
 

@@ -24,7 +24,7 @@ RockTunnel_B1F_Text_DudleyPostBattle::
     .string "at tänke.$"
 
 RockTunnel_B1F_Text_CooperIntro::
-    .string "Du har en POKeDEX?\n"
+    .string "Du har en POKéDEX?\n"
     .string "Jeg vil ogsâ have een.$"
 
 RockTunnel_B1F_Text_CooperDefeat::
@@ -32,23 +32,23 @@ RockTunnel_B1F_Text_CooperDefeat::
     .string "Jeg er sâ misundelig!$"
 
 RockTunnel_B1F_Text_CooperPostBattle::
-    .string "Nâr du er färdig med din POKeDEX,\n"
+    .string "Nâr du er färdig med din POKéDEX,\n"
     .string "kan jeg fâ den?$"
 
 RockTunnel_B1F_Text_SteveIntro::
-    .string "Oeh… Ved du noget om POKeMON\n"
+    .string "Øh… Ved du noget om POKéMON\n"
     .string "cosplay?$"
 
 RockTunnel_B1F_Text_SteveDefeat::
     .string "Nâ, det var det.$"
 
 RockTunnel_B1F_Text_StevePostBattle::
-    .string "POKeMON cosplay er at kläde sig ud som\n"
-    .string "POKeMON for sjov.\p"
+    .string "POKéMON cosplay er at kläde sig ud som\n"
+    .string "POKéMON for sjov.\p"
     .string "CLEFAIRY er en favorit.$"
 
 RockTunnel_B1F_Text_AllenIntro::
-    .string "Mine POKeMON teknikker vil fâ\n"
+    .string "Mine POKéMON teknikker vil fâ\n"
     .string "dig til at gräde!$"
 
 RockTunnel_B1F_Text_AllenDefeat::
@@ -57,7 +57,7 @@ RockTunnel_B1F_Text_AllenDefeat::
 
 RockTunnel_B1F_Text_AllenPostBattle::
     .string "I bjerge finder du ofte\n"
-    .string "ROCK-type POKeMON.$"
+    .string "ROCK-type POKéMON.$"
 
 RockTunnel_B1F_Text_MarthaIntro::
     .string "Jeg kommer ikke ofte her, men jeg\n"
@@ -68,7 +68,7 @@ RockTunnel_B1F_Text_MarthaDefeat::
     .string "Jeg tabte!$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-    .string "Jeg kan lide smâ POKeMON.\n"
+    .string "Jeg kan lide smâ POKéMON.\n"
     .string "Store er for skrämmende!$"
 
 RockTunnel_B1F_Text_EricIntro::
@@ -78,11 +78,11 @@ RockTunnel_B1F_Text_EricDefeat::
     .string "Afskaffet!$"
 
 RockTunnel_B1F_Text_EricPostBattle::
-    .string "Jeg opdrager mine POKeMON til at slâ\n"
+    .string "Jeg opdrager mine POKéMON til at slâ\n"
     .string "dine, unge.$"
 
 RockTunnel_B1F_Text_WinstonIntro::
-    .string "Jeg tegner illustrationer af POKeMON\n"
+    .string "Jeg tegner illustrationer af POKéMON\n"
     .string "nâr jeg er hjemme.$"
 
 RockTunnel_B1F_Text_WinstonDefeat::

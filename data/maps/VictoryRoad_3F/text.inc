@@ -12,12 +12,12 @@ Text_DoubleEdgeDeclined::
     .string "nâr som helst.$"
 
 Text_DoubleEdgeWhichMon::
-    .string "Hvilken POKeMON skal jeg läre\n"
+    .string "Hvilken POKéMON skal jeg läre\n"
     .string "DOUBLE-EDGE?$"
 
 Text_DoubleEdgeTaught::
     .string "Hold den drive körende mod\n"
-    .string "POKeMON LEAGUE!\p"
+    .string "POKéMON LEAGUE!\p"
     .string "Löb ind i dem og slâ dem ud!$"
 
 VictoryRoad_3F_Text_GeorgeIntro::
@@ -31,7 +31,7 @@ VictoryRoad_3F_Text_GeorgePostBattle::
     .string "fra TEAM ROCKET?$"
 
 VictoryRoad_3F_Text_AlexaIntro::
-    .string "TRAeNERE lever for at söge stärkere\n"
+    .string "TRÆNERE lever for at söge stärkere\n"
     .string "modstandere.$"
 
 VictoryRoad_3F_Text_AlexaDefeat::
@@ -60,8 +60,8 @@ VictoryRoad_3F_Text_ColbyDefeat::
     .string "Jeg tror det ikke!$"
 
 VictoryRoad_3F_Text_ColbyPostBattle::
-    .string "Alle TRAeNERE her er pâ vej til\n"
-    .string "POKeMON LEAGUE.\p"
+    .string "Alle TRÆNERE her er pâ vej til\n"
+    .string "POKéMON LEAGUE.\p"
     .string "Slap ikke af med vagtsomheden.$"
 
 VictoryRoad_3F_Text_RayIntro::
@@ -79,7 +79,7 @@ VictoryRoad_3F_Text_RayPostBattle::
 VictoryRoad_3F_Text_RayNotEnoughMons::
     .string "RAY: Sammen sträber vi to efter\n"
     .string "tinden.\p"
-    .string "Du skal have to POKeMON med\n"
+    .string "Du skal have to POKéMON med\n"
     .string "i kamp mod os.$"
 
 VictoryRoad_3F_Text_TyraIntro::
@@ -95,5 +95,5 @@ VictoryRoad_3F_Text_TyraPostBattle::
 
 VictoryRoad_3F_Text_TyraNotEnoughMons::
     .string "TYRA: Du kan ikke kämpe med os hvis\n"
-    .string "du kun har en POKeMON.$"
+    .string "du kun har en POKéMON.$"
 

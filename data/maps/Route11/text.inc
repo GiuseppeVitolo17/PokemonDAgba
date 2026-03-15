@@ -6,7 +6,7 @@ Route11_Text_HugoDefeat::
     .string "Det gik ikke min vej!$"
 
 Route11_Text_HugoPostBattle::
-    .string "POKeMON er livet!\n"
+    .string "POKéMON er livet!\n"
     .string "Og at leve er at spille spil!$"
 
 Route11_Text_JasperIntro::
@@ -18,7 +18,7 @@ Route11_Text_JasperDefeat::
 
 Route11_Text_JasperPostBattle::
     .string "Du kan ikke väre en kujon i\n"
-    .string "POKeMONs verden!$"
+    .string "POKéMONs verden!$"
 
 Route11_Text_EddieIntro::
     .string "Lad os kämpe, men fuske ikke!$"
@@ -46,7 +46,7 @@ Route11_Text_DillonIntro::
     .string "Men jeg tror jeg kan vinde.$"
 
 Route11_Text_DillonDefeat::
-    .string "Mine POKeMON kunne ikke vinde…\n"
+    .string "Mine POKéMON kunne ikke vinde…\n"
     .string "Er de ikke vokset nok?$"
 
 Route11_Text_DillonPostBattle::
@@ -78,10 +78,10 @@ Route11_Text_YasuIntro::
 
 Route11_Text_YasuDefeat::
     .string "Pokkers!\n"
-    .string "Mine POKeMON skal väre stärkere!$"
+    .string "Mine POKéMON skal väre stärkere!$"
 
 Route11_Text_YasuPostBattle::
-    .string "Der er en fed POKeMON der kommer\n"
+    .string "Der er en fed POKéMON der kommer\n"
     .string "ned fra bjergene.\p"
     .string "Jeg vedder pâ den er stärk, hvis\n"
     .string "du kan fange den.$"
@@ -97,7 +97,7 @@ Route11_Text_BerniePostBattle::
     .string "Nu mâ jeg tilbage til arbejdet.$"
 
 Route11_Text_DaveIntro::
-    .string "Jeg har opdraget mine POKeMON\n"
+    .string "Jeg har opdraget mine POKéMON\n"
     .string "omhyggeligt. De bör väre klar nu!$"
 
 Route11_Text_DaveDefeat::

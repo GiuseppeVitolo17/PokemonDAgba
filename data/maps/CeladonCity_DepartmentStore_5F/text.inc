@@ -1,17 +1,17 @@
 CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
-    .string "POKeMON stat-forbedringer kan kun\n"
+    .string "POKéMON stat-forbedringer kan kun\n"
     .string "köbes her.\p"
     .string "HP UP öger basis HP af en\n"
-    .string "POKeMON.\p"
+    .string "POKéMON.\p"
     .string "CALCIUM öger basis SP. ATK\n"
-    .string "stat af en POKeMON.\p"
+    .string "stat af en POKéMON.\p"
     .string "ZINC öger basis SP. DEF stat\n"
-    .string "af en POKeMON.\p"
+    .string "af en POKéMON.\p"
     .string "CARBOS forbedrer basis SPEED\n"
     .string "stat.$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
-    .string "Jeg er her efter POKeMON stat-\n"
+    .string "Jeg er her efter POKéMON stat-\n"
     .string "forbedringer.\p"
     .string "PROTEIN öger basis ATTACK\n"
     .string "kraft.\p"

@@ -15,7 +15,7 @@ SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
     .string "Men jeg beder dig, tag ikke\n"
     .string "vârt emblem som din trofä!\p"
     .string "Til gengäld giver jeg dig et värdifuldt\n"
-    .string "FIGHTING POKeMON!\p"
+    .string "FIGHTING POKéMON!\p"
     .string "Välig hvilken som helst du vil!$"
 
 SaffronCity_Dojo_Text_StayAndTrainWithUs::

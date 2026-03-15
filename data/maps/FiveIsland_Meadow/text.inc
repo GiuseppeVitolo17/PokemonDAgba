@@ -50,7 +50,7 @@ FiveIsland_Meadow_Text_Rocket3Intro::
     .string "kommer forbi mig.$"
 
 FiveIsland_Meadow_Text_Rocket3Defeat::
-    .string "Oeh, det gör mig rasende!$"
+    .string "Øh, det gör mig rasende!$"
 
 FiveIsland_Meadow_Text_Rocket3PostBattle::
     .string "Du kommer ikke ind uden\n"

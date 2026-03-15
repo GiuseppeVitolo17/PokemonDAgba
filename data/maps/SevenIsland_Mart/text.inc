@@ -1,8 +1,8 @@
 SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
-    .string "POKeMON har deres egen personlighed,\n"
+    .string "POKéMON har deres egen personlighed,\n"
     .string "ligesom mennesker.\p"
     .string "Min PIKACHU har en HASTY natur,\n"
-    .string "sâ den blev en hurtig POKeMON.$"
+    .string "sâ den blev en hurtig POKéMON.$"
 
 SevenIsland_Mart_Text_PreparationsCompleteForRuins::
     .string "Okay, forberedelserne er färdige\n"

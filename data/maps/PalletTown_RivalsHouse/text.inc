@@ -27,7 +27,7 @@ PalletTown_RivalsHouse_Text_ExplainTownMap::
     .string "stedsnavne.$"
 
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
-    .string "DAISY: Lige som mennesker er POKeMON\n"
+    .string "DAISY: Lige som mennesker er POKéMON\n"
     .string "levende väsener.\p"
     .string "Nâr de bliver trätte, giv dem\n"
     .string "venligst hvile.$"
@@ -38,7 +38,7 @@ PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
     .string "Hylderne er proppet med böger\n"
-    .string "om POKeMON.$"
+    .string "om POKéMON.$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
     .string "DAISY: Hej, {PLAYER}!\n"
@@ -46,7 +46,7 @@ PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
     .string "Jeg skal lige til at drikke te.\n"
     .string "Vil du väre med?\p"
     .string "Oh, men se.\n"
-    .string "Dine POKeMON er lidt snavsede.\p"
+    .string "Dine POKéMON er lidt snavsede.\p"
     .string "Skal jeg pudse en?$"
 
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
@@ -70,22 +70,22 @@ PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #endif
     .string "Se? Ser den ikke pän ud?\p"
     .string "Fnise…\n"
-    .string "Det er sâdan en söd POKeMON.$"
+    .string "Det er sâdan en söd POKéMON.$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
     .string "Oh, undskyld. Jeg kan ärligt ikke\n"
     .string "pudse et ÄG.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
-    .string "DAISY: Dine POKeMON lärer at elske\n"
+    .string "DAISY: Dine POKéMON lärer at elske\n"
     .string "dig hvis du opdrager dem med kärlighed.\p"
     .string "For eksempel, {PLAYER}, mâ jeg se\n"
-    .string "din förste POKeMON?$"
+    .string "din förste POKéMON?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
     .string "Den kan umuligt elske dig mere\n"
     .string "end den gör nu.\p"
-    .string "Din POKeMON er lykkelig uden\n"
+    .string "Din POKéMON er lykkelig uden\n"
     .string "ord.$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
@@ -104,7 +104,7 @@ PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
     .string "Den er ikke helt vant til dig\n"
     .string "endnu.\p"
-    .string "POKeMON er alle ret forsigtige\n"
+    .string "POKéMON er alle ret forsigtige\n"
     .string "nâr du först fâr dem.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
@@ -114,9 +114,9 @@ PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
     .string "venligere mod den?$"
 
 PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
-    .string "…Oeh, det er ikke nemt for mig at\n"
+    .string "…Øh, det er ikke nemt for mig at\n"
     .string "sige dette, men…\p"
-    .string "Er der en grund til at din POKeMON\n"
+    .string "Er der en grund til at din POKéMON\n"
     .string "ville hade dig sâ meget?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::

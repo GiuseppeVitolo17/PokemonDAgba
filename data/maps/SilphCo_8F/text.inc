@@ -43,7 +43,7 @@ SilphCo_8F_Text_FloorSign::
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
     .string "TEAM ROCKETs BOSS er frygtelig\n"
     .string "grausom!\p"
-    .string "For ham er POKeMON bare värktöjer\n"
+    .string "For ham er POKéMON bare värktöjer\n"
     .string "der skal bruges.\p"
     .string "Hvad sker der hvis den tyran\n"
     .string "overtar vores virksomhed…$"

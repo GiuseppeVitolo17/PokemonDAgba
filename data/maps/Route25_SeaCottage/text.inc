@@ -1,5 +1,5 @@
 Route25_SeaCottage_Text_ImBillHelpMeOutPal::
-    .string "Hej! Jeg er en POKeMON...\n"
+    .string "Hej! Jeg er en POKéMON...\n"
     .string "...Nej er jeg ikke!\p"
     .string "Kald mig BILL!\n"
     .string "Jeg er en ägte POKeMANIAC!\p"
@@ -7,12 +7,12 @@ Route25_SeaCottage_Text_ImBillHelpMeOutPal::
     .string "Hvad er det for et skeptisk blik?\p"
     .string "Jeg laver ikke sjov med dig.\p"
     .string "Jeg lavede en fejl i et eksperiment\n"
-    .string "og blev kombineret med en POKeMON!\p"
+    .string "og blev kombineret med en POKéMON!\p"
     .string "Sâ hvad siger du?\n"
     .string "Hjälp mig!$"
 
 Route25_SeaCottage_Text_ImBillHelpMeOutLady::
-    .string "Hej! Jeg er en POKeMON...\n"
+    .string "Hej! Jeg er en POKéMON...\n"
     .string "...Nej er jeg ikke!\p"
     .string "Kald mig BILL!\n"
     .string "Jeg er en ägte POKeMANIAC!\p"
@@ -20,7 +20,7 @@ Route25_SeaCottage_Text_ImBillHelpMeOutLady::
     .string "Hvad er det for et skeptisk blik?\p"
     .string "Jeg laver ikke sjov med dig, fröken.\p"
     .string "Jeg lavede en fejl i et eksperiment\n"
-    .string "og blev kombineret med en POKeMON!\p"
+    .string "og blev kombineret med en POKéMON!\p"
     .string "Sâ hvad siger du?\n"
     .string "Hjälp mig!$"
 
@@ -54,7 +54,7 @@ Route25_SeaCottage_Text_ThanksBudTakeThis::
     .string "BILL: Yeehah!\n"
     .string "Tak, ven! Jeg skylder dig en!\p"
     .string "Sâ kom du for at se min\n"
-    .string "POKeMON-samling?\p"
+    .string "POKéMON-samling?\p"
     .string "Det gjorde du ikke?\n"
     .string "Det er ärgerligt.\p"
     .string "Jeg mâ takke dig...\n"
@@ -64,7 +64,7 @@ Route25_SeaCottage_Text_ThanksLadyTakeThis::
     .string "BILL: Yeehah!\n"
     .string "Tak, fröken! Jeg skylder dig en!\p"
     .string "Sâ kom du for at se min\n"
-    .string "POKeMON-samling?\p"
+    .string "POKéMON-samling?\p"
     .string "Det gjorde du ikke?\n"
     .string "Det er ärgerligt.\p"
     .string "Jeg mâ takke dig...\n"
@@ -89,7 +89,7 @@ Route25_SeaCottage_Text_SSAnnePartyYouGoInstead::
 
 Route25_SeaCottage_Text_CheckOutRareMonsOnPC::
     .string "BILL: Vil du se nogle af mine\n"
-    .string "själdne POKeMON pâ min PC?\p"
+    .string "själdne POKéMON pâ min PC?\p"
     .string "Ga til min PC.$"
 
 Route25_SeaCottage_Text_TeleporterIsDisplayed::
@@ -100,7 +100,7 @@ Route25_SeaCottage_Text_InitiatedTeleportersCellSeparator::
     .string "Celleadskiller.$"
 
 Route25_SeaCottage_Text_BillsFavoriteMonList::
-    .string "BILLs liste over yndlings-POKeMON!$"
+    .string "BILLs liste over yndlings-POKéMON!$"
 
 Route25_SeaCottage_Text_SeeWhichMon::
-    .string "Hvilken POKeMON vil du se?$"
+    .string "Hvilken POKéMON vil du se?$"

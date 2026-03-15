@@ -1,12 +1,12 @@
 FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
-    .string "SELPHY: Oeh?\n"
+    .string "SELPHY: Øh?\n"
     .string "Kender jeg dig et sted fra?\p"
     .string "Men det er lige meget.\p"
     .string "Jeg keder mig uendeligt.\n"
     .string "Hör venligst min önskning.$"
 
 FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
-    .string "Jeg vil gerne se en POKeMON.\n"
+    .string "Jeg vil gerne se en POKéMON.\n"
     .string "En söd {STR_VAR_1}.\p"
     .string "Jeg vil se en med det samme.\n"
     .string "Opfyld venligst min önskning.$"
@@ -18,8 +18,8 @@ FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
     .string "vär venlig ikke at skuffe näste gang.$"
 
 FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
-    .string "SELPHY: Oeh, hej.\p"
-    .string "Oeh, du godeste. Det mâ väre den\n"
+    .string "SELPHY: Øh, hej.\p"
+    .string "Øh, du godeste. Det mâ väre den\n"
     .string "{STR_VAR_1}, du fangede til mig.\p"
     .string "Fnise…\n"
     .string "Den ligner dig.\p"
@@ -54,7 +54,7 @@ FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
     .string "desvärre fuld.$"
 
 FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
-    .string "Oeh…\n"
+    .string "Øh…\n"
     .string "Sâ skuffende.$"
 
 FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck::

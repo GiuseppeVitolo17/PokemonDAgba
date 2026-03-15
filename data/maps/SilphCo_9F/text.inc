@@ -9,7 +9,7 @@ SilphCo_9F_Text_ThankYouSoMuch::
     .string "Tusind tak.$"
 
 SilphCo_9F_Text_Grunt1Intro::
-    .string "Dine POKeMON ser ud til at tilbede dig,\n"
+    .string "Dine POKéMON ser ud til at tilbede dig,\n"
     .string "unge!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
@@ -20,7 +20,7 @@ SilphCo_9F_Text_Grunt1PostBattle::
     .string "din alder…$"
 
 SilphCo_9F_Text_EdIntro::
-    .string "Dine POKeMON har svâghedspunkter!\n"
+    .string "Dine POKéMON har svâghedspunkter!\n"
     .string "Jeg kan ramme dem!$"
 
 SilphCo_9F_Text_EdDefeat::

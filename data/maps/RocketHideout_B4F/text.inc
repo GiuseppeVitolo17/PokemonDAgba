@@ -1,7 +1,7 @@
 RocketHideout_B4F_Text_GiovanniIntro::
     .string "Sâ! Jeg mâ sige, jeg er imponeret over\n"
     .string "at du kom her.\p"
-    .string "TEAM ROCKET fanger POKeMON fra\n"
+    .string "TEAM ROCKET fanger POKéMON fra\n"
     .string "hele verden.\p"
     .string "De er vigtige värktöjer til at holde\n"
     .string "vores kriminelle foretagenhed i gang.\p"
@@ -14,7 +14,7 @@ RocketHideout_B4F_Text_GiovanniDefeat::
     .string "Det kan ikke väre!$"
 
 RocketHideout_B4F_Text_GiovanniPostBattle::
-    .string "Jeg ser at du opdrager POKeMON med\n"
+    .string "Jeg ser at du opdrager POKéMON med\n"
     .string "störste omhu.\p"
     .string "Et barn som dig ville aldrig\n"
     .string "forstâ hvad jeg hâber at opnâ.\p"

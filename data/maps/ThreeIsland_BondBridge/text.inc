@@ -8,14 +8,14 @@ ThreeIsland_BondBridge_Text_NikkiDefeat::
 
 ThreeIsland_BondBridge_Text_NikkiPostBattle::
     .string "Mâske er den stank din svedige\n"
-    .string "POKeMONs kropslugt…$"
+    .string "POKéMONs kropslugt…$"
 
 ThreeIsland_BondBridge_Text_VioletIntro::
     .string "Hvor skal du hen i sâ stor fart?$"
 
 ThreeIsland_BondBridge_Text_VioletDefeat::
     .string "Du opdrager nogle vidunderlige\n"
-    .string "POKeMON.$"
+    .string "POKéMON.$"
 
 ThreeIsland_BondBridge_Text_VioletPostBattle::
     .string "Hvis du fortsätter denne vej, nâr\n"
@@ -35,7 +35,7 @@ ThreeIsland_BondBridge_Text_AmiraPostBattle::
 
 ThreeIsland_BondBridge_Text_AlexisIntro::
     .string "Yay, yay!\n"
-    .string "POKeMON!$"
+    .string "POKéMON!$"
 
 ThreeIsland_BondBridge_Text_AlexisDefeat::
     .string "Hvad sker der nu?$"
@@ -53,13 +53,13 @@ ThreeIsland_BondBridge_Text_TishaDefeat::
     .string "Vil du venligst gâ väk nu?$"
 
 ThreeIsland_BondBridge_Text_TishaPostBattle::
-    .string "En POKeMON bed igennem mit\n"
+    .string "En POKéMON bed igennem mit\n"
     .string "badedragt.\p"
     .string "Jeg kan ikke komme ud af vandet!$"
 
 ThreeIsland_BondBridge_Text_JoyIntro::
     .string "JOY: Vi lärer dig hvad vores\n"
-    .string "yndlings-POKeMON er!$"
+    .string "yndlings-POKéMON er!$"
 
 ThreeIsland_BondBridge_Text_JoyDefeat::
     .string "JOY: Aâah…\n"
@@ -72,11 +72,11 @@ ThreeIsland_BondBridge_Text_JoyPostBattle::
 ThreeIsland_BondBridge_Text_JoyNotEnoughMons::
     .string "JOY: Jeg vil virkelig gerne kämpe med\n"
     .string "MEG.\p"
-    .string "Én POKeMON er ikke nok.$"
+    .string "Én POKéMON er ikke nok.$"
 
 ThreeIsland_BondBridge_Text_MegIntro::
     .string "MEG: Vi viser dig vores yndlings-\n"
-    .string "POKeMON.$"
+    .string "POKéMON.$"
 
 ThreeIsland_BondBridge_Text_MegDefeat::
     .string "MEG: Aâah…\n"
@@ -88,7 +88,7 @@ ThreeIsland_BondBridge_Text_MegPostBattle::
 ThreeIsland_BondBridge_Text_MegNotEnoughMons::
     .string "MEG: Jeg vil gerne kämpe sammen\n"
     .string "med JOY.\p"
-    .string "Én POKeMON er ikke nok.$"
+    .string "Én POKéMON er ikke nok.$"
 
 ThreeIsland_BondBridge_Text_BerryForestAhead::
     .string "BERRY FOREST FORUDE$"

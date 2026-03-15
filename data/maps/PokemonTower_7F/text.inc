@@ -12,7 +12,7 @@ PokemonTower_7F_Text_Grunt2Intro::
     .string "Den gamle mand marcherede lige ind i\n"
     .string "vores HIDEOUT.\p"
     .string "Sâ begynder han at rante om at\n"
-    .string "TEAM ROCKET misbruger POKeMON.\p"
+    .string "TEAM ROCKET misbruger POKéMON.\p"
     .string "Sâ vi taler bare om det som\n"
     .string "voksne.$"
 
@@ -21,7 +21,7 @@ PokemonTower_7F_Text_Grunt2Defeat::
     .string "Ikke mere!$"
 
 PokemonTower_7F_Text_Grunt2PostBattle::
-    .string "POKeMON er kun gode til at tjene\n"
+    .string "POKéMON er kun gode til at tjene\n"
     .string "penge. Hvorfor ikke bruge dem?\p"
     .string "Bliv ude af vores forretning!$"
 
@@ -45,5 +45,5 @@ PokemonTower_7F_Text_MrFujiThankYouFollowMe::
     .string "har forladt os.\p"
     .string "Jeg mâ takke dig for din venlige\n"
     .string "omtanke.\p"
-    .string "Fölg mig til mit hjem, POKeMON\n"
+    .string "Fölg mig til mit hjem, POKéMON\n"
     .string "HOUSE, ved foden af dette târn.$"

@@ -1,11 +1,11 @@
 ViridianForest_Text_FriendsItchingToBattle::
     .string "Jeg kom her med nogle venner for at\n"
-    .string "fange BUG POKeMON!\p"
+    .string "fange BUG POKéMON!\p"
     .string "De er alle ivrige efter at komme i\n"
-    .string "POKeMON kampe!$"
+    .string "POKéMON kampe!$"
 
 ViridianForest_Text_RickIntro::
-    .string "Hey! Du har POKeMON!\n"
+    .string "Hey! Du har POKéMON!\n"
     .string "Kom an!\l"
     .string "Lad os kämpe med dem!$"
 
@@ -20,11 +20,11 @@ ViridianForest_Text_RickPostBattle::
 ViridianForest_Text_DougIntro::
     .string "Yo!\n"
     .string "Du kan ikke jamme hvis du er en\l"
-    .string "POKeMON TRÄNER!$"
+    .string "POKéMON TRÄNER!$"
 
 ViridianForest_Text_DougDefeat::
     .string "Huh?\n"
-    .string "Jeg löb tör for POKeMON!$"
+    .string "Jeg löb tör for POKéMON!$"
 
 ViridianForest_Text_DougPostBattle::
     .string "Det stinker totalt! Jeg fanger nogle\n"
@@ -56,47 +56,47 @@ ViridianForest_Text_AnthonyPostBattle::
     .string "Jeg tabte noget af mine lommepenge…$"
 
 ViridianForest_Text_CharlieIntro::
-    .string "Vidste du at POKeMON udvikler sig?$"
+    .string "Vidste du at POKéMON udvikler sig?$"
 
 ViridianForest_Text_CharlieDefeat::
     .string "Aah!\n"
     .string "Jeg tabte!$"
 
 ViridianForest_Text_CharliePostBattle::
-    .string "BUG POKeMON udvikler sig hurtigt.\n"
+    .string "BUG POKéMON udvikler sig hurtigt.\n"
     .string "De er rigtig sjove!$"
 
 ViridianForest_Text_RanOutOfPokeBalls::
     .string "Jeg kastede POKe BALLS for at\n"
-    .string "fange POKeMON, og jeg löb tör.\p"
+    .string "fange POKéMON, og jeg löb tör.\p"
     .string "Derfor kan man aldrig have for\n"
     .string "mange POKe BALLS.$"
 
 ViridianForest_Text_AvoidGrassyAreasWhenWeak::
     .string "TRÄNER TIPS\p"
-    .string "Hvis dine POKeMON er svage og du\n"
+    .string "Hvis dine POKéMON er svage og du\n"
     .string "vil undgâ kampe, hold dig väk\l"
     .string "fra gräsomrâder!$"
 
 ViridianForest_Text_UseAntidoteForPoison::
     .string "Mod gift, brug ANTIDOTE!\n"
-    .string "Fâ det i POKeMON MARTS!$"
+    .string "Fâ det i POKéMON MARTS!$"
 
 ViridianForest_Text_ContactOakViaPCToRatePokedex::
     .string "TRÄNER TIPS\p"
     .string "Kontakt PROF. OAK via en PC for at\n"
-    .string "fâ din POKeDEX vurderet!$"
+    .string "fâ din POKéDEX vurderet!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
     .string "TRÄNER TIPS\p"
-    .string "Du kan ikke fange en POKeMON der\n"
+    .string "Du kan ikke fange en POKéMON der\n"
     .string "tilhörer en anden.\p"
     .string "Kast kun POKe BALLS mod vilde\n"
-    .string "POKeMON for at fange dem!$"
+    .string "POKéMON for at fange dem!$"
 
 ViridianForest_Text_WeakenMonsBeforeCapture::
     .string "TRÄNER TIPS\p"
-    .string "Sväkk POKeMON för du pröver at\n"
+    .string "Sväkk POKéMON för du pröver at\n"
     .string "fange dem!\p"
     .string "Nâr de er sunde, kan de flygte!$"
 

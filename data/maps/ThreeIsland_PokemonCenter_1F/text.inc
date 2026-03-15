@@ -12,8 +12,8 @@ ThreeIsland_PokemonCenter_1F_Text_ImpossibleToSurfBetweenIslands::
     .string "farlige.$"
 
 ThreeIsland_PokemonCenter_1F_Text_AlwaysBerriesInBerryForest::
-    .string "Lad os mase BAeR!\n"
-    .string "…Det ville väre at spilde BAeR?\p"
-    .string "Man kan altid finde BAeR pâ\n"
+    .string "Lad os mase BÆR!\n"
+    .string "…Det ville väre at spilde BÆR?\p"
+    .string "Man kan altid finde BÆR pâ\n"
     .string "jorden i BERRY FOREST.$"
 

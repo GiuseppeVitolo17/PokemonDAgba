@@ -1,12 +1,12 @@
 Route21_South_Text_JackIntro::
-	.string "Jeg fangede mine POKeMON til havs.$"
+	.string "Jeg fangede mine POKéMON til havs.$"
 
 Route21_South_Text_JackDefeat::
 	.string "Dykker!!\n"
 	.string "Ned!!$"
 
 Route21_South_Text_JackPostBattle::
-	.string "Hvor fangede du dine POKeMON?$"
+	.string "Hvor fangede du dine POKéMON?$"
 
 Route21_South_Text_JeromeIntro::
 	.string "Lige nu er jeg i en triathlon.$"
@@ -67,7 +67,7 @@ Route21_North_Text_LilPostBattle::
 Route21_North_Text_LilNotEnoughMons::
 	.string "LIL: Hvad? En kamp?\n"
 	.string "Jeg gider ikke göre det alene.\l"
-	.string "Medbring to POKeMON, vil du?$"
+	.string "Medbring to POKéMON, vil du?$"
 
 Route21_North_Text_IanIntro::
 	.string "IAN: Min söster motionerer ikke nok,\n"
@@ -83,4 +83,4 @@ Route21_North_Text_IanPostBattle::
 
 Route21_North_Text_IanNotEnoughMons::
 	.string "IAN: Vi vil have en to-mod-to kamp.\n"
-	.string "Sâ kan du medbringe to POKeMON?$"
+	.string "Sâ kan du medbringe to POKéMON?$"

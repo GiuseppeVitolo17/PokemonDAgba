@@ -42,7 +42,7 @@ FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
     .string "VOGTER: I HM04 findes STRENGTH.\p"
-    .string "Det lader POKeMON flytte kampesten\n"
+    .string "Det lader POKéMON flytte kampesten\n"
     .string "uden for kamp.\p"
     .string "Aa ja, fandt du det hemmelige\n"
     .string "HUS i SAFARI ZONE?$"
@@ -53,10 +53,10 @@ FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
     .string "いっぱいやんけ！$"
 
 FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplay::
-    .string "POKeMON-fotos og fossiler er\n"
+    .string "POKéMON-fotos og fossiler er\n"
     .string "udstillet.$"
 
 FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplay::
-    .string "Gammel POKeMON-merchandise er\n"
+    .string "Gammel POKéMON-merchandise er\n"
     .string "udstillet.$"
 

@@ -15,7 +15,7 @@ SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
 
 SafariZone_SecretHouse_Text_ExplainSurf::
     .string "HM03 er SURF.\p"
-    .string "POKeMON kan färge dig over vand\n"
+    .string "POKéMON kan färge dig over vand\n"
     .string "med den.\p"
     .string "Og denne HM er ikke engangsbrug,\n"
     .string "sâ du kan bruge den igen og igen.\p"

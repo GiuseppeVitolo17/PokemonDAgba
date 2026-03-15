@@ -6,10 +6,10 @@ CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
     .string "Jeg hörte noget nyttigt.\p"
-    .string "Hvis en vild POKeMON dukker op, kan du\n"
+    .string "Hvis en vild POKéMON dukker op, kan du\n"
     .string "distrahere den med en POKe DOLL.\p"
     .string "Du kan löbe väk mens den vilde\n"
-    .string "POKeMON er distraheret.$"
+    .string "POKéMON er distraheret.$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
     .string "Udtryk dig med gaver!\n"

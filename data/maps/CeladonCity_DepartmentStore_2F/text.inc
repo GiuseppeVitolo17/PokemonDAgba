@@ -1,5 +1,5 @@
 CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
-    .string "SUPER REPEL holder sväkke POKeMON\n"
+    .string "SUPER REPEL holder sväkke POKéMON\n"
     .string "pâ afstand…\p"
     .string "Hmm, det er en stärkere REPEL.$"
 

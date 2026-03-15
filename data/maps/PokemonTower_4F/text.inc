@@ -28,5 +28,5 @@ PokemonTower_4F_Text_JodyDefeat::
     .string "Hvem? Hvad?$"
 
 PokemonTower_4F_Text_JodyPostBattle::
-    .string "Mâ de afdöde POKeMON hvile i\n"
+    .string "Mâ de afdöde POKéMON hvile i\n"
     .string "fred…$"

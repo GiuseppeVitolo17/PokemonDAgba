@@ -7,7 +7,7 @@ CeladonCity_Gym_Text_ErikaIntro::
     .string "Mit navn er ERIKA.\n"
     .string "Jeg er LEADER af CELADON GYM.\p"
     .string "Jeg er elev i blomsterarrangement.\p"
-    .string "Mine POKeMON er udelukkende af\n"
+    .string "Mine POKéMON er udelukkende af\n"
     .string "GRASS typen.\p"
     .string "…Aah, undskyld, jeg vidste ikke at\n"
     .string "du onskede at udfordre mig.\p"
@@ -21,15 +21,15 @@ CeladonCity_Gym_Text_ErikaDefeat::
     .string "RAINBOWBADGE.$"
 
 CeladonCity_Gym_Text_ErikaPostBattle::
-    .string "Du katalogiserer POKeMON?\n"
+    .string "Du katalogiserer POKéMON?\n"
     .string "Jeg mâ sige jeg er imponeret.\p"
-    .string "Jeg ville aldrig samle POKeMON hvis\n"
+    .string "Jeg ville aldrig samle POKéMON hvis\n"
     .string "de var uattraktive.$"
 
 CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
-    .string "RAINBOWBADGE fâr POKeMON op til Lv. 50\n"
+    .string "RAINBOWBADGE fâr POKéMON op til Lv. 50\n"
     .string "til at adlyde.\p"
-    .string "Den tillader ogsâ POKeMON at bruge\n"
+    .string "Den tillader ogsâ POKéMON at bruge\n"
     .string "STRENGTH i og uden kamp.\p"
     .string "Tag venligst ogsâ dette med dig.$"
 
@@ -40,7 +40,7 @@ CeladonCity_Gym_Text_ReceivedTM19FromErika::
 CeladonCity_Gym_Text_ExplainTM19::
     .string "TM19 indeholder GIGA DRAIN.\p"
     .string "Halvdelen af skaden den gör\n"
-    .string "draines for at helbrede din POKeMON.\p"
+    .string "draines for at helbrede din POKéMON.\p"
     .string "Vil du ikke give mig ret i at det er\n"
     .string "et vidunderligt trick?$"
 
@@ -67,10 +67,10 @@ CeladonCity_Gym_Text_BridgetDefeat::
     .string "Mit makeup!$"
 
 CeladonCity_Gym_Text_BridgetPostBattle::
-    .string "GRASS-type POKeMON er hârde\n"
+    .string "GRASS-type POKéMON er hârde\n"
     .string "mod WATER typen.\p"
     .string "De har ogsâ fordel mod ROCK-\n"
-    .string "og GROUND-type POKeMON.$"
+    .string "og GROUND-type POKéMON.$"
 
 CeladonCity_Gym_Text_TinaIntro::
     .string "…Kiggede du ikke ind her\n"
@@ -85,7 +85,7 @@ CeladonCity_Gym_Text_TinaPostBattle::
 
 CeladonCity_Gym_Text_TamiaIntro::
     .string "Se, se!\n"
-    .string "Se mine POKeMON!\p"
+    .string "Se mine POKéMON!\p"
     .string "Jeg kan lide GRASS typen.\n"
     .string "Jeg kan lide at de er nemme at opdrage.$"
 
@@ -93,7 +93,7 @@ CeladonCity_Gym_Text_TamiaDefeat::
     .string "Nej!$"
 
 CeladonCity_Gym_Text_TamiaPostBattle::
-    .string "Vi bruger kun GRASS-type POKeMON i\n"
+    .string "Vi bruger kun GRASS-type POKéMON i\n"
     .string "vores GYM.\p"
     .string "Hvorfor? Vi bruger dem ogsâ til\n"
     .string "blomsterarrangementer!$"
@@ -101,7 +101,7 @@ CeladonCity_Gym_Text_TamiaPostBattle::
 CeladonCity_Gym_Text_LisaIntro::
     .string "Aah, hej!\p"
     .string "Vi kan ikke lide BUG- eller FIRE-type\n"
-    .string "POKeMON herinde!$"
+    .string "POKéMON herinde!$"
 
 CeladonCity_Gym_Text_LisaDefeat::
     .string "Aah!\n"
@@ -113,7 +113,7 @@ CeladonCity_Gym_Text_LisaPostBattle::
 
 CeladonCity_Gym_Text_LoriIntro::
     .string "Dejligt at möde dig.\n"
-    .string "Min hobby er POKeMON träning.$"
+    .string "Min hobby er POKéMON träning.$"
 
 CeladonCity_Gym_Text_LoriDefeat::
     .string "Aah!\n"
@@ -134,17 +134,17 @@ CeladonCity_Gym_Text_MaryDefeat::
     .string "Slâet!$"
 
 CeladonCity_Gym_Text_MaryPostBattle::
-    .string "Jeg tog ikke mine bedste POKeMON med.\n"
+    .string "Jeg tog ikke mine bedste POKéMON med.\n"
     .string "Vent til näste gang!$"
 
 CeladonCity_Gym_Text_GymStatue::
-    .string "CELADON POKeMON GYM\n"
+    .string "CELADON POKéMON GYM\n"
     .string "LEADER: ERIKA\p"
     .string "VINDENDE TRAINERS:\n"
     .string "{RIVAL}$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-    .string "CELADON POKeMON GYM\n"
+    .string "CELADON POKéMON GYM\n"
     .string "LEADER: ERIKA\p"
     .string "VINDENDE TRAINERS:\n"
     .string "{RIVAL}, {PLAYER}$"
