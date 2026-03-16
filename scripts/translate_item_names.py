@@ -5,7 +5,7 @@ import os
 
 MAX_LEN = 14
 
-# Danish names (charmap: ä=F4, ö=F5, â=68 for å; ö used for ø). All ≤14 chars.
+# Danish names. Use real æ, ø, å in strings; charmap (charmap.txt) maps them. All ≤14 chars.
 NAME_MAP = {
     # Balls
     "MASTER BALL": "MESTER BOLD",

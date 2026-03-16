@@ -18,6 +18,6 @@ After cloning, add the remote and push:
 `git remote add origin https://github.com/GiuseppeVitolo17/PokemonDAgba.git`  
 `git push -u origin master`
 
-**Danish characters:** The GBA font in this engine does not include the letters **æ, ø, å**. In the source we use **ae, oe, aa** instead (e.g. TRÆNER → TRAENER, SKØNHED → SKOENHED, BÅL → BAAL). The charmap has ä, ö, ü (German) but not Danish-specific glyphs.
+**Danish characters:** The charmap includes **Æ, Ø, Å, æ, ø, å** (see `charmap.txt` and `DANISH_FONT.md`). Patch the font PNGs with `scripts/patch_danish_font.py` so these glyphs display correctly; the script is aligned with the charmap (0x01=Å, 0x08=Ø, 0x09=ø, 0x0B=å, 0x10=Æ, 0x25=æ).
 
 **See also:** [pret](https://pret.github.io/) · [pokefirered (original)](https://github.com/pret/pokefirered) · [README på dansk](README_DA.md)

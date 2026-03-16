@@ -9,7 +9,7 @@ Options:
   3. --fetch-pokemonda  PokemonDA font (8x8); Danish slots not in their PNG, so
                         we fall back to built-in.
 
-Charmap slots: 0x09→Ø  0x0B→Å  0x0C→å  0x0D→ø  0x10→Æ  0x25→æ
+Charmap slots: 0x01→Å  0x08→Ø  0x09→ø  0x0B→å  0x10→Æ  0x25→æ
 
 Recommended: Download LanaPixel (CC BY 4.0) from OpenGameArt or GitHub
   ericoporto/pixel-utf8-fonts, put LanaPixel.ttf in tools/fonts/ or pass --ttf.
@@ -163,18 +163,18 @@ GLYPH_aa = _parse([
 ])
 
 DANISH_GLYPHS = {
-    0x09: GLYPH_OE,   # Ø
-    0x0B: GLYPH_AA,   # Å
-    0x0C: GLYPH_aa,   # å
-    0x0D: GLYPH_oe,   # ø
-    0x10: GLYPH_AE,   # Æ
-    0x25: GLYPH_ae,   # æ
+    0x01: GLYPH_AA,   # Å (charmap: À, Å = 01)
+    0x08: GLYPH_OE,   # Ø (charmap: Ë, Ø = 08)
+    0x09: GLYPH_oe,   # ø (charmap: Ì, ø = 09)
+    0x0B: GLYPH_aa,   # å (charmap: Î, å = 0B)
+    0x10: GLYPH_AE,   # Æ (charmap: Œ, Æ = 10)
+    0x25: GLYPH_ae,   # æ (charmap: œ, æ = 25)
 }
 
-# For TTF: character -> slot (same as DANISH_GLYPHS keys)
+# For TTF: character -> slot (must match charmap.txt)
 TTF_CHARS = [
-    ("Æ", 0x10), ("Ø", 0x09), ("Å", 0x0B),
-    ("æ", 0x25), ("ø", 0x0D), ("å", 0x0C),
+    ("Æ", 0x10), ("Ø", 0x08), ("Å", 0x01),
+    ("æ", 0x25), ("ø", 0x09), ("å", 0x0B),
 ]
 
 
