@@ -27,7 +27,7 @@ Route21_North_Text_SpencerDefeat::
 
 Route21_North_Text_SpencerPostBattle::
 	.string "Havet er fantastisk, men jeg\n"
-	.string "kan ogsâ lide bjergene.$"
+	.string "kan også lide bjergene.$"
 
 @ Below is the battle text for the Cue Ball that was on Route 21 in Gen 1.
 @ This trainer wasnt used in Gen 3 so their text goes unused/untranslated

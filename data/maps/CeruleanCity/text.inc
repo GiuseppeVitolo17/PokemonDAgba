@@ -20,11 +20,11 @@ CeruleanCity_Text_RivalPostBattle::
     .string "POKéDEX!\p"
     .string "BILL er trods alt verdensberømt som\n"
     .string "POKeMANIAC.\p"
-    .string "Han opfandt ogsâ POKéMON Storage\n"
-    .string "System pâ PC.\p"
+    .string "Han opfandt også POKéMON Storage\n"
+    .string "System på PC.\p"
     .string "Siden du bruger hans system,\n"
     .string "bør du takke ham.\p"
-    .string "Nâ, jeg mâ videre!\n"
+    .string "Nå, jeg må videre!\n"
     .string "Vi ses!$"
 
 CeruleanCity_Text_OhRightLittlePresentAsFavor::
@@ -53,11 +53,11 @@ CeruleanCity_Text_GruntIntro::
     .string "…Hva?\n"
     .string "Mig?\p"
     .string "Jeg er et uskyldigt vidne!\n"
-    .string "Tror du ikke pâ mig?{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
+    .string "Tror du ikke på mig?{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
 
 CeruleanCity_Text_GruntDefeat::
     .string "GRUNT: Stop! Jeg giver op!\n"
-    .string "Jeg gâer stille!$"
+    .string "Jeg gåer stille!$"
 
 CeruleanCity_Text_OkayIllReturnStolenTM::
     .string "…Okay.\n"
@@ -68,7 +68,7 @@ CeruleanCity_Text_RecoveredTM28FromGrunt::
     .string "TEAM ROCKET GRUNT.$"
 
 CeruleanCity_Text_BetterGetMovingBye::
-    .string "Jeg mâ videre!\n"
+    .string "Jeg må videre!\n"
     .string "Hej hej!$"
 
 CeruleanCity_Text_MakeRoomForThisCantRun::
@@ -76,13 +76,13 @@ CeruleanCity_Text_MakeRoomForThisCantRun::
     .string "Jeg kan ikke løbe før jeg har givet dig det!$"
 
 CeruleanCity_Text_TrainerLifeIsToughIsntIt::
-    .string "Du er ogsâ TRAINER?\p"
+    .string "Du er også TRAINER?\p"
     .string "Samle, kæmpe…\n"
-    .string "Det er et hârdt liv, er det ikke?$"
+    .string "Det er et hårdt liv, er det ikke?$"
 
 CeruleanCity_Text_YouCanCutDownSmallTrees::
     .string "Vidste du at du kan CUT ned\n"
-    .string "smâ træer?\p"
+    .string "små træer?\p"
     .string "Selv det lille træ foran\n"
     .string "butikken kan CUTtes ned.\p"
     .string "Jeg tror der er en vej rundt om det,\n"
@@ -91,7 +91,7 @@ CeruleanCity_Text_YouCanCutDownSmallTrees::
 CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
     .string "Hvis den SLOWBRO ikke var der, kunne du\n"
     .string "CUTte det lille træ ned.\p"
-    .string "Sâdan kunne du nâ den\n"
+    .string "Sådan kunne du nå den\n"
     .string "anden side.\p"
     .string "Jeg tror der er en vej rundt om det,\n"
     .string "dog.$"
@@ -115,7 +115,7 @@ CeruleanCity_Text_SlowbroPayAttention::
     .string "Kom nu, SLOWBRO, vær opmærksom!$"
 
 CeruleanCity_Text_SlowbroPunch::
-    .string "SLOWBRO, slâ!$"
+    .string "SLOWBRO, slå!$"
 
 CeruleanCity_Text_NoYouBlewItAgain::
     .string "Nej!\n"
@@ -126,7 +126,7 @@ CeruleanCity_Text_SlowbroWithdraw::
 
 CeruleanCity_Text_HardToControlMonsObedience::
     .string "Nej! Det er forkert!\n"
-    .string "Det er sâ svært at kontrollere POKéMON!\p"
+    .string "Det er så svært at kontrollere POKéMON!\p"
     .string "Din POKéMONs lydighed afhænger af\n"
     .string "dine evner som TRAINER.$"
 
@@ -144,7 +144,7 @@ CeruleanCity_Text_SlowbroIgnoredOrders::
 
 CeruleanCity_Text_WantBrightRedBicycle::
     .string "Jeg vil have en skinnende rød cykel.\p"
-    .string "Jeg holder den hjemme, sâ den ikke\n"
+    .string "Jeg holder den hjemme, så den ikke\n"
     .string "bliver beskidt.$"
 
 CeruleanCity_Text_ThisIsCeruleanCave::
@@ -152,7 +152,7 @@ CeruleanCity_Text_ThisIsCeruleanCave::
     .string "Forfærdeligt stærke POKéMON bor\n"
     .string "derinde.\p"
     .string "Det kræver en meget speciel TRAINER\n"
-    .string "for at fâ lov til at komme ind.\p"
+    .string "for at få lov til at komme ind.\p"
     .string "Du skal i det mindste være stærk nok\n"
     .string "til at blive POKéMON LEAGUE\l"
     .string "CHAMPION for at starte.\p"
@@ -161,18 +161,18 @@ CeruleanCity_Text_ThisIsCeruleanCave::
 
 CeruleanCity_Text_CitySign::
     .string "CERULEAN CITY\n"
-    .string "En mystisk, blâ aura omgiver\l"
+    .string "En mystisk, blå aura omgiver\l"
     .string "den$"
 
 CeruleanCity_Text_TrainerTipsHeldItems::
     .string "TRAINER TIPS\p"
-    .string "En POKéMON kan fâ et item at\n"
+    .string "En POKéMON kan få et item at\n"
     .string "holde.\p"
     .string "Nogle items kan endda bruges af\n"
     .string "den holdende POKéMON i kamp.$"
 
 CeruleanCity_Text_BikeShopSign::
-    .string "Græs og huler hândteres nemt!\n"
+    .string "Græs og huler håndteres nemt!\n"
     .string "BIKE SHOP$"
 
 CeruleanCity_Text_GymSign::

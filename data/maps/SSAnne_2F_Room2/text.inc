@@ -7,7 +7,7 @@ SSAnne_2F_Room2_Text_BrooksDefeat::
     .string "Aah, jeg føler mig ung igen!$"
 
 SSAnne_2F_Room2_Text_BrooksPostBattle::
-    .string "For femten âr siden ville\n"
+    .string "For femten år siden ville\n"
     .string "jeg have vundet!$"
 
 SSAnne_2F_Room2_Text_DaleIntro::

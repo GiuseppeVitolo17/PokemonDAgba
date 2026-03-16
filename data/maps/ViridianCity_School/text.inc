@@ -4,7 +4,7 @@ ViridianCity_School_Text_TryingToMemorizeNotes::
 
 ViridianCity_School_Text_ReadBlackboardCarefully::
     .string "Okay!\p"
-    .string "Sørg for at læse hvad der stâr pâ\n"
+    .string "Sørg for at læse hvad der står på\n"
     .string "tavlen omhyggeligt!$"
 
 ViridianCity_School_Text_NotebookFirstPage::
@@ -20,22 +20,22 @@ ViridianCity_School_Text_NotebookFirstPage::
 ViridianCity_School_Text_NotebookSecondPage::
     .string "Anden side…\p"
     .string "En sund POKéMON kan være svær at\n"
-    .string "fange, sâ svækk den først.\p"
-    .string "Forgift, brænd eller forârsag et andet\n"
+    .string "fange, så svækk den først.\p"
+    .string "Forgift, brænd eller forårsag et andet\n"
     .string "tilstandsproblem for at svække den.$"
 
 ViridianCity_School_Text_NotebookThirdPage::
     .string "Tredje side…\p"
     .string "POKéMON TRÆNERE søger andre til at\n"
-    .string "indgâ i POKéMON kampe.\p"
+    .string "indgå i POKéMON kampe.\p"
     .string "For TRÆNERE er smagen af sejr\n"
     .string "sød, sandelig.\p"
-    .string "Kampe udkæmpes konstant pâ\n"
+    .string "Kampe udkæmpes konstant på\n"
     .string "POKéMON GYMS overalt.$"
 
 ViridianCity_School_Text_NotebookFourthPage::
     .string "Fjerde side…\p"
-    .string "Det ultimative mâl for alle POKéMON\n"
+    .string "Det ultimative mål for alle POKéMON\n"
     .string "TRÆNERE er enkelt.\p"
     .string "Det er at besejre de top otte\n"
     .string "POKéMON GYM LEDERE.\p"
@@ -48,7 +48,7 @@ ViridianCity_School_Text_TurnThePage::
 
 ViridianCity_School_Text_HeyDontLookAtMyNotes::
     .string "PIGE: Hej!\n"
-    .string "Kig ikke pâ mine noter!$"
+    .string "Kig ikke på mine noter!$"
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
     .string "Tavlen viser POKéMON\n"
@@ -67,12 +67,12 @@ ViridianCity_School_Text_ExplainSleep::
 
 ViridianCity_School_Text_ExplainBurn::
     .string "En forbrændning reducerer ANGREBS styrke.\n"
-    .string "Den forârsager ogsâ løbende HP-tab.\p"
+    .string "Den forårsager også løbende HP-tab.\p"
     .string "En forbrændning forbliver efter en kamp.\n"
     .string "Brug BURN HEAL for at helbrede en forbrændning.$"
 
 ViridianCity_School_Text_ExplainPoison::
-    .string "Nâr den er forgiftet, falder en POKéMONs\n"
+    .string "Når den er forgiftet, falder en POKéMONs\n"
     .string "sundhed jævnt.\p"
     .string "Gift vedvarer efter kampe.\n"
     .string "Brug et ANTIDOTE for at helbrede gift!$"

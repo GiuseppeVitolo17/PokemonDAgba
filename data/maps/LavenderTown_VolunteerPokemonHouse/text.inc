@@ -18,8 +18,8 @@ LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
     .string "POKéMON.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
-    .string "Det er sâ varmt!\n"
-    .string "POKéMON er sâ rare at kramme.$"
+    .string "Det er så varmt!\n"
+    .string "POKéMON er så rare at kramme.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
     .string "NIDORINO: Gaoo!$"
@@ -41,9 +41,9 @@ LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
     .string "fra MR. FUJI.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-    .string "Nâr man hører POKe FLUTE, vâgner\n"
+    .string "Når man hører POKe FLUTE, vågner\n"
     .string "sovende POKéMON med det samme.\p"
-    .string "Prøv at bruge den pâ POKéMON der\n"
+    .string "Prøv at bruge den på POKéMON der\n"
     .string "er sovende hindringer.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
@@ -55,13 +55,13 @@ LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
     .string "POKéMON FAN MAGAZINE\n"
-    .string "Mânedlig hovedpræmie-lodtrækning!\p"
+    .string "Månedlig hovedpræmie-lodtrækning!\p"
     .string "Ansøgningsskemæt er…\p"
     .string "Væk! Det er klippet ud.\n"
-    .string "Nogen mâ allerede have ansøgt.$"
+    .string "Nogen må allerede have ansøgt.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
-    .string "POKéMON-magasiner stâr pâ hylden.\p"
+    .string "POKéMON-magasiner står på hylden.\p"
     .string "POKéMON INSIDER…\p"
     .string "POKéMON FAN…$"
 

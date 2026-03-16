@@ -1,5 +1,5 @@
 VictoryRoad_1F_Text_NaomiIntro::
-    .string "Jeg spekulerer pâ om du er god nok\n"
+    .string "Jeg spekulerer på om du er god nok\n"
     .string "for mig?$"
 
 VictoryRoad_1F_Text_NaomiDefeat::

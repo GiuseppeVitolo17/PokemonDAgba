@@ -1,6 +1,6 @@
 ThreeIsland_Text_IslandSign::
     .string "THREE ISLAND\n"
-    .string "Slægtsøen med familiebând$"
+    .string "Slægtsøen med familiebånd$"
 
 ThreeIsland_Text_IslandBelongsToUs::
     .string "Hyahoo!\p"
@@ -14,9 +14,9 @@ ThreeIsland_Text_GoBackToKanto::
     .string "KANTO!$"
 
 ThreeIsland_Text_BossIsOnHisWay::
-    .string "Hey, gâ og græd et andet sted.\n"
-    .string "Vores chef er pâ vej.\p"
-    .string "Nâr han kommer, giver vi jer et\n"
+    .string "Hey, gå og græd et andet sted.\n"
+    .string "Vores chef er på vej.\p"
+    .string "Når han kommer, giver vi jer et\n"
     .string "k-rad motorcykelshow I ikke\l"
     .string "snart glemmer!$"
 
@@ -39,26 +39,26 @@ ThreeIsland_Text_JustGotHerePal::
 
 ThreeIsland_Text_FollowersRaisingHavoc::
     .string "Din flok tilhængere har lavet\n"
-    .string "ballade pâ deres cykler.\p"
+    .string "ballade på deres cykler.\p"
     .string "Har du nogen anelse om hvor meget\n"
-    .string "besvær de har voldt os pâ\l"
+    .string "besvær de har voldt os på\l"
     .string "øn?$"
 
 ThreeIsland_Text_OughtToBeThankingUs::
-    .string "Nej mand, jeg forstâr slet ikke.\p"
+    .string "Nej mand, jeg forstår slet ikke.\p"
     .string "Se det her sted.\n"
     .string "Hvad gør I for underholdning?\p"
     .string "I burde takke os for at\n"
     .string "vække denne søvnige landsby.\p"
     .string "Men hey, hvis I insisterer, kan I\n"
-    .string "prøve at fâ os til at tage af sted.$"
+    .string "prøve at få os til at tage af sted.$"
 
 ThreeIsland_Text_YouCowardsToughInPack::
     .string "Grr… I kujoner…\n"
-    .string "Sâ hârde i flok…$"
+    .string "Så hårde i flok…$"
 
 ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
-    .string "Du, hvad glor du pâ?\n"
+    .string "Du, hvad glor du på?\n"
     .string "Ved du ikke det er uforskammet?\p"
     .string "Vil du gøre noget ved det\n"
     .string "eller hvad?$"
@@ -81,26 +81,26 @@ ThreeIsland_Text_Biker1PostBattle::
 
 ThreeIsland_Text_Biker2Intro::
     .string "Er du ikke fra KANTO?\n"
-    .string "Du burde være pâ vores side!$"
+    .string "Du burde være på vores side!$"
 
 ThreeIsland_Text_Biker2Defeat::
     .string "Stop med at fjolle rundt!$"
 
 ThreeIsland_Text_Biker2PostBattle::
     .string "Hvad er der galt med dig,\n"
-    .string "blive sâ varm sâdan?\p"
+    .string "blive så varm sådan?\p"
     .string "Totalt uncool, mand!$"
 
 ThreeIsland_Text_Biker3Intro::
     .string "Vi inviterede chefen herud,\n"
-    .string "men du mâtte ødelægge det!\p"
+    .string "men du måtte ødelægge det!\p"
     .string "Du gjorde os skamfulde, mand!$"
 
 ThreeIsland_Text_Biker3Defeat::
     .string "… … …   … … …$"
 
 ThreeIsland_Text_Biker3PostBattle::
-    .string "Chef, jeg siger dig, du mâ\n"
+    .string "Chef, jeg siger dig, du må\n"
     .string "gøre noget ved dette barn!$"
 
 ThreeIsland_Text_PaxtonIntro::
@@ -108,7 +108,7 @@ ThreeIsland_Text_PaxtonIntro::
     .string "du har gjort nok.\p"
     .string "Hvad er du, deres ven eller\n"
     .string "noget?\p"
-    .string "Sâ gætter jeg pâ at du kæmper\n"
+    .string "Så gætter jeg på at du kæmper\n"
     .string "mod mig i deres sted.$"
 
 ThreeIsland_Text_PaxtonDefeat::
@@ -125,7 +125,7 @@ ThreeIsland_Text_ThankYouOhYourMonGotHurt::
     .string "Tak! De banditter var ikke\n"
     .string "andet end ballade.\p"
     .string "Aah, se, din POKéMON blev skadet\n"
-    .string "pâ min konto.$"
+    .string "på min konto.$"
 
 ThreeIsland_Text_GivenFullRestore::
     .string "{PLAYER} fik\n"
@@ -141,8 +141,8 @@ ThreeIsland_Text_YouveGotImpressiveMons::
 
 ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
     .string "Det ville være fantastisk hvis nogen\n"
-    .string "sâ stærk som dig bøde her.\p"
-    .string "Jeg hâber du i det mindste bliver\n"
+    .string "så stærk som dig bøde her.\p"
+    .string "Jeg håber du i det mindste bliver\n"
     .string "her et stykke tid.\p"
     .string "…Undskyld mig?\n"
     .string "Du leder efter LOSTELLE?\p"
@@ -159,8 +159,8 @@ ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
     .string "Jeg træner min DODUO i\n"
     .string "BERRY FOREST.\p"
-    .string "Nâr den udvikler sig, spiller jeg\n"
-    .string "et spil pâ TWO ISLAND.$"
+    .string "Når den udvikler sig, spiller jeg\n"
+    .string "et spil på TWO ISLAND.$"
 
 ThreeIsland_Text_Doduo::
     .string "DODUO: Gigiih!$"

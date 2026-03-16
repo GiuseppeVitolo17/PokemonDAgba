@@ -1,5 +1,5 @@
 SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
-    .string "Jeg ser mâske ikke meget ud nu,\n"
+    .string "Jeg ser måske ikke meget ud nu,\n"
     .string "men da jeg var yngre…\p"
     .string "Jeg fløj overalt og udfordrede\n"
     .string "TRAINERS hvor jeg fandt dem.\p"
@@ -23,7 +23,7 @@ SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
 SevenIsland_House_Room1_Text_OhYouWontBattle::
     .string "Aah…\n"
     .string "Du vil ikke kæmpe…\p"
-    .string "Jeg forstâr, jeg forstâr.\n"
+    .string "Jeg forstår, jeg forstår.\n"
     .string "… …\p"
     .string "Tja, hvis du ombestemmer dig,\n"
     .string "kom gerne tilbage.$"
@@ -31,13 +31,13 @@ SevenIsland_House_Room1_Text_OhYouWontBattle::
 SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
     .string "Aah!\n"
     .string "Du vil kæmpe for mig?\p"
-    .string "Sâ var det min tid værd at\n"
+    .string "Så var det min tid værd at\n"
     .string "flytte kassen til side.\p"
     .string "… …\n"
     .string "Men der er et lille problem.\p"
     .string "Dette skjulte rum er ikke bygget\n"
     .string "særlig solidt.\p"
-    .string "Kan jeg fâ dig til at begrænse det\n"
+    .string "Kan jeg få dig til at begrænse det\n"
     .string "til kampe med tre POKéMON per side?$"
 
 SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
@@ -70,8 +70,8 @@ SevenIsland_House_Room1_Text_AstoundingBattle::
     .string "Bravo!\p"
     .string "Bravo, ja!\n"
     .string "Hvilken forbløffende kamp!\p"
-    .string "Sâ forbløffende at den konstant\n"
-    .string "fylder mine øjne med târer!\p"
+    .string "Så forbløffende at den konstant\n"
+    .string "fylder mine øjne med tårer!\p"
     .string "Stød og parering af ekspert\n"
     .string "brugte teknikker!\p"
     .string "Klangen af kraft mod kraft!\p"

@@ -3,13 +3,13 @@ PokemonTower_2F_Text_RivalIntro::
     .string "Hvad bringer dig her?\l"
     .string "Er din POKéMON død?\p"
     .string "Hey! Den lever!\p"
-    .string "Jeg kan i det mindste fâ dem til at besvime!\n"
-    .string "Kom sâ!$"
+    .string "Jeg kan i det mindste få dem til at besvime!\n"
+    .string "Kom så!$"
 
 PokemonTower_2F_Text_RivalDefeat::
     .string "Hvad?\n"
     .string "Din stinker!\p"
-    .string "Jeg tog det ogsâ let pâ dig!$"
+    .string "Jeg tog det også let på dig!$"
 
 @ Unused. Translated below
 @ Aw, man! They really kicked the bucket! Weak! Do them a favor and raise them more properly.
@@ -24,8 +24,8 @@ PokemonTower_2F_Text_RivalPostBattle::
     .string "Jeg fangede lige en CUBONE!\p"
     .string "Jeg kan ikke finde den større MAROWAK.\n"
     .string "Hvor kan de være?\p"
-    .string "Jeg vedder pâ der ikke er flere!\p"
-    .string "Nâ, jeg bør komme afsted.\n"
+    .string "Jeg vedder på der ikke er flere!\p"
+    .string "Nå, jeg bør komme afsted.\n"
     .string "Jeg har meget at udrette,\l"
     .string "til forskel fra dig.\p"
     .string "Vi ses!$"
@@ -33,5 +33,5 @@ PokemonTower_2F_Text_RivalPostBattle::
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
     .string "Selv vi kunne ikke identificere de\n"
     .string "vildfarne spøgelser.\p"
-    .string "Et SILPH SCOPE kunne mâske\n"
+    .string "Et SILPH SCOPE kunne måske\n"
     .string "afsløre dem.$"

@@ -1,7 +1,7 @@
 CeladonCity_GameCorner_Text_TryPokemonPrinter::
 	.string "Det er en POKéMON PRINTER!\p"
 	.string "Den kan putte et print af din POKéMON\n"
-	.string "pâ bagsiden af din TRAINER CARD.\p"
+	.string "på bagsiden af din TRAINER CARD.\p"
 	.string "Det koster kun ¥50.\n"
 	.string "Vil du prøve den?$"
 
@@ -40,7 +40,7 @@ FourIsland_House2_Text_GiveYouStickerIfYouBrag::
 
 FourIsland_House2_Text_BragAboutSomethingForMe::
 	.string "Præl af noget for mig.\n"
-	.string "Sâ giver jeg dig en STICKER.$"
+	.string "Så giver jeg dig en STICKER.$"
 
 FourIsland_House2_Text_BragAboutWhatToday::
 	.string "Oh, hej!\n"
@@ -62,20 +62,20 @@ FourIsland_House2_Text_WowHoFLow::
 
 FourIsland_House2_Text_WowHoFHigh::
 	.string "Wow! Du har været i\n"
-	.string "ÆREGALLERIET sâ mange gange?\l"
+	.string "ÆREGALLERIET så mange gange?\l"
 	.string "Det er virkelig utroligt, ja!\p"
 	.string "Du ejer POKéMON LEAGUE!\n"
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowHoFHighest::
 	.string "Utroligt! Du har været i\n"
-	.string "ÆREGALLERIET sâ mange gange?\p"
+	.string "ÆREGALLERIET så mange gange?\p"
 	.string "Du er mere end utrolig, ja!\n"
-	.string "Sâ mâ jeg give dig denne.$"
+	.string "Så må jeg give dig denne.$"
 
 FourIsland_House2_Text_HoFStickerApplied::
 	.string "ÆREGALLERIE-STICKEREN blev\n"
-	.string "anbragt pâ TRAINER CARD.$"
+	.string "anbragt på TRAINER CARD.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryHoF::
 	.string "Hmm…\p"
@@ -94,8 +94,8 @@ FourIsland_House2_Text_WowEggsLowest::
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowEggsLow::
-	.string "Du har klækket sâ mange ÆG?\n"
-	.string "Du mâ virkelig kunne lide dem!\p"
+	.string "Du har klækket så mange ÆG?\n"
+	.string "Du må virkelig kunne lide dem!\p"
 	.string "Det er imponerende, ja!\n"
 	.string "Jeg giver dig en af disse.$"
 
@@ -106,15 +106,15 @@ FourIsland_House2_Text_WowEggsHigh::
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowEggsHighest::
-	.string "Wh… Du har klækket sâ mange ÆG?\p"
+	.string "Wh… Du har klækket så mange ÆG?\p"
 	.string "Hvad er bag din kærlighed til ÆG?\n"
 	.string "Det er mere end utroligt, ja!\p"
 	.string "Du er for sej, siger jeg.\n"
-	.string "Sâ mâ jeg give dig denne.$"
+	.string "Så må jeg give dig denne.$"
 
 FourIsland_House2_Text_EggStickerApplied::
 	.string "ÆG-STICKEREN blev anbragt\n"
-	.string "pâ TRAINER CARD.$"
+	.string "på TRAINER CARD.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryEggs::
 	.string "Hmm…\p"
@@ -133,28 +133,28 @@ FourIsland_House2_Text_WowLinkWinsLowest::
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowLinkWinsLow::
-	.string "Du har slâet dine venner mange\n"
+	.string "Du har slået dine venner mange\n"
 	.string "gange i link-kampe, hva?\p"
 	.string "Du er imponerende stærk, ja!\n"
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowLinkWinsHigh::
-	.string "Wow! Du har slâet dine venner\n"
+	.string "Wow! Du har slået dine venner\n"
 	.string "et skræmmende antal gange.\p"
-	.string "Har du mistet venner pâ grund af det?\n"
+	.string "Har du mistet venner på grund af det?\n"
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowLinkWinsHighest::
 	.string "Wh… For vildt!\n"
 	.string "Du har vundet utroligt mange gange!\p"
-	.string "Jeg bliver helt pâvirket af at tænke\n"
-	.string "pâ hvor hârd du er.\p"
+	.string "Jeg bliver helt påvirket af at tænke\n"
+	.string "på hvor hård du er.\p"
 	.string "Du er mareriddets mand!\n"
-	.string "Sâ mâ jeg give dig denne.$"
+	.string "Så må jeg give dig denne.$"
 
 FourIsland_House2_Text_VictoryStickerApplied::
 	.string "SEJR-STICKEREN blev anbragt\n"
-	.string "pâ TRAINER CARD.$"
+	.string "på TRAINER CARD.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryLinkWins::
 	.string "Hmm…\p"

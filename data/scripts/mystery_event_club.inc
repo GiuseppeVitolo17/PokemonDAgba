@@ -136,7 +136,7 @@ Text_WhatsYourProfile:
 	.string "Hvad er din profil?$"
 
 Text_DontBeLikeThat:
-	.string "Av… Vær nu ikke sâ led.\n"
+	.string "Av… Vær nu ikke så led.\n"
 	.string "Du kan godt fortælle mig din profil.$"
 
 Text_DecidedNotTo:
@@ -158,7 +158,7 @@ Text_WhatAreYouLikeNow:
 Text_LikeProfileWayItIs:
 	.string "Ok, du kan lide din profil\n"
 	.string "som den er.\p"
-	.string "Det synes jeg ogsâ.$"
+	.string "Det synes jeg også.$"
 
 Text_ProfileSaysSomethingAboutYou:
 	.string "Hmhm…\p"

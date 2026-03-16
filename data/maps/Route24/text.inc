@@ -30,17 +30,17 @@ Route24_Text_RocketDefeat::
 Route24_Text_YoudBecomeTopRocketLeader::
     .string "Med dine evner ville du blive\n"
     .string "en top-leder i TEAM ROCKET.\p"
-    .string "Kom nu, tænk pâ muligheden!\n"
+    .string "Kom nu, tænk på muligheden!\n"
     .string "Spild ikke denne chance.$"
 
 Route24_Text_ShaneIntro::
-    .string "Jeg sâ din bedrift fra græsset!$"
+    .string "Jeg så din bedrift fra græsset!$"
 
 Route24_Text_ShaneDefeat::
     .string "Som jeg tænkte!$"
 
 Route24_Text_ShanePostBattle::
-    .string "Jeg gemte mig fordi folkene pâ\n"
+    .string "Jeg gemte mig fordi folkene på\n"
     .string "brøn skræmte mig.$"
 
 Route24_Text_EthanIntro::
@@ -59,10 +59,10 @@ Route24_Text_ReliIntro::
     .string "Bliver du træt?$"
 
 Route24_Text_ReliDefeat::
-    .string "Jeg tabte ogsâ!$"
+    .string "Jeg tabte også!$"
 
 Route24_Text_ReliPostBattle::
-    .string "Jeg gjorde mit bedste, sâ jeg\n"
+    .string "Jeg gjorde mit bedste, så jeg\n"
     .string "har ingen fortrydelser!$"
 
 Route24_Text_TimmyIntro::
@@ -88,13 +88,13 @@ Route24_Text_AliPostBattle::
 
 Route24_Text_CaleIntro::
     .string "Folk kalder dette NUGGET BRØN!\p"
-    .string "Slâ os fem TRAINERS og vind\n"
+    .string "Slå os fem TRAINERS og vind\n"
     .string "en fantastisk præmie!\p"
     .string "Tror du du har hvad det kræver?$"
 
 Route24_Text_CaleDefeat::
     .string "Whoo!\n"
-    .string "Godt gâet!$"
+    .string "Godt gået!$"
 
 Route24_Text_CalePostBattle::
     .string "Jeg gjorde mit bedste. Ingen fortrydelser!$"

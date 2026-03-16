@@ -10,6 +10,6 @@ FiveIsland_House1_Text_HusbandWentOffFishing::
     .string "til middag i aften!\p"
     .string "…Det sagde min mand, da han tog\n"
     .string "ud at fiske i dag.\p"
-    .string "Jeg er ikke sikker pâ om jeg kan\n"
+    .string "Jeg er ikke sikker på om jeg kan\n"
     .string "regne med at han holder det løfte.$"
 

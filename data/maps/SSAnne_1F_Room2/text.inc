@@ -9,8 +9,8 @@ SSAnne_1F_Room2_Text_TylerDefeat::
 SSAnne_1F_Room2_Text_TylerPostBattle::
     .string "Hør, hør!\n"
     .string "Lad mig være din ven, okay?\p"
-    .string "Sâ kan vi bytte POKéMON og\n"
-    .string "sâ videre.$"
+    .string "Så kan vi bytte POKéMON og\n"
+    .string "så videre.$"
 
 SSAnne_1F_Room2_Text_AnnIntro::
     .string "Jeg har samlet disse POKéMON\n"
@@ -22,7 +22,7 @@ SSAnne_1F_Room2_Text_AnnDefeat::
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
     .string "Du skadede mine stakkels POKéMON!\p"
-    .string "Jeg kræver at du helbreder dem pâ\n"
+    .string "Jeg kræver at du helbreder dem på\n"
     .string "et POKéMON CENTER!$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::

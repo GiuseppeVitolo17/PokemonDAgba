@@ -16,12 +16,12 @@ VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
 VermilionCity_House1_Text_FishingIsAWayOfLife::
     .string "Fiskeri er en livsstil!\n"
     .string "Det er som den fineste pøsi.\p"
-    .string "Fra havet til floder, gâ ud\n"
+    .string "Fra havet til floder, gå ud\n"
     .string "og fang den store, min ven.$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
     .string "Aah…\n"
-    .string "Det er sâ skuffende…$"
+    .string "Det er så skuffende…$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
     .string "Hej med dig, {PLAYER}!\p"

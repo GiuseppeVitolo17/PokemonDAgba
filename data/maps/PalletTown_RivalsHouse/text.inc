@@ -29,7 +29,7 @@ PalletTown_RivalsHouse_Text_ExplainTownMap::
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
     .string "DAISY: Lige som mennesker er POKéMON\n"
     .string "levende væsener.\p"
-    .string "Nâr de bliver trætte, giv dem\n"
+    .string "Når de bliver trætte, giv dem\n"
     .string "venligst hvile.$"
 
 PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
@@ -57,20 +57,20 @@ PalletTown_RivalsHouse_Text_GroomWhichOne::
     .string "Hvilken skal jeg pudse?$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
-    .string "DAISY: Okay, jeg fâr den til at se\n"
+    .string "DAISY: Okay, jeg får den til at se\n"
     .string "pæn ud med det samme.$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
     .string "{COLOR DARK_GRAY}{STR_VAR_1} ser døsigt tilfreds ud…\p"
-    .string "{COLOR RED}DAISY: Sâdan! Færdig.\n"
+    .string "{COLOR RED}DAISY: Sådan! Færdig.\n"
 #else @ In the JP games, gender-based text used a different font instead of different colors.
     .string "{FONT_NORMAL}{STR_VAR_1} ser døsigt tilfreds ud…\p"
-    .string "{FONT_FEMALE}DAISY: Sâdan! Færdig.\n"
+    .string "{FONT_FEMALE}DAISY: Sådan! Færdig.\n"
 #endif
     .string "Se? Ser den ikke pæn ud?\p"
     .string "Fnise…\n"
-    .string "Det er sâdan en sød POKéMON.$"
+    .string "Det er sådan en sød POKéMON.$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
     .string "Oh, undskyld. Jeg kan ærligt ikke\n"
@@ -79,7 +79,7 @@ PalletTown_RivalsHouse_Text_CantGroomAnEgg::
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
     .string "DAISY: Dine POKéMON lærer at elske\n"
     .string "dig hvis du opdrager dem med kærlighed.\p"
-    .string "For eksempel, {PLAYER}, mâ jeg se\n"
+    .string "For eksempel, {PLAYER}, må jeg se\n"
     .string "din første POKéMON?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
@@ -99,17 +99,17 @@ PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
 
 PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
     .string "Den varmes op til dig.\n"
-    .string "Tillid mâ vokse mellem jer.$"
+    .string "Tillid må vokse mellem jer.$"
 
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
     .string "Den er ikke helt vant til dig\n"
     .string "endnu.\p"
     .string "POKéMON er alle ret forsigtige\n"
-    .string "nâr du først fâr dem.$"
+    .string "når du først får dem.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
-    .string "{PLAYER}, jeg kan ikke lide mâden\n"
-    .string "den stirrer pâ dig.\p"
+    .string "{PLAYER}, jeg kan ikke lide måden\n"
+    .string "den stirrer på dig.\p"
     .string "Kunne du prøve at være lidt\n"
     .string "venligere mod den?$"
 
@@ -117,7 +117,7 @@ PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
     .string "…Øh, det er ikke nemt for mig at\n"
     .string "sige dette, men…\p"
     .string "Er der en grund til at din POKéMON\n"
-    .string "ville hade dig sâ meget?$"
+    .string "ville hade dig så meget?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
     .string "Den dejlige og sødme\n"

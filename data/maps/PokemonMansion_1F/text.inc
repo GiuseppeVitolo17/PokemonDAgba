@@ -15,7 +15,7 @@ PokemonMansion_1F_Text_JohnsonIntro::
 
 PokemonMansion_1F_Text_JohnsonDefeat::
     .string "Tch!\n"
-    .string "Jeg kan ikke fâ nogle sejre.$"
+    .string "Jeg kan ikke få nogle sejre.$"
 
 PokemonMansion_1F_Text_JohnsonPostBattle::
     .string "Jeg udforskede her alene,\n"

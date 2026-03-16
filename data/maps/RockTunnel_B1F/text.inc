@@ -1,5 +1,5 @@
 RockTunnel_B1F_Text_SofiaIntro::
-    .string "Ved du hvordan du undgâr at fare vild\n"
+    .string "Ved du hvordan du undgår at fare vild\n"
     .string "i bjergene?\p"
     .string "Du kan bøje kviste som\n"
     .string "stimmærkninger.$"
@@ -13,34 +13,34 @@ RockTunnel_B1F_Text_SofiaPostBattle::
 
 RockTunnel_B1F_Text_DudleyIntro::
     .string "Hahaha!\n"
-    .string "Kan du slâ min styrke?$"
+    .string "Kan du slå min styrke?$"
 
 RockTunnel_B1F_Text_DudleyDefeat::
     .string "Ups!\n"
     .string "Overmandet!$"
 
 RockTunnel_B1F_Text_DudleyPostBattle::
-    .string "Jeg gâr efter styrke fordi jeg hader\n"
+    .string "Jeg går efter styrke fordi jeg hader\n"
     .string "at tænke.$"
 
 RockTunnel_B1F_Text_CooperIntro::
     .string "Du har en POKéDEX?\n"
-    .string "Jeg vil ogsâ have een.$"
+    .string "Jeg vil også have een.$"
 
 RockTunnel_B1F_Text_CooperDefeat::
     .string "Shoot!\n"
-    .string "Jeg er sâ misundelig!$"
+    .string "Jeg er så misundelig!$"
 
 RockTunnel_B1F_Text_CooperPostBattle::
-    .string "Nâr du er færdig med din POKéDEX,\n"
-    .string "kan jeg fâ den?$"
+    .string "Når du er færdig med din POKéDEX,\n"
+    .string "kan jeg få den?$"
 
 RockTunnel_B1F_Text_SteveIntro::
     .string "Øh… Ved du noget om POKéMON\n"
     .string "cosplay?$"
 
 RockTunnel_B1F_Text_SteveDefeat::
-    .string "Nâ, det var det.$"
+    .string "Nå, det var det.$"
 
 RockTunnel_B1F_Text_StevePostBattle::
     .string "POKéMON cosplay er at klæde sig ud som\n"
@@ -48,7 +48,7 @@ RockTunnel_B1F_Text_StevePostBattle::
     .string "CLEFAIRY er en favorit.$"
 
 RockTunnel_B1F_Text_AllenIntro::
-    .string "Mine POKéMON teknikker vil fâ\n"
+    .string "Mine POKéMON teknikker vil få\n"
     .string "dig til at græde!$"
 
 RockTunnel_B1F_Text_AllenDefeat::
@@ -68,7 +68,7 @@ RockTunnel_B1F_Text_MarthaDefeat::
     .string "Jeg tabte!$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-    .string "Jeg kan lide smâ POKéMON.\n"
+    .string "Jeg kan lide små POKéMON.\n"
     .string "Store er for skræmmende!$"
 
 RockTunnel_B1F_Text_EricIntro::
@@ -78,12 +78,12 @@ RockTunnel_B1F_Text_EricDefeat::
     .string "Afskaffet!$"
 
 RockTunnel_B1F_Text_EricPostBattle::
-    .string "Jeg opdrager mine POKéMON til at slâ\n"
+    .string "Jeg opdrager mine POKéMON til at slå\n"
     .string "dine, unge.$"
 
 RockTunnel_B1F_Text_WinstonIntro::
     .string "Jeg tegner illustrationer af POKéMON\n"
-    .string "nâr jeg er hjemme.$"
+    .string "når jeg er hjemme.$"
 
 RockTunnel_B1F_Text_WinstonDefeat::
     .string "Puha…\n"
@@ -91,4 +91,4 @@ RockTunnel_B1F_Text_WinstonDefeat::
 
 RockTunnel_B1F_Text_WinstonPostBattle::
     .string "Jeg er kunstner, ikke kæmper.\n"
-    .string "Jeg gâr hjem for at tegne.$"
+    .string "Jeg går hjem for at tegne.$"

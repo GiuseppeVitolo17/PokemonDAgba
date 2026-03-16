@@ -2,10 +2,10 @@ FiveIsland_MemorialPillar_Text_MiloIntro::
     .string "Jeg er den ældste af FUGLE-\n"
     .string "BRØDRENE.\p"
     .string "Det bedste ved fugle…\n"
-    .string "Det mâ være næbbet.$"
+    .string "Det må være næbbet.$"
 
 FiveIsland_MemorialPillar_Text_MiloDefeat::
-    .string "Øh, sâ skarp!$"
+    .string "Øh, så skarp!$"
 
 FiveIsland_MemorialPillar_Text_MiloPostBattle::
     .string "Du kan flyve til FOUR ISLAND\n"
@@ -15,7 +15,7 @@ FiveIsland_MemorialPillar_Text_ChazIntro::
     .string "Jeg er mellemste barn af FUGLE-\n"
     .string "BRØDRENE.\p"
     .string "Det bedste ved fugle…\n"
-    .string "Det mâ være vingerne.$"
+    .string "Det må være vingerne.$"
 
 FiveIsland_MemorialPillar_Text_ChazDefeat::
     .string "Flap, flap!$"
@@ -28,14 +28,14 @@ FiveIsland_MemorialPillar_Text_HaroldIntro::
     .string "Jeg er den yngste af FUGLE-\n"
     .string "BRØDRENE.\p"
     .string "Det bedste ved fugle…\n"
-    .string "Det mâ være dunet.$"
+    .string "Det må være dunet.$"
 
 FiveIsland_MemorialPillar_Text_HaroldDefeat::
-    .string "Dun er sâ behageligt…\n"
+    .string "Dun er så behageligt…\n"
     .string "Det gør mig døsig…$"
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
-    .string "Det fylder mig med glæde nâr\n"
+    .string "Det fylder mig med glæde når\n"
     .string "fugle-POKéMON tigger legende…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
@@ -51,7 +51,7 @@ FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
     .string "Her hviler TECTONIX er indgraveret\n"
-    .string "pâ en kampesten.\p"
+    .string "på en kampesten.\p"
     .string "Der er en LEMONADE anbragt som\n"
     .string "offer foran graven.$"
 
@@ -60,7 +60,7 @@ FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
     .string "som offer?$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
-    .string "{PLAYER} anbragte en dâse LEMONADE\n"
+    .string "{PLAYER} anbragte en dåse LEMONADE\n"
     .string "foran graven.$"
 
 FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
@@ -74,7 +74,7 @@ FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
     .string "Vær venlig ved dine POKéMON\n"
-    .string "ogsâ.$"
+    .string "også.$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
     .string "Hvis du ikke har plads til det,\n"
@@ -94,5 +94,5 @@ FiveIsland_MemorialPillar_Text_HereLiesTectonix::
     .string "Kampesten og sten er pænt stablet\n"
     .string "som en varde.\p"
     .string "Her hviler TECTONIX er indgraveret\n"
-    .string "pâ en kampesten.$"
+    .string "på en kampesten.$"
 

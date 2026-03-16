@@ -10,8 +10,8 @@ ALIGNED(4) const u8 gText_UR_ID[] = _("{ID}");
 ALIGNED(4) const u8 gText_UR_PleaseStartOver[] = _("Start forfra fra begyndelsen.");
 ALIGNED(4) const u8 gText_UR_WirelessSearchCanceled[] = _("TRÂDLØS KOMMUNIKATION\nsøgning er annulleret.");
 ALIGNED(4) static const u8 sText_AwaitingCommunucation2[] = _("ともだちからの れんらくを\nまっています");
-ALIGNED(4) const u8 gText_UR_AwaitingCommunication[] = _("{STR_VAR_1}! Venter pâ\nkommunikation fra anden spiller.");
-ALIGNED(4) const u8 gText_UR_AwaitingLinkPressStart[] = _("{STR_VAR_1}! Venter pâ link!\nTryk START nâr alle er klar.");
+ALIGNED(4) const u8 gText_UR_AwaitingCommunication[] = _("{STR_VAR_1}! Venter på\nkommunikation fra anden spiller.");
+ALIGNED(4) const u8 gText_UR_AwaitingLinkPressStart[] = _("{STR_VAR_1}! Venter på link!\nTryk START når alle er klar.");
 
 ALIGNED(4) static const u8 sText_SingleBattle[] = _("シングルバトルを かいさいする");
 ALIGNED(4) static const u8 sText_DoubleBattle[] = _("ダブルバトルを かいさいする");
@@ -111,7 +111,7 @@ ALIGNED(4) static const u8 sText_TrainerAppearsUnavailable[] = _("Den anden TRÆ
 ALIGNED(4) const u8 gText_UR_PlayerSentBackOK[] = _("{STR_VAR_1} sent back an “OK”!");
 ALIGNED(4) const u8 gText_UR_PlayerOKdRegistration[] = _("{STR_VAR_1} OK'd your registration as\na member.");
 ALIGNED(4) static const u8 sText_PlayerRepliedNo[] = _("{STR_VAR_1} replied, “No…”\p");
-ALIGNED(4) const u8 gText_UR_AwaitingOtherMembers[] = _("{STR_VAR_1}!\nVenter pâ andre deltagere!");
+ALIGNED(4) const u8 gText_UR_AwaitingOtherMembers[] = _("{STR_VAR_1}!\nVenter på andre deltagere!");
 ALIGNED(4) const u8 gText_UR_QuitBeingMember[] = _("Vil du slutte som medlem?");
 ALIGNED(4) static const u8 sText_StoppedBeingMember[] = _("Du er ikke længere medlem.\p");
 
@@ -156,7 +156,7 @@ static const u8 *const sDoYouWantModeTexts[] = {
 };
 
 ALIGNED(4) static const u8 sText_CommunicatingPleaseWait[] = _("はなしかけています…\nしょうしょう おまちください"); // Unused
-ALIGNED(4) const u8 gText_UR_AwaitingPlayersResponseAboutTrade[] = _("Venter pâ {STR_VAR_1}s svar om\nbyttet…");
+ALIGNED(4) const u8 gText_UR_AwaitingPlayersResponseAboutTrade[] = _("Venter på {STR_VAR_1}s svar om\nbyttet…");
 
 ALIGNED(4) static const u8 sText_Communicating[] = _("Kommunikerer{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.");
 ALIGNED(4) static const u8 sText_CommunicatingWithPlayer[] = _("Kommunikerer med {STR_VAR_1}{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.");
@@ -207,8 +207,8 @@ const u8 *const gTexts_UR_PlayerContactedYou[] = {
     sText_PlayerHasContactedYou
 };
 
-ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer[] = _("Venter pâ svar fra\nden anden TRÆNER…");
-ALIGNED(4) static const u8 sText_AwaitingResponseFromPlayer[] = _("Venter pâ svar fra\n{STR_VAR_1}…");
+ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer[] = _("Venter på svar fra\nden anden TRÆNER…");
+ALIGNED(4) static const u8 sText_AwaitingResponseFromPlayer[] = _("Venter på svar fra\n{STR_VAR_1}…");
 
 const u8 *const gTexts_UR_AwaitingResponse[] = {
     sText_AwaitingResponseFromTrainer,
@@ -273,13 +273,13 @@ const u8 *const gTexts_UR_WaitOrShowCard[GENDER_COUNT][4] = {
 };
 
 ALIGNED(4) static const u8 sText_WaitForChatMale2[] = _("チャットだね！\nわかった ちょっと まってて！");
-ALIGNED(4) static const u8 sText_DoneWaitingBattleMale[] = _("Tak for tâlmodigheden!\nLad os starte kampen!{PAUSE 60}");
+ALIGNED(4) static const u8 sText_DoneWaitingBattleMale[] = _("Tak for tålmodigheden!\nLad os starte kampen!{PAUSE 60}");
 ALIGNED(4) static const u8 sText_DoneWaitingChatMale[] = _("Okay!\nLad os chatte!{PAUSE 60}");
 ALIGNED(4) static const u8 sText_DoneWaitingBattleFemale[] = _("Undskyld ventetiden!\nLad os starte!{PAUSE 60}");
 ALIGNED(4) static const u8 sText_DoneWaitingChatFemale[] = _("Undskyld ventetiden!\nLad os chatte.{PAUSE 60}");
 ALIGNED(4) static const u8 sText_TradeWillBeStarted[] = _("Bytte startes.{PAUSE 60}");
 ALIGNED(4) static const u8 sText_BattleWillBeStarted[] = _("Kampen startes.{PAUSE 60}");
-ALIGNED(4) static const u8 sText_EnteringChat[] = _("Gâr ind i chatten…{PAUSE 60}");
+ALIGNED(4) static const u8 sText_EnteringChat[] = _("Går ind i chatten…{PAUSE 60}");
 
 const u8 *const gTexts_UR_StartActivity[][GENDER_COUNT][3] = {
     {
@@ -321,7 +321,7 @@ const u8 *const gTexts_UR_ShowTrainerCardDeclined[GENDER_COUNT] = {
     sText_ShowTrainerCardDeclinedFemale
 };
 
-ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingMale[] = _("Hvis du vil gøre noget med mig,\nsâ sig til!\p");
+ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingMale[] = _("Hvis du vil gøre noget med mig,\nså sig til!\p");
 ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingFemale[] = _("Hvis du vil gøre noget med mig,\nvær ikke genert.\p");
 
 const u8 *const gTexts_UR_IfYouWantToDoSomething[GENDER_COUNT] = {
@@ -334,7 +334,7 @@ ALIGNED(4) const u8 gText_UR_NeedTwoMonsOfLevel30OrLower1[] = _("Til kamp skal d
 ALIGNED(4) const u8 gText_UR_NeedTwoMonsOfLevel30OrLower2[] = _("Til kamp skal du have to\nPOKéMON under Niv. 30.\p");
 
 ALIGNED(4) static const u8 sText_DeclineChatMale[] = _("Oh, all right.\nCome see me anytime, okay?\p");
-ALIGNED(4) static const u8 stext_DeclineChatFemale[] = _("Oh…\nKom forbi nâr som helst.\p");
+ALIGNED(4) static const u8 stext_DeclineChatFemale[] = _("Oh…\nKom forbi når som helst.\p");
 
 // Response from partner when player declines chat
 const u8 *const gTexts_UR_DeclineChat[GENDER_COUNT] = {
@@ -351,13 +351,13 @@ const u8 *const gTexts_UR_ChatDeclined[GENDER_COUNT] = {
     sText_ChatDeclinedFemale
 };
 
-ALIGNED(4) static const u8 sText_YoureToughMale[] = _("Wow!\nDu er da hârd!\p");
+ALIGNED(4) static const u8 sText_YoureToughMale[] = _("Wow!\nDu er da hård!\p");
 ALIGNED(4) static const u8 sText_UsedGoodMoveMale[] = _("Brugte du det angreb?\nGod strategi!\p");
 ALIGNED(4) static const u8 sText_BattleSurpriseMale[] = _("Fedt!\nDet var en øjenabner!\p");
 ALIGNED(4) static const u8 sText_SwitchedMonsMale[] = _("Oh! Hvordan kunne du bruge den\nPOKéMON i den situation?\p");
 ALIGNED(4) static const u8 sText_YoureToughFemale[] = _("Den POKéMON…\nDen er opdraget rigtig godt!\p");
 ALIGNED(4) static const u8 sText_UsedGoodMoveFemale[] = _("Præcis!\nDet er det rigtige angreb nu!\p");
-ALIGNED(4) static const u8 sText_BattleSurpriseFemale[] = _("Fantastisk!\nKan man kæmpe sâdan?\p");
+ALIGNED(4) static const u8 sText_BattleSurpriseFemale[] = _("Fantastisk!\nKan man kæmpe sådan?\p");
 ALIGNED(4) static const u8 sText_SwitchedMonsFemale[] = _("Perfekt timing med at\nskifte POKéMON!\p");
 
 const u8 *const gTexts_UR_BattleReaction[GENDER_COUNT][4] = {
@@ -374,7 +374,7 @@ const u8 *const gTexts_UR_BattleReaction[GENDER_COUNT][4] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_LearnedSomethingMale[] = _("Aa, jeg forstâr!\nLærerigt!\p");
+ALIGNED(4) static const u8 sText_LearnedSomethingMale[] = _("Aa, jeg forstår!\nLærerigt!\p");
 ALIGNED(4) static const u8 sText_ThatsFunnyMale[] = _("Sig ikke mere sjovt!\nJeg har ondt af at grine!\p");
 ALIGNED(4) static const u8 sText_RandomChatMale1[] = _("Oh?\nNoget lignende skete.\p");
 ALIGNED(4) static const u8 sText_RandomChatMale2[] = _("Hmhm… Hvad?\nEr det det du siger?\p");
@@ -398,7 +398,7 @@ const u8 *const gTexts_UR_ChatReaction[GENDER_COUNT][4] = {
 };
 
 ALIGNED(4) static const u8 sText_ShowedTrainerCardMale1[] = _("Jeg viser bare mit TRÆNERKORT\nsom hælsening.\p");
-ALIGNED(4) static const u8 sText_ShowedTrainerCardMale2[] = _("Hâber vi lærer hinanden at kende!\p");
+ALIGNED(4) static const u8 sText_ShowedTrainerCardMale2[] = _("Håber vi lærer hinanden at kende!\p");
 ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale1[] = _("Vi viser hinanden vores\nTRÆNERKORT for at lære hinanden at kende.\p");
 ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale2[] = _("Dejligt at møde dig.\nKom igen!\p");
 
@@ -435,7 +435,7 @@ ALIGNED(4) const u8 gText_UR_TradingBoardInfo[] = _("BYTTETAVLEN bruges til at\n
                                                     "POKéMON til bytte.\p"
                                                     "En anden TRÆNER kan tilbyde en\n"
                                                     "POKéMON til gengæld.\p"
-                                                    "Vi hâber du registrerer POKéMON\n"
+                                                    "Vi håber du registrerer POKéMON\n"
                                                     "og bytter med mange andre\l"
                                                     "TRÆNERe.\p"
                                                     "Vil du registrere en af\n"
@@ -497,7 +497,7 @@ ALIGNED(4) const u8 gText_UR_SearchingForWirelessSystemWait[] = _("Searching for
 ALIGNED(4) static const u8 sText_MustHaveTwoMonsForDoubleBattle[] = _("ダブルバトルでは 2ひき いじょうの\nポケモンが ひつようです\p");
 ALIGNED(4) const u8 gText_UR_AwaitingPlayersResponse[] = _("Awaiting {STR_VAR_1}'s response…");
 ALIGNED(4) const u8 gText_UR_PlayerHasBeenAskedToRegisterYouPleaseWait[] = _("{STR_VAR_1} has been asked to register\nyou as a member. Please wait.");
-ALIGNED(4) const u8 gText_UR_AwaitingResponseFromWirelessSystem[] = _("Venter pâ svar fra\nTRÂDLØS KOMMUNIKATION.");
+ALIGNED(4) const u8 gText_UR_AwaitingResponseFromWirelessSystem[] = _("Venter på svar fra\nTRÂDLØS KOMMUNIKATION.");
 ALIGNED(4) static const u8 sText_PleaseWaitForOtherTrainersToGather[] = _("ほかの さんかしゃが そろうまで\nしょうしょう おまちください");
 
 ALIGNED(4) static const u8 sText_NoCardsSharedRightNow[] = _("Ingen KORT deles lige nu.");

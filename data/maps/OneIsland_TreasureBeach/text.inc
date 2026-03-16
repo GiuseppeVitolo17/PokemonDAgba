@@ -11,7 +11,7 @@ OneIsland_TreasureBeach_Text_AmaraPostBattle::
 
 OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
     .string "Gode ting bliver skyllet op af\n"
-    .string "havstrømmen pâ denne strand.\p"
+    .string "havstrømmen på denne strand.\p"
     .string "Derfor kommer jeg ofte her for at\n"
-    .string "søge efter skatte pâ stranden.$"
+    .string "søge efter skatte på stranden.$"
 

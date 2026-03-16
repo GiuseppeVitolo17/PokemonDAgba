@@ -1,6 +1,6 @@
 CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked::
     .string "Jeg kom for at besøge CINNABAR GYM,\n"
-    .string "men døren er lâset godt til.\p"
+    .string "men døren er låset godt til.\p"
     .string "Der bør være en nøgel til den\n"
     .string "et sted.\p"
     .string "Kunne den være i den nedbrændte\n"
@@ -14,8 +14,8 @@ CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
     .string "er selvfølgelig sjovt.\p"
     .string "Men hvad med at besøge\n"
     .string "UNION ROOM nu og da?\p"
-    .string "Hvem ved, du ender mâske med at\n"
-    .string "fâ nye venner.\p"
+    .string "Hvem ved, du ender måske med at\n"
+    .string "få nye venner.\p"
     .string "Jeg tror det ville være din tid værd\n"
     .string "at tjekke UNION ROOM.$"
 
@@ -33,5 +33,5 @@ CinnabarIsland_PokemonCenter_1F_Text_OhNotDoneYet::
     .string "Oh, du er stadig ikke færdig?$"
 
 CinnabarIsland_PokemonCenter_1F_Text_LetsGo::
-    .string "Nâr, det var det.\n"
-    .string "Lad os gâ!$"
+    .string "Når, det var det.\n"
+    .string "Lad os gå!$"

@@ -1,8 +1,8 @@
 SafariZone_East_Text_KeepAnyItemFoundOnSafari::
-    .string "Du mâ beholde enhver genstand du\n"
+    .string "Du må beholde enhver genstand du\n"
     .string "finder i SAFARI ZONE.\p"
     .string "Men tiden løb ud hvis du prøver\n"
-    .string "at fâ dem alle pâ en gang.$"
+    .string "at få dem alle på en gang.$"
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
     .string "Ga til den dybeste del af\n"

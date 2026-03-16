@@ -2,7 +2,7 @@ SafariZone_West_Text_KogaPatrolsSafariEverySoOften::
     .string "SAFARI ZONE er kæmpestor, vil du\n"
     .string "ikke sige?\p"
     .string "FUCHSIAs GYM LEADER, KOGA,\n"
-    .string "patruljerer omrâdet lejlighedsvis.\p"
+    .string "patruljerer området lejlighedsvis.\p"
     .string "Takket være ham kan vi lege her\n"
     .string "i vidende at vi er i sikkerhed.$"
 
@@ -17,5 +17,5 @@ SafariZone_West_Text_BaitMakesMonStickAround::
     .string "bliver optaget af at spise.$"
 
 SafariZone_West_Text_HikedLotsDidntSeeMonIWanted::
-    .string "Jeg vandrede meget, men jeg sâ ikke\n"
+    .string "Jeg vandrede meget, men jeg så ikke\n"
     .string "nogen POKéMON jeg ville have.$"

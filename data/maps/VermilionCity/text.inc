@@ -4,16 +4,16 @@ VermilionCity_Text_GrimerMultipliesInSludge::
     .string "giftigt slam.$"
 
 VermilionCity_Text_DidYouSeeSSAnneInHarbor::
-    .string "Sâ du S.S. ANNE fortøjet\n"
+    .string "Så du S.S. ANNE fortøjet\n"
     .string "i havnen?$"
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
-    .string "Sâ S.S. ANNE er afsejlet?\p"
+    .string "Så S.S. ANNE er afsejlet?\p"
     .string "Den kommer tilbage til VERMILION omkring\n"
-    .string "samme tid næste âr.$"
+    .string "samme tid næste år.$"
 
 VermilionCity_Text_BuildingOnThisLand::
-    .string "Jeg bygger et hus pâ denne\n"
+    .string "Jeg bygger et hus på denne\n"
     .string "grund. Jeg ejer det hele.\p"
     .string "Min POKéMON stampede jorden\n"
     .string "for at lægge fundamentet.$"
@@ -27,7 +27,7 @@ VermilionCity_Text_MachopStompingLandFlat::
 VermilionCity_Text_SSAnneVisitsOnceAYear::
     .string "S.S. ANNE er et berømt luksus-\n"
     .string "krydstogtskib.\p"
-    .string "Det besøger VERMILION en gang om âret.$"
+    .string "Det besøger VERMILION en gang om året.$"
 
 VermilionCity_Text_CitySign::
     .string "VERMILION CITY\n"
@@ -54,7 +54,7 @@ VermilionCity_Text_VermilionHarbor::
     .string "VERMILION HAVN$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
-    .string "Velkommen om bord pâ S.S. ANNE!$"
+    .string "Velkommen om bord på S.S. ANNE!$"
 
 VermilionCity_Text_DoYouHaveATicket::
     .string "Velkommen til S.S. ANNE!\p"
@@ -63,7 +63,7 @@ VermilionCity_Text_DoYouHaveATicket::
 VermilionCity_Text_FlashedSSTicket::
     .string "{FONT_NORMAL}{PLAYER} viste S.S. BILLETTEN!\p"
     .string "{FONT_MALE}Perfekt!\n"
-    .string "Velkommen om bord pâ S.S. ANNE!$"
+    .string "Velkommen om bord på S.S. ANNE!$"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
     .string "{FONT_NORMAL}{PLAYER} har ikke den nødvendige\n"
@@ -76,7 +76,7 @@ VermilionCity_Text_TheShipSetSail::
 
 VermilionCity_Text_BoardSeagallopTriPass::
     .string "Ah, du har et TRI-PASS.\p"
-    .string "Vil du gâ om bord pâ\n"
+    .string "Vil du gå om bord på\n"
     .string "en SEAGALLOP færge?$"
 
 VermilionCity_Text_Seagallop7Departing::
@@ -86,34 +86,34 @@ VermilionCity_Text_Seagallop7Departing::
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
     .string "Ah, du har et RAINBOW PASS.\p"
-    .string "Vil du gâ om bord pâ\n"
+    .string "Vil du gå om bord på\n"
     .string "en SEAGALLOP færge?$"
 
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
     .string "Aah! Det er en MYSTICTICKET!\n"
     .string "Det er virkelig sjældent.\p"
     .string "Vi tager dig gerne til\n"
-    .string "NAVEL ROCK nâr som helst.$"
+    .string "NAVEL ROCK når som helst.$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
     .string "Aah! Det er en AURORATICKET!\n"
     .string "Det er virkelig sjældent.\p"
     .string "Vi tager dig gerne til\n"
-    .string "BIRTH ISLAND nâr som helst.$"
+    .string "BIRTH ISLAND når som helst.$"
 
 VermilionCity_Text_BoardSeagallopFerry::
-    .string "Vil du gâ om bord pâ\n"
+    .string "Vil du gå om bord på\n"
     .string "en SEAGALLOP færge?$"
 
 VermilionCity_Text_Seagallop10Departing::
     .string "Okay, alt er i orden for at du kan\n"
-    .string "gâ om bord pâ en speciel færge.\p"
+    .string "gå om bord på en speciel færge.\p"
     .string "SEAGALLOP HI-SPEED 10 afsejler\n"
     .string "straks.$"
 
 VermilionCity_Text_Seagallop12Departing::
     .string "Okay, alt er i orden for at du kan\n"
-    .string "gâ om bord pâ en speciel færge.\p"
+    .string "gå om bord på en speciel færge.\p"
     .string "SEAGALLOP HI-SPEED 12 afsejler\n"
     .string "straks.$"
 
@@ -126,6 +126,6 @@ VermilionCity_Text_Route2AideHasPackageForYou::
     .string "til dig, {PLAYER}.\p"
     .string "Han sagde han ville lede efter dig omkring\n"
     .string "ROUTE 2, {PLAYER}.\p"
-    .string "Hvis du er i ROUTE 2-omrâdet,\n"
-    .string "sâ led venligst efter ham.$"
+    .string "Hvis du er i ROUTE 2-området,\n"
+    .string "så led venligst efter ham.$"
 

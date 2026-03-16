@@ -1,9 +1,9 @@
 CeladonCity_Gym_Text_ErikaIntro::
     .string "Hej…\n"
     .string "Dejligt vejr, er det ikke?\l"
-    .string "Det er sâ behageligt…\p"
+    .string "Det er så behageligt…\p"
     .string "…Aah, kere…\n"
-    .string "Jeg mâ have doset. Velkommen.\p"
+    .string "Jeg må have doset. Velkommen.\p"
     .string "Mit navn er ERIKA.\n"
     .string "Jeg er LEADER af CELADON GYM.\p"
     .string "Jeg er elev i blomsterarrangement.\p"
@@ -17,21 +17,21 @@ CeladonCity_Gym_Text_ErikaDefeat::
     .string "Aah!\n"
     .string "Jeg indrømmer nederlag.\l"
     .string "Du er bemærkelsesværdigt stærk.\p"
-    .string "Jeg mâ overrække dig\n"
+    .string "Jeg må overrække dig\n"
     .string "RAINBOWBADGE.$"
 
 CeladonCity_Gym_Text_ErikaPostBattle::
     .string "Du katalogiserer POKéMON?\n"
-    .string "Jeg mâ sige jeg er imponeret.\p"
+    .string "Jeg må sige jeg er imponeret.\p"
     .string "Jeg ville aldrig samle POKéMON hvis\n"
     .string "de var uattraktive.$"
 
 CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
-    .string "RAINBOWBADGE fâr POKéMON op til Lv. 50\n"
+    .string "RAINBOWBADGE får POKéMON op til Lv. 50\n"
     .string "til at adlyde.\p"
-    .string "Den tillader ogsâ POKéMON at bruge\n"
+    .string "Den tillader også POKéMON at bruge\n"
     .string "STRENGTH i og uden kamp.\p"
-    .string "Tag venligst ogsâ dette med dig.$"
+    .string "Tag venligst også dette med dig.$"
 
 CeladonCity_Gym_Text_ReceivedTM19FromErika::
     .string "{PLAYER} modtog TM19\n"
@@ -49,15 +49,15 @@ CeladonCity_Gym_Text_ShouldMakeRoomForThis::
 
 CeladonCity_Gym_Text_KayIntro::
     .string "Jeg bør fortælle dig om denne GYM.\p"
-    .string "Kun rigtige damer mâ komme ind\n"
+    .string "Kun rigtige damer må komme ind\n"
     .string "her!$"
 
 CeladonCity_Gym_Text_KayDefeat::
     .string "Du er for grov!$"
 
 CeladonCity_Gym_Text_KayPostBattle::
-    .string "Bleâh!\n"
-    .string "Jeg hâber ERIKA udsletter dig!$"
+    .string "Bleåh!\n"
+    .string "Jeg håber ERIKA udsletter dig!$"
 
 CeladonCity_Gym_Text_BridgetIntro::
     .string "Aah, velkommen.\n"
@@ -67,9 +67,9 @@ CeladonCity_Gym_Text_BridgetDefeat::
     .string "Mit makeup!$"
 
 CeladonCity_Gym_Text_BridgetPostBattle::
-    .string "GRASS-type POKéMON er hârde\n"
+    .string "GRASS-type POKéMON er hårde\n"
     .string "mod WATER typen.\p"
-    .string "De har ogsâ fordel mod ROCK-\n"
+    .string "De har også fordel mod ROCK-\n"
     .string "og GROUND-type POKéMON.$"
 
 CeladonCity_Gym_Text_TinaIntro::
@@ -80,8 +80,8 @@ CeladonCity_Gym_Text_TinaDefeat::
     .string "Du er en ojenabner!$"
 
 CeladonCity_Gym_Text_TinaPostBattle::
-    .string "Aah, du kiggede pâ ERIKA…\n"
-    .string "Du kiggede ikke pâ mig…$"
+    .string "Aah, du kiggede på ERIKA…\n"
+    .string "Du kiggede ikke på mig…$"
 
 CeladonCity_Gym_Text_TamiaIntro::
     .string "Se, se!\n"
@@ -95,7 +95,7 @@ CeladonCity_Gym_Text_TamiaDefeat::
 CeladonCity_Gym_Text_TamiaPostBattle::
     .string "Vi bruger kun GRASS-type POKéMON i\n"
     .string "vores GYM.\p"
-    .string "Hvorfor? Vi bruger dem ogsâ til\n"
+    .string "Hvorfor? Vi bruger dem også til\n"
     .string "blomsterarrangementer!$"
 
 CeladonCity_Gym_Text_LisaIntro::
@@ -108,7 +108,7 @@ CeladonCity_Gym_Text_LisaDefeat::
     .string "Dig!$"
 
 CeladonCity_Gym_Text_LisaPostBattle::
-    .string "Vores LEADER ERIKA er mâske tavs,\n"
+    .string "Vores LEADER ERIKA er måske tavs,\n"
     .string "men hun er berømt heroppe.$"
 
 CeladonCity_Gym_Text_LoriIntro::
@@ -120,8 +120,8 @@ CeladonCity_Gym_Text_LoriDefeat::
     .string "Splendidt!$"
 
 CeladonCity_Gym_Text_LoriPostBattle::
-    .string "Jeg har en blind date pâ vej.\n"
-    .string "Jeg mâ lære at være høflig,\l"
+    .string "Jeg har en blind date på vej.\n"
+    .string "Jeg må lære at være høflig,\l"
     .string "især hvis jeg skal kæmpe.$"
 
 CeladonCity_Gym_Text_MaryIntro::
@@ -131,7 +131,7 @@ CeladonCity_Gym_Text_MaryIntro::
 
 CeladonCity_Gym_Text_MaryDefeat::
     .string "Aah!\n"
-    .string "Slâet!$"
+    .string "Slået!$"
 
 CeladonCity_Gym_Text_MaryPostBattle::
     .string "Jeg tog ikke mine bedste POKéMON med.\n"

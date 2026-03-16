@@ -1,6 +1,6 @@
 PokemonTower_3F_Text_HopeIntro::
-    .string "Urrg… Awâ…\n"
-    .string "Huhu… Grâ…$"
+    .string "Urrg… Awå…\n"
+    .string "Huhu… Grå…$"
 
 PokemonTower_3F_Text_HopeDefeat::
     .string "Hwa!\n"
@@ -12,7 +12,7 @@ PokemonTower_3F_Text_HopePostBattle::
 
 PokemonTower_3F_Text_CarlyIntro::
     .string "Kekeke…\n"
-    .string "Kwâah!$"
+    .string "Kwåah!$"
 
 PokemonTower_3F_Text_CarlyDefeat::
     .string "Hmm?\n"
@@ -24,12 +24,12 @@ PokemonTower_3F_Text_CarlyPostBattle::
 
 PokemonTower_3F_Text_PatriciaIntro::
     .string "Forsvind!\n"
-    .string "Ondskâbsfuld ând!$"
+    .string "Ondskåbsfuld ånd!$"
 
 PokemonTower_3F_Text_PatriciaDefeat::
     .string "Puha!\n"
     .string "Aanden forlod!$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-    .string "De andre ovenpâ…\n"
-    .string "De mâ have været besat.$"
+    .string "De andre ovenpå…\n"
+    .string "De må have været besat.$"

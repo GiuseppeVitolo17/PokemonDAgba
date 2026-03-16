@@ -1,18 +1,18 @@
 RockTunnel_1F_Text_LennyIntro::
-    .string "Denne tunnel gâr langt, unge!$"
+    .string "Denne tunnel går langt, unge!$"
 
 RockTunnel_1F_Text_LennyDefeat::
     .string "Doh!\n"
     .string "Du vinder!$"
 
 RockTunnel_1F_Text_LennyPostBattle::
-    .string "Pas pâ ONIX.\n"
+    .string "Pas på ONIX.\n"
     .string "De dukker kun lejlighedsvis op.\p"
     .string "Højt-niveau kan klemme dig!$"
 
 RockTunnel_1F_Text_OliverIntro::
     .string "Hmm.\n"
-    .string "Mâske er jeg faret vild her…$"
+    .string "Måske er jeg faret vild her…$"
 
 RockTunnel_1F_Text_OliverDefeat::
     .string "Slap af!\n"
@@ -20,11 +20,11 @@ RockTunnel_1F_Text_OliverDefeat::
     .string "Hvilken vej er ud?$"
 
 RockTunnel_1F_Text_OliverPostBattle::
-    .string "Den sovende POKéMON pâ ROUTE 12\n"
+    .string "Den sovende POKéMON på ROUTE 12\n"
     .string "tvang mig til at tage denne omvej.$"
 
 RockTunnel_1F_Text_LucasIntro::
-    .string "Udenforstâende som dig skal vise mig\n"
+    .string "Udenforstående som dig skal vise mig\n"
     .string "respekt!$"
 
 RockTunnel_1F_Text_LucasDefeat::
@@ -41,7 +41,7 @@ RockTunnel_1F_Text_AshtonDefeat::
     .string "Game over!$"
 
 RockTunnel_1F_Text_AshtonPostBattle::
-    .string "Nâ ja, jeg fâr en ZUBAT pâ vejen!$"
+    .string "Nå ja, jeg får en ZUBAT på vejen!$"
 
 RockTunnel_1F_Text_LeahIntro::
     .string "Eek!\p"
@@ -52,17 +52,17 @@ RockTunnel_1F_Text_LeahDefeat::
     .string "Det var for mørkt…$"
 
 RockTunnel_1F_Text_LeahPostBattle::
-    .string "Jeg sâ en MACHOP i denne tunnel.$"
+    .string "Jeg så en MACHOP i denne tunnel.$"
 
 RockTunnel_1F_Text_DanaIntro::
-    .string "Jeg kom sâ langt for at lede efter vilde\n"
+    .string "Jeg kom så langt for at lede efter vilde\n"
     .string "POKéMON.$"
 
 RockTunnel_1F_Text_DanaDefeat::
     .string "Jeg har ikke flere POKéMON!$"
 
 RockTunnel_1F_Text_DanaPostBattle::
-    .string "Du sâ sød og harmløs ud.\n"
+    .string "Du så sød og harmløs ud.\n"
     .string "Hvor tog jeg fejl!$"
 
 RockTunnel_1F_Text_ArianaIntro::
@@ -70,7 +70,7 @@ RockTunnel_1F_Text_ArianaIntro::
     .string "Lad os starte!$"
 
 RockTunnel_1F_Text_ArianaDefeat::
-    .string "Du spiller hârdt!$"
+    .string "Du spiller hårdt!$"
 
 RockTunnel_1F_Text_ArianaPostBattle::
     .string "Puha!\n"

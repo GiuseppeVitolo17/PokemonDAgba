@@ -11,13 +11,13 @@ Text_MonSentToBoxInBillsPC::
     .string "BOX “{STR_VAR_1}.”$"
 
 Text_MonSentToBoxSomeonesBoxFull::
-    .string "BOX “{STR_VAR_3}” pâ\n"
+    .string "BOX “{STR_VAR_3}” på\n"
     .string "Nogens PC var fuld.\p"
     .string "{STR_VAR_2} blev overført til\n"
     .string "BOX “{STR_VAR_1}.”$"
 
 Text_MonSentToBoxBillsBoxFull::
-    .string "BOX “{STR_VAR_3}” pâ\n"
+    .string "BOX “{STR_VAR_3}” på\n"
     .string "BILLs PC var fuld.\p"
     .string "{STR_VAR_2} blev overført til\n"
     .string "BOX “{STR_VAR_1}.”$"

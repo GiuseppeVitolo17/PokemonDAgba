@@ -11,31 +11,31 @@ TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
     .string "Jeg ved ikke hvor hun kan være.\l"
     .string "Hun burde have været her for længe siden.\p"
     .string "LOSTELLE er sæt - hun har mine\n"
-    .string "træk - sâ hvad hvis nogen…\p"
+    .string "træk - så hvad hvis nogen…\p"
     .string "Hvad hvis der er sket noget med\n"
     .string "min LOSTELLE?!\p"
     .string "Hjælp mig venligst med at finde hende!\n"
-    .string "Gâ venligst og søg pâ THREE ISLAND!$"
+    .string "Gå venligst og søg på THREE ISLAND!$"
 
 TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
     .string "Hah? Hvad er denne GAME CORNER?\n"
     .string "Hvor meget tristere kan det blive?\p"
     .string "De klovne…\p"
-    .string "De sagde de ville vente pâ øen,\n"
-    .string "sâ hvor er de?\p"
+    .string "De sagde de ville vente på øen,\n"
+    .string "så hvor er de?\p"
     .string "Hey, du! Er dette den eneste THREE\n"
     .string "ISLAND heromkring?$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
-    .string "Prøv at vâgne før du kravler ud\n"
+    .string "Prøv at vågne før du kravler ud\n"
     .string "af sengen, din bandit.\p"
     .string "Dette er TWO ISLAND!\p"
-    .string "Skrid! Fâ din beskidte motorcykel\n"
+    .string "Skrid! Få din beskidte motorcykel\n"
     .string "væk fra mit sted!$"
 
 TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing::
     .string "Huh…\n"
-    .string "Aah, âh, forstâet.\p"
+    .string "Aah, åh, forstået.\p"
     .string "Tch…\n"
     .string "Disse øer er forvirrende…$"
 
@@ -49,10 +49,10 @@ TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
     .string "Hvis der skete noget med min\n"
     .string "LOSTELLE…\p"
     .string "Mit hus er det med det røde tag\n"
-    .string "pâ THREE ISLAND.\p"
-    .string "Hun dukker mâske bare sent op her,\n"
-    .string "sâ jeg kan ikke løbe nogen steder.\p"
-    .string "Derfor mâ jeg bede dig om\n"
+    .string "på THREE ISLAND.\p"
+    .string "Hun dukker måske bare sent op her,\n"
+    .string "så jeg kan ikke løbe nogen steder.\p"
+    .string "Derfor må jeg bede dig om\n"
     .string "denne store tjeneste.$"
 
 TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday::
@@ -60,11 +60,11 @@ TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday::
     .string "Vi kører ikke nogen spil i dag.$"
 
 TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon::
-    .string "Vi fâr spillet i gang snart\n"
+    .string "Vi får spillet i gang snart\n"
     .string "for dig!$"
 
 TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
-    .string "Sâ du reddede LOSTELLE?\n"
+    .string "Så du reddede LOSTELLE?\n"
     .string "Hvordan kan jeg takke dig?\p"
     .string "LOSTELLE, skat, tilgiv mig!\p"
     .string "Far vidste ikke du var bange\n"
@@ -100,7 +100,7 @@ TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
     .string "Din TASKE har ikke plads til mere…$"
 
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
-    .string "Okay, jeg fâr GAME CORNER\n"
+    .string "Okay, jeg får GAME CORNER\n"
     .string "i gang med det samme.\p"
     .string "Du skal besøge med en ven.$"
 

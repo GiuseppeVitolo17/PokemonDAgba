@@ -64,7 +64,7 @@ Route14_Text_DonaldPostBattle::
 
 Route14_Text_BennyIntro::
     .string "Jeg er ikke til det, men okay.\n"
-    .string "Lad os gâ!$"
+    .string "Lad os gå!$"
 
 Route14_Text_BennyDefeat::
     .string "Jeg vidste det!$"
@@ -75,7 +75,7 @@ Route14_Text_BennyPostBattle::
 
 Route14_Text_LukasIntro::
     .string "Kom nu, kom nu.\n"
-    .string "Lad os gâ, lad os gâ!$"
+    .string "Lad os gå, lad os gå!$"
 
 Route14_Text_LukasDefeat::
     .string "Arrg!\n"
@@ -98,19 +98,19 @@ Route14_Text_IsaacPostBattle::
 
 Route14_Text_GeraldIntro::
     .string "Vi kører herude pga. det\n"
-    .string "vide âbne land.$"
+    .string "vide åbne land.$"
 
 Route14_Text_GeraldDefeat::
     .string "Wipeout!$"
 
 Route14_Text_GeraldPostBattle::
     .string "Det er sejt at du har gjort dine\n"
-    .string "POKéMON sâ stærke.\p"
+    .string "POKéMON så stærke.\p"
     .string "Styrke er ret! Og det ved du!$"
 
 Route14_Text_MalikIntro::
     .string "POKéMON kamp?\n"
-    .string "Sejt! Slagsmâl!$"
+    .string "Sejt! Slagsmål!$"
 
 Route14_Text_MalikDefeat::
     .string "Blæst væk!$"
@@ -139,7 +139,7 @@ Route14_Text_KiriNotEnoughMons::
     .string "to POKéMON.$"
 
 Route14_Text_JanIntro::
-    .string "JAN: KIRI, sâ er vi i gang!\n"
+    .string "JAN: KIRI, så er vi i gang!\n"
     .string "Vi skal gøre os umage!$"
 
 Route14_Text_JanDefeat::
@@ -148,7 +148,7 @@ Route14_Text_JanDefeat::
 
 Route14_Text_JanPostBattle::
     .string "JAN: KIRI, græd ikke!\n"
-    .string "Vi prøver bare hârdere næste gang.$"
+    .string "Vi prøver bare hårdere næste gang.$"
 
 Route14_Text_JanNotEnoughMons::
     .string "JAN: Vil du kæmpe?\n"

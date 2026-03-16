@@ -7,11 +7,11 @@ SilphCo_2F_Text_ConnorDefeat::
     .string "at jeg var ROCKET?$"
 
 SilphCo_2F_Text_ConnorPostBattle::
-    .string "Jeg arbejder for bâde SILPH og TEAM\n"
+    .string "Jeg arbejder for både SILPH og TEAM\n"
     .string "ROCKET.$"
 
 SilphCo_2F_Text_JerryIntro::
-    .string "Det er forbudt omrâde her!\n"
+    .string "Det er forbudt område her!\n"
     .string "Ga hjem!$"
 
 SilphCo_2F_Text_JerryDefeat::
@@ -25,7 +25,7 @@ SilphCo_2F_Text_Grunt1Intro::
     .string "Børn har ikke adgang her!$"
 
 SilphCo_2F_Text_Grunt1Defeat::
-    .string "Hârdt!$"
+    .string "Hårdt!$"
 
 SilphCo_2F_Text_Grunt1PostBattle::
     .string "Diamantformede fliser er teleport-\n"
@@ -61,12 +61,12 @@ Text_ThunderWaveWhichMon::
     .string "THUNDER WAVE?$"
 
 Text_ThunderWaveTaught::
-    .string "THUNDER WAVE forârsager lamhed hos\n"
-    .string "mâl-POKéMON.\p"
+    .string "THUNDER WAVE forårsager lamhed hos\n"
+    .string "mål-POKéMON.\p"
     .string "Et lamt POKéMON kan være ude af stand\n"
     .string "til at bevæge sig i kamp.\p"
-    .string "Det er et ELECTRIC-type angreb, sâ det\n"
-    .string "virker ikke pâ nogle POKéMON.$"
+    .string "Det er et ELECTRIC-type angreb, så det\n"
+    .string "virker ikke på nogle POKéMON.$"
 
 SilphCo_2F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

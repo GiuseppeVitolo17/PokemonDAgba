@@ -1,7 +1,7 @@
 FuchsiaCity_House3_Text_WouldYouLikeToForgetMove::
     .string "Øh…\n"
     .string "Ja, jeg er MOVE DELETER.\p"
-    .string "Jeg kan fâ POKéMON til at glemme\n"
+    .string "Jeg kan få POKéMON til at glemme\n"
     .string "deres angreb.\p"
     .string "Vil du have mig til at gøre det?$"
 

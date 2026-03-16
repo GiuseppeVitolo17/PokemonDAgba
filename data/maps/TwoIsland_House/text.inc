@@ -2,7 +2,7 @@ TwoIsland_House_Text_TeachMonMoveForMushroom::
     .string "Jeg er POKéMON TRÆK-MANIAC.\p"
     .string "Jeg kender hvert enkelt træk som\n"
     .string "POKéMON lærer under opvækst.\p"
-    .string "Jeg er ogsâ svampe-maniac.\p"
+    .string "Jeg er også svampe-maniac.\p"
     .string "Bring mig to TINYMUSHROOMS,\n"
     .string "eller én BIG MUSHROOM.\p"
     .string "Hvis du gør det for mig, lærer jeg\n"
@@ -26,7 +26,7 @@ TwoIsland_House_Text_NoMoveICanTeachThatMon::
     .string "træk jeg kan lære den POKéMON.$"
 
 TwoIsland_House_Text_IllNeedMushroomOrTwo::
-    .string "Sâ har jeg brug for en MUSHROOM eller to.\n"
+    .string "Så har jeg brug for en MUSHROOM eller to.\n"
     .string "Hvad vil du give mig?$"
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::

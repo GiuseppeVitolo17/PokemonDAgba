@@ -23,7 +23,7 @@ Help_Text_TryDoingItOnYourOwn::
 	.string "じぶんの ちからで やってみよう！$"
 
 Help_Text_DescWhatShouldIDo::
-	.string "Valg for at fâ tips til at komme\n"
+	.string "Valg for at få tips til at komme\n"
 	.string "over udfordrende situationer.$"
 
 Help_Text_DescHowDoIDoThis::
@@ -47,10 +47,10 @@ Help_Text_DescExit::
 
 Help_Text_Greetings::
 	.string "Hej! Dette er HJÆLP-systemet.\n"
-	.string "Kald pâ mig nâr og hvor du vil\l"
+	.string "Kald på mig når og hvor du vil\l"
 	.string "ved at trykke L- eller R-knappen.\l"
 	.string "Hjælpeteksterne ændres efter\l"
-	.string "situationen, sâ tjek dem ofte.$"
+	.string "situationen, så tjek dem ofte.$"
 
 Help_Text_PlayingForFirstTime::
 	.string "Jeg spiller for første gang. Hjælp!$"
@@ -92,7 +92,7 @@ Help_Text_HowDoIProgress::
 	.string "Hvordan kommer jeg videre?$"
 
 Help_Text_WhenCanIUseItem::
-	.string "Hvornâr kan jeg bruge genstande?$"
+	.string "Hvornår kan jeg bruge genstande?$"
 
 Help_Text_WhatsABattle::
 	.string "Hvad er en kamp?$"
@@ -188,24 +188,24 @@ Help_Text_AnswerPlayingForFirstTime::
 	.string "Du bliver hovedpersonen og udforsker\n"
 	.string "POKéMONs verden.\l"
 	.string "Ved at snakke med folk og løse\l"
-	.string "mysterier âbner nye veje sig.\l"
-	.string "Strab mod mâlet sammen med dine\l"
+	.string "mysterier åbner nye veje sig.\l"
+	.string "Strab mod målet sammen med dine\l"
 	.string "vidunderlige POKéMON.$"
 
 Help_Text_AnswerWhatShouldIBeDoing::
-	.string "Nâr du møder en anden, ga hen til\n"
-	.string "dem og tryk A-knappen. Sâdan fâr du\l"
-	.string "dem til at tale. Du kan ogsâ undersooge\l"
+	.string "Når du møder en anden, ga hen til\n"
+	.string "dem og tryk A-knappen. Sådan får du\l"
+	.string "dem til at tale. Du kan også undersooge\l"
 	.string "genstande og ting. Snak med folk og\l"
-	.string "tjek ting ofte for at fâ information.\l"
+	.string "tjek ting ofte for at få information.\l"
 	.string "\l"
 	.string "$"
 
 Help_Text_AnswerCantGetOutOfRoom::
 	.string "Ved trapper eller udgangene i en\n"
-	.string "bygning er et rødt mâtte. Flyt din\l"
-	.string "figur op pâ det røde mâtte.\l"
-	.string "Tryk pâ {PLUS}-retningsknapperne\l"
+	.string "bygning er et rødt måtte. Flyt din\l"
+	.string "figur op på det røde måtte.\l"
+	.string "Tryk på {PLUS}-retningsknapperne\l"
 	.string "mod trapperne eller udgangen for\l"
 	.string "at komme videre.$"
 
@@ -218,15 +218,15 @@ Help_Text_AnswerCantFindPersonIWant::
 	.string "til en ny by eller et nyt sted.$"
 
 Help_Text_AnswerTalkedToEveryoneNowWhat::
-	.string "Prøv at gâ videre til en ny vej,\n"
+	.string "Prøv at gå videre til en ny vej,\n"
 	.string "by eller et nyt sted.$"
 
 Help_Text_AnswerSomeoneBlockingMyWay::
 	.string "Der kan være noget i byen eller\n"
-	.string "inde i en bygning som er ârsagen.\l"
-	.string "Prøv at tale med folk i omrâdet\l"
+	.string "inde i en bygning som er årsagen.\l"
+	.string "Prøv at tale med folk i området\l"
 	.string "igen. Hvis der er et problem de\l"
-	.string "skal have løst, mâ du mâske hjælpe.\l"
+	.string "skal have løst, må du måske hjælpe.\l"
 	.string "Tal derefter med personen der\l"
 	.string "blokerer din vej igen.$"
 
@@ -1291,8 +1291,8 @@ Help_Text_DefineAbility::
 	.string "have more than one kind of ability.$"
 
 Help_Text_DefineMoney::
-	.string "Nâr du vinder mod en TRÆNER,\l"
-	.string "fâr du premiepenge. Spar op til\l"
+	.string "Når du vinder mod en TRÆNER,\l"
+	.string "får du premiepenge. Spar op til\l"
 	.string "indkøb i POKéMON MART!$"
 
 Help_Text_DefineMoveType::
@@ -1300,8 +1300,8 @@ Help_Text_DefineMoveType::
 	.string "If a POKéMON of a certain type uses\l"
 	.string "a move of the same type, the move's\l"
 	.string "power is boosted. If the move's type\l"
-	.string "har fordel mod mâlet, øges\l"
-	.string "effektiviteten ogsâ.$"
+	.string "har fordel mod målet, øges\l"
+	.string "effektiviteten også.$"
 
 Help_Text_DefineNature::
 	.string "All POKéMON have a personality,\n"
@@ -1506,7 +1506,7 @@ Help_Text_TheGame::
 	.string "Spillet$"
 
 Help_Text_WirelessAdapter::
-	.string "Trâdløs adapter$"
+	.string "Trådløs adapter$"
 
 Help_Text_GameFundamentals1::
 	.string "Spilgrunder 1$"
@@ -1523,23 +1523,23 @@ Help_Text_WhatArePokemon::
 Help_Text_DescTheHelpSystem::
 	.string "Hjælpebeskederne ændrer sig efter\n"
 	.string "hvor langt du er kommet i spillet.\l"
-	.string "De er lavet til at hjælpe dig, nâr\l"
+	.string "De er lavet til at hjælpe dig, når\l"
 	.string "du har brug for det. Hvis der er\l"
-	.string "noget du ikke forstâr, slâ det op\l"
+	.string "noget du ikke forstår, slå det op\l"
 	.string "i HJÆLP-systemet!$"
 
 Help_Text_DescTheGame::
 	.string "Du bliver hovedpersonen og udforsker\n"
 	.string "POKéMON-verdenen!\l"
 	.string "Ved at tale med folk og løse\l"
-	.string "mysterier âbner nye veje sig.\l"
-	.string "Stræb mod mâlet sammen med dine\l"
+	.string "mysterier åbner nye veje sig.\l"
+	.string "Stræb mod målet sammen med dine\l"
 	.string "vidunderlige POKéMON!$"
 
 Help_Text_DescWirelessAdapter::
-	.string "Dette spil kommunikerer trâdløst\n"
+	.string "Dette spil kommunikerer trådløst\n"
 	.string "via Wireless Adapteren.\p"
-	.string "Vær trâdløs overalt, nâr som helst\n"
+	.string "Vær trådløs overalt, når som helst\n"
 	.string "og med hvem som helst!\p"
 	.string "Prøv at spille med Wireless Adapteren\n"
 	.string "altid tilsluttet!$"
@@ -1547,20 +1547,20 @@ Help_Text_DescWirelessAdapter::
 Help_Text_DescGameFundamentals1::
 	.string "Besøg hver by, rejs hver vej, udforsk\n"
 	.string "hver hule og tag imod hver udfordring\l"
-	.string "pâ vej mod at blive den bedste\l"
+	.string "på vej mod at blive den bedste\l"
 	.string "TRÆNER af POKéMON!$"
 
 Help_Text_DescGameFundamentals2::
-	.string "Pâ din rejse møder du mange\n"
+	.string "På din rejse møder du mange\n"
 	.string "forhindringer. Hver forhindring kan\l"
 	.string "overvindes ved at gøre noget eller\l"
 	.string "løse mysterier. Nogle forhindringer\l"
-	.string "pâvirkes af noget der sker langt\l"
+	.string "påvirkes af noget der sker langt\l"
 	.string "væk.$"
 
 Help_Text_DescGameFundamentals3::
 	.string "Nogle af forhindringerne kan fjernes\n"
-	.string "nâr dine POKéMON lærer bestemte\l"
+	.string "når dine POKéMON lærer bestemte\l"
 	.string "angreb.$"
 
 Help_Text_DescWhatArePokemon::

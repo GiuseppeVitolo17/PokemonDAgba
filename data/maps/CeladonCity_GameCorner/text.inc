@@ -21,7 +21,7 @@ CeladonCity_GameCorner_Text_CoinCaseIsFull::
     .string "Din COIN CASE er fuld.$"
 
 CeladonCity_GameCorner_Text_CantAffordCoins::
-    .string "Du har ikke râd til COINS.$"
+    .string "Du har ikke råd til COINS.$"
 
 CeladonCity_GameCorner_Text_HereAreYourCoins::
     .string "Tak.\n"
@@ -47,7 +47,7 @@ CeladonCity_GameCorner_Text_DontNeedMyCoins::
     .string "Du har ikke brug for mine COINS!$"
 
 CeladonCity_GameCorner_Text_WinsComeAndGo::
-    .string "Sejre kommer og gâr.\n"
+    .string "Sejre kommer og går.\n"
     .string "Intet er sikkert.$"
 
 CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuck::
@@ -61,10 +61,10 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
     .string "CELADON GYMs LEADER er ERIKA.\p"
     .string "Hun bruger GRASS-type\n"
     .string "POKéMON og er et med naturen.\p"
-    .string "Hun virker mâske rolig pga.\n"
+    .string "Hun virker måske rolig pga.\n"
     .string "sine blomsterarrangementer…\p"
     .string "Men hun er ikke en man skal\n"
-    .string "tage let pâ!$"
+    .string "tage let på!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
     .string "De tilbyder sjældne POKéMON der kan\n"
@@ -73,10 +73,10 @@ CeladonCity_GameCorner_Text_RareMonsForCoins::
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
     .string "Spil er skræmmende!\n"
-    .string "Det er sâ nemt at blive afhængig!$"
+    .string "Det er så nemt at blive afhængig!$"
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
-    .string "Hvad sâ?\n"
+    .string "Hvad så?\n"
     .string "Vil du have nogle COINS?$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
@@ -92,7 +92,7 @@ CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
     .string "Hey, hvad? Du distraherer mig!\n"
-    .string "Her er nogle COINS, sâ førsvind!$"
+    .string "Her er nogle COINS, så førsvind!$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
     .string "{PLAYER} modtog 20 COINS\n"
@@ -120,7 +120,7 @@ CeladonCity_GameCorner_Text_GruntPostBattle::
 CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
     .string "Hey!\p"
     .string "En kontakt bag plakaten!?\n"
-    .string "Lad os trykke pâ den!$"
+    .string "Lad os trykke på den!$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsRequired::
     .string "En COIN CASE er nødvendig…$"

@@ -10,7 +10,7 @@ VermilionCity_Gym_Text_LtSurgeIntro::
     .string "Det samme gør jeg ved dig!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 VermilionCity_Gym_Text_LtSurgePostBattle::
-    .string "Et lille ord af râd, unge!\p"
+    .string "Et lille ord af råd, unge!\p"
     .string "Elektricitet er virkelig kraftfuld!\p"
     .string "Men den er nytteløs mod JORD-\n"
     .string "type POKéMON!$"
@@ -18,8 +18,8 @@ VermilionCity_Gym_Text_LtSurgePostBattle::
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
     .string "THUNDERBADGE øger din\n"
     .string "POKéMONs HASTIGHED!\p"
-    .string "Den lader ogsâ din POKéMON FLYVE\n"
-    .string "lynhurtigt nâr som helst, unge!\p"
+    .string "Den lader også din POKéMON FLYVE\n"
+    .string "lynhurtigt når som helst, unge!\p"
     .string "Du er speciel, unge!\n"
     .string "Tag dette!$"
 
@@ -37,19 +37,19 @@ VermilionCity_Gym_Text_MakeRoomInYourBag::
 VermilionCity_Gym_Text_LtSurgeDefeat::
     .string "Det var en choker!\p"
     .string "Du er den rigtige vare, unge!\p"
-    .string "Okay, sâ tag THUNDERBADGE!$"
+    .string "Okay, så tag THUNDERBADGE!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
     .string "Da jeg var i hæren, var LT. SURGE\n"
     .string "min strenge befalingsmand.\p"
-    .string "Han var en hârd taskmaster.$"
+    .string "Han var en hård taskmaster.$"
 
 VermilionCity_Gym_Text_TuckerDefeat::
     .string "Stop!\n"
     .string "Du er meget dygtig!$"
 
 VermilionCity_Gym_Text_TuckerPostBattle::
-    .string "Det er ikke nemt at âbne den dør.\p"
+    .string "Det er ikke nemt at åbne den dør.\p"
     .string "LT. SURGE var altid berømt for\n"
     .string "sin forsigtige natur i hæren.$"
 
@@ -77,10 +77,10 @@ VermilionCity_Gym_Text_DwayneDefeat::
 VermilionCity_Gym_Text_DwaynePostBattle::
     .string "LT. SURGE installerede fældrene i\n"
     .string "GYM selv.\p"
-    .string "Han satte dobbelte lâse overalt.\n"
+    .string "Han satte dobbelte låse overalt.\n"
     .string "Lad mig give dig et tip.\p"
-    .string "Nâr du âbner den første lâs, er\n"
-    .string "den anden lâs lige ved siden af.$"
+    .string "Når du åbner den første lås, er\n"
+    .string "den anden lås lige ved siden af.$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
@@ -91,10 +91,10 @@ VermilionCity_Gym_Text_GymGuyAdvice::
     .string "Han er ekspert i elektriske\n"
     .string "POKéMON.\p"
     .string "FUGL/VAND-type POKéMON matcher\n"
-    .string "dârligt mod ELEKTRISK type.\p"
-    .string "Pas ogsâ pâ lammelse.\p"
+    .string "dårligt mod ELEKTRISK type.\p"
+    .string "Pas også på lammelse.\p"
     .string "LT. SURGE er meget forsigtig.\p"
-    .string "Han har lâst sig selv inde, sâ det bliver\n"
+    .string "Han har låst sig selv inde, så det bliver\n"
     .string "ikke nemt at komme til ham.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
@@ -120,20 +120,20 @@ VermilionCity_Gym_Text_NopeOnlyTrashHere::
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
     .string "Hey! Der er en kontakt under\n"
     .string "affaldet! Tænd den!\p"
-    .string "Den første elektriske lâs âbnede!$"
+    .string "Den første elektriske lås åbnede!$"
 
 VermilionCity_Gym_Text_AnotherSwitchInTrash::
     .string "Hey! Der er endnu en kontakt i\n"
-    .string "affaldet! Tryk pâ den!\p"
+    .string "affaldet! Tryk på den!\p"
     .string "… Klik!$"
 
 VermilionCity_Gym_Text_SecondLockOpened::
-    .string "Den anden elektriske lâs âbnede!\n"
-    .string "Motordøren âbnede!$"
+    .string "Den anden elektriske lås åbnede!\n"
+    .string "Motordøren åbnede!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
     .string "Nix!\n"
     .string "Der er kun affald her.\p"
     .string "Hey!\n"
-    .string "De elektriske lâse blev nulstillet!$"
+    .string "De elektriske låse blev nulstillet!$"
 

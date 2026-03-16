@@ -7,10 +7,10 @@ FiveIsland_LostCave_Room10_Text_SelphyDefeat::
     .string "ville gøre mig fortræd.$"
 
 FiveIsland_LostCave_Room10_Text_MayIAskYouToTakeMeHome::
-    .string "Jeg er sâ glad for at du kom\n"
+    .string "Jeg er så glad for at du kom\n"
     .string "forbi.\p"
-    .string "Jeg blev ret kede af at gâ,\n"
+    .string "Jeg blev ret kede af at gå,\n"
     .string "og jeg føler mig træt.\p"
-    .string "Mâ jeg bede dig tage mig hjem\n"
+    .string "Må jeg bede dig tage mig hjem\n"
     .string "herfra?$"
 

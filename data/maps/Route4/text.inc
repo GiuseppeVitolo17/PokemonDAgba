@@ -11,7 +11,7 @@ Route4_Text_CrissyDefeat::
     .string "fange dem!$"
 
 Route4_Text_CrissyPostBattle::
-    .string "Der er mâske ikke flere svampe\n"
+    .string "Der er måske ikke flere svampe\n"
     .string "her.\p"
     .string "Jeg tror jeg fik dem alle.$"
 
@@ -26,14 +26,14 @@ Route4_Text_RouteSign::
 Text_MegaPunchTeach::
     .string "Et slag af buldrende vildskab!\p"
     .string "Proppet med ødelæggende kraft!\p"
-    .string "Nâr chipsene er nede, er\n"
+    .string "Når chipsene er nede, er\n"
     .string "MEGA PUNCH det ultimative angreb!\l"
     .string "Det er du enig i, ikke?\p"
     .string "Nu!\n"
     .string "Lad mig lære det til din POKéMON!$"
 
 Text_MegaPunchDeclined::
-    .string "Du kommer tilbage nâr du forstâr\n"
+    .string "Du kommer tilbage når du forstår\n"
     .string "værdien af MEGA PUNCH.$"
 
 Text_MegaPunchWhichMon::
@@ -42,21 +42,21 @@ Text_MegaPunchWhichMon::
 
 Text_MegaPunchTaught::
     .string "Nu er vi kammerater i slagets kunst!\p"
-    .string "Du bør gâ før du bliver set af den\n"
+    .string "Du bør gå før du bliver set af den\n"
     .string "vildledte fjols der kun træner\l"
     .string "sine dumme spark derovre.$"
 
 Text_MegaKickTeach::
     .string "Et spark af brutal vildskab!\p"
     .string "Proppet med ødelæggende kraft!\p"
-    .string "Nâr du kommer til sagen, er\n"
+    .string "Når du kommer til sagen, er\n"
     .string "MEGA KICK det ultimative angreb!\l"
     .string "Er du ikke enig?\p"
     .string "Okay!\n"
     .string "Jeg lærer det til din POKéMON!$"
 
 Text_MegaKickDeclined::
-    .string "Du kommer kravlende tilbage nâr du\n"
+    .string "Du kommer kravlende tilbage når du\n"
     .string "indser værdien af MEGA KICK.$"
 
 Text_MegaKickWhichMon::
@@ -72,7 +72,7 @@ Text_MegaKickTaught::
 Route4_Text_PeopleLikeAndRespectBrock::
     .string "Oh wow, det er BOULDERBADGE!\n"
     .string "Du fik den fra BROCK, ikke?\p"
-    .string "BROCK er sej. Han er ikke bare hârd.\n"
+    .string "BROCK er sej. Han er ikke bare hård.\n"
     .string "Folk kan lide og respekterer ham.\p"
     .string "Jeg vil blive en GYM LEADER\n"
     .string "som ham.$"

@@ -3,8 +3,8 @@ SaffronCity_Dojo_Text_MasterKoichiIntro::
     .string "Jeg er KARATE MESTEREN!\n"
     .string "Jeg er LEADEREN her!\p"
     .string "Vil du udfordre os?\n"
-    .string "Forvent ingen nâde!\p"
-    .string "Fwâa!$"
+    .string "Forvent ingen nåde!\p"
+    .string "Fwåa!$"
 
 SaffronCity_Dojo_Text_MasterKoichiDefeat::
     .string "Hwa!\n"
@@ -13,7 +13,7 @@ SaffronCity_Dojo_Text_MasterKoichiDefeat::
 SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
     .string "Sandelig, jeg har tabt!\p"
     .string "Men jeg beder dig, tag ikke\n"
-    .string "vârt emblem som din trofæ!\p"
+    .string "vårt emblem som din trofæ!\p"
     .string "Til gengæld giver jeg dig et værdifuldt\n"
     .string "FIGHTING POKéMON!\p"
     .string "Vælig hvilken som helst du vil!$"
@@ -43,11 +43,11 @@ SaffronCity_Dojo_Text_HidekiDefeat::
 
 SaffronCity_Dojo_Text_HidekiPostBattle::
     .string "Vores MESTER er en pro-fighter.\n"
-    .string "Vær forberedt pâ at tabe!$"
+    .string "Vær forberedt på at tabe!$"
 
 SaffronCity_Dojo_Text_AaronIntro::
     .string "Hiyah!\n"
-    .string "Jeg frygter intet hârdt!\p"
+    .string "Jeg frygter intet hårdt!\p"
     .string "Jeg splintrer kampesten under træning\n"
     .string "hver dag!$"
 
@@ -60,7 +60,7 @@ SaffronCity_Dojo_Text_AaronPostBattle::
     .string "psykisk kraft!$"
 
 SaffronCity_Dojo_Text_HitoshiIntro::
-    .string "Hwâh!\p"
+    .string "Hwåh!\p"
     .string "Du træder ind i vores\n"
     .string "FIGHTING DOJO!$"
 
@@ -73,7 +73,7 @@ SaffronCity_Dojo_Text_HitoshiPostBattle::
     .string "træner her.$"
 
 SaffronCity_Dojo_Text_YouWantHitmonlee::
-    .string "Vil du have den hârd-sparkende\n"
+    .string "Vil du have den hård-sparkende\n"
     .string "HITMONLEE?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster::
@@ -89,10 +89,10 @@ SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
     .string "{STR_VAR_1}を　もらった！$"
 
 SaffronCity_Dojo_Text_BetterNotGetGreedy::
-    .string "Du bør ikke blive grâdig…$"
+    .string "Du bør ikke blive grådig…$"
 
 SaffronCity_Dojo_Text_EnemiesOnEverySide::
-    .string "Fjender pâ alle sider!$"
+    .string "Fjender på alle sider!$"
 
 SaffronCity_Dojo_Text_GoesAroundComesAround::
     .string "Hvad man sær, det høster man.$"

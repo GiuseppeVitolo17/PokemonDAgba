@@ -1,6 +1,6 @@
 CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
     .string "SUPER REPEL holder svække POKéMON\n"
-    .string "pâ afstand…\p"
+    .string "på afstand…\p"
     .string "Hmm, det er en stærkere REPEL.$"
 
 CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::

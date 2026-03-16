@@ -1,6 +1,6 @@
 PokedexRating_Text_HowIsPokedexComingAlong::
 	.string "OAK: Godt at se dig!\n"
-	.string "Hvordan gâr det med din POKéDEX?\p"
+	.string "Hvordan går det med din POKéDEX?\p"
 	.string "Lad mig tage et kig.$"
 
 PokedexRating_Text_SeenXOwnedY::
@@ -15,7 +15,7 @@ PokedexRating_Text_LessThan10::
 	.string "og led efter POKéMON!$"
 
 PokedexRating_Text_LessThan20::
-	.string "Det ser ud til at du er pâ rette\n"
+	.string "Det ser ud til at du er på rette\n"
 	.string "vej!\p"
 	.string "Jeg har givet en af mine assistenter\n"
 	.string "en FLASH-HM. Hænt den!$"
@@ -57,10 +57,10 @@ PokedexRating_Text_LessThan90::
 
 PokedexRating_Text_LessThan100::
 	.string "Jeg er imponeret!\n"
-	.string "Det mâ have været svært!$"
+	.string "Det må have været svært!$"
 
 PokedexRating_Text_LessThan110::
-	.string "Du har endelig nâet 100 arter!\n"
+	.string "Du har endelig nået 100 arter!\n"
 	.string "Utroligt hvor dygtig du er!$"
 
 PokedexRating_Text_LessThan120::
@@ -69,7 +69,7 @@ PokedexRating_Text_LessThan120::
 
 PokedexRating_Text_LessThan130::
 	.string "Fremragende! Bytt med venner for\n"
-	.string "at fâ flere!$"
+	.string "at få flere!$"
 
 PokedexRating_Text_LessThan140::
 	.string "Enestænde!\n"
@@ -96,11 +96,11 @@ PokedexRating_Text_YouveCompletedDex::
 	.string "Endelig…\p"
 	.string "Du har endelig færdiggjort\n"
 	.string "POKéDEX!\p"
-	.string "Det er storslâet!\n"
+	.string "Det er storslået!\n"
 	.string "Virkelig en fantastisk bedrift!$"
 
 PokedexRating_Text_Wroooaaarrr::
-	.string "Wroooooooââârrrr!$"
+	.string "Wroooooooååårrrr!$"
 
 PokedexRating_Text_HaHa::
 	.string "Ha ha...$"
@@ -112,7 +112,7 @@ PokedexRating_Text_ThankYouMadeDreamReality::
 
 PokedexRating_Text_LoveSeeingYourPokedex::
 	.string "OAK: Ah, velkommen!\p"
-	.string "Sig mig, hvordan gâr det med\n"
+	.string "Sig mig, hvordan går det med\n"
 	.string "din POKéDEX?\p"
 	.string "Wahaha!\p"
 	.string "Faktisk ved jeg hvordan det er,\n"

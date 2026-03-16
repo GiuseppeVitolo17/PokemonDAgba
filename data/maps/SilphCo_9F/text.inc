@@ -13,22 +13,22 @@ SilphCo_9F_Text_Grunt1Intro::
     .string "unge!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
-    .string "Ghâah!$"
+    .string "Ghåah!$"
 
 SilphCo_9F_Text_Grunt1PostBattle::
     .string "Hvis jeg var startet som TRAINER i\n"
     .string "din alder…$"
 
 SilphCo_9F_Text_EdIntro::
-    .string "Dine POKéMON har svâghedspunkter!\n"
+    .string "Dine POKéMON har svåghedspunkter!\n"
     .string "Jeg kan ramme dem!$"
 
 SilphCo_9F_Text_EdDefeat::
     .string "Du hamrede mig!$"
 
 SilphCo_9F_Text_EdPostBattle::
-    .string "At udnytte svâghedspunkter virker.\n"
-    .string "Tænk pâ typefordele.$"
+    .string "At udnytte svåghedspunkter virker.\n"
+    .string "Tænk på typefordele.$"
 
 SilphCo_9F_Text_Grunt2Intro::
     .string "Jeg er en af de fire ROCKET\n"

@@ -6,7 +6,7 @@ SixIsland_WaterPath_House1_Text_LoveItNeedItHeracross::
 SixIsland_WaterPath_House1_Text_MayIMeasureHeracross::
     .string "Eeeeek!\n"
     .string "Det er en HERACROSS!\p"
-    .string "Ma jeg venligst mâle hvor stor\n"
+    .string "Ma jeg venligst måle hvor stor\n"
     .string "den er?$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesDeserveReward::
@@ -21,7 +21,7 @@ SixIsland_WaterPath_House1_Text_WantToSeeBiggerOne::
     .string "HERACROSS!$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesSameAsBefore::
-    .string "Hva? Denne {STR_VAR_2}-tommers mâling…\n"
+    .string "Hva? Denne {STR_VAR_2}-tommers måling…\n"
     .string "Aah, bøv! Det er det samme som før.$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesYInchesWasBiggest::
@@ -41,7 +41,7 @@ SixIsland_WaterPath_House1_Text_YourBagIsFull::
 
 SixIsland_WaterPath_House1_Text_BiggestHeracrossIsXInches::
     .string "Den største HERACROSS jeg nogensinde\n"
-    .string "har set mâlt indtil nu er:\p"
+    .string "har set målt indtil nu er:\p"
     .string "{STR_VAR_3} tommer!$"
 
 SixIsland_WaterPath_House1_Text_BlankChartOfSomeSort::

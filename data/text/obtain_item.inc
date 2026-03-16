@@ -12,7 +12,7 @@ Text_FoundOneItem::
 	.string "{PLAYER} fandt en {STR_VAR_2}!$"
 
 Text_TooBadBagFull::
-	.string "Sâ sørgeligt!\n"
+	.string "Så sørgeligt!\n"
 	.string "Tasken er fuld…$"
 
 Text_FoundXCoins::
@@ -24,11 +24,11 @@ Text_PutCoinsAwayInCoinCase::
 	.string "MØNTBOKSEN.$"
 
 Text_CoinCaseIsFull::
-	.string "Sâ sørgeligt!\n"
+	.string "Så sørgeligt!\n"
 	.string "MØNTBOKSEN er fuld…$"
 
 Text_NothingToPutThemIn::
-	.string "Sâ sørgeligt!\n"
+	.string "Så sørgeligt!\n"
 	.string "Der er intet at putte dem i…$"
 
 Text_FoundXItems::
@@ -39,7 +39,7 @@ Text_ObtainedTheDecor::
 	.string "Fik {STR_VAR_2}!$"
 
 Text_NoRoomForAnotherDecor::
-	.string "Sâ sørgeligt! Der er ikke plads\n"
+	.string "Så sørgeligt! Der er ikke plads\n"
 	.string "til endnu en {STR_VAR_2}…$"
 
 Text_DecorTransferredToPC::

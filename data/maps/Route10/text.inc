@@ -1,6 +1,6 @@
 Route10_Text_MarkIntro::
     .string "Wow, du kom hele vejen her?\n"
-    .string "Mâske er du ogsâ POKeMANIAC?\l"
+    .string "Måske er du også POKeMANIAC?\l"
     .string "Vil du se min samling?$"
 
 Route10_Text_MarkDefeat::
@@ -69,7 +69,7 @@ Route10_Text_CarolDefeat::
     .string "Jeg var ikke klar til det.$"
 
 Route10_Text_CarolPostBattle::
-    .string "POKéMON her i bjergene er sâ\n"
+    .string "POKéMON her i bjergene er så\n"
     .string "tunge…\p"
     .string "Jeg ville ønske der var lyserøde\n"
     .string "POKéMON med blomstermønster!$"

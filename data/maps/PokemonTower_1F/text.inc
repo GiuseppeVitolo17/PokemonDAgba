@@ -16,7 +16,7 @@ PokemonTower_1F_Text_CameToPrayForDepartedClefairy::
     .string "Jeg kom for at bede for min dybt\n"
     .string "afdøde CLEFAIRY.\p"
     .string "Snøft!\n"
-    .string "Jeg er oversvømmet af târer…$"
+    .string "Jeg er oversvømmet af tårer…$"
 
 PokemonTower_1F_Text_GrowlitheWhyDidYouDie::
     .string "Min GROWLITHE…\n"
@@ -24,5 +24,5 @@ PokemonTower_1F_Text_GrowlitheWhyDidYouDie::
 
 PokemonTower_1F_Text_SenseSpiritsUpToMischief::
     .string "Jeg er en CHANNELER.\p"
-    .string "Der er ânder der laver ballade.\n"
+    .string "Der er ånder der laver ballade.\n"
     .string "Jeg mærker dem højt i TÅRNET.$"

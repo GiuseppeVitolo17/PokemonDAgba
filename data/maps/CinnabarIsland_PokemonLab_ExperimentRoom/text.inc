@@ -16,7 +16,7 @@ Text_MetronomeWhichMon::
 Text_MetronomeTaught::
     .string "Tch-tch-tch!\n"
     .string "Det er lyden af en METRONOME.\p"
-    .string "Det fâr din POKéMONs hjerne til at\n"
+    .string "Det får din POKéMONs hjerne til at\n"
     .string "bruge tricks den ikke engang kender.$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
@@ -57,7 +57,7 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
     .string "Det er {STR_VAR_2}, det er!\p"
     .string "Det er fossil af {STR_VAR_1},\n"
     .string "en POKéMON der allerede er uddød!\p"
-    .string "Min Genopstandelsesmaskine vil fâ\n"
+    .string "Min Genopstandelsesmaskine vil få\n"
     .string "den POKéMON til at leve igen!$"
 
 @ TODO: Resolve text dump error below?
@@ -69,7 +69,7 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalk::
     .string "Jeg tager lidt tid!\n"
-    .string "Du gâr en tur et stykke tid!$"
+    .string "Du går en tur et stykke tid!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_YouComeAgain::
     .string "Aiyah!\n"

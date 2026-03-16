@@ -4,7 +4,7 @@ CeladonCity_Restaurant_Text_TakingBreakRightNow::
     .string "lige nu.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-    .string "Mine POKéMON er svække, sâ jeg mâ ofte\n"
+    .string "Mine POKéMON er svække, så jeg må ofte\n"
     .string "til DRUGSTORE.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
@@ -17,7 +17,7 @@ CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
     .string "ved spilleautomaterne.$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-    .string "Gâr du bare! Grin!\n"
+    .string "Går du bare! Grin!\n"
     .string "Jeg er helt flad!\p"
     .string "Ikke flere spilleautomater!\n"
     .string "Jeg bliver ordentlig!\p"

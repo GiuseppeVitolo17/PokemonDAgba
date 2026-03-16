@@ -17,14 +17,14 @@ FuchsiaCity_House2_Text_ReceivedGoodRod::
 FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
     .string "Fiskeri er en livsstil!\n"
     .string "Det er som den fineste pøsi.\p"
-    .string "En dârlig OLD ROD kunne kun fange\n"
+    .string "En dårlig OLD ROD kunne kun fange\n"
     .string "MAGIKARP, ikke?\p"
     .string "Men med en GOOD ROD kan du fange\n"
     .string "meget bedre POKéMON.$"
 
 FuchsiaCity_House2_Text_OhThatsDisappointing::
     .string "Øh…\n"
-    .string "Sâ skuffende…$"
+    .string "Så skuffende…$"
 
 FuchsiaCity_House2_Text_HowAreTheFishBiting::
     .string "Hej med dig, {PLAYER}!\p"

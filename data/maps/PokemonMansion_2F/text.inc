@@ -1,6 +1,6 @@
 PokemonMansion_Text_PressSecretSwitch::
     .string "En hemmelig kontakt!\p"
-    .string "Tryk pâ den?$"
+    .string "Tryk på den?$"
 
 PokemonMansion_Text_WhoWouldnt::
     .string "Hvem ville ikke?$"
@@ -17,7 +17,7 @@ PokemonMansion_1F_Text_ArnieDefeat::
     .string "Min pose med bytte!$"
 
 PokemonMansion_1F_Text_ArniePostBattle::
-    .string "Kontakterne her âbner og lukker\n"
+    .string "Kontakterne her åbner og lukker\n"
     .string "vekslende sæt døre.$"
 
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::

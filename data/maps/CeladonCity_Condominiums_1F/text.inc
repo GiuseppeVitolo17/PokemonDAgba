@@ -3,11 +3,11 @@ CeladonCity_Condominiums_1F_Text_Meowth::
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
     .string "Du bør ikke bruge alle dine penge\n"
-    .string "pâ drikkevarer.\p"
+    .string "på drikkevarer.\p"
     .string "Prøv dette i stedet.$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
-    .string "Intet slâer tørst som varm\n"
+    .string "Intet slåer tørst som varm\n"
     .string "TEA.\p"
     .string "Det er virkelig det bedste.$"
 

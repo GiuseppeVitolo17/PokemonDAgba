@@ -34,7 +34,7 @@ Route21_South_Text_ClaudeIntro::
 	.string "Hey, skræm ikke fiskene væk!$"
 
 Route21_South_Text_ClaudeDefeat::
-	.string "Undskyld! Jeg er bare sâ frustreret\n"
+	.string "Undskyld! Jeg er bare så frustreret\n"
 	.string "over ikke at fange noget.$"
 
 Route21_South_Text_ClaudePostBattle::
@@ -43,7 +43,7 @@ Route21_South_Text_ClaudePostBattle::
 	.string "kæmpe swimmingpool eller noget?$"
 
 Route21_South_Text_NolanIntro::
-	.string "Hold mig selskab til jeg fâr et bid.$"
+	.string "Hold mig selskab til jeg får et bid.$"
 
 Route21_South_Text_NolanDefeat::
 	.string "Det brændte noget tid.$"
@@ -62,7 +62,7 @@ Route21_North_Text_LilDefeat::
 
 Route21_North_Text_LilPostBattle::
 	.string "LIL: Jeg er træt.\n"
-	.string "Kan vi ikke gâ hjem snart?$"
+	.string "Kan vi ikke gå hjem snart?$"
 
 Route21_North_Text_LilNotEnoughMons::
 	.string "LIL: Hvad? En kamp?\n"
@@ -71,16 +71,16 @@ Route21_North_Text_LilNotEnoughMons::
 
 Route21_North_Text_IanIntro::
 	.string "IAN: Min søster motionerer ikke nok,\n"
-	.string "sâ jeg fik hende med.$"
+	.string "så jeg fik hende med.$"
 
 Route21_North_Text_IanDefeat::
-	.string "IAN: Aâ, Søs!\n"
+	.string "IAN: Aå, Søs!\n"
 	.string "Tag dig sammen!$"
 
 Route21_North_Text_IanPostBattle::
 	.string "IAN: Kom nu, Søs!\p"
-	.string "Du taber ikke vægt sâdan!$"
+	.string "Du taber ikke vægt sådan!$"
 
 Route21_North_Text_IanNotEnoughMons::
 	.string "IAN: Vi vil have en to-mod-to kamp.\n"
-	.string "Sâ kan du medbringe to POKéMON?$"
+	.string "Så kan du medbringe to POKéMON?$"

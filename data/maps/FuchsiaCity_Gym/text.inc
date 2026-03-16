@@ -1,7 +1,7 @@
 FuchsiaCity_Gym_Text_KogaIntro::
     .string "KOGA: Fwahahaha!\p"
     .string "Et barn som dig tør udfordre mig?\p"
-    .string "Bare tanken fâr mig til at ryste\n"
+    .string "Bare tanken får mig til at ryste\n"
     .string "af latter!\p"
     .string "Godt, jeg viser dig sand skræk\n"
     .string "som ninjamester.\p"
@@ -17,19 +17,19 @@ FuchsiaCity_Gym_Text_KogaDefeat::
     .string "Tag SOULBADGE!$"
 
 FuchsiaCity_Gym_Text_KogaPostBattle::
-    .string "Nâr TOXIC rammer, lider en\n"
+    .string "Når TOXIC rammer, lider en\n"
     .string "POKéMON mere og mere.\p"
-    .string "Skaden forværres efterhânden som\n"
+    .string "Skaden forværres efterhånden som\n"
     .string "kampen skrider frem!\p"
     .string "Det vil skræmme fjender!$"
 
 FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
     .string "Nu hvor du har SOULBADGE,\n"
     .string "stiger dine POKéMONs FORSVAR.\p"
-    .string "Det lader dig ogsâ SURFE uden for\n"
+    .string "Det lader dig også SURFE uden for\n"
     .string "kamp.\p"
     .string "Ah!\n"
-    .string "Tag ogsâ dette!$"
+    .string "Tag også dette!$"
 
 FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
     .string "{PLAYER} modtog TM06\n"
@@ -38,24 +38,24 @@ FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
 FuchsiaCity_Gym_Text_KogaExplainTM06::
     .string "Inde i TM06 findes TOXIC!\p"
     .string "Det er en hemmelig teknik der\n"
-    .string "daterer cirka 400 âr tilbage.$"
+    .string "daterer cirka 400 år tilbage.$"
 
 FuchsiaCity_Gym_Text_MakeSpaceForThis::
     .string "Gør plads til dette, barn!$"
 
 FuchsiaCity_Gym_Text_KaydenIntro::
     .string "Styrke er ikke nøglen til POKéMON.\n"
-    .string "Forstâr du?\p"
+    .string "Forstår du?\p"
     .string "POKéMON handler om strategi!\p"
-    .string "Jeg viser hvordan strategi slâr\n"
-    .string "râ styrke.$"
+    .string "Jeg viser hvordan strategi slår\n"
+    .string "rå styrke.$"
 
 FuchsiaCity_Gym_Text_KaydenDefeat::
     .string "Hvad?\n"
     .string "Ekstraordinært!$"
 
 FuchsiaCity_Gym_Text_KaydenPostBattle::
-    .string "Sâ du blander styrke med forstand?\n"
+    .string "Så du blander styrke med forstand?\n"
     .string "God strategi!\p"
     .string "Det er bemærkelsesværdigt for en\n"
     .string "barn-TRAINER.$"
@@ -63,7 +63,7 @@ FuchsiaCity_Gym_Text_KaydenPostBattle::
 FuchsiaCity_Gym_Text_KirkIntro::
     .string "Jeg var engang tryllekunstner.\p"
     .string "Men jeg drømte om at blive ninja,\n"
-    .string "sâ jeg meldte mig i dette GYM.$"
+    .string "så jeg meldte mig i dette GYM.$"
 
 FuchsiaCity_Gym_Text_KirkDefeat::
     .string "Jeg er færdig!$"
@@ -74,7 +74,7 @@ FuchsiaCity_Gym_Text_KirkPostBattle::
     .string "ninjamester KOGA.$"
 
 FuchsiaCity_Gym_Text_NateIntro::
-    .string "Lad os se dig slâ mine specielle\n"
+    .string "Lad os se dig slå mine specielle\n"
     .string "teknikker!$"
 
 FuchsiaCity_Gym_Text_NateDefeat::
@@ -100,7 +100,7 @@ FuchsiaCity_Gym_Text_PhilPostBattle::
     .string "usynlige vægge!$"
 
 FuchsiaCity_Gym_Text_EdgarIntro::
-    .string "Jeg studerer ogsâ ninjæns vej\n"
+    .string "Jeg studerer også ninjæns vej\n"
     .string "hos mester KOGA!\p"
     .string "Ninjær har lang historie med at\n"
     .string "bruge dyr!$"
@@ -132,7 +132,7 @@ FuchsiaCity_Gym_Text_GymGuyAdvice::
     .string "KOGA kan se nær ud, men han er\n"
     .string "spærret af.\p"
     .string "Du skal finde huller i væggene\n"
-    .string "for at nâ ham.$"
+    .string "for at nå ham.$"
 
 FuchsiaCity_Gym_Text_GymGuyPostVictory::
     .string "Det er forbløffende hvordan ninjær\n"

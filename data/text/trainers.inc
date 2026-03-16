@@ -476,7 +476,7 @@ Route17_Text_ZeekRematchIntro::
 	.string "absolutely won't evolve. Why?$"
 
 Route17_Text_JamalRematchIntro::
-	.string "Gâh! I really need to exercise\n"
+	.string "Gåh! I really need to exercise\n"
 	.string "and seriously trim some flab!$"
 
 Route17_Text_CoreyRematchIntro::

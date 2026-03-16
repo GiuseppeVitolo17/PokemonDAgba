@@ -1,18 +1,18 @@
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-    .string "Jeg spekulerer pâ om SILPH er færdig…$"
+    .string "Jeg spekulerer på om SILPH er færdig…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
     .string "Tak for at redde os!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-    .string "Sâ langt kommer du ikke!$"
+    .string "Så langt kommer du ikke!$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-    .string "Ikke nok kampâand!$"
+    .string "Ikke nok kampåand!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
     .string "Hvis du ikke vender om…\n"
-    .string "Sâ ringer jeg efter forstærkning!$"
+    .string "Så ringer jeg efter forstærkning!$"
 
 SilphCo_8F_Text_ParkerIntro::
     .string "Du skaber os problemer!$"
@@ -22,7 +22,7 @@ SilphCo_8F_Text_ParkerDefeat::
     .string "Jeg tabte?$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-    .string "Sâ hvad synes du om SILPH\n"
+    .string "Så hvad synes du om SILPH\n"
     .string "BYGNINGs labyrint?$"
 
 SilphCo_8F_Text_Grunt2Intro::

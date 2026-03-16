@@ -6,7 +6,7 @@ Trade_Text_LookingForMonWannaTradeForMon::
 
 Trade_Text_AwwOhWell::
 	.string "Av!\n"
-	.string "Nâ ja…$"
+	.string "Nå ja…$"
 
 Trade_Text_WhatThatsNoMon::
 	.string "Hvad?\n"
@@ -25,12 +25,12 @@ Trade_Text_DoYouHaveMonWouldYouTradeForMon::
 	.string "{STR_VAR_2}?$"
 
 Trade_Text_WellIfYouDontWantTo::
-	.string "Nâr du ikke vil…$"
+	.string "Når du ikke vil…$"
 
 Trade_Text_ThisIsntMon::
 	.string "Hmmm?\n"
 	.string "Det er ikke en {STR_VAR_1}.\p"
-	.string "Tænk pâ mig hvis du fâr en.$"
+	.string "Tænk på mig hvis du får en.$"
 
 Trade_Text_Thanks::
 	.string "Tak!$"
@@ -50,7 +50,7 @@ Trade_Text_ThatsTooBad::
 
 Trade_Text_ThisIsNoMon::
 	.string "…Det er ikke en {STR_VAR_1}.\p"
-	.string "Hvis du fâr en, sâ byt med mig.$"
+	.string "Hvis du får en, så byt med mig.$"
 
 Trade_Text_ThanksYoureAPal::
 	.string "Tak, du er en ven!$"

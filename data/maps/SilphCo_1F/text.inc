@@ -1,7 +1,7 @@
 SilphCo_1F_Text_WelcomePresidentInBoardroom::
     .string "Velkommen.\p"
     .string "PRESIDENTEN er i modesalen\n"
-    .string "pâ 11. sal.$"
+    .string "på 11. sal.$"
 
 @ Tentative translation. Unknown origin
 SilphCo_1F_Text_DestroyedWontBeFixedForWhile::

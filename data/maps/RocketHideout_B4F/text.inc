@@ -1,5 +1,5 @@
 RocketHideout_B4F_Text_GiovanniIntro::
-    .string "Sâ! Jeg mâ sige, jeg er imponeret over\n"
+    .string "Så! Jeg må sige, jeg er imponeret over\n"
     .string "at du kom her.\p"
     .string "TEAM ROCKET fanger POKéMON fra\n"
     .string "hele verden.\p"
@@ -17,9 +17,9 @@ RocketHideout_B4F_Text_GiovanniPostBattle::
     .string "Jeg ser at du opdrager POKéMON med\n"
     .string "største omhu.\p"
     .string "Et barn som dig ville aldrig\n"
-    .string "forstâ hvad jeg hâber at opnâ.\p"
+    .string "forstå hvad jeg håber at opnå.\p"
     .string "Jeg træder til side denne gang!\p"
-    .string "Jeg hâber vi mødes igen…$"
+    .string "Jeg håber vi mødes igen…$"
 
 RocketHideout_B4F_Text_Grunt2Intro::
     .string "Jeg kender dig!\n"

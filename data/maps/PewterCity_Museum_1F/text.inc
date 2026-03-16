@@ -32,7 +32,7 @@ PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
     .string "AMBER er faktisk saft, den klæbede\n"
     .string "ting der siver fra træer.\p"
     .string "Den gamle saft blev til fossil\n"
-    .string "over tid og blev stenhârd AMBER.$"
+    .string "over tid og blev stenhård AMBER.$"
 
 @ Unused
 PewterCity_Museum_1F_Text_PleaseGoAround::
@@ -41,7 +41,7 @@ PewterCity_Museum_1F_Text_PleaseGoAround::
 PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
     .string "Jeg burde være taknemmelig for mit lange\n"
     .string "liv.\p"
-    .string "Jeg trøde aldrig jeg ville fâ\n"
+    .string "Jeg trøde aldrig jeg ville få\n"
     .string "at se benene af en drage!$"
 
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
@@ -54,8 +54,8 @@ PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
     .string "genoplives fra det.\p"
     .string "Men mine kollegær ignorerer bare\n"
     .string "hvad jeg har at sige.\p"
-    .string "Sâ jeg har en tjeneste at bede om!\p"
-    .string "Jeg vil have dig til at fâ dette undersøgt\n"
+    .string "Så jeg har en tjeneste at bede om!\p"
+    .string "Jeg vil have dig til at få dette undersøgt\n"
     .string "ved et POKéMON LAB et sted.$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::

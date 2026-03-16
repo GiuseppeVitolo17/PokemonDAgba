@@ -22,12 +22,12 @@ SilphCo_4F_Text_RodneyIntro::
 
 SilphCo_4F_Text_RodneyDefeat::
     .string "Pokkers!\n"
-    .string "I svâge POKéMON!$"
+    .string "I svåge POKéMON!$"
 
 SilphCo_4F_Text_RodneyPostBattle::
     .string "Dørene er elektronisk\n"
-    .string "lâst.\p"
-    .string "Det kræver en CARD KEY for at âbne\n"
+    .string "låst.\p"
+    .string "Det kræver en CARD KEY for at åbne\n"
     .string "dørene her.$"
 
 SilphCo_4F_Text_Grunt2Intro::
@@ -37,7 +37,7 @@ SilphCo_4F_Text_Grunt2Defeat::
     .string "Hvem er du?$"
 
 SilphCo_4F_Text_Grunt2PostBattle::
-    .string "Jeg bør fortælle BOSS pâ 11. sal!$"
+    .string "Jeg bør fortælle BOSS på 11. sal!$"
 
 SilphCo_4F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

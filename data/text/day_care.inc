@@ -21,19 +21,19 @@ DayCare_Text_YourMonIsDoingFine::
 	.string "Din {STR_VAR_1} har det fint.$"
 
 DayCare_Text_IllKeepIt::
-	.string "Na, sâ beholder jeg det.\n"
+	.string "Na, så beholder jeg det.\n"
 	.string "Tak!$"
 
 DayCare_Text_YouHaveNoRoomForIt::
 	.string "Du har ikke plads til det…\n"
-	.string "Kom tilbage nâr du har lavet plads.$"
+	.string "Kom tilbage når du har lavet plads.$"
 
 DayCare_Text_ReceivedEgg::
 	.string "{PLAYER} modtog ÆGGET fra\n"
 	.string "DAGPLEJEMANDEN.$"
 
 DayCare_Text_TakeGoodCareOfIt::
-	.string "Pas godt pâ det.$"
+	.string "Pas godt på det.$"
 
 DayCare_Text_SeeWifeIfYouWantToPickUpMon::
 	.string "ポケモンを　ひきとりたい　ときは\n"
@@ -77,7 +77,7 @@ DayCare_Text_NotEnoughMoney::
 	.string "Du har ikke nok penge…$"
 
 DayCare_Text_TakeOtherOneBackToo::
-	.string "Vil du ogsâ hente den anden?$"
+	.string "Vil du også hente den anden?$"
 
 DayCare_Text_ComeAgain::
 	.string "Fint.\n"
@@ -86,7 +86,7 @@ DayCare_Text_ComeAgain::
 DayCare_Text_GoodToSeeYou::
 	.string "Ah, det er dig!\n"
 	.string "Godt at se dig.\p"
-	.string "Dine POKéMON mâ have det\n"
+	.string "Dine POKéMON må have det\n"
 	.string "godt!$"
 
 DayCare_Text_YourMonHasGrownXLevels::
@@ -95,7 +95,7 @@ DayCare_Text_YourMonHasGrownXLevels::
 
 DayCare_Text_YourPartyIsFull::
 	.string "Din POKéMON-hold er fuldt.\n"
-	.string "Lav plads, og kom sâ til mig.$"
+	.string "Lav plads, og kom så til mig.$"
 
 DayCare_Text_TakeBackWhichMon::
 	.string "どっちの　ポケモンを　ひきとるかい？$"
@@ -122,7 +122,7 @@ DayCare_Text_TakeYourMonBack::
 
 DayCare_Text_WhatWillYouBattleWith::
 	.string "Hvis du efterlader den POKéMON,\n"
-	.string "hvad vil du sâ kæmpe med?\p"
+	.string "hvad vil du så kæmpe med?\p"
 	.string "Kom tilbage en anden gang.$"
 
 DayCare_Text_Huh::

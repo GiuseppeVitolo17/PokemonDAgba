@@ -13,7 +13,7 @@ ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
     .string "Okay, tak! Sig hej til\n"
-    .string "PROF. OAK fra mig, ogsâ.$"
+    .string "PROF. OAK fra mig, også.$"
 
 ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
     .string "Denne butik sælger godt i\n"
@@ -21,6 +21,6 @@ ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
 
 ViridianCity_Mart_Text_GotToBuySomePotions::
     .string "Jeg skal købe nogle POTIONS.\p"
-    .string "Man ved aldrig hvornâr dine POKéMON\n"
-    .string "fâr brug for hurtig helbredelse.$"
+    .string "Man ved aldrig hvornår dine POKéMON\n"
+    .string "får brug for hurtig helbredelse.$"
 

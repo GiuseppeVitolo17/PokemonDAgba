@@ -100,7 +100,7 @@ const u8 gKeypadIconTiles[] = INCBIN_U8("graphics/fonts/keypad_icons.4bpp");
 static const u16 sFontSmallLatinGlyphs[] = INCBIN_U16("graphics/fonts/latin_small.latfont");
 static const u8 sFontSmallLatinGlyphWidths[] = 
 {
-     5,  5,  5,  5,  5,  5,  5,  5,  5,  4,  5,  4,  4,  5, 
+     5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  /* 0x09–0x0E: ø Ø å Å æ Æ */
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  5,  4,  5,  4,  4,  5,  5,  5,  6,  5,  5,  5,  5,
      5,  5,  8,  7,  8,  5,  5,  5,  5,  5,  8,  8,  7,  5,
@@ -1377,7 +1377,8 @@ void DecompressGlyph_Small(u16 glyphId, bool32 isJapanese)
     }
     else
     {
-        glyphs = sFontSmallLatinGlyphs + (0x10 * glyphId);
+        /* Use normal Latin font (left 8px) so Danish å, Æ etc. show correctly everywhere */
+        glyphs = sFontNormalLatinGlyphs + (0x20 * glyphId);
         DecompressGlyphTile(glyphs, (u16 *)gGlyphInfo.pixels);
         DecompressGlyphTile(glyphs + 0x8, (u16 *)(gGlyphInfo.pixels + 0x40));
         gGlyphInfo.width = sFontSmallLatinGlyphWidths[glyphId];

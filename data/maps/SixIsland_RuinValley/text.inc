@@ -5,7 +5,7 @@ SixIsland_RuinValley_Text_CantFigureOutHowToGetInside::
 SixIsland_RuinValley_Text_IFoundThisPlace::
     .string "Lad mig fortælle dig, jeg fandt dette\n"
     .string "sted.\p"
-    .string "Se ikke sâ misundelig ud, vil du?$"
+    .string "Se ikke så misundelig ud, vil du?$"
 
 SixIsland_RuinValley_Text_CheckDoorMoreThoroughly::
     .string "Døren giver sig slet ikke.\n"
@@ -16,10 +16,10 @@ SixIsland_RuinValley_Text_LeftDoorAlone::
 
 SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
     .string "Ved nærmere eftersyn er der\n"
-    .string "flere prikker pâ døren…$"
+    .string "flere prikker på døren…$"
 
 SixIsland_RuinValley_Text_DoorIsOpen::
-    .string "Døren er âben.$"
+    .string "Døren er åben.$"
 
 SixIsland_RuinValley_Text_StanlyIntro::
     .string "Der synes at være mange hemmeligheder\n"
@@ -29,8 +29,8 @@ SixIsland_RuinValley_Text_StanlyDefeat::
     .string "Hmm…$"
 
 SixIsland_RuinValley_Text_StanlyPostBattle::
-    .string "Jeg foreslâr at du ogsâ tænker\n"
-    .string "pâ hemmelighederne og mysterierne\l"
+    .string "Jeg foreslår at du også tænker\n"
+    .string "på hemmelighederne og mysterierne\l"
     .string "i vores verden én gang om dagen.$"
 
 SixIsland_RuinValley_Text_FosterIntro::
@@ -38,18 +38,18 @@ SixIsland_RuinValley_Text_FosterIntro::
     .string "at komme her?$"
 
 SixIsland_RuinValley_Text_FosterDefeat::
-    .string "Det er sâ længe siden jeg kæmpede,\n"
+    .string "Det er så længe siden jeg kæmpede,\n"
     .string "mine instinkter er sløbe.$"
 
 SixIsland_RuinValley_Text_FosterPostBattle::
-    .string "Der er flere ruiner pâ\n"
+    .string "Der er flere ruiner på\n"
     .string "SEVII ISLANDS.\p"
     .string "Størstedelen af dem er meget\n"
     .string "gamle.$"
 
 SixIsland_RuinValley_Text_LarryIntro::
     .string "Det siges at der er mystiske\n"
-    .string "sten pâ denne ø.\p"
+    .string "sten på denne ø.\p"
     .string "Jeg mistænker at det har noget at\n"
     .string "gøre med ruinerne her.$"
 
@@ -62,10 +62,10 @@ SixIsland_RuinValley_Text_LarryPostBattle::
     .string "ud af hvordan jeg kommer ind.$"
 
 SixIsland_RuinValley_Text_DarylIntro::
-    .string "En kamp med dig, sâ højt oppe!$"
+    .string "En kamp med dig, så højt oppe!$"
 
 SixIsland_RuinValley_Text_DarylDefeat::
-    .string "Aah, hjertesorg at tabe sâ\n"
+    .string "Aah, hjertesorg at tabe så\n"
     .string "nemt til dig!$"
 
 SixIsland_RuinValley_Text_DarylPostBattle::
@@ -76,12 +76,12 @@ SixIsland_RuinValley_Text_HectorIntro::
     .string "egne ret godt.$"
 
 SixIsland_RuinValley_Text_HectorDefeat::
-    .string "Du behøver ikke at være sâ pâtrængende.\n"
+    .string "Du behøver ikke at være så påtrængende.\n"
     .string "Jeg fortæller dig gerne.$"
 
 SixIsland_RuinValley_Text_HectorPostBattle::
     .string "Døren til ruinerne…\n"
     .string "Den har disse underlige mønstre\l"
-    .string "graveret pâ udsiden.\p"
+    .string "graveret på udsiden.\p"
     .string "Jeg ved ikke hvad de betyder.$"
 

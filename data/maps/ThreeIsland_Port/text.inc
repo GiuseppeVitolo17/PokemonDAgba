@@ -1,7 +1,7 @@
 ThreeIsland_Port_Text_WereKantoRiderFederation::
     .string "Vi er KANTO RIDER FEDERATION!\n"
     .string "Vroom! Vavavavooom! Vroom!\p"
-    .string "Min cykel er svag, sâ jeg mâ\n"
+    .string "Min cykel er svag, så jeg må\n"
     .string "lave udstødningslyde selv!$"
 
 ThreeIsland_Port_Text_ForkOverMoney::

@@ -19,7 +19,7 @@ Route1_Text_CanJumpFromLedges::
     .string "Ser du kanten langs vejen?\p"
     .string "Det er lidt skræmmende, men du\n"
     .string "kan hoppe ned fra dem.\p"
-    .string "Sâdan kommer du hurtigere tilbage\n"
+    .string "Sådan kommer du hurtigere tilbage\n"
     .string "til PALLET TOWN.$"
 
 Route1_Text_RouteSign::

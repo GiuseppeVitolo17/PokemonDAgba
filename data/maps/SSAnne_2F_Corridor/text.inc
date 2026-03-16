@@ -12,7 +12,7 @@ SSAnne_2F_Corridor_Text_RivalIntro::
     .string "Hvordan kommer din POKéDEX?\p"
     .string "Jeg har allerede fanget 40 slags, makker.\n"
     .string "Forskellige slags er overalt.\p"
-    .string "Krav rundt i græsomrâder og\n"
+    .string "Krav rundt i græsområder og\n"
     .string "kig grundigt efter dem.$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
@@ -32,6 +32,6 @@ SSAnne_2F_Corridor_Text_RivalPostBattle::
     .string "Men han var bare en søsyg gammel mand!\p"
     .string "CUT selv er virkelig nyttig.\n"
     .string "Ja, den vil være handy.\p"
-    .string "Du bør ogsâ gâ og se ham.\n"
+    .string "Du bør også gå og se ham.\n"
     .string "Vi ses!$"
 

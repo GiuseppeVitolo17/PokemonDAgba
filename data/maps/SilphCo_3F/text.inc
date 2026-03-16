@@ -13,7 +13,7 @@ SilphCo_3F_Text_GruntDefeat::
     .string "Jeg giver op!$"
 
 SilphCo_3F_Text_GruntPostBattle::
-    .string "Et hint? Du kan âbne døre med\n"
+    .string "Et hint? Du kan åbne døre med\n"
     .string "en CARD KEY!$"
 
 SilphCo_3F_Text_JoseIntro::

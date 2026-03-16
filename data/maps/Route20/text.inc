@@ -31,10 +31,10 @@ Route20_Text_TiffanyPostBattle::
     .string "Vil du flyde med mig?$"
 
 Route20_Text_IreneIntro::
-    .string "Er du ogsâ pâ ferie?$"
+    .string "Er du også på ferie?$"
 
 Route20_Text_IreneDefeat::
-    .string "Ingen nâde overhovedet!$"
+    .string "Ingen nåde overhovedet!$"
 
 Route20_Text_IrenePostBattle::
     .string "SEAFOAM var engang en enkelt ø\n"
@@ -51,7 +51,7 @@ Route20_Text_DeanPostBattle::
     .string "POKéMON i stedet for mig!$"
 
 Route20_Text_DarrinIntro::
-    .string "Hvorfor rider du pâ en POKéMON?\n"
+    .string "Hvorfor rider du på en POKéMON?\n"
     .string "Kan du ikke svømme?$"
 
 Route20_Text_DarrinDefeat::
@@ -59,10 +59,10 @@ Route20_Text_DarrinDefeat::
     .string "Torpedøret!$"
 
 Route20_Text_DarrinPostBattle::
-    .string "At ride pâ en POKéMON ser sjovt ud!$"
+    .string "At ride på en POKéMON ser sjovt ud!$"
 
 Route20_Text_RogerIntro::
-    .string "Jeg fløj hertil pâ mine fugle-POKéMON.$"
+    .string "Jeg fløj hertil på mine fugle-POKéMON.$"
 
 Route20_Text_RogerDefeat::
     .string "Aa, nej!\n"
@@ -88,11 +88,11 @@ Route20_Text_MissyIntro::
     .string "Det var ikke nemt!$"
 
 Route20_Text_MissyDefeat::
-    .string "Jeg er sâ skuffet!$"
+    .string "Jeg er så skuffet!$"
 
 Route20_Text_MissyPostBattle::
     .string "POKéMON har overtaget et forladt\n"
-    .string "palæ pâ CINNABAR.\p"
+    .string "palæ på CINNABAR.\p"
     .string "De kalder det POKéMON MANSION nu.$"
 
 Route20_Text_MelissaIntro::

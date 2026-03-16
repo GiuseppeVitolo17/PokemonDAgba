@@ -7,7 +7,7 @@ Text_SwordsDanceTeach::
     .string "Det er SWORDS DANCE.$"
 
 Text_SwordsDanceDeclined::
-    .string "Ja, det er ogsâ fint.$"
+    .string "Ja, det er også fint.$"
 
 Text_SwordsDanceWhichMon::
     .string "Okay, vælg hvilken POKéMON\n"
@@ -27,12 +27,12 @@ SevenIsland_Text_IslandsMadeInSevenDays::
     .string "…Eller det er i hvert fald hvad de unge\n"
     .string "tror.\p"
     .string "Sandheden er at disse øer er opkaldt\n"
-    .string "sâ fordi de siges at være lavet\l"
-    .string "pâ syv dage.$"
+    .string "så fordi de siges at være lavet\l"
+    .string "på syv dage.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
     .string "Denne ø er blevet næsten uberørt\n"
     .string "i sin naturlige tilstand.\p"
     .string "Det kan være lidt vanskeligt at\n"
-    .string "vandre rundt pâ grund af det.$"
+    .string "vandre rundt på grund af det.$"
 

@@ -22,5 +22,5 @@ gText_DifferentGameFile::
 	.string "Hvis du gemmer nu, vil den anden\n"
 	.string "fils eventyr, inkl. genstande og\l"
 	.string "POKéMON, ga tabt.\p"
-	.string "Er du sikker pâ at du vil gemme nu\n"
+	.string "Er du sikker på at du vil gemme nu\n"
 	.string "og overskrive den anden gemte fil?$"

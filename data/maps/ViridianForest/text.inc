@@ -39,14 +39,14 @@ ViridianForest_Text_SammyDefeat::
     .string "Du er god til det her!$"
 
 ViridianForest_Text_SammyPostBattle::
-    .string "Nogle gange kan man finde ting pâ\n"
+    .string "Nogle gange kan man finde ting på\n"
     .string "jorden.\p"
     .string "Jeg leder efter tingene jeg\n"
     .string "tabte. Kan du hjælpe mig?$"
 
 ViridianForest_Text_AnthonyIntro::
-    .string "Jeg er mâske lille, men jeg vil ikke\n"
-    .string "lide det hvis du gâr let pâ mig!$"
+    .string "Jeg er måske lille, men jeg vil ikke\n"
+    .string "lide det hvis du går let på mig!$"
 
 ViridianForest_Text_AnthonyDefeat::
     .string "Aah, buh.\n"
@@ -75,17 +75,17 @@ ViridianForest_Text_RanOutOfPokeBalls::
 ViridianForest_Text_AvoidGrassyAreasWhenWeak::
     .string "TRÆNER TIPS\p"
     .string "Hvis dine POKéMON er svage og du\n"
-    .string "vil undgâ kampe, hold dig væk\l"
-    .string "fra græsomrâder!$"
+    .string "vil undgå kampe, hold dig væk\l"
+    .string "fra græsområder!$"
 
 ViridianForest_Text_UseAntidoteForPoison::
     .string "Mod gift, brug ANTIDOTE!\n"
-    .string "Fâ det i POKéMON MARTS!$"
+    .string "Få det i POKéMON MARTS!$"
 
 ViridianForest_Text_ContactOakViaPCToRatePokedex::
     .string "TRÆNER TIPS\p"
     .string "Kontakt PROF. OAK via en PC for at\n"
-    .string "fâ din POKéDEX vurderet!$"
+    .string "få din POKéDEX vurderet!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
     .string "TRÆNER TIPS\p"
@@ -98,7 +98,7 @@ ViridianForest_Text_WeakenMonsBeforeCapture::
     .string "TRÆNER TIPS\p"
     .string "Svækk POKéMON før du prøver at\n"
     .string "fange dem!\p"
-    .string "Nâr de er sunde, kan de flygte!$"
+    .string "Når de er sunde, kan de flygte!$"
 
 ViridianForest_Text_LeavingViridianForest::
     .string "FORLADER VIRIDIAN FOREST\n"

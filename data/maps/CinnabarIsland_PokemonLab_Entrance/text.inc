@@ -1,7 +1,7 @@
 CinnabarIsland_Gym_Text_PhotoOfBlaineAndFuji::
     .string "Det er et foto af BLAINE og\n"
     .string "MR. FUJI.\p"
-    .string "De stâr skulder ved skulder\n"
+    .string "De står skulder ved skulder\n"
     .string "med store grine.$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensively::

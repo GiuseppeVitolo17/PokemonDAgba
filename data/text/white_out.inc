@@ -10,19 +10,19 @@ Text_MonsHealedShouldBuyPotions::
 	.string "Hvis du planlægger at rejse langt,\n"
 	.string "bør du købe HELBREDELSES-\l"
 	.string "MIDLER i POKéMON-MARTEN.\p"
-	.string "Vi hâber du klarer dig godt!$"
+	.string "Vi håber du klarer dig godt!$"
 
 Text_MonsHealed::
 	.string "Dine POKéMON er blevet helbredt\n"
 	.string "til fuld helbred.\p"
-	.string "Vi hâber du klarer dig godt!$"
+	.string "Vi håber du klarer dig godt!$"
 
 Text_HadQuiteAnExperienceTakeRest::
 	.string "MOR: {PLAYER}!\n"
 	.string "Velkommen hjem.\p"
 	.string "Det lyder som om du har haft\n"
 	.string "en oplevelse.\p"
-	.string "Mâske bør du tage en kort\n"
+	.string "Måske bør du tage en kort\n"
 	.string "hvile.$"
 
 Text_MomExplainHPGetPotions::
@@ -30,15 +30,15 @@ Text_MomExplainHPGetPotions::
 	.string "POKéMON ser gode ud.\p"
 	.string "Jeg har lige hørt fra PROF. OAK.\p"
 	.string "Han sagde at POKéMONs energi\n"
-	.string "mâles i HP.\p"
+	.string "måles i HP.\p"
 	.string "Hvis dine POKéMON mister HP,\n"
-	.string "kan du genoprette dem pâ et\l"
+	.string "kan du genoprette dem på et\l"
 	.string "POKéMON-CENTER.\p"
 	.string "Hvis du rejser langt væk, køber\n"
 	.string "den kloge TRAINER HELBREDELSES-\l"
 	.string "MIDLER i POKéMON-MARTEN.\p"
 	.string "Gør mig stolt, skat!\p"
-	.string "Pas pâ dig selv!$"
+	.string "Pas på dig selv!$"
 
 Text_WhitedOutLostMoney::
 	.string "{PLAYER} har ingen brugbare\n"

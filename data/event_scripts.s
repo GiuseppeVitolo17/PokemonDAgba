@@ -895,10 +895,10 @@ Text_TakeYourPkmnForFewSeconds::
 	.string "par sekunder.$"
 
 Text_WeHopeToSeeYouAgain::
-	.string "Vi hâber at se dig igen!$"
+	.string "Vi håber at se dig igen!$"
 
 Text_RestoredPkmnToFullHealth::
-	.string "Tak for din tâlmodighed.\n"
+	.string "Tak for din tålmodighed.\n"
 	.string "Vi har genoprettet dine POKéMON til\l"
 	.string "fuld helbred.$"
 

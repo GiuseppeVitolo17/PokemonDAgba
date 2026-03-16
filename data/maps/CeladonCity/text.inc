@@ -1,7 +1,7 @@
 CeladonCity_Text_GotMyKoffingInCinnabar::
     .string "Jeg fik min KOFFING i CINNABAR.\p"
-    .string "Den er som regel venlig, men den ânder\n"
-    .string "gift nâr den er vred.$"
+    .string "Den er som regel venlig, men den ånder\n"
+    .string "gift når den er vred.$"
 
 CeladonCity_Text_GymIsGreatFullOfWomen::
     .string "Heheh! Denne GYM er fantastisk!\n"
@@ -9,9 +9,9 @@ CeladonCity_Text_GymIsGreatFullOfWomen::
 
 CeladonCity_Text_GameCornerIsBadForCitysImage::
     .string "CELADON er stolt af sine bestræbelser\n"
-    .string "pâ at holde byen smuk.\p"
+    .string "på at holde byen smuk.\p"
     .string "Derfor er den nye GAME CORNER\n"
-    .string "dârlig for vores byens image.$"
+    .string "dårlig for vores byens image.$"
 
 CeladonCity_Text_BlewItAllAtSlots::
     .string "Støn…\n"
@@ -28,8 +28,8 @@ CeladonCity_Text_Poliwrath::
     .string "POLIWRATH: Ribi ribit!$"
 
 CeladonCity_Text_GetLostOrIllPunchYou::
-    .string "Hvad glor du pâ?\n"
-    .string "Forsvind, ellers slâer jeg dig.$"
+    .string "Hvad glor du på?\n"
+    .string "Forsvind, ellers slåer jeg dig.$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
     .string "Hold dig ude af TEAM ROCKETs vej!$"
@@ -76,7 +76,7 @@ CeladonCity_Text_GameCornerSign::
     .string "Legepladsen for voksne!$"
 
 CeladonCity_Text_ScaldedTongueOnTea::
-    .string "Aâagh, av…\n"
+    .string "Aåagh, av…\n"
     .string "Jeg brændte min tunge!\p"
     .string "Den rare gamle dame i MANSION\n"
     .string "gav mig noget TEA.\p"
@@ -87,17 +87,17 @@ Text_SoftboiledTeach::
     .string "Hej der!\p"
     .string "Jeg har set dig, men jeg fik aldrig\n"
     .string "en chance for at snakke.\p"
-    .string "Det mâ være held der bragte\n"
+    .string "Det må være held der bragte\n"
     .string "os sammen endelig.\p"
     .string "Jeg vil fejre det ved at lære dig\n"
     .string "tricket SOFTBOILED.$"
 
 Text_SoftboiledDeclined::
     .string "Jeg vil altid holde oje med dig.\p"
-    .string "Jeg hâber vi kan snakke igen.$"
+    .string "Jeg håber vi kan snakke igen.$"
 
 Text_SoftboiledWhichMon::
-    .string "Sa hvem er den POKéMON der fâr\n"
+    .string "Sa hvem er den POKéMON der får\n"
     .string "chancen for at lære SOFTBOILED?$"
 
 Text_SoftboiledTaught::
@@ -107,6 +107,6 @@ CeladonCity_Text_SomeoneStoleSilphScope::
     .string "Aah, hvad skal jeg gøre…\p"
     .string "Nogen stjal vores SILPH SCOPE.\p"
     .string "Tyven kom lobende denne vej,\n"
-    .string "det er jeg sikker pâ.\p"
+    .string "det er jeg sikker på.\p"
     .string "Men jeg mistede ham af syne!\n"
     .string "Hvor gik han hen?$"

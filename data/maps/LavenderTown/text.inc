@@ -1,13 +1,13 @@
 LavenderTown_Text_DoYouBelieveInGhosts::
-    .string "Tror du pâ spøgelser?$"
+    .string "Tror du på spøgelser?$"
 
 LavenderTown_Text_SoThereAreBelievers::
     .string "Virkelig?\n"
-    .string "Sâ der er trønde…$"
+    .string "Så der er trønde…$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
     .string "Hahaha, vel ikke.\p"
-    .string "Den hvide hând pâ din skulder…\n"
+    .string "Den hvide hånd på din skulder…\n"
     .string "Jeg forestiller mig bare det.$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
@@ -19,7 +19,7 @@ LavenderTown_Text_TownKnownAsMonGraveSite::
 LavenderTown_Text_GhostsAppearedInTower::
     .string "Spøgelser dukkede op i POKéMON\n"
     .string "TOWER.\p"
-    .string "Jeg tror de er ânderne af POKéMON\n"
+    .string "Jeg tror de er ånderne af POKéMON\n"
     .string "som ROCKET dræbte.$"
 
 LavenderTown_Text_TownSign::
@@ -37,5 +37,5 @@ LavenderTown_Text_VolunteerPokemonHouse::
 
 LavenderTown_Text_PokemonTowerSign::
     .string "POKéMON TOWER\n"
-    .string "Berolig POKéMONs ânder$"
+    .string "Berolig POKéMONs ånder$"
 

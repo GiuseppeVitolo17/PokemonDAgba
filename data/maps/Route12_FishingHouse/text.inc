@@ -22,19 +22,19 @@ Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
     .string "Nu har jeg en anmodning.\p"
     .string "Hvis du fanger en stor MAGIKARP\n"
     .string "med den ROD, vil jeg gerne se den.\p"
-    .string "Lige sâ meget som jeg elsker at\n"
+    .string "Lige så meget som jeg elsker at\n"
     .string "fiske, elsker jeg at se kæmpe MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhThatsDisappointing::
     .string "Oh…\n"
-    .string "Det er sâ skuffende…$"
+    .string "Det er så skuffende…$"
 
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
     .string "Hej der, {PLAYER}!\n"
     .string "Har du fisket?\p"
     .string "Prøv at fiske med SUPER ROD i\n"
     .string "enhver vandmasse.\p"
-    .string "Du finder forskellige POKéMON pâ\n"
+    .string "Du finder forskellige POKéMON på\n"
     .string "forskellige steder.\p"
     .string "Oh, og glem ikke at bringe mig\n"
     .string "kæmpe MAGIKARP.$"
@@ -47,9 +47,9 @@ Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
 Route12_FishingHouse_Text_WhoaXInchesTakeThis::
     .string "… … …Whoa!\n"
     .string "{STR_VAR_2} tommer!\p"
-    .string "Du har en sjælden forstâelse for\n"
+    .string "Du har en sjælden forståelse for\n"
     .string "fiskeriets fine, pøtiske sider!\p"
-    .string "Du mâ tage dette.\n"
+    .string "Du må tage dette.\n"
     .string "Jeg insisterer!$"
 
 Route12_FishingHouse_Text_LookForwardToGreaterRecords::
@@ -60,12 +60,12 @@ Route12_FishingHouse_Text_HuhXInchesSameSizeAsLast::
     .string "Hvad?\n"
     .string "{STR_VAR_2} tommer?\p"
     .string "Det er samme størrelse som den\n"
-    .string "jeg sâ sidst.$"
+    .string "jeg så sidst.$"
 
 Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUp::
     .string "Hmm…\n"
     .string "Denne er {STR_VAR_2} tommer lang.\p"
-    .string "Den mâler ikke op til den\n"
+    .string "Den måler ikke op til den\n"
     .string "{STR_VAR_3}-tommers du bragte sidst.$"
 
 Route12_FishingHouse_Text_DoesntLookLikeMagikarp::

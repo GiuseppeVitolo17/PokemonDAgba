@@ -3,22 +3,22 @@ SilphCo_11F_Text_ThanksForSavingMeDearBoy::
     .string "Tak for at redde SILPH.\p"
     .string "Jeg glemmer aldrig at du reddede os i\n"
     .string "vores farefulde øjeblik.\p"
-    .string "Jeg mâ takke dig pâ en eller anden\n"
-    .string "mâde.\p"
+    .string "Jeg må takke dig på en eller anden\n"
+    .string "måde.\p"
     .string "Fordi jeg er rig, kan jeg give dig\n"
     .string "hvad som helst.\p"
-    .string "Her, mâske kan dette gøre det.$"
+    .string "Her, måske kan dette gøre det.$"
 
 SilphCo_11F_Text_ThanksForSavingMeDearGirl::
     .string "PRESIDENT: Oh, kære pige!\n"
     .string "Tak for at redde SILPH.\p"
     .string "Jeg glemmer aldrig at du reddede os i\n"
     .string "vores farefulde øjeblik.\p"
-    .string "Jeg mâ takke dig pâ en eller anden\n"
-    .string "mâde.\p"
+    .string "Jeg må takke dig på en eller anden\n"
+    .string "måde.\p"
     .string "Fordi jeg er rig, kan jeg give dig\n"
     .string "hvad som helst.\p"
-    .string "Her, mâske kan dette gøre det.$"
+    .string "Her, måske kan dette gøre det.$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
     .string "{PLAYER} fik en MASTER BALL\n"
@@ -40,11 +40,11 @@ SilphCo_11F_Text_ThanksForRescuingUs::
     .string "SEKRETÆR: Tak for at redde\n"
     .string "os alle.\p"
     .string "Vi, fra PRESIDENTEN og ned,\n"
-    .string "stâr i gæld til dig.$"
+    .string "står i gæld til dig.$"
 
 SilphCo_11F_Text_GiovanniIntro::
     .string "Ah, {PLAYER}!\n"
-    .string "Sâ mødes vi igen!\p"
+    .string "Så mødes vi igen!\p"
     .string "PRESIDENTEN og jeg diskuterer\n"
     .string "et vigtigt forretningsforslag.\p"
     .string "Hold din næse ude af voksne\n"
@@ -61,7 +61,7 @@ SilphCo_11F_Text_GiovanniPostBattle::
     .string "Men TEAM ROCKET falder aldrig!\p"
     .string "{PLAYER}! Glem aldrig at alle\n"
     .string "POKéMON eksisterer for TEAM ROCKET!\p"
-    .string "Jeg mâ ga, men jeg vender tilbage!$"
+    .string "Jeg må ga, men jeg vender tilbage!$"
 
 SilphCo_11F_Text_Grunt2Intro::
     .string "Stop lige der!\n"
@@ -72,22 +72,22 @@ SilphCo_11F_Text_Grunt2Defeat::
     .string "Venligst!$"
 
 SilphCo_11F_Text_Grunt2PostBattle::
-    .string "Sâ du vil se min BOSS?$"
+    .string "Så du vil se min BOSS?$"
 
 SilphCo_11F_Text_Grunt1Intro::
     .string "Stop! Har du en aftale\n"
     .string "med min BOSS?$"
 
 SilphCo_11F_Text_Grunt1Defeat::
-    .string "Gâh!\n"
+    .string "Gåh!\n"
     .string "Ødelagt!$"
 
 SilphCo_11F_Text_Grunt1PostBattle::
-    .string "Pas pâ…\n"
-    .string "Min BOSS kan lide sine POKéMON hârde!$"
+    .string "Pas på…\n"
+    .string "Min BOSS kan lide sine POKéMON hårde!$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
-    .string "Skærmen har POKéMON pâ den!$"
+    .string "Skærmen har POKéMON på den!$"
 
 SilphCo_11F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"

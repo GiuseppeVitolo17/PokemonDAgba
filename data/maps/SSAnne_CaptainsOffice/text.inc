@@ -15,11 +15,11 @@ SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
     .string "Vil du se min skjulte CUT-\n"
     .string "teknik?\p"
     .string "Jeg kunne vise dig min elskede CUT-\n"
-    .string "teknik hvis jeg ikke var sâ syg…\p"
-    .string "Jeg ved det! Du mâ fâ dette!\n"
+    .string "teknik hvis jeg ikke var så syg…\p"
+    .string "Jeg ved det! Du må få dette!\n"
     .string "Denne HIDDEN MACHINE!\p"
     .string "Lær CUT til din POKéMON, og\n"
-    .string "du kan se den CUTTE nâr som helst!$"
+    .string "du kan se den CUTTE når som helst!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
     .string "{PLAYER} modtog HM01\n"
@@ -27,14 +27,14 @@ SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
     .string "Med CUT kan du fælde\n"
-    .string "smâ træer.\p"
+    .string "små træer.\p"
     .string "Hvorfor ikke prøve det med træerne\n"
     .string "omkring VERMILION CITY?$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
     .string "KAPTEJN: …Puh!\p"
     .string "Nu hvor jeg ikke er syg længere,\n"
-    .string "gætter jeg pâ det er tid.\p"
+    .string "gætter jeg på det er tid.\p"
     .string "S.S. ANNE vil afsejle snart!\p"
     .string "Farvel, indtil vi vender tilbage til\n"
     .string "VERMILION CITY!$"
@@ -48,6 +48,6 @@ SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
     .string "Burde ikke have kigget!$"
 
 SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
-    .string "Sâdan overvinder man søsyge…\n"
+    .string "Sådan overvinder man søsyge…\n"
     .string "KAPTEJNen læser denne!$"
 

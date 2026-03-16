@@ -3,7 +3,7 @@ Route12_Text_MonSprawledOutInSlumber::
     .string "og behageligt.$"
 
 Text_SnorlaxWokeUp::
-    .string "SNORLAX vâgnede!\p"
+    .string "SNORLAX vågnede!\p"
     .string "Den angreb i arrig vrede!$"
 
 Text_SnorlaxReturnedToMountains::
@@ -30,7 +30,7 @@ Route12_Text_NedPostBattle::
     .string "Min line er sat fast!$"
 
 Route12_Text_ChipIntro::
-    .string "Hav tâlmodighed.\n"
+    .string "Hav tålmodighed.\n"
     .string "Fiskeri er et ventespil.$"
 
 Route12_Text_ChipDefeat::
@@ -50,7 +50,7 @@ Route12_Text_JustinDefeat::
 Route12_Text_JustinPostBattle::
     .string "Jeg kunne have ladet mine POKéMON\n"
     .string "udvikle sig med en MOON STONE.\p"
-    .string "Sâ havde jeg vundet, vædder jeg.$"
+    .string "Så havde jeg vundet, vædder jeg.$"
 
 Route12_Text_LucaIntro::
     .string "Elektricitet er min speciale.\p"
@@ -61,7 +61,7 @@ Route12_Text_LucaDefeat::
     .string "Afpluget!$"
 
 Route12_Text_LucaPostBattle::
-    .string "Vand leder elektricitet, sâ du\n"
+    .string "Vand leder elektricitet, så du\n"
     .string "bør give hav-POKéMON stød.$"
 
 Route12_Text_HankIntro::
@@ -74,12 +74,12 @@ Route12_Text_HankPostBattle::
     .string "Jeg gætter man bliver god til det\n"
     .string "man kan lide.\p"
     .string "Du slog mig i POKéMON, men du\n"
-    .string "kan ikke slâ mig til fiskeri.$"
+    .string "kan ikke slå mig til fiskeri.$"
 
 Route12_Text_ElliotIntro::
-    .string "Jeg elsker fiskeri, misforstâ ikke.\p"
+    .string "Jeg elsker fiskeri, misforstå ikke.\p"
     .string "Men det ville være bedst hvis jeg\n"
-    .string "ogsâ havde mere arbejde.$"
+    .string "også havde mere arbejde.$"
 
 Route12_Text_ElliotDefeat::
     .string "Det er ikke nemt…$"

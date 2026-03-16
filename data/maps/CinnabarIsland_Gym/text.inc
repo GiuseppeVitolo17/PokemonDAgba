@@ -3,7 +3,7 @@ CinnabarIsland_Gym_Text_BlaineIntro::
     .string "Jeg er BLAINE, den glønde LEADER\n"
     .string "af CINNABAR GYM!\p"
     .string "Mine ildende POKéMON er alle\n"
-    .string "hârde og klar med intens varme!\p"
+    .string "hårde og klar med intens varme!\p"
     .string "De brænder alle udfordrere!\p"
     .string "Hah!\n"
     .string "Du bør have BURN HEAL!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
@@ -16,13 +16,13 @@ CinnabarIsland_Gym_Text_BlaineDefeat::
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
     .string "FIRE BLAST er den ultimative ild-\n"
     .string "teknik.\p"
-    .string "Spild den ikke pâ WATER POKéMON.$"
+    .string "Spild den ikke på WATER POKéMON.$"
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
     .string "Hah!\p"
     .string "VOLCANOBADGE øger SPECIAL-\n"
     .string "staterne af dine POKéMON.\p"
-    .string "Her, du kan ogsâ fâ dette!$"
+    .string "Her, du kan også få dette!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
     .string "{PLAYER} modtog TM38\n"
@@ -39,7 +39,7 @@ CinnabarIsland_Gym_Text_MakeSpaceForThis::
 
 CinnabarIsland_Gym_Text_ErikIntro::
     .string "Ved du hvor varm POKéMON ild-\n"
-    .string "ânde kan blive?$"
+    .string "ånde kan blive?$"
 
 CinnabarIsland_Gym_Text_ErikDefeat::
     .string "Av!\n"
@@ -59,7 +59,7 @@ CinnabarIsland_Gym_Text_QuinnDefeat::
     .string "Jeg overgiver mig!$"
 
 CinnabarIsland_Gym_Text_QuinnPostBattle::
-    .string "Jeg fâr denne uimodstâelige trang til at\n"
+    .string "Jeg får denne uimodståelige trang til at\n"
     .string "stjæle andre folks POKéMON.$"
 
 CinnabarIsland_Gym_Text_AveryIntro::
@@ -67,19 +67,19 @@ CinnabarIsland_Gym_Text_AveryIntro::
     .string "Du kan ikke vinde!$"
 
 CinnabarIsland_Gym_Text_AveryDefeat::
-    .string "Wâh!\n"
+    .string "Wåh!\n"
     .string "Mine studier var utilstrækkelige!$"
 
 CinnabarIsland_Gym_Text_AveryPostBattle::
     .string "Mine teorier er for komplicerede\n"
-    .string "for dig at forstâ.$"
+    .string "for dig at forstå.$"
 
 CinnabarIsland_Gym_Text_RamonIntro::
     .string "Jeg kan lide at bruge FIRE-type POKéMON.\n"
     .string "Det gør jeg bare.$"
 
 CinnabarIsland_Gym_Text_RamonDefeat::
-    .string "For varmt at hândtere!$"
+    .string "For varmt at håndtere!$"
 
 CinnabarIsland_Gym_Text_RamonPostBattle::
     .string "Jeg ville ønske der var en tyv-POKéMON.\n"
@@ -120,17 +120,17 @@ CinnabarIsland_Gym_Text_ZacDefeat::
     .string "Slukket!$"
 
 CinnabarIsland_Gym_Text_ZacPostBattle::
-    .string "Vand slâer ild, selvfølgelig.\p"
-    .string "Men ild smelter is, sâ FIRE-\n"
-    .string "typen slâer ICE-type POKéMON.$"
+    .string "Vand slåer ild, selvfølgelig.\p"
+    .string "Men ild smelter is, så FIRE-\n"
+    .string "typen slåer ICE-type POKéMON.$"
 
 CinnabarIsland_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
     .string "Champion i blive!\p"
     .string "Den hidsige BLAINE er en FIRE-\n"
     .string "POKéMON pro.\p"
-    .string "Sluk hans ând med vand!\p"
-    .string "Du bør ogsâ tage nogle\n"
+    .string "Sluk hans ånd med vand!\p"
+    .string "Du bør også tage nogle\n"
     .string "BURN HEALS med.$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
@@ -151,13 +151,13 @@ CinnabarIsland_Gym_Text_GymStatuePlayerWon::
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
     .string "POKéMON Quiz!\p"
-    .string "Svar rigtigt, sâ âbnes døren til\n"
+    .string "Svar rigtigt, så åbnes døren til\n"
     .string "næste rum.\p"
     .string "Svar forkert, og mød en TRAINER!\p"
     .string "Hvis du vil spare dine POKéMON\n"
     .string "til GYM LEADER…\p"
-    .string "Sâ svar rigtigt!\n"
-    .string "Her gâr vi!$"
+    .string "Så svar rigtigt!\n"
+    .string "Her går vi!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion1::
     .string "CATERPIE udvikler sig til METAPOD?$"
@@ -182,7 +182,7 @@ CinnabarIsland_Gym_Text_QuizQuestion6::
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
     .string "Du har fuldstændig ret!\p"
-    .string "Gâ videre!$"
+    .string "Gå videre!$"
 
 CinnabarIsland_Gym_Text_SorryBadCall::
     .string "Beklager!\n"

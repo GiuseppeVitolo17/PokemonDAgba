@@ -13,30 +13,30 @@ TwoIsland_Text_DangerFastCurrent::
 TwoIsland_Text_WelcomeToShopMerchandiseLimited::
     .string "Aah!\n"
     .string "Hej, velkommen til min butik!\p"
-    .string "Vi har kun lige âbnet.\p"
+    .string "Vi har kun lige åbnet.\p"
     .string "Vores varer er begrænsede, men jeg\n"
-    .string "hâber vi kan dække dine behov.$"
+    .string "håber vi kan dække dine behov.$"
 
 TwoIsland_Text_AddedMerchandiseForLostelle::
     .string "Jeg kan ikke sige hvor taknemmelig jeg er\n"
     .string "for at du reddede LOSTELLE.\p"
-    .string "Takket være din bedrift har folk pâ\n"
+    .string "Takket være din bedrift har folk på\n"
     .string "THREE ISLAND ændret holdning til\l"
     .string "KANTO-folk.\p"
     .string "Og jeg er fra KANTO, ser du.\p"
-    .string "Folkene pâ THREE ISLAND\n"
+    .string "Folkene på THREE ISLAND\n"
     .string "hjalp mig med at udvide mine varer.$"
 
 TwoIsland_Text_HopeYouGiveItYourBest::
     .string "Hej! Jeg giver den bedste her.\n"
-    .string "Jeg hâber du ogsâ gør det, {PLAYER}.$"
+    .string "Jeg håber du også gør det, {PLAYER}.$"
 
 TwoIsland_Text_BringingItemsFromDistantLands::
     .string "Aah, hej, {PLAYER}!\n"
     .string "Velkommen!\p"
     .string "Jeg er begyndt at hente varer fra\n"
     .string "fjerne lande.\p"
-    .string "Jeg har ogsâ nogle sjældne varer.\n"
+    .string "Jeg har også nogle sjældne varer.\n"
     .string "Kig venligst!$"
 
 TwoIsland_Text_FellowMovedFromCeladonCity::
@@ -44,14 +44,14 @@ TwoIsland_Text_FellowMovedFromCeladonCity::
     .string "CELADON CITY.\p"
     .string "Han startede en butik med sin\n"
     .string "yngre bror.\p"
-    .string "Man mâ undre sig om han vidste\n"
+    .string "Man må undre sig om han vidste\n"
     .string "hvad han gik til.$"
 
 TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
     .string "Butiksejerens bror tog et job\n"
     .string "i GAME CORNER.\p"
     .string "Han prøver at skrabe penge sammen\n"
-    .string "sâ de kan købe flere varer.$"
+    .string "så de kan købe flere varer.$"
 
 TwoIsland_Text_BrunoCameToIslandWhileBack::
     .string "Hør, hør.\n"
@@ -70,7 +70,7 @@ TwoIsland_Text_BuyRareItemsHere::
 
 TwoIsland_Text_OldWomanLivesOutOnCape::
     .string "Der er en gammel dame der bor i\n"
-    .string "et hus ude pâ næsset.\p"
+    .string "et hus ude på næsset.\p"
     .string "Hun giver POKéMON øjenene.\n"
     .string "Det er lidt uhyggeligt.$"
 

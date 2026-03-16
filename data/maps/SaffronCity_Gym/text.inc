@@ -11,7 +11,7 @@ SaffronCity_Gym_Text_SabrinaDefeat::
     .string "Dette nederlag chokerer mig!\n"
     .string "Men et nederlag er et nederlag.\p"
     .string "Jeg indrømmer, jeg arbejdede ikke\n"
-    .string "hârdt nok for at vinde.\p"
+    .string "hårdt nok for at vinde.\p"
     .string "Din sejr har fortjent dig\n"
     .string "MARSHBADGE.$"
 
@@ -22,12 +22,12 @@ SaffronCity_Gym_Text_SabrinaPostBattle::
     .string "Folk er bare ikke klar over det.$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-    .string "MARSHBADGE fâr POKéMON op til\n"
+    .string "MARSHBADGE får POKéMON op til\n"
     .string "Lv. 70 til at adlyde dig.\p"
     .string "Stærkere POKéMON bliver vilde og\n"
     .string "ignorerer dine ordre i kamp.\p"
     .string "Opdrag bare ikke dine POKéMON for\n"
-    .string "meget for at undgâ det problem.\p"
+    .string "meget for at undgå det problem.\p"
     .string "Vent, tag venligst denne TM med.$"
 
 SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
@@ -36,8 +36,8 @@ SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
 
 SaffronCity_Gym_Text_ExplainTM04::
     .string "TM04 er CALM MIND.\p"
-    .string "Den fâr POKéMON til at koncentrere sig\n"
-    .string "for at oge bâde SP. ATK og SP. DEF.$"
+    .string "Den får POKéMON til at koncentrere sig\n"
+    .string "for at oge både SP. ATK og SP. DEF.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
     .string "Din TASKE er fuld af andre ting.$"
@@ -68,23 +68,23 @@ SaffronCity_Gym_Text_JohanPostBattle::
 SaffronCity_Gym_Text_StacyIntro::
     .string "POKéMON antager udseendet af\n"
     .string "deres TRAINERE.\p"
-    .string "Dine POKéMON mâ være hârde, da!$"
+    .string "Dine POKéMON må være hårde, da!$"
 
 SaffronCity_Gym_Text_StacyDefeat::
     .string "Jeg vidste det!$"
 
 SaffronCity_Gym_Text_StacyPostBattle::
     .string "Jeg har meget at lære endnu…\p"
-    .string "Jeg mâ mestre PSYCHIC og lære det\n"
+    .string "Jeg må mestre PSYCHIC og lære det\n"
     .string "til mine POKéMON…$"
 
 SaffronCity_Gym_Text_TyronIntro::
-    .string "Du forstâr, ikke?\p"
+    .string "Du forstår, ikke?\p"
     .string "At kraft alene ikke er nok til at\n"
     .string "vinde i POKéMON-verdenen?$"
 
 SaffronCity_Gym_Text_TyronDefeat::
-    .string "Det tror jeg ikke pâ!$"
+    .string "Det tror jeg ikke på!$"
 
 SaffronCity_Gym_Text_TyronPostBattle::
     .string "SABRINA udslettede lige KARATE\n"
@@ -101,9 +101,9 @@ SaffronCity_Gym_Text_TashaPostBattle::
     .string "Jeg vidste at dette ville ske.$"
 
 SaffronCity_Gym_Text_CameronIntro::
-    .string "SABRINA er ung, men hun er ogsâ\n"
+    .string "SABRINA er ung, men hun er også\n"
     .string "vores meget dygtige LEADER.\p"
-    .string "Du nâr ikke let til hende!$"
+    .string "Du når ikke let til hende!$"
 
 SaffronCity_Gym_Text_CameronDefeat::
     .string "Av!\n"
@@ -136,14 +136,14 @@ SaffronCity_Gym_Text_GymGuyAdvice::
     .string "SABRINAs POKéMON bruger psykisk\n"
     .string "kraft i stedet for magt.\p"
     .string "FIGHTING POKéMON er særligt\n"
-    .string "svâge over for PSYCHIC POKéMON.\p"
+    .string "svåge over for PSYCHIC POKéMON.\p"
     .string "De bliver odelagt før de overhovedet\n"
     .string "kan sigte et stød!$"
 
 SaffronCity_Gym_Text_GymGuyPostVictory::
     .string "Psykisk kraft, hva?\p"
     .string "Hvis jeg havde det, ville jeg tjene\n"
-    .string "en formue pâ spilleautomaterne!$"
+    .string "en formue på spilleautomaterne!$"
 
 SaffronCity_Gym_Text_GymStatue::
     .string "SAFFRON POKéMON GYM\n"

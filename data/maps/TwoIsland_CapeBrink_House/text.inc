@@ -21,12 +21,12 @@ Text_AllowMeToTeachMonUltimateMove::
     .string "lære mit {STR_VAR_2}?$"
 
 Text_YouRejectIt::
-    .string "Gâh! Du afviser det?\n"
+    .string "Gåh! Du afviser det?\n"
     .string "Nej, jeg lader mig ikke overtale!$"
 
 Text_LetMeConferUltimateMove::
     .string "Du tillader det?\p"
-    .string "Sâ lader jeg mig overbringe mit\n"
+    .string "Så lader jeg mig overbringe mit\n"
     .string "ultimative {STR_VAR_2} til din {STR_VAR_1}.\p"
     .string "Ggggrah-awooo!$"
 
@@ -48,6 +48,6 @@ Text_PassedOnEverythingIKnow::
 
 Text_FeelRejuvenated::
     .string "Efter jeg gav mine kundskaber videre til\n"
-    .string "dig, følte jeg sâ meget lettelse.\p"
+    .string "dig, følte jeg så meget lettelse.\p"
     .string "Faktisk føler jeg mig forynget,\n"
     .string "som om jeg var yngre igen!$"

@@ -1,5 +1,5 @@
 Route18_Text_WiltonIntro::
-    .string "Jeg tjekker altid hvert græsomrâde\n"
+    .string "Jeg tjekker altid hvert græsområde\n"
     .string "for nye POKéMON.$"
 
 Route18_Text_WiltonDefeat::
@@ -13,11 +13,11 @@ Route18_Text_RamiroIntro::
     .string "Hvordan kan du lide mit fuglekald?$"
 
 Route18_Text_RamiroDefeat::
-    .string "Jeg mâtte irritere dig!$"
+    .string "Jeg måtte irritere dig!$"
 
 Route18_Text_RamiroPostBattle::
     .string "Jeg samler hav-POKéMON i weekenden\n"
-    .string "fordi havet er sâ tæt pâ.$"
+    .string "fordi havet er så tæt på.$"
 
 Route18_Text_JacobIntro::
     .string "Dette er mit territorium!\n"

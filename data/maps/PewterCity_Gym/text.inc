@@ -1,9 +1,9 @@
 PewterCity_Gym_Text_BrockIntro::
-    .string "Sâ du er her. Jeg er BROCK.\n"
+    .string "Så du er her. Jeg er BROCK.\n"
     .string "Jeg er PEWTERs GYM LEDER.\p"
-    .string "Min stenhârde viljekraft er tydelig\n"
+    .string "Min stenhårde viljekraft er tydelig\n"
     .string "selv i mine POKéMON.\p"
-    .string "Mine POKéMON er alle stenhârde og\n"
+    .string "Mine POKéMON er alle stenhårde og\n"
     .string "har sand beslutsomhed.\p"
     .string "Det er rigtigt - mine POKéMON er alle\n"
     .string "ROCK typen!\p"
@@ -18,16 +18,16 @@ PewterCity_Gym_Text_BrockIntro::
 @ buffer that it's put into, and it stomps all over the gBattleTextBuffs after, as well as the otherwise
 @ unused array after that, sFlickerArray. Perhaps that's the reason why said array exists.
 PewterCity_Gym_Text_BrockDefeat::
-    .string "Jeg tog dig for givet, og sâ\n"
+    .string "Jeg tog dig for givet, og så\n"
     .string "tabte jeg.\p"
-    .string "Som bevis pâ din sejr giver jeg\n"
+    .string "Som bevis på din sejr giver jeg\n"
     .string "dig denne… den officielle POKéMON\l"
     .string "LEAGUE BOULDERBADGE.\p"
     .string "{FONT_NORMAL}{PLAYER} modtog BOULDERBADGE\n"
     .string "fra BROCK!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\p"
     .string "{FONT_MALE}Bare at have BOULDERBADGE gør\n"
     .string "dine POKéMON stærkere.\p"
-    .string "Det muliggør ogsâ brugen af\n"
+    .string "Det muliggør også brugen af\n"
     .string "trækket FLASH uden for kamp.\p"
     .string "Selvfølgelig skal en POKéMON kende\n"
     .string "trækket FLASH for at bruge det.$"
@@ -46,7 +46,7 @@ PewterCity_Gym_Text_ExplainTM39::
     .string "At bruge en TM lærer POKéMON\n"
     .string "trækket den indeholder.\p"
     .string "En TM kan kun bruges een gang.\p"
-    .string "Sâ nâr du bruger een, væg\n"
+    .string "Så når du bruger een, væg\n"
     .string "POKéMON omhyggeligt.\p"
     .string "Anyway…\n"
     .string "TM39 indeholder ROCK TOMB.\p"
@@ -58,7 +58,7 @@ PewterCity_Gym_Text_BrockPostBattle::
     .string "denne store verden.\p"
     .string "Du virker meget talentfuld som\n"
     .string "POKéMON TRÆNER.\p"
-    .string "Sâ lad mig foreslâ noget.\p"
+    .string "Så lad mig foreslå noget.\p"
     .string "Ga til GYM i CERULEAN og test\n"
     .string "dine evner.$"
 
@@ -67,17 +67,17 @@ PewterCity_Gym_Text_DontHaveRoomForThis::
 
 PewterCity_Gym_Text_LiamIntro::
     .string "Stop lige der, unge!\p"
-    .string "Du er ti tusind lysâr\n"
+    .string "Du er ti tusind lysår\n"
     .string "fra at møde BROCK!$"
 
 PewterCity_Gym_Text_LiamDefeat::
     .string "Pokkers!\p"
-    .string "Lysâr er ikke tid…\n"
-    .string "Det mâler afstand!$"
+    .string "Lysår er ikke tid…\n"
+    .string "Det måler afstand!$"
 
 PewterCity_Gym_Text_LiamPostBattle::
     .string "Du er ret varm.\n"
-    .string "…Men ikke sâ varm som BROCK!$"
+    .string "…Men ikke så varm som BROCK!$"
 
 PewterCity_Gym_Text_LetMeTakeYouToTheTop::
     .string "Hej!\n"
@@ -85,7 +85,7 @@ PewterCity_Gym_Text_LetMeTakeYouToTheTop::
     .string "Tør du dromme om at blive\n"
     .string "POKéMON mester?\p"
     .string "Jeg er ikke TRÆNER, men jeg kan\n"
-    .string "râde dig til hvordan man vinder.\p"
+    .string "råde dig til hvordan man vinder.\p"
     .string "Lad mig tage dig til toppen!$"
 
 PewterCity_Gym_Text_LetsGetHappening::
@@ -94,9 +94,9 @@ PewterCity_Gym_Text_LetsGetHappening::
 
 PewterCity_Gym_Text_TryDifferentPartyOrders::
     .string "Den første POKéMON ude i en kamp er\n"
-    .string "til venstre pâ POKéMON LISTEN.\p"
+    .string "til venstre på POKéMON LISTEN.\p"
     .string "Ved at ændre rækkefølgen af POKéMON\n"
-    .string "kan du fâ en fordel.\p"
+    .string "kan du få en fordel.\p"
     .string "Prøv forskellige rækkefølger der\n"
     .string "passer til modstanderens hold.$"
 

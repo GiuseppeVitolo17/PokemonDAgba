@@ -3,12 +3,12 @@ SixIsland_Text_IslandSign::
     .string "Lykkeøn med gammel visdom$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
-    .string "Fortsæt denne vej og du nâr\n"
+    .string "Fortsæt denne vej og du når\n"
     .string "WATER PATH.\p"
-    .string "Hold dig til den og du nâr\n"
+    .string "Hold dig til den og du når\n"
     .string "RUIN VALLEY.$"
 
 SixIsland_Text_SkyAtNightIsFantastic::
-    .string "Nâr du er sâ langt fra byen,\n"
+    .string "Når du er så langt fra byen,\n"
     .string "er nattehimlen fantastisk.$"
 

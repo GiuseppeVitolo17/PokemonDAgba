@@ -7,7 +7,7 @@ PokemonMansion_B1F_Text_LewisDefeat::
 
 PokemonMansion_B1F_Text_LewisPostBattle::
     .string "Du kan finde ting der ligger.\n"
-    .string "Bebørne mâ have efterladt dem.$"
+    .string "Bebørne må have efterladt dem.$"
 
 PokemonMansion_B1F_Text_IvanIntro::
     .string "Dette sted er ideelt til et lab.\n"
@@ -23,5 +23,5 @@ PokemonMansion_B1F_Text_IvanPostBattle::
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
     .string "Dagbog: 1. sept\n"
     .string "MEWTWO er langt for kræftig.\p"
-    .string "Vi har ikke formâet at dæmpe dens\n"
+    .string "Vi har ikke formået at dæmpe dens\n"
     .string "ondskabsfulde tendenser…$"

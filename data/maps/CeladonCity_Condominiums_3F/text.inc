@@ -9,7 +9,7 @@ CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
     .string "Jeg skrev historien!\n"
     .string "Er ERIKA ikke sød?\p"
-    .string "Jeg kan ogsâ godt lide MISTY!\n"
+    .string "Jeg kan også godt lide MISTY!\n"
     .string "Aah, og SABRINA, jeg kan lide hende!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
@@ -17,7 +17,7 @@ CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
     .string "Jeg er spildesigneren!\p"
     .string "At udfylde din POKéDEX er svært,\n"
     .string "men giv ikke op!\p"
-    .string "Nâr du er færdig, kom og sig det til mig!$"
+    .string "Når du er færdig, kom og sig det til mig!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
     .string "Wow! Fremragende!\n"
@@ -35,7 +35,7 @@ CeladonCity_Condominiums_3F_Text_SomeonesPlayingGame::
 
 CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
     .string "Det er manuskriptet!\n"
-    .string "Se hellere ikke pâ slutningen!$"
+    .string "Se hellere ikke på slutningen!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
     .string "GAME FREAK Udviklingslokale$"

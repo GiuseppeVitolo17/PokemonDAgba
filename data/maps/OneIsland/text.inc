@@ -3,21 +3,21 @@ OneIsland_Text_BillLetsGoSeeCelio::
     .string "Dette er ONE ISLAND.\p"
     .string "Der er flere øer omkring her,\n"
     .string "og dette er en af dem.\p"
-    .string "Min ven CELIO sendte bâden for at\n"
+    .string "Min ven CELIO sendte båden for at\n"
     .string "hente mig her.\p"
-    .string "Han stâr alene for øns PC-\n"
+    .string "Han står alene for øns PC-\n"
     .string "netværk.\p"
     .string "…Hvorfor fortæller jeg dig det nu?\n"
-    .string "Lad os bare gâ til CELIO!$"
+    .string "Lad os bare gå til CELIO!$"
 
 Text_WhereDoYouWantToSail::
     .string "Ahoj der!\n"
     .string "Hvor vil du sejle hen?$"
 
 OneIsland_Text_LuckyToHaveCelioHere::
-    .string "Her er vi pâ en ø midt i\n"
+    .string "Her er vi på en ø midt i\n"
     .string "ingenting.\p"
-    .string "Vi er heldige at have en sâdan\n"
+    .string "Vi er heldige at have en sådan\n"
     .string "bra ung mand som CELIO her.\p"
     .string "Min barnebarn var helt oppe at køre\n"
     .string "over CELIOs ven.\p"
@@ -46,7 +46,7 @@ OneIsland_Text_HavePCLinkageWithHoenn::
 
 OneIsland_Text_IslandSign::
     .string "ONE ISLAND\n"
-    .string "Venner mødes pâ Knot Island$"
+    .string "Venner mødes på Knot Island$"
 
 OneIsland_Text_PokemonNetCenterSign::
     .string "Udvider POKéMON-verdenen!\n"

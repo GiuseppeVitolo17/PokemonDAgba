@@ -1,6 +1,6 @@
 SaffronCity_CopycatsHouse_1F_Text_DaughterIsSelfCentered::
-    .string "Min datter er sâ selvoptaget.\n"
-    .string "Hun har kun fâ venner.$"
+    .string "Min datter er så selvoptaget.\n"
+    .string "Hun har kun få venner.$"
 
 SaffronCity_CopycatsHouse_1F_Text_DaughterLikesToMimicPeople::
     .string "Min datter kan lide at efterligne folk.\n"
@@ -9,5 +9,5 @@ SaffronCity_CopycatsHouse_1F_Text_DaughterLikesToMimicPeople::
     .string "tilnavnet COPYCAT her omkring.$"
 
 SaffronCity_CopycatsHouse_1F_Text_Chansey::
-    .string "CHANSEY: Chân! Sii!$"
+    .string "CHANSEY: Chån! Sii!$"
 

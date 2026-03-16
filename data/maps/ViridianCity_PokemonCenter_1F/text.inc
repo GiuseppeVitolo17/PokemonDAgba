@@ -6,12 +6,12 @@ ViridianCity_PokemonCenter_1F_Text_FeelFreeToUsePC::
 ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTown::
     .string "Der er et POKéMON CENTER i hver\n"
     .string "by forude.\p"
-    .string "De tager ikke penge, sâ vær ikke\n"
+    .string "De tager ikke penge, så vær ikke\n"
     .string "genert med at helbrede POKéMON.$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCentersHealMons::
     .string "POKéMON CENTRES helbreder dine trætte,\n"
-    .string "sârede eller besvimede POKéMON.\p"
+    .string "sårede eller besvimede POKéMON.\p"
     .string "De gør alle POKéMON fuldstændigt\n"
     .string "sunde.$"
 

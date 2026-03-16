@@ -29,7 +29,7 @@ Route6_Text_KeigoDefeat::
     .string "Du laver sjov!$"
 
 Route6_Text_KeigoPostBattle::
-    .string "Jeg kan lide insekter, sâ jeg tager\n"
+    .string "Jeg kan lide insekter, så jeg tager\n"
     .string "tilbage til VIRIDIAN FOREST.$"
 
 Route6_Text_JeffIntro::
@@ -38,11 +38,11 @@ Route6_Text_JeffIntro::
 
 Route6_Text_JeffDefeat::
     .string "Det her stinker…\n"
-    .string "Jeg kunne ikke slâ din udfordring…$"
+    .string "Jeg kunne ikke slå din udfordring…$"
 
 Route6_Text_JeffPostBattle::
     .string "Jeg burde tage flere POKéMON med.\n"
-    .string "Sâdan føler jeg mig mere sikker.$"
+    .string "Sådan føler jeg mig mere sikker.$"
 
 Route6_Text_IsabelleIntro::
     .string "Mig?\n"
@@ -64,7 +64,7 @@ Route6_Text_ElijahDefeat::
 
 Route6_Text_ElijahPostBattle::
     .string "Er mine POKéMON svage?\n"
-    .string "Eller er jeg bare dârlig?\l"
+    .string "Eller er jeg bare dårlig?\l"
     .string "Hvad synes du?$"
 
 Route6_Text_UndergroundPathSign::

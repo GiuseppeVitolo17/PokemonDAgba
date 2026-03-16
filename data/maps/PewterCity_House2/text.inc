@@ -1,6 +1,6 @@
 PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow::
     .string "POKéMON lærer nye teknikker\n"
-    .string "nâr de vokser.\p"
+    .string "når de vokser.\p"
     .string "Men nogle træk skal læres dem\n"
     .string "af mennesker.$"
 

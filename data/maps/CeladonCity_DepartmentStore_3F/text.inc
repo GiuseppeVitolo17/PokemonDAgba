@@ -1,7 +1,7 @@
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
     .string "Fangede POKéMON registreres\n"
     .string "med et ID No. og OT.\p"
-    .string "OT stâer for Original TRAINER -\n"
+    .string "OT ståer for Original TRAINER -\n"
     .string "TRAINERen der fangede den først.$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
@@ -12,14 +12,14 @@ CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
 CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
     .string "Kom nu, HAUNTER!\p"
     .string "Jeg elsker HAUNTER!\n"
-    .string "Jeg samler pâ dem!\p"
+    .string "Jeg samler på dem!\p"
     .string "Hva?\p"
     .string "HAUNTER blev til en anden\n"
     .string "POKéMON under byttehandlen!$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-    .string "Du kan genkende POKéMON du fâr\n"
-    .string "ved bytte pâ deres ID-numre.$"
+    .string "Du kan genkende POKéMON du får\n"
+    .string "ved bytte på deres ID-numre.$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
     .string "Det er en Super NES.$"
@@ -38,7 +38,7 @@ CeladonCity_DepartmentStore_3F_Text_PuzzleGame::
 
 CeladonCity_DepartmentStore_3F_Text_FightingGame::
     .string "Et kæmpespil!\n"
-    .string "Ser hârdt ud!$"
+    .string "Ser hårdt ud!$"
 
 CeladonCity_DepartmentStore_3F_Text_TVGameShop::
     .string "3F: TV GAME SHOP$"
@@ -52,7 +52,7 @@ Text_CounterTeach::
     .string "Jeg er endelig færdig med POKéMON.\p"
     .string "Ikke færdig endnu? Skal jeg lære dig\n"
     .string "et godt trick?\p"
-    .string "Tricket jeg tænker pâ er\n"
+    .string "Tricket jeg tænker på er\n"
     .string "COUNTER.\p"
     .string "Ikke som den jeg læner mig op ad,\n"
     .string "bemærk!$"

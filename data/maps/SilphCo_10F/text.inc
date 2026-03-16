@@ -3,14 +3,14 @@ SilphCo_10F_Text_GruntIntro::
     .string "Sa godt at du sluttede dig til mig!$"
 
 SilphCo_10F_Text_GruntDefeat::
-    .string "Jeg er lamslâet!$"
+    .string "Jeg er lamslået!$"
 
 SilphCo_10F_Text_GruntPostBattle::
     .string "Godt forsøg, men modesalen er eet\n"
     .string "sal op.$"
 
 SilphCo_10F_Text_TravisIntro::
-    .string "Nok af jeres tâbelige spil!$"
+    .string "Nok af jeres tåbelige spil!$"
 
 SilphCo_10F_Text_TravisDefeat::
     .string "Ingen continues tilbage!$"
@@ -20,7 +20,7 @@ SilphCo_10F_Text_TravisPostBattle::
     .string "Sa ga hjem!$"
 
 SilphCo_10F_Text_WaaaImScared::
-    .string "Wââa!\n"
+    .string "Wååa!\n"
     .string "Jeg er bange!$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::

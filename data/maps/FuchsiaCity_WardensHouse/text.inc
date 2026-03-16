@@ -21,7 +21,7 @@ FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
     .string "VOGTER: Tak, søn!\n"
     .string "Du er en rigtig livredder!\p"
-    .string "Ingen kunne forstâ et ord af hvad\n"
+    .string "Ingen kunne forstå et ord af hvad\n"
     .string "jeg sagde!\p"
     .string "Jeg skammede mig over at vise mig\n"
     .string "i KONTORET.\p"
@@ -30,7 +30,7 @@ FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
     .string "VOGTER: Tak, tøs!\n"
     .string "Du er en rigtig livredder!\p"
-    .string "Ingen kunne forstâ et ord af hvad\n"
+    .string "Ingen kunne forstå et ord af hvad\n"
     .string "jeg sagde!\p"
     .string "Jeg skammede mig over at vise mig\n"
     .string "i KONTORET.\p"

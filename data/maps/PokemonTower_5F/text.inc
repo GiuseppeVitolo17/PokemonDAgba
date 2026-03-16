@@ -40,11 +40,11 @@ PokemonTower_5F_Text_JanaeDefeat::
     .string "Whoo!$"
 
 PokemonTower_5F_Text_JanaePostBattle::
-    .string "Jeg faldt for onde ânder trods min\n"
+    .string "Jeg faldt for onde ånder trods min\n"
     .string "træning i bjergene…$"
 
 PokemonTower_5F_Text_PurifiedZoneMonsFullyHealed::
-    .string "Trâdte ind i den rensede og beskyttede\n"
+    .string "Trådte ind i den rensede og beskyttede\n"
     .string "zone.\p"
     .string "{PLAYER}s POKéMON blev fuldt\n"
     .string "helbredt.$"

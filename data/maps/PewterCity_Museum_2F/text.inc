@@ -1,44 +1,44 @@
 Text_SeismicTossTeach::
     .string "Rummet hemmeligheder…\n"
     .string "Jordens mysterier…\p"
-    .string "Der er sâ mange ting vi ved\n"
-    .string "sâ lidt om.\p"
+    .string "Der er så mange ting vi ved\n"
+    .string "så lidt om.\p"
     .string "Men det burde tilskynde os til at\n"
     .string "studere hardere, ikke give op.\p"
     .string "Det eneste du burde kaste…\p"
-    .string "Nâ, hvad med SEISMIC TOSS?\n"
+    .string "Nå, hvad med SEISMIC TOSS?\n"
     .string "Skal jeg lære det til en POKéMON?$"
 
 Text_SeismicTossDeclined::
-    .string "Er det sâ?\n"
-    .string "Jeg er sikker pâ du kommer tilbage.$"
+    .string "Er det så?\n"
+    .string "Jeg er sikker på du kommer tilbage.$"
 
 Text_SeismicTossWhichMon::
     .string "Hvilken POKéMON vil lære\n"
     .string "SEISMIC TOSS?$"
 
 Text_SeismicTossTaught::
-    .string "Jeg hâber du ikke giver op.\n"
+    .string "Jeg håber du ikke giver op.\n"
     .string "Fortsæt.$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
     .string "MOON STONE, hva?\p"
-    .string "Hvad er sâ specielt ved den?\n"
+    .string "Hvad er så specielt ved den?\n"
     .string "Ser ud som en almindelig sten.$"
 
 PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding::
     .string "20. juli 1969!\p"
-    .string "Menneskeheden satte først foden pâ\n"
-    .string "mânen den dag.\p"
+    .string "Menneskeheden satte først foden på\n"
+    .string "månen den dag.\p"
     .string "Jeg købte et farvefjernsyn bare for at\n"
     .string "se den nyhed.$"
 
 PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
-    .string "Denne mâned har vi en rumudstilling.$"
+    .string "Denne måned har vi en rumudstilling.$"
 
 PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu::
     .string "Jeg vil have en PIKACHU!\n"
-    .string "Den er sâ nuttet!\p"
+    .string "Den er så nuttet!\p"
     .string "Jeg bad min far om at fange een!$"
 
 PewterCity_Museum_1F_Text_PikachuSoonIPromise::
@@ -48,5 +48,5 @@ PewterCity_Museum_1F_Text_SpaceShuttle::
     .string "Rumfærge$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
-    .string "En meteorit der faldt pâ MT. MOON.\n"
+    .string "En meteorit der faldt på MT. MOON.\n"
     .string "Den antages at være en MOON STONE.$"

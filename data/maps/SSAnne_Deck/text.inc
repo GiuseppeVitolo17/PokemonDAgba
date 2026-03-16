@@ -4,12 +4,12 @@ SSAnne_Deck_Text_ShipDepartingSoon::
 
 SSAnne_Deck_Text_ScrubbingDecksHardWork::
     .string "Puh!\n"
-    .string "At skrubbe dæk er hârdt arbejde!$"
+    .string "At skrubbe dæk er hårdt arbejde!$"
 
 SSAnne_Deck_Text_FeelSeasick::
-    .string "Urf… Jeg har det dârligt…\p"
-    .string "Jeg blev søsyg, sâ jeg gik ud for at\n"
-    .string "fâ lidt luft…$"
+    .string "Urf… Jeg har det dårligt…\p"
+    .string "Jeg blev søsyg, så jeg gik ud for at\n"
+    .string "få lidt luft…$"
 
 SSAnne_Deck_Text_EdmondIntro::
     .string "Hey, kammerat!\p"

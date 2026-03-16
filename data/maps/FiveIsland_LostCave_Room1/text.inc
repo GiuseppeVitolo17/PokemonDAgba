@@ -5,11 +5,11 @@ FiveIsland_LostCave_Room1_Text_LawsonIntro::
 
 FiveIsland_LostCave_Room1_Text_LawsonDefeat::
     .string "Aijeeeeh!\n"
-    .string "Nâade!$"
+    .string "Nåade!$"
 
 FiveIsland_LostCave_Room1_Text_LawsonPostBattle::
     .string "Jeg prøver at komme herfra, men\n"
-    .string "ender altid pâ samme sted.\p"
-    .string "Mâske antallet af kampesten er\n"
+    .string "ender altid på samme sted.\p"
+    .string "Måske antallet af kampesten er\n"
     .string "et tip…$"
 

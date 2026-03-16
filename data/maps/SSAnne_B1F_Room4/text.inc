@@ -11,13 +11,13 @@ SSAnne_B1F_Room4_Text_LeonardPostBattle::
     .string "Vil du være sømand, kammerat?$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
-    .string "Kom sâ!\n"
-    .string "Min sømandsstolthed stâr pâ spil!$"
+    .string "Kom så!\n"
+    .string "Min sømandsstolthed står på spil!$"
 
 SSAnne_B1F_Room4_Text_DuncanDefeat::
-    .string "Din ând sænkede mig!$"
+    .string "Din ånd sænkede mig!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
-    .string "Sâ du FISHING GURU i\n"
+    .string "Så du FISHING GURU i\n"
     .string "VERMILION CITY?$"
 

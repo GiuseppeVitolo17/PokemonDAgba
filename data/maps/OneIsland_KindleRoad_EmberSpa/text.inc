@@ -1,17 +1,17 @@
 OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
     .string "Hm!\n"
-    .string "Hâââââah!\p"
-    .string "Aâah! Det er himmelsk!\n"
+    .string "Håååååah!\p"
+    .string "Aåah! Det er himmelsk!\n"
     .string "Vandet varmer mig ind til benet!\p"
-    .string "Du burde ogsâ hoppe i.\p"
-    .string "Gâ til midten, slap af og bliv\n"
+    .string "Du burde også hoppe i.\p"
+    .string "Gå til midten, slap af og bliv\n"
     .string "godt varm!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
     .string "Min yndlingsdel af badet kommer\n"
     .string "lige efter dette.\p"
-    .string "Jeg nyder en skâl suppe for at\n"
-    .string "blive varm indefra ogsâ!$"
+    .string "Jeg nyder en skål suppe for at\n"
+    .string "blive varm indefra også!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
     .string "Vandet er perfekt varmt.\n"
@@ -36,15 +36,15 @@ OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
     .string "BRUNO, som er senior over mig,\n"
     .string "besøger SPA'en lejlighedsvis.\p"
     .string "Han kommer for at rehabilitere\n"
-    .string "skader, bâde sine og sine POKéMONs.$"
+    .string "skader, både sine og sine POKéMONs.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
     .string "Varme kilder hænger sammen med\n"
     .string "vulkaner.\p"
     .string "EMBER SPA her, ja,\n"
-    .string "jeg lavede den for âr siden.\p"
+    .string "jeg lavede den for år siden.\p"
     .string "Jeg huggede poolen ud af en\n"
-    .string "kæmpe kampesten for hând.\p"
+    .string "kæmpe kampesten for hånd.\p"
     .string "Jeg brugte denne dengang.\n"
     .string "Jeg kan nok undvære den.$"
 

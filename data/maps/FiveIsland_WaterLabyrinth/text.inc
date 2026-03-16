@@ -2,7 +2,7 @@ FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons::
     .string "Du rejser overalt,\n"
     .string "gør du ikke?\p"
     .string "Du kører ikke dine POKéMON for\n"
-    .string "hârdt, vel?\p"
+    .string "hårdt, vel?\p"
     .string "Lad mig se.\n"
     .string "… … …   … … …$"
 
@@ -42,7 +42,7 @@ FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
     .string "Øh, hej.\n"
     .string "Det er en sød {STR_VAR_2}.\p"
     .string "At se den minder mig om en sod\n"
-    .string "lille pige jeg mødte pâ rejse.\p"
+    .string "lille pige jeg mødte på rejse.\p"
     .string "Hun plejede POKéMON blidt...\n"
     .string "Hun var en lille engel.\p"
     .string "Den lille piges navn…\n"

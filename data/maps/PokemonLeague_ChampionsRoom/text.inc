@@ -1,10 +1,10 @@
 PokemonLeague_ChampionsRoom_Text_Intro::
     .string "{RIVAL}: Hey, {PLAYER}!\p"
-    .string "Jeg sâe frem til at se\n"
+    .string "Jeg såe frem til at se\n"
     .string "dig, {PLAYER}.\p"
     .string "Min rival bør være stærk for at\n"
     .string "holde mig skarp.\p"
-    .string "Mens jeg arbejdede pâ min POKéDEX,\n"
+    .string "Mens jeg arbejdede på min POKéDEX,\n"
     .string "ledte jeg overalt efter POKéMON.\p"
     .string "Ikke bare det, jeg samlede hold\n"
     .string "der kunne besejre enhver POKéMON type.\p"
@@ -19,10 +19,10 @@ PokemonLeague_ChampionsRoom_Text_Intro::
 PokemonLeague_ChampionsRoom_Text_RematchIntro::
     .string "{RIVAL}: Hey, {PLAYER}!\p"
     .string "Du kom tilbage, {PLAYER}!\n"
-    .string "Hahah, det er sâ fedt!\p"
+    .string "Hahah, det er så fedt!\p"
     .string "Min rival bør være stærk for at\n"
     .string "holde mig skarp.\p"
-    .string "Mens jeg arbejdede pâ min POKéDEX,\n"
+    .string "Mens jeg arbejdede på min POKéDEX,\n"
     .string "ledte jeg overalt efter POKéMON.\p"
     .string "Ikke bare det, jeg samlede hold\n"
     .string "der kunne besejre enhver POKéMON type.\p"
@@ -37,7 +37,7 @@ PokemonLeague_ChampionsRoom_Text_RematchIntro::
 PokemonLeague_ChampionsRoom_Text_Defeat::
     .string "NEJ!\n"
     .string "Det kan ikke være!\l"
-    .string "Du besejrede mig pâ mit bedste!\p"
+    .string "Du besejrede mig på mit bedste!\p"
     .string "Efter alt det arbejde for at blive\n"
     .string "LEAGUE MESTER?\p"
     .string "Min regeringstid er allerede forbi?\n"
@@ -67,13 +67,13 @@ PokemonLeague_ChampionsRoom_Text_OakPlayer::
     .string "OAK: {PLAYER}!$"
 
 PokemonLeague_ChampionsRoom_Text_OakCongratulations::
-    .string "OAK: Sâ du vandt!\n"
+    .string "OAK: Så du vandt!\n"
     .string "Oprigtige tillykke!\p"
     .string "Du er den nye POKéMON LEAGUE\n"
     .string "MESTER!\p"
-    .string "Du er vokset sâ meget siden du\n"
+    .string "Du er vokset så meget siden du\n"
     .string "først tog afsted med {STR_VAR_1} for at\l"
-    .string "arbejde pâ POKéDEX.\p"
+    .string "arbejde på POKéDEX.\p"
     .string "{PLAYER}, du er blevet voksen!$"
 
 PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
@@ -83,7 +83,7 @@ PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
     .string "ELITE FOUR.\p"
     .string "Men da jeg kom her, havde du\n"
     .string "allerede tabt!\p"
-    .string "{RIVAL}, forstâr du hvorfor\n"
+    .string "{RIVAL}, forstår du hvorfor\n"
     .string "du tabte?\p"
     .string "Du har glemt at behandle dine\n"
     .string "POKéMON med kærlighed og tillid.\p"
@@ -92,9 +92,9 @@ PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
 
 PokemonLeague_ChampionsRoom_Text_OakPlayerComeWithMe::
     .string "OAK: {PLAYER}.\p"
-    .string "Du forstâr at din sejr\n"
+    .string "Du forstår at din sejr\n"
     .string "ikke bare var din egen.\p"
-    .string "Bândet du deler med dine\n"
+    .string "Båndet du deler med dine\n"
     .string "POKéMON er vidunderligt.\p"
     .string "{PLAYER}!\n"
     .string "Kom med mig!$"

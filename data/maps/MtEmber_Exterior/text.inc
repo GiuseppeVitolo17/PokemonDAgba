@@ -16,7 +16,7 @@ Text_ExplosionWhichMon::
     .string "EXPLOSION?$"
 
 Text_ExplosionTaught::
-    .string "At bruge EXPLOSION her pâ denne\n"
+    .string "At bruge EXPLOSION her på denne\n"
     .string "vulkan…\p"
     .string "Hvilken skræmmende thrill!$"
 
@@ -57,7 +57,7 @@ MtEmber_Exterior_Text_PunchedThroughAtLast::
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
     .string "Al skat vi finder bringer vi tilbage\n"
-    .string "til LAGERET, forstâet?\p"
+    .string "til LAGERET, forstået?\p"
     .string "…Øh, og hvad er adgangskoderne?\n"
     .string "Ved ROCKET LAGERET, mener jeg.$"
 
@@ -73,7 +73,7 @@ MtEmber_Exterior_Text_SnoopsBeenListeningIn::
     .string "Denne snus har lyttet med!$"
 
 MtEmber_Exterior_Text_Grunt1Intro::
-    .string "Du har lyttet med pâ os,\n"
+    .string "Du har lyttet med på os,\n"
     .string "har du ikke?$"
 
 MtEmber_Exterior_Text_Grunt1Defeat::
@@ -83,7 +83,7 @@ MtEmber_Exterior_Text_Grunt1PostBattle::
     .string "Hvorfor skulle du vinde?$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
-    .string "Prover du at komme ind pâ vores\n"
+    .string "Prover du at komme ind på vores\n"
     .string "skat? Glem det!$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
@@ -91,13 +91,13 @@ MtEmber_Exterior_Text_Grunt2Defeat::
     .string "Men hvordan?$"
 
 MtEmber_Exterior_Text_Grunt2PostBattle::
-    .string "Fâ beqvem hukommelsestab og\n"
+    .string "Få beqvem hukommelsestab og\n"
     .string "glem alt hvad du hørte!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
     .string "Sikke et tilbageslag…\n"
-    .string "Vi mâ samle os igen.\p"
-    .string "Du! Tænk ikke engang pâ at\n"
+    .string "Vi må samle os igen.\p"
+    .string "Du! Tænk ikke engang på at\n"
     .string "træde ind der!\p"
     .string "Hvis du ved hvad der er godt for\n"
     .string "dig, glem det helt!$"
@@ -125,7 +125,7 @@ MtEmber_Exterior_Text_BethDefeat::
     .string "Du er chokerende dygtig!$"
 
 MtEmber_Exterior_Text_BethPostBattle::
-    .string "Nâr lava pâ overfladen af magma\n"
+    .string "Når lava på overfladen af magma\n"
     .string "hærder, og magmæn inde flyder ud,\l"
     .string "bliver der huler tilbage.$"
 
@@ -139,6 +139,6 @@ MtEmber_Exterior_Text_JocelynDefeat::
     .string "Jeg tror jeg overdrev…$"
 
 MtEmber_Exterior_Text_JocelynPostBattle::
-    .string "Mâden du kæmper pâ minder mig\n"
+    .string "Måden du kæmper på minder mig\n"
     .string "om fyren der dumpede mig…$"
 

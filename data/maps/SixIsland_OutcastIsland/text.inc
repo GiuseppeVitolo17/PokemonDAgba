@@ -36,7 +36,7 @@ SixIsland_OutcastIsland_Text_MymoPostBattle::
     .string "Jeg er udmattet…$"
 
 SixIsland_OutcastIsland_Text_NicoleIntro::
-    .string "Det er ikke sâ let at sende POKéMON\n"
+    .string "Det er ikke så let at sende POKéMON\n"
     .string "ud mens man svømmer, ved du?$"
 
 SixIsland_OutcastIsland_Text_NicoleDefeat::
@@ -44,9 +44,9 @@ SixIsland_OutcastIsland_Text_NicoleDefeat::
     .string "Det generer mig ikke.$"
 
 SixIsland_OutcastIsland_Text_NicolePostBattle::
-    .string "Er du pâ vej til øen deroppe\n"
+    .string "Er du på vej til øen deroppe\n"
     .string "forbi her?\p"
-    .string "Jeg sâ ikke noget interessant\n"
+    .string "Jeg så ikke noget interessant\n"
     .string "der.$"
 
 SixIsland_OutcastIsland_Text_AvaIntro::
@@ -77,7 +77,7 @@ SixIsland_OutcastIsland_Text_GebDefeat::
 
 SixIsland_OutcastIsland_Text_GebPostBattle::
     .string "GEB: Jeg holder fast i min søster\n"
-    .string "fordi jeg ikke kan nâ bunden.$"
+    .string "fordi jeg ikke kan nå bunden.$"
 
 SixIsland_OutcastIsland_Text_GebNotEnoughMons::
     .string "GEB: Kæmp venligst mod mig og\n"

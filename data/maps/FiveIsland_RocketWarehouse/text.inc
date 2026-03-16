@@ -3,7 +3,7 @@ FiveIsland_RocketWarehouse_Text_ManyMonsLockedInPen::
     .string "i folden…$"
 
 FiveIsland_RocketWarehouse_Text_PenUnlockedMonsFled::
-    .string "Folddøren er lâst op.\n"
+    .string "Folddøren er låst op.\n"
     .string "POKéMON ser ud til at være flygtet.$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Intro::
@@ -46,8 +46,8 @@ FiveIsland_RocketWarehouse_Text_Grunt3PostBattle::
 FiveIsland_RocketWarehouse_Text_Admin1Intro::
     .string "Jeg ved ikke eller bryder mig ikke om\n"
     .string "om det jeg gør er rigtigt eller galt…\p"
-    .string "Jeg stoler bare pâ GIOVANNI og\n"
-    .string "gør som jeg fâr besked pâ.$"
+    .string "Jeg stoler bare på GIOVANNI og\n"
+    .string "gør som jeg får besked på.$"
 
 FiveIsland_RocketWarehouse_Text_Admin1Defeat::
     .string "Jeg…\n"
@@ -56,7 +56,7 @@ FiveIsland_RocketWarehouse_Text_Admin1Defeat::
 FiveIsland_RocketWarehouse_Text_Admin1PostBattle::
     .string "Du gør ting efter dine overbevisninger\n"
     .string "og moral.\p"
-    .string "Jeg forstâr nu…$"
+    .string "Jeg forstår nu…$"
 
 FiveIsland_RocketWarehouse_Text_MadeItSoYouCanComeBackThrough::
     .string "Jeg har sørget for at du kan komme\n"
@@ -65,7 +65,7 @@ FiveIsland_RocketWarehouse_Text_MadeItSoYouCanComeBackThrough::
     .string "til det der venter?\p"
     .string "ADMIN'en efter mig er langt over\n"
     .string "mig som TRAINER.\p"
-    .string "Du bør gøre dig klar til en hârd\n"
+    .string "Du bør gøre dig klar til en hård\n"
     .string "udfordring.$"
 
 FiveIsland_RocketWarehouse_Text_Admin2Intro::
@@ -73,9 +73,9 @@ FiveIsland_RocketWarehouse_Text_Admin2Intro::
     .string "spiller helt, unge.\p"
     .string "Spreder løgne om at TEAM ROCKET\n"
     .string "er opløst…\p"
-    .string "Det er et sâ tydeligt forsøg pâ at\n"
+    .string "Det er et så tydeligt forsøg på at\n"
     .string "skabe forvirring i vores rækker.\p"
-    .string "Heldigvis er vi ikke sâ naive at\n"
+    .string "Heldigvis er vi ikke så naive at\n"
     .string "falde for en unges løgne!\p"
     .string "Og nu viser jeg dig hvor skræmmende\n"
     .string "en vred voksen kan være!$"
@@ -85,7 +85,7 @@ FiveIsland_RocketWarehouse_Text_Admin2Defeat::
     .string "Du var for stærk…\p"
     .string "…\n"
     .string "D-det er GIOVANNIs BADGE!\p"
-    .string "Sâ det er sandt?\n"
+    .string "Så det er sandt?\n"
     .string "TEAM ROCKET er virkelig opløst?$"
 
 FiveIsland_RocketWarehouse_Text_Admin2PostBattle::
@@ -99,16 +99,16 @@ FiveIsland_RocketWarehouse_Text_Admin2PostBattle::
 
 FiveIsland_RocketWarehouse_Text_ReportWithGraphsAndText::
     .string "En rapport med grafer og tekst er\n"
-    .string "pâ PC-skærmen.\p"
-    .string "Magnetiske bolgers indflydelse pâ\n"
+    .string "på PC-skærmen.\p"
+    .string "Magnetiske bolgers indflydelse på\n"
     .string "POKéMON-evolution.\p"
     .string "… … … … … …\p"
-    .string "Det er for svært at forstâ…$"
+    .string "Det er for svært at forstå…$"
 
 FiveIsland_RocketWarehouse_Text_GideonIntro::
     .string "Jeg næsten solgte SAPPHIREN for\n"
     .string "en formue…\p"
-    .string "Sâ mâtte du bare komme og\n"
+    .string "Så måtte du bare komme og\n"
     .string "ødelægge hele handlen!\p"
     .string "Fufu… Fufufufu…\n"
     .string "Der er ingen tilgivelse for dig!$"
@@ -130,7 +130,7 @@ FiveIsland_RocketWarehouse_Text_GiovannisKidHasRedHair::
     .string "Du… Du er vel ikke GIOVANNIs\n"
     .string "barn?\p"
     .string "Nej, det kan ikke være rigtigt!\n"
-    .string "GIOVANNIs barn har rødt hâr.\p"
+    .string "GIOVANNIs barn har rødt hår.\p"
     .string "Du har ingen grunde til at\n"
     .string "gener mig. Lad mig være!$"
 

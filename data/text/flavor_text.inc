@@ -16,7 +16,7 @@ Text_PokeMartShelf::
 	.string "Masser af POKéMON-ting!$"
 
 Text_DishesPlatesNeatlyLinedUp::
-	.string "Tallerkener og fade stâr pænt\n"
+	.string "Tallerkener og fade står pænt\n"
 	.string "opstillet.$"
 
 Text_Kitchen::
@@ -40,7 +40,7 @@ Text_PokecenterSign::
 
 Text_Indigo_UltimateGoal::
 	.string "INDIGO PLATEAU\p"
-	.string "TRÆNERNES ultimative mâl!\n"
+	.string "TRÆNERNES ultimative mål!\n"
 	.string "POKéMON LEAGUE HQ$"
 
 Text_Indigo_HighestAuthority::
@@ -87,7 +87,7 @@ Text_TrashBin::
 
 Text_Cup::
 	.string "Det er en kop med et POKéMON-\n"
-	.string "mærke pâ.$"
+	.string "mærke på.$"
 
 Text_PolishedWindow::
 	.string "Vinduet er meget velpoleret.$"
@@ -102,7 +102,7 @@ Text_BlinkingLights::
 	.string "blinker til og fra.$"
 
 Text_NeatlyLinedUpTools::
-	.string "Alle mulige værktøjer stâr\n"
+	.string "Alle mulige værktøjer står\n"
 	.string "pænt opstillet.$"
 
 Text_ImpressiveMachine::
@@ -114,7 +114,7 @@ Text_VideoGame::
 	.string "Det ser sjovert ud!$"
 
 Text_Burglary::
-	.string "Der er tydelige tegn pâ indbrud\n"
+	.string "Der er tydelige tegn på indbrud\n"
 	.string "her…$"
 
 Text_PlayerFacingTVScreen::

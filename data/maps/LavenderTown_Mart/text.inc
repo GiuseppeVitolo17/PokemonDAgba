@@ -4,7 +4,7 @@ LavenderTown_Mart_Text_SearchingForStatRaiseItems::
     .string "De virker i løbet af en enkelt kamp.\p"
     .string "X ATTACK, X DEFEND, X SPEED og\n"
     .string "X SPECIAL er hvad jeg søger.\p"
-    .string "Ved du hvor jeg kan fâ dem?$"
+    .string "Ved du hvor jeg kan få dem?$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
     .string "Købte du REVIVES?\n"
@@ -12,9 +12,9 @@ LavenderTown_Mart_Text_DidYouBuyRevives::
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
     .string "Nogle gange udfordrer et TRAINER-\n"
-    .string "par dig med to POKéMON pâ én gang.\p"
+    .string "par dig med to POKéMON på én gang.\p"
     .string "Sker det, skal du sende to POKéMON\n"
-    .string "ud i kamp ogsâ.$"
+    .string "ud i kamp også.$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
     .string "この　あいだ　やまおくで\n"

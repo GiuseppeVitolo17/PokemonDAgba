@@ -7,30 +7,30 @@ ThreeIsland_BondBridge_Text_NikkiDefeat::
     .string "Noget lugter ubehageligt…$"
 
 ThreeIsland_BondBridge_Text_NikkiPostBattle::
-    .string "Mâske er den stank din svedige\n"
+    .string "Måske er den stank din svedige\n"
     .string "POKéMONs kropslugt…$"
 
 ThreeIsland_BondBridge_Text_VioletIntro::
-    .string "Hvor skal du hen i sâ stor fart?$"
+    .string "Hvor skal du hen i så stor fart?$"
 
 ThreeIsland_BondBridge_Text_VioletDefeat::
     .string "Du opdrager nogle vidunderlige\n"
     .string "POKéMON.$"
 
 ThreeIsland_BondBridge_Text_VioletPostBattle::
-    .string "Hvis du fortsætter denne vej, nâr\n"
+    .string "Hvis du fortsætter denne vej, når\n"
     .string "du til sidst BERRY FOREST.$"
 
 ThreeIsland_BondBridge_Text_AmiraIntro::
-    .string "Min mor sagde at jeg ikke mâ svømme\n"
+    .string "Min mor sagde at jeg ikke må svømme\n"
     .string "uden min svømmering.$"
 
 ThreeIsland_BondBridge_Text_AmiraDefeat::
-    .string "Wâah!\n"
-    .string "Wâah!$"
+    .string "Wåah!\n"
+    .string "Wåah!$"
 
 ThreeIsland_BondBridge_Text_AmiraPostBattle::
-    .string "I âr lærer jeg endelig\n"
+    .string "I år lærer jeg endelig\n"
     .string "at svømme!$"
 
 ThreeIsland_BondBridge_Text_AlexisIntro::
@@ -50,7 +50,7 @@ ThreeIsland_BondBridge_Text_TishaIntro::
 
 ThreeIsland_BondBridge_Text_TishaDefeat::
     .string "Okay, du vandt!\n"
-    .string "Vil du venligst gâ væk nu?$"
+    .string "Vil du venligst gå væk nu?$"
 
 ThreeIsland_BondBridge_Text_TishaPostBattle::
     .string "En POKéMON bed igennem mit\n"
@@ -62,12 +62,12 @@ ThreeIsland_BondBridge_Text_JoyIntro::
     .string "yndlings-POKéMON er!$"
 
 ThreeIsland_BondBridge_Text_JoyDefeat::
-    .string "JOY: Aâah…\n"
+    .string "JOY: Aåah…\n"
     .string "MEG!$"
 
 ThreeIsland_BondBridge_Text_JoyPostBattle::
     .string "JOY: Var det ikke sjovt?\n"
-    .string "Jeg hâber vi kan kæmpe igen!$"
+    .string "Jeg håber vi kan kæmpe igen!$"
 
 ThreeIsland_BondBridge_Text_JoyNotEnoughMons::
     .string "JOY: Jeg vil virkelig gerne kæmpe med\n"
@@ -79,7 +79,7 @@ ThreeIsland_BondBridge_Text_MegIntro::
     .string "POKéMON.$"
 
 ThreeIsland_BondBridge_Text_MegDefeat::
-    .string "MEG: Aâah…\n"
+    .string "MEG: Aåah…\n"
     .string "JOY!$"
 
 ThreeIsland_BondBridge_Text_MegPostBattle::

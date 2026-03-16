@@ -6,7 +6,7 @@ LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoney::
     .string "for ond!$"
 
 LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets::
-    .string "Jeg sâ CUBONEs mor forsøge at\n"
+    .string "Jeg så CUBONEs mor forsøge at\n"
     .string "flygte fra TEAM ROCKET.\p"
     .string "Hun blev dræbt under flugten…$"
 

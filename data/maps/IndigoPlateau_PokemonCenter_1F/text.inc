@@ -6,12 +6,12 @@ IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
     .string "Taber du, skal du starte for\n"
     .string "fra igen!\p"
     .string "Dette er det!\n"
-    .string "Kør pâ!$"
+    .string "Kør på!$"
 
 IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck::
     .string "Herfra møder du ELITE FOUR\n"
     .string "een ad gangen.\p"
-    .string "Vinder du, âbner en dør til\n"
+    .string "Vinder du, åbner en dør til\n"
     .string "næste TRAINER. Held og lykke!$"
 
 IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
@@ -24,20 +24,20 @@ IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
 
 IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
     .string "AGATHAs SPØGELSES-type POKéMON er\n"
-    .string "rædselsvækkende hârde.\p"
+    .string "rædselsvækkende hårde.\p"
     .string "Jeg tog mine KAMP-type POKéMON\n"
     .string "og trænede dem maksimalt.\p"
     .string "Jeg gik mod AGATHA ret selvsikker,\n"
     .string "men hun bankede os.\p"
-    .string "Den gamle dame har ogsâ et kort\n"
+    .string "Den gamle dame har også et kort\n"
     .string "lunte.\p"
-    .string "Det kræver ikke meget at fâ den\n"
-    .string "skræmmente dame til at râbe.$"
+    .string "Det kræver ikke meget at få den\n"
+    .string "skræmmente dame til at råbe.$"
 
 IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway::
-    .string "Mâske er det i blodet at blive\n"
+    .string "Måske er det i blodet at blive\n"
     .string "ELITE FOUR-medlem.\p"
-    .string "Sâvidt jeg har hørt har LANCE en\n"
+    .string "Såvidt jeg har hørt har LANCE en\n"
     .string "fætter der er GYM LEDER\l"
     .string "et sted langt væk.$"
 

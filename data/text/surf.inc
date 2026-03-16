@@ -1,5 +1,5 @@
 Text_WantToSurf::
-	.string "Vandet er farvet dybblât…\n"
+	.string "Vandet er farvet dybblåt…\n"
 	.string "Vil du bruge SURF?$"
 
 Text_UsedSurf::

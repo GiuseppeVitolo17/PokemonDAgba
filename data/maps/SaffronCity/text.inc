@@ -8,18 +8,18 @@ SaffronCity_Text_BossTakeTownForTeamRocket::
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
     .string "Vær ikke trodsig!\n"
-    .string "Sâ skal jeg gøre dig ondt!$"
+    .string "Så skal jeg gøre dig ondt!$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
     .string "SAFFRON tilhører TEAM ROCKET!$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
-    .string "Mit liv som kriminel fâr mig til at\n"
+    .string "Mit liv som kriminel får mig til at\n"
     .string "føle mig sa levende!$"
 
 SaffronCity_Text_WatchWhereYoureWalking::
     .string "Av!\n"
-    .string "Pas pâ hvor du gâr!$"
+    .string "Pas på hvor du går!$"
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
     .string "Med SILPH under kontrol kan vi\n"
@@ -41,7 +41,7 @@ SaffronCity_Text_PeopleComingBackToSaffron::
     .string "SAFFRON nu.$"
 
 SaffronCity_Text_FlewHereOnPidgeot::
-    .string "Jeg floj hertil pâ min PIDGEOT da\n"
+    .string "Jeg floj hertil på min PIDGEOT da\n"
     .string "jeg læste om SILPH.\p"
     .string "Er det allerede forbi?\n"
     .string "Jeg missede medieaktionen…$"
@@ -86,7 +86,7 @@ SaffronCity_Text_GreatBallImprovedCatchRate::
     .string "TRAINER TIPS\p"
     .string "Den nye GREAT BALL giver bedre\n"
     .string "fangstrate.\p"
-    .string "Prøv den pâ de svært-fangbare\n"
+    .string "Prøv den på de svært-fangbare\n"
     .string "POKéMON.$"
 
 SaffronCity_Text_SilphCoSign::
@@ -102,14 +102,14 @@ SaffronCity_Text_SilphsLatestProduct::
 SaffronCity_Text_TrainerFanClubSign::
     .string "POKéMON TRAINER FAN CLUB\p"
     .string "Mange TRAINERE har skrevet deres\n"
-    .string "navne pâ dette skilt.$"
+    .string "navne på dette skilt.$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
     .string "Denne FAN CLUB…\n"
     .string "Ingen her aner noget!\p"
     .string "Hvordan kunne de ikke genkende\n"
     .string "brilliancen der er LANCE?\p"
-    .string "Han stâr for retfærdighed!\n"
+    .string "Han står for retfærdighed!\n"
     .string "Han er cool og alligevel passioneret!\l"
     .string "Han er den største, LANCE!$"
 

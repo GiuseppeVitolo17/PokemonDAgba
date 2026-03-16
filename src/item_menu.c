@@ -67,7 +67,8 @@ EWRAM_DATA struct BagStruct gBagMenuState = {};
 static EWRAM_DATA struct BagMenuAlloc * sBagMenuDisplay = NULL;
 static EWRAM_DATA void *sBagBgTilemapBuffer = NULL;
 static EWRAM_DATA struct ListMenuItem * sListMenuItems = NULL;
-static EWRAM_DATA u8 (*sListMenuItemStrings)[19] = NULL;
+#define BAG_LIST_MENU_ITEM_STR_LEN 32  /* was 19: color codes + item name; 32 avoids overflow with long names */
+static EWRAM_DATA u8 (*sListMenuItemStrings)[BAG_LIST_MENU_ITEM_STR_LEN] = NULL;
 static EWRAM_DATA u8 sContextMenuItemsBuffer[4] = {};
 static EWRAM_DATA const u8 *sContextMenuItemsPtr = NULL;
 static EWRAM_DATA u8 sContextMenuNumItems = 0;

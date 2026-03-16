@@ -10,14 +10,14 @@ PokemonTower_6F_Text_AngelicaPostBattle::
 
 PokemonTower_6F_Text_EmiliaIntro::
     .string "Urff…\n"
-    .string "Kwâh!$"
+    .string "Kwåh!$"
 
 PokemonTower_6F_Text_EmiliaDefeat::
     .string "Noget faldt ud!$"
 
 PokemonTower_6F_Text_EmiliaPostBattle::
-    .string "Mit hâr faldt ikke ud!\n"
-    .string "Det var en ondskabsfuld ând!$"
+    .string "Mit hår faldt ikke ud!\n"
+    .string "Det var en ondskabsfuld ånd!$"
 
 PokemonTower_6F_Text_JenniferIntro::
     .string "Ke…ke…ke…\n"
@@ -34,9 +34,9 @@ PokemonTower_6F_Text_BeGoneIntruders::
     .string "Indtrængende…$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
-    .string "Spøgelsen var den rastløse ând\n"
+    .string "Spøgelsen var den rastløse ånd\n"
     .string "af CUBONEs mor!$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
-    .string "Morens ând blev beroliget.\p"
+    .string "Morens ånd blev beroliget.\p"
     .string "Den rejste til det hinsidige…$"

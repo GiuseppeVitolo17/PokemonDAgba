@@ -27,8 +27,8 @@ FourIsland_House1_Text_FatMan::
 FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
     .string "Der er en sjælden slags IS-\n"
     .string "POKéMON der lever i hulen.\p"
-    .string "Vi fâr mange besøgende der\n"
-    .string "hâber at se den POKéMON.$"
+    .string "Vi får mange besøgende der\n"
+    .string "håber at se den POKéMON.$"
 
 FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
     .string "Øh? Et POKéMON-ÆG?\n"
@@ -36,7 +36,7 @@ FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
     .string "…Øh, vent. DAY-CARE-folkene i\n"
     .string "byen sagde noget.\p"
     .string "De sagde at de havde fundet ÆG\n"
-    .string "før pâ deres grund.$"
+    .string "før på deres grund.$"
 
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
     .string "Hvad er det her?\p"

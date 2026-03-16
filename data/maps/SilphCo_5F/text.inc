@@ -19,7 +19,7 @@ SilphCo_5F_Text_Grunt1PostBattle::
     .string "TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
-    .string "Vi studerer POKe BALL-teknologi pâ\n"
+    .string "Vi studerer POKe BALL-teknologi på\n"
     .string "denne sal.$"
 
 SilphCo_5F_Text_BeauDefeat::
@@ -27,18 +27,18 @@ SilphCo_5F_Text_BeauDefeat::
     .string "Forbandet!$"
 
 SilphCo_5F_Text_BeauPostBattle::
-    .string "Vi arbejdede pâ den ultimative POKe\n"
+    .string "Vi arbejdede på den ultimative POKe\n"
     .string "BALL der kunne fange hvad som helst.$"
 
 SilphCo_5F_Text_DaltonIntro::
-    .string "Hvââd?\p"
+    .string "Hvååd?\p"
     .string "Der bør ikke være børn her!$"
 
 SilphCo_5F_Text_DaltonDefeat::
     .string "Oh, gud!$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-    .string "Du er kun pâ 5. sal.\n"
+    .string "Du er kun på 5. sal.\n"
     .string "Det er langt til min BOSS!$"
 
 SilphCo_5F_Text_Grunt2Intro::
@@ -49,7 +49,7 @@ SilphCo_5F_Text_Grunt2Defeat::
     .string "Host…$"
 
 SilphCo_5F_Text_Grunt2PostBattle::
-    .string "Hvad det angâr.\p"
+    .string "Hvad det angår.\p"
     .string "KOFFING udvikler sig til WEEZING!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
@@ -65,7 +65,7 @@ SilphCo_5F_Text_Over350TechniquesConfirmed::
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
     .string "Det er en POKéMON RAPPORT!\p"
     .string "Nogle POKéMON er bekræftet at\n"
-    .string "udvikle sig nâr de byttes.$"
+    .string "udvikle sig når de byttes.$"
 
 SilphCo_5F_Text_FloorSign::
     .string "SILPH CO. HOVEDKONTOR\n"
@@ -76,5 +76,5 @@ SilphCo_5F_Text_RocketBossLookingForStrongMons::
     .string "bygning…\p"
     .string "Deres BOSS sagde han ledte efter\n"
     .string "stærke POKéMON.\p"
-    .string "Jeg hâber vores PRESIDENT undgik\n"
+    .string "Jeg håber vores PRESIDENT undgik\n"
     .string "problemer…$"

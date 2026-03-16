@@ -10,27 +10,27 @@ ThreeIsland_BerryForest_Text_HelpScaryPokemon::
 
 ThreeIsland_BerryForest_Text_HereItComesAgain::
     .string "Aah! Der kommer den igen!\n"
-    .string "Nej! Gâ væk! Den skræmmer mig!\p"
-    .string "Wâââah!\n"
+    .string "Nej! Gå væk! Den skræmmer mig!\p"
+    .string "Wåååah!\n"
     .string "Jeg vil have min far!$"
 
 ThreeIsland_BerryForest_Text_ThankYouHaveThis::
-    .string "Aâah! Det var sâ skræmmende!\n"
+    .string "Aåah! Det var så skræmmende!\n"
     .string "Tak!\p"
     .string "LOSTELLE kom for at plukke nogle\n"
     .string "BÆR.\p"
-    .string "Du mâ fâ dette!$"
+    .string "Du må få dette!$"
 
 ThreeIsland_BerryForest_Text_LetsGoHome::
     .string "Hvad hedder du?\p"
-    .string "LOSTELLE er bange, sâ mâ jeg gâ\n"
+    .string "LOSTELLE er bange, så må jeg gå\n"
     .string "med dig til min fars hus?\p"
     .string "Okay!\n"
     .string "Lad os tage hjem!$"
 
 ThreeIsland_BerryForest_Text_BerryPouchIsFull::
     .string "Din BERRY POUCH er fuld.\n"
-    .string "Jeg gætter pâ at du ikke vil have dette.$"
+    .string "Jeg gætter på at du ikke vil have dette.$"
 
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
     .string "Velkommen til BERRY FOREST\p"
@@ -38,6 +38,6 @@ ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
     .string "andre og POKéMON.$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
-    .string "Pas pâ vilde, BÆR-elske\n"
+    .string "Pas på vilde, BÆR-elske\n"
     .string "POKéMON!$"
 

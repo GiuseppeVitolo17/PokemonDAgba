@@ -12,13 +12,13 @@ FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
     .string "VOGTER SLOWPOKE kom ind, men\n"
-    .string "jeg kunne ikke forstâ ham.\p"
+    .string "jeg kunne ikke forstå ham.\p"
     .string "Jeg tror han har et taleproblem!$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
     .string "VOGTER SLOWPOKE kører en\n"
     .string "kampagne lige nu.\p"
-    .string "Prøv at nâ det fjerneste hjørne\n"
+    .string "Prøv at nå det fjerneste hjørne\n"
     .string "af SAFARI ZONE.\p"
     .string "Hvis du kan, vinder du en meget\n"
     .string "praktisk præmie.$"

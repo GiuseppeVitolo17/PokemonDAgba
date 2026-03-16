@@ -1,9 +1,9 @@
 Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend::
-    .string "Jeg er pâ en afslappet tur pâ min\n"
+    .string "Jeg er på en afslappet tur på min\n"
     .string "nye cykel med min kæreste.$"
 
 Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
-    .string "Vi kører sammen pâ vores\n"
+    .string "Vi kører sammen på vores\n"
     .string "nye cykler.$"
 
 Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
@@ -23,7 +23,7 @@ Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
     .string "give dig en belønning.\p"
     .string "PROF. OAK betrøde mig et\n"
     .string "AMULET COIN til dig.\p"
-    .string "Sâ, {PLAYER}, lad mig spørge dig.\p"
+    .string "Så, {PLAYER}, lad mig spørge dig.\p"
     .string "Har du indsamlet data om mindst\n"
     .string "40 slags POKéMON?$"
 

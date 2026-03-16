@@ -48,5 +48,5 @@ RocketHideout_B1F_Text_Grunt5Defeat::
     .string "Hvorfor…?$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
-    .string "Uh-oh, den larm âbnede pâ en eller\n"
-    .string "anden mâde døren!$"
+    .string "Uh-oh, den larm åbnede på en eller\n"
+    .string "anden måde døren!$"

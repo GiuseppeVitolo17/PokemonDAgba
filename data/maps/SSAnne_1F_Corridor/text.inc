@@ -1,6 +1,6 @@
 SSAnne_1F_Corridor_Text_LeStrongSilentType::
     .string "Bonjour!\n"
-    .string "Jeg er oberen pâ dette skib!\p"
+    .string "Jeg er oberen på dette skib!\p"
     .string "Jeg serverer gerne hvad som helst\n"
     .string "du oonsker!\p"
     .string "… … …\n"

@@ -7,7 +7,7 @@ Route17_Text_RaulDefeat::
 
 Route17_Text_RaulPostBattle::
     .string "Du kan finde gode ting der ligger\n"
-    .string "og flyder pâ CYKELVEJ.\p"
+    .string "og flyder på CYKELVEJ.\p"
     .string "Der er gode penge i at samle dem\n"
     .string "op og sælge dem.$"
 
@@ -23,7 +23,7 @@ Route17_Text_IsaiahPostBattle::
     .string "herfra!$"
 
 Route17_Text_VirgilIntro::
-    .string "Er du pâ vej til FUCHSIA?$"
+    .string "Er du på vej til FUCHSIA?$"
 
 Route17_Text_VirgilDefeat::
     .string "Crash og brænd!$"
@@ -59,7 +59,7 @@ Route17_Text_ZeekDefeat::
     .string "Hvor du!$"
 
 Route17_Text_ZeekPostBattle::
-    .string "Mâske har nogle POKéMON brug for\n"
+    .string "Måske har nogle POKéMON brug for\n"
     .string "element STONES for at udvikle sig.$"
 
 Route17_Text_JamalIntro::
@@ -70,17 +70,17 @@ Route17_Text_JamalDefeat::
     .string "God træning!$"
 
 Route17_Text_JamalPostBattle::
-    .string "Jeg er sikker pâ jeg tabte vægt!$"
+    .string "Jeg er sikker på jeg tabte vægt!$"
 
 Route17_Text_CoreyIntro::
     .string "Vær en rebel!$"
 
 Route17_Text_CoreyDefeat::
-    .string "Aâargh!$"
+    .string "Aåargh!$"
 
 Route17_Text_CoreyPostBattle::
     .string "Vær parat til at kæmpe for det\n"
-    .string "du tror pâ!$"
+    .string "du tror på!$"
 
 Route17_Text_JaxonIntro::
     .string "Fin CYKEL!\n"
@@ -90,7 +90,7 @@ Route17_Text_JaxonDefeat::
     .string "Skyd!$"
 
 Route17_Text_JaxonPostBattle::
-    .string "Skrâningen gør det svært at styre.$"
+    .string "Skråningen gør det svært at styre.$"
 
 Route17_Text_WilliamIntro::
     .string "Forsvind, unge!\n"
@@ -104,7 +104,7 @@ Route17_Text_WilliamPostBattle::
 
 Route17_Text_WatchOutForDiscardedItems::
     .string "Det er en besked.\p"
-    .string "Pas pâ kasserede genstande.$"
+    .string "Pas på kasserede genstande.$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
     .string "TRAINER TIPS\p"
@@ -114,8 +114,8 @@ Route17_Text_SameSpeciesGrowDifferentRates::
 
 Route17_Text_PressBToStayInPlace::
     .string "TRAINER TIPS\p"
-    .string "Tryk B-knappen for at blive pâ\n"
-    .string "stedet pâ en skrâning.$"
+    .string "Tryk B-knappen for at blive på\n"
+    .string "stedet på en skråning.$"
 
 Route17_Text_RouteSign::
     .string "ROUTE 17\n"
@@ -128,4 +128,4 @@ Route17_Text_DontThrowGameThrowBalls::
 
 Route17_Text_CyclingRoadSign::
     .string "CYKELVEJ\n"
-    .string "Skrâning slutter her!$"
+    .string "Skråning slutter her!$"

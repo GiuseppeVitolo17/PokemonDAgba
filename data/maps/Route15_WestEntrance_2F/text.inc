@@ -6,7 +6,7 @@ Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
     .string "give dig en belønning.\p"
     .string "PROF. OAK betrøde mig\n"
     .string "{STR_VAR_2} til dig.\p"
-    .string "Sâ, {PLAYER}, lad mig spørge dig.\p"
+    .string "Så, {PLAYER}, lad mig spørge dig.\p"
     .string "Har du indsamlet data om mindst\n"
     .string "{STR_VAR_1} slags POKéMON?$"
 

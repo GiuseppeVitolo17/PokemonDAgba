@@ -11,13 +11,13 @@ PokemonTower_7F_Text_Grunt1PostBattle::
 PokemonTower_7F_Text_Grunt2Intro::
     .string "Den gamle mand marcherede lige ind i\n"
     .string "vores HIDEOUT.\p"
-    .string "Sâ begynder han at rante om at\n"
+    .string "Så begynder han at rante om at\n"
     .string "TEAM ROCKET misbruger POKéMON.\p"
-    .string "Sâ vi taler bare om det som\n"
+    .string "Så vi taler bare om det som\n"
     .string "voksne.$"
 
 PokemonTower_7F_Text_Grunt2Defeat::
-    .string "Vær sâ venlig!\n"
+    .string "Vær så venlig!\n"
     .string "Ikke mere!$"
 
 PokemonTower_7F_Text_Grunt2PostBattle::
@@ -39,11 +39,11 @@ PokemonTower_7F_Text_MrFujiThankYouFollowMe::
     .string "Du kom for at redde mig?\p"
     .string "Tak. Men jeg kom her af min\n"
     .string "egen frie vilje.\p"
-    .string "Jeg kom for at berolige ânden af\n"
+    .string "Jeg kom for at berolige ånden af\n"
     .string "CUBONEs mor.\p"
-    .string "Jeg tror MAROWAKs ând endelig\n"
+    .string "Jeg tror MAROWAKs ånd endelig\n"
     .string "har forladt os.\p"
-    .string "Jeg mâ takke dig for din venlige\n"
+    .string "Jeg må takke dig for din venlige\n"
     .string "omtanke.\p"
     .string "Følg mig til mit hjem, POKéMON\n"
-    .string "HOUSE, ved foden af dette târn.$"
+    .string "HOUSE, ved foden af dette tårn.$"

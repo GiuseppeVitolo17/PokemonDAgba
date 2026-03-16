@@ -1,5 +1,5 @@
 Route5_SouthEntrance_Text_ThirstyOnGuardDuty::
-    .string "Jeg er pâ vagt.\n"
+    .string "Jeg er på vagt.\n"
     .string "Av, jeg er tørstig!\p"
     .string "Oh vent, vejen er lukket.$"
 
@@ -8,7 +8,7 @@ Route5_SouthEntrance_Text_ThatTeaLooksTasty::
     .string "Den ser rigtig lækker ud…$"
 
 Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
-    .string "Hvad? Mâ jeg fâ den drink?\n"
+    .string "Hvad? Må jeg få den drink?\n"
     .string "Av, tak!\l"
     .string "… …\l"
     .string "Glug, glug…\l"
@@ -17,9 +17,9 @@ Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
     .string "Hvis du vil til SAFFRON\l"
     .string "CITY…\l"
     .string "… …\l"
-    .string "Ma du gâe igennem.\p"
+    .string "Ma du gåe igennem.\p"
     .string "Jeg deler denne TEA med de andre\n"
     .string "vagter!$"
 
 Route5_SouthEntrance_Text_HiHowsItGoing::
-    .string "Hej, hvordan gâr det?$"
+    .string "Hej, hvordan går det?$"

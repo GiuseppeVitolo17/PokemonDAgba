@@ -16,7 +16,7 @@ FuchsiaCity_Text_WheresSara::
 FuchsiaCity_Text_ItemBallInThere::
     .string "Den genstandskugle derinde…\n"
     .string "Ville du have den?\p"
-    .string "Mig ogsâ!\n"
+    .string "Mig også!\n"
     .string "…Hvad? Det er en POKéMON?$"
 
 FuchsiaCity_Text_CitySign::
@@ -56,7 +56,7 @@ FuchsiaCity_Text_VoltorbSign::
 FuchsiaCity_Text_KangaskhanSign::
     .string "Navn: KANGASKHAN\p"
     .string "En moderlig POKéMON der opdrager\n"
-    .string "sine unger i en pung pâ maven.$"
+    .string "sine unger i en pung på maven.$"
 
 FuchsiaCity_Text_SlowpokeSign::
     .string "Navn: SLOWPOKE\n"
@@ -94,7 +94,7 @@ Text_SubstituteTeach::
 
 Text_SubstituteDeclined::
     .string "Øh, virkelig?\n"
-    .string "SUBSTITUTE lyder sâ sjov…$"
+    .string "SUBSTITUTE lyder så sjov…$"
 
 Text_SubstituteWhichMon::
     .string "Hvilken POKéMON vil lære\n"

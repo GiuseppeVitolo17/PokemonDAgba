@@ -5,10 +5,10 @@ TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCorner::
     .string "Du skal tage en ven med.$"
 
 TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCape::
-    .string "Der bor ikke mange mennesker pâ\n"
+    .string "Der bor ikke mange mennesker på\n"
     .string "TWO ISLAND.\p"
     .string "Der er denne gamle dame der bor\n"
-    .string "ude pâ næsset.\p"
+    .string "ude på næsset.\p"
     .string "Hun har bøt der siden jeg ikke\n"
-    .string "ved hvornâr.$"
+    .string "ved hvornår.$"
 

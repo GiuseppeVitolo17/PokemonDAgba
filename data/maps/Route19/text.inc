@@ -11,15 +11,15 @@ Route19_Text_RichardPostBattle::
 
 Route19_Text_ReeceIntro::
     .string "Vent! Langsomt!\n"
-    .string "Du fâr et hjerteanfald!$"
+    .string "Du får et hjerteanfald!$"
 
 Route19_Text_ReeceDefeat::
     .string "Ooh!\n"
     .string "Det er koldt!$"
 
 Route19_Text_ReecePostBattle::
-    .string "Pas pâ TENTACOOL.\n"
-    .string "De stikker sâ smertefuldt.$"
+    .string "Pas på TENTACOOL.\n"
+    .string "De stikker så smertefuldt.$"
 
 Route19_Text_MatthewIntro::
     .string "Jeg elsker at svømme!\n"
@@ -29,7 +29,7 @@ Route19_Text_MatthewDefeat::
     .string "Maveplasker!$"
 
 Route19_Text_MatthewPostBattle::
-    .string "Jeg kan slâ selv hav-POKéMON\n"
+    .string "Jeg kan slå selv hav-POKéMON\n"
     .string "i svømning.$"
 
 Route19_Text_DouglasIntro::
@@ -49,24 +49,24 @@ Route19_Text_DavidDefeat::
     .string "Hjælp!$"
 
 Route19_Text_DavidPostBattle::
-    .string "Jeg gætter pâ man skal fiske efter\n"
+    .string "Jeg gætter på man skal fiske efter\n"
     .string "hav-POKéMON.$"
 
 Route19_Text_TonyIntro::
-    .string "Jeg kigger pâ havet for at glemme\n"
-    .string "alt det dârlige der skete.$"
+    .string "Jeg kigger på havet for at glemme\n"
+    .string "alt det dårlige der skete.$"
 
 Route19_Text_TonyDefeat::
     .string "Ooh!\n"
     .string "Traumatisk!$"
 
 Route19_Text_TonyPostBattle::
-    .string "Jeg kigger pâ havet for at glemme\n"
-    .string "det dârlige der skete!$"
+    .string "Jeg kigger på havet for at glemme\n"
+    .string "det dårlige der skete!$"
 
 Route19_Text_AnyaIntro::
     .string "Aa, jeg elsker bare dit køretøj!\n"
-    .string "Ma jeg fâ den hvis jeg vinder?$"
+    .string "Ma jeg få den hvis jeg vinder?$"
 
 Route19_Text_AnyaDefeat::
     .string "Aa! Jeg tabte!$"
@@ -107,10 +107,10 @@ Route19_Text_ConnieDefeat::
     .string "Jeg er udmattet...$"
 
 Route19_Text_ConniePostBattle::
-    .string "Hvis jeg skulle ride pâ en POKéMON\n"
-    .string "pâ havet, ville jeg vælge LAPRAS.\p"
-    .string "LAPRAS er sâ stor, den holder\n"
-    .string "mig sikkert tør pâ vandet.$"
+    .string "Hvis jeg skulle ride på en POKéMON\n"
+    .string "på havet, ville jeg vælge LAPRAS.\p"
+    .string "LAPRAS er så stor, den holder\n"
+    .string "mig sikkert tør på vandet.$"
 
 Route19_Text_RouteSign::
     .string "HAVROUTE 19\n"
@@ -121,12 +121,12 @@ Route19_Text_LiaIntro::
     .string "Han er lige blevet TRAINER.$"
 
 Route19_Text_LiaDefeat::
-    .string "LIA: Sâdan behandler man ikke min\n"
+    .string "LIA: Sådan behandler man ikke min\n"
     .string "lillebror!$"
 
 Route19_Text_LiaPostBattle::
     .string "LIA: Har du en yngre bror?\p"
-    .string "Jeg hâber du lærer ham alt\n"
+    .string "Jeg håber du lærer ham alt\n"
     .string "muligt.$"
 
 Route19_Text_LiaNotEnoughMons::

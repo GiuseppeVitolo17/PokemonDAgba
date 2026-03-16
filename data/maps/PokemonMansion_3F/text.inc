@@ -15,7 +15,7 @@ PokemonMansion_1F_Text_SimonDefeat::
     .string "Ayah!$"
 
 PokemonMansion_1F_Text_SimonPostBattle::
-    .string "Jeg spekulerer pâ hvor min partner blev af.$"
+    .string "Jeg spekulerer på hvor min partner blev af.$"
 
 PokemonMansion_1F_Text_BraydonIntro::
     .string "Min mentor bøde engang her.$"
@@ -25,7 +25,7 @@ PokemonMansion_1F_Text_BraydonDefeat::
     .string "Overvældende!$"
 
 PokemonMansion_1F_Text_BraydonPostBattle::
-    .string "Sâ du er fast?\n"
+    .string "Så du er fast?\n"
     .string "Prøv at hoppe ned derovre!$"
 
 PokemonMansion_1F_Text_MewGaveBirthToMewtwo::

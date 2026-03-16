@@ -45,11 +45,11 @@ Route16_Text_CamronIntro::
     .string "Jeg har brug for en punchingsæk!$"
 
 Route16_Text_CamronDefeat::
-    .string "Dârligt, dârligt, dârligt!$"
+    .string "Dårligt, dårligt, dårligt!$"
 
 Route16_Text_CamronPostBattle::
     .string "Hvis jeg skal have POKéMON, kan de\n"
-    .string "lige sâ godt være vilde.\p"
+    .string "lige så godt være vilde.\p"
     .string "Jeg ville bruge dem til at efterlade\n"
     .string "mine fjender i stykker.$"
 
@@ -61,17 +61,17 @@ Route16_Text_RubenDefeat::
     .string "Gør mig ikke vred!$"
 
 Route16_Text_RubenPostBattle::
-    .string "Jeg fâr kicks af at chikanere folk\n"
+    .string "Jeg får kicks af at chikanere folk\n"
     .string "med mine stinkende POKéMON.\p"
     .string "De er gode til at skræmme folk.\n"
-    .string "Og de bider ogsâ.$"
+    .string "Og de bider også.$"
 
 Route16_Text_MonSprawledOutInSlumber::
     .string "En POKéMON ligger og sover dybt\n"
     .string "og behageligt.$"
 
 Route16_Text_CyclingRoadSign::
-    .string "Nyd skrâningen!\n"
+    .string "Nyd skråningen!\n"
     .string "CYKELVEJ$"
 
 Route16_Text_RouteSign::
@@ -84,11 +84,11 @@ Route16_Text_JedIntro::
 
 Route16_Text_JedDefeat::
     .string "JED: Aa, nej!\n"
-    .string "Min kærlighed sâ mig som taber!$"
+    .string "Min kærlighed så mig som taber!$"
 
 Route16_Text_JedPostBattle::
     .string "JED: Hor, LEA.\n"
-    .string "Du skal fokusere mindre pâ mig.$"
+    .string "Du skal fokusere mindre på mig.$"
 
 Route16_Text_JedNotEnoughMons::
     .string "JED: Du har kun en POKéMON?\n"
@@ -104,7 +104,7 @@ Route16_Text_LeaDefeat::
 
 Route16_Text_LeaPostBattle::
     .string "LEA: Ehehe, undskyld.\n"
-    .string "JED er sâ sej.$"
+    .string "JED er så sej.$"
 
 Route16_Text_LeaNotEnoughMons::
     .string "LEA: Aa, du har ikke to\n"

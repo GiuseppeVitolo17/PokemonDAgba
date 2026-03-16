@@ -37,7 +37,7 @@ Text_MimicTaughtMale::
     .string "{PLAYER}: Hej!\n"
     .string "Tak for tidligere!\p"
     .string "{PLAYER}: Undskyld?\p"
-    .string "{PLAYER}: Er det sâ sjovt at efterligne\n"
+    .string "{PLAYER}: Er det så sjovt at efterligne\n"
     .string "hver min bevægelse?\p"
     .string "COPYCAT: Ja da!\n"
     .string "Det er vanvittigt!$"
@@ -46,7 +46,7 @@ Text_MimicTaughtFemale::
     .string "{PLAYER}: Hej!\n"
     .string "Tak for hvad du gjorde for os.\p"
     .string "{PLAYER}: Undskyld?\p"
-    .string "{PLAYER}: Er det virkelig sâ sjovt at\n"
+    .string "{PLAYER}: Er det virkelig så sjovt at\n"
     .string "kopiere hvad jeg siger og gør?\p"
     .string "COPYCAT: Ja da!\n"
     .string "Det er vanvittigt!$"
@@ -89,7 +89,7 @@ SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
     .string "Et spil med MARIO med en spand\n"
-    .string "pâ hovedet!$"
+    .string "på hovedet!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
     .string "…\p"

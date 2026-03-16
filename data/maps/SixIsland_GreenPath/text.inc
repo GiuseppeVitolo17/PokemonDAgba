@@ -7,8 +7,8 @@ SixIsland_GreenPath_Text_JaclynDefeat::
     .string "Stor bølle!$"
 
 SixIsland_GreenPath_Text_JaclynPostBattle::
-    .string "Jeg er sâ forstrøt!\p"
-    .string "Jeg skal fokusere sâ jeg kan\n"
+    .string "Jeg er så forstrøt!\p"
+    .string "Jeg skal fokusere så jeg kan\n"
     .string "TELEPORTERE ordentligt til mit hus!$"
 
 SixIsland_GreenPath_Text_LeftRouteSign::

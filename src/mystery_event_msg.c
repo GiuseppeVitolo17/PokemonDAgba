@@ -2,7 +2,7 @@
 
 const u8 gText_MysteryGiftBerry[] = _("Fik et {STR_VAR_2} BERRY!\nFar har det i PETALBURG GYM.");
 const u8 gText_MysteryGiftBerryTransform[] = _("{STR_VAR_1} BERRY forvandledes til\net {STR_VAR_2} BERRY.");
-const u8 gText_MysteryGiftBerryObtained[] = _("{STR_VAR_1} BERRY er allerede\nfâet.");
+const u8 gText_MysteryGiftBerryObtained[] = _("{STR_VAR_1} BERRY er allerede\nfået.");
 const u8 gText_MysteryGiftSpecialRibbon[] = _("Et særligt BAND blev tildelt\ndine hold-POKéMON.");
 const u8 gText_MysteryGiftNationalDex[] = _("POKéDEX er opgraderet\nmed NATIONAL MODE.");
 const u8 gText_MysteryGiftRareWord[] = _("Et sjældent ord er tilføjet.");

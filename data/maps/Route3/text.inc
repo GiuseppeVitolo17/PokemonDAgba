@@ -1,5 +1,5 @@
 Route3_Text_TunnelFromCeruleanTiring::
-    .string "Puha… Jeg mâ tage en pause…\n"
+    .string "Puha… Jeg må tage en pause…\n"
     .string "Støn…\p"
     .string "Tunnelen fra CERULEAN tager alt\n"
     .string "energien fra en!$"
@@ -19,10 +19,10 @@ Route3_Text_BenIntro::
     .string "Hej!\n"
     .string "Jeg kan lide shorts!\p"
     .string "De er dejligt behagelige og\n"
-    .string "lette at have pâ!$"
+    .string "lette at have på!$"
 
 Route3_Text_BenDefeat::
-    .string "Det trør jeg ikke pâ!$"
+    .string "Det trør jeg ikke på!$"
 
 Route3_Text_BenPostBattle::
     .string "Bruger du et POKéMON CENTERs PC\n"
@@ -32,7 +32,7 @@ Route3_Text_BenPostBattle::
 
 Route3_Text_JaniceIntro::
     .string "Undskyld!\n"
-    .string "Du kiggede pâ mig, gjorde du ikke?$"
+    .string "Du kiggede på mig, gjorde du ikke?$"
 
 Route3_Text_JaniceDefeat::
     .string "Du er ond!$"
@@ -50,22 +50,22 @@ Route3_Text_GregDefeat::
     .string "jeg vundet!$"
 
 Route3_Text_GregPostBattle::
-    .string "Hvis en POKéMON BOX pâ PC'en\n"
+    .string "Hvis en POKéMON BOX på PC'en\n"
     .string "bliver fuld, skift bare til en anden BOX.$"
 
 Route3_Text_SallyIntro::
     .string "Det blik du gav mig…\n"
-    .string "Det er sâa spændende!$"
+    .string "Det er såa spændende!$"
 
 Route3_Text_SallyDefeat::
     .string "Vær sød!$"
 
 Route3_Text_SallyPostBattle::
-    .string "Du kan undgâ kampe ved ikke at\n"
+    .string "Du kan undgå kampe ved ikke at\n"
     .string "lade TRAINERs se dig.$"
 
 Route3_Text_CalvinIntro::
-    .string "Hey! Du har ikke shorts pâ!\n"
+    .string "Hey! Du har ikke shorts på!\n"
     .string "Hvad er der galt med dig?$"
 
 Route3_Text_CalvinDefeat::
@@ -73,7 +73,7 @@ Route3_Text_CalvinDefeat::
     .string "Tabt! Tabt!$"
 
 Route3_Text_CalvinPostBattle::
-    .string "Jeg har altid shorts pâ, selv om\n"
+    .string "Jeg har altid shorts på, selv om\n"
     .string "vinteren. Det er min politik.$"
 
 Route3_Text_JamesIntro::

@@ -7,7 +7,7 @@ Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
     .string "TEAM ROCKET angriber CERULEAN-\n"
     .string "borgere…\p"
-    .string "Der gâr ikke en dag uden TEAM\n"
+    .string "Der går ikke en dag uden TEAM\n"
     .string "ROCKET er i nyhederne.$"
 
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
@@ -15,14 +15,14 @@ Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
     .string "Har jeg et tilbud til dig!\p"
     .string "Jeg giver dig en hemmelig POKéMON\n"
     .string "- en MAGIKARP - for kun ¥500!\p"
-    .string "Sâ du køber den, ikke?$"
+    .string "Så du køber den, ikke?$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
     .string "MAND: Hej der, skat!\n"
     .string "Har jeg et tilbud til dig!\p"
     .string "Jeg giver dig en hemmelig POKéMON\n"
     .string "- en MAGIKARP - for kun ¥500!\p"
-    .string "Sâ du køber den, ikke?$"
+    .string "Så du køber den, ikke?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
     .string "{PLAYER} betalte ublu ¥500\n"
@@ -46,8 +46,8 @@ Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
     .string "Nogle gange har du for mange\n"
     .string "POKéMON med dig til at tilføje flere.\p"
-    .string "I sâ fald bør du bare gemme nogle\n"
-    .string "pâ en PC.$"
+    .string "I så fald bør du bare gemme nogle\n"
+    .string "på en PC.$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::
     .string "Det er en avis.$"

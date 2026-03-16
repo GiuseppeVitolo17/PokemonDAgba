@@ -18,7 +18,7 @@ FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
     .string "fra betjenten.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
-    .string "Vi kalder dig pâ højtaleren nâr du\n"
+    .string "Vi kalder dig på højtaleren når du\n"
     .string "løber tør for tid eller SAFARI BALLS.\p"
     .string "Jeg ønsker dig held og lykke!$"
 
@@ -53,10 +53,10 @@ FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
     .string "SAFARI ZONE har faktisk fire\n"
     .string "zoner.\p"
     .string "Hver zone har forskellige POKéMON,\n"
-    .string "ogsâ nogle sjælde.\p"
+    .string "også nogle sjælde.\p"
     .string "Brug de udleverede SAFARI BALLS\n"
     .string "til at fange dem.\p"
-    .string "Du kan ogsâ kaste BAIT eller\n"
+    .string "Du kan også kaste BAIT eller\n"
     .string "STEN udover SAFARI BALLS.\p"
     .string "Kaster du BAIT, bliver POKéMON\n"
     .string "mindre tilbøjelig til at flygte, men\l"
@@ -64,7 +64,7 @@ FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
     .string "Kaster du STEN, bliver POKéMON\n"
     .string "mere tilbøjelig til at flygte, men\l"
     .string "lettere at fange.\p"
-    .string "Nâr du løber tør for tid eller\n"
+    .string "Når du løber tør for tid eller\n"
     .string "SAFARI BALLS, er spillet slut!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::

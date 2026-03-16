@@ -11,7 +11,7 @@ Route13_Text_SebastianPostBattle::
     .string "de tabte.$"
 
 Route13_Text_SusieIntro::
-    .string "Jeg har fâet at vide at jeg er god\n"
+    .string "Jeg har fået at vide at jeg er god\n"
     .string "til et barn.$"
 
 Route13_Text_SusieDefeat::
@@ -20,7 +20,7 @@ Route13_Text_SusieDefeat::
 
 Route13_Text_SusiePostBattle::
     .string "Jeg vil blive en god TRAINER.\n"
-    .string "Jeg træner hârdt, bare se.$"
+    .string "Jeg træner hårdt, bare se.$"
 
 Route13_Text_ValerieIntro::
     .string "Wow!\n"
@@ -38,7 +38,7 @@ Route13_Text_GwenIntro::
     .string "dig at kende.$"
 
 Route13_Text_GwenDefeat::
-    .string "Godt gâet!\n"
+    .string "Godt gået!\n"
     .string "Du vandt totalt!$"
 
 Route13_Text_GwenPostBattle::
@@ -50,7 +50,7 @@ Route13_Text_AlmaIntro::
     .string "da jeg udforskede huler.$"
 
 Route13_Text_AlmaDefeat::
-    .string "Aa, for dârligt!\n"
+    .string "Aa, for dårligt!\n"
     .string "Jeg rodede det bare til!$"
 
 Route13_Text_AlmaPostBattle::
@@ -59,13 +59,13 @@ Route13_Text_AlmaPostBattle::
 
 Route13_Text_PerryIntro::
     .string "Jeg tænker ikke at tabe.\n"
-    .string "Ikke nâr vinden blæser min vej!$"
+    .string "Ikke når vinden blæser min vej!$"
 
 Route13_Text_PerryDefeat::
     .string "Vinden vendte!$"
 
 Route13_Text_PerryPostBattle::
-    .string "Jeg er slâet.\n"
+    .string "Jeg er slået.\n"
     .string "Jeg flyver hjem, tror jeg.$"
 
 Route13_Text_LolaIntro::
@@ -77,7 +77,7 @@ Route13_Text_LolaDefeat::
     .string "Dit lille uhyre!$"
 
 Route13_Text_LolaPostBattle::
-    .string "Jeg spekulerer pâ hvem der er\n"
+    .string "Jeg spekulerer på hvem der er\n"
     .string "stærkest, han eller hun POKéMON?$"
 
 Route13_Text_SheilaIntro::
@@ -94,11 +94,11 @@ Route13_Text_SheilaPostBattle::
     .string "for deres udseende!$"
 
 Route13_Text_JaredIntro::
-    .string "Hvad glor du pâ?$"
+    .string "Hvad glor du på?$"
 
 Route13_Text_JaredDefeat::
     .string "Pokker!\n"
-    .string "Gâr i stâ!$"
+    .string "Går i stå!$"
 
 Route13_Text_JaredPostBattle::
     .string "Forsvind!$"

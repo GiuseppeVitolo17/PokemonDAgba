@@ -76,7 +76,7 @@ SilphCo_7F_Text_JoshuaDefeat::
     .string "Jeg er færdig!$"
 
 SilphCo_7F_Text_JoshuaPostBattle::
-    .string "Pâ trods af din alder er du en\n"
+    .string "På trods af din alder er du en\n"
     .string "dygtig TRAINER!$"
 
 SilphCo_7F_Text_Grunt1Intro::
@@ -93,7 +93,7 @@ SilphCo_7F_Text_Grunt1PostBattle::
 
 SilphCo_7F_Text_Grunt2Intro::
     .string "Et barn som indtrænger?\n"
-    .string "Det mâ være dig!$"
+    .string "Det må være dig!$"
 
 SilphCo_7F_Text_Grunt2Defeat::
     .string "Fint!\n"
@@ -104,19 +104,19 @@ SilphCo_7F_Text_Grunt2PostBattle::
     .string "sur!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
-    .string "{RIVAL}: Hvad tog sâ længe, {PLAYER}?$"
+    .string "{RIVAL}: Hvad tog så længe, {PLAYER}?$"
 
 SilphCo_7F_Text_RivalIntro::
     .string "{RIVAL}: Hahaha! Jeg trøde du ville\n"
     .string "dukke op hvis jeg ventede her!\p"
-    .string "Jeg gætter pâ at TEAM ROCKET\n"
+    .string "Jeg gætter på at TEAM ROCKET\n"
     .string "langsommede dig! Det er mig ligegyldigt!\p"
-    .string "Jeg sa dig i SAFFRON, sâ jeg besluttede\n"
+    .string "Jeg sa dig i SAFFRON, så jeg besluttede\n"
     .string "at se om du var blevet bedre!$"
 
 SilphCo_7F_Text_RivalDefeat::
     .string "Oh man!\n"
-    .string "Sâ du er klar til BOSS\l"
+    .string "Så du er klar til BOSS\l"
     .string "ROCKET!$"
 
 SilphCo_7F_Text_RivalVictory::
@@ -126,7 +126,7 @@ SilphCo_7F_Text_RivalVictory::
     .string "いちにんまえ　とは　いえないぜ$"
 
 SilphCo_7F_Text_RivalPostBattle::
-    .string "Nâ, {PLAYER}!\n"
+    .string "Nå, {PLAYER}!\n"
     .string "Jeg rykker fremad og op!\p"
     .string "Ved at tjekke min POKéDEX kan jeg\n"
     .string "begynde at se hvad der er stærkt og\l"
@@ -136,7 +136,7 @@ SilphCo_7F_Text_RivalPostBattle::
     .string "smide ELITE FOUR ud.\p"
     .string "Jeg bliver verdens mest\n"
     .string "kraftfulde TRAINER!\p"
-    .string "{PLAYER}, nâ, held og lykke!\n"
+    .string "{PLAYER}, nå, held og lykke!\n"
     .string "Bare rolig!\l"
     .string "Snus til dig!$"
 

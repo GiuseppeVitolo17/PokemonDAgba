@@ -12,14 +12,14 @@ Route25_Text_JoeyPostBattle::
     .string "POKéMON af forskellige typer.$"
 
 Route25_Text_DanIntro::
-    .string "Far tog mig med til en fest pâ\n"
+    .string "Far tog mig med til en fest på\n"
     .string "S.S. ANNE i VERMILION CITY.$"
 
 Route25_Text_DanDefeat::
     .string "Jeg er ikke vred!$"
 
 Route25_Text_DanPostBattle::
-    .string "Pâ S.S. ANNE sâ jeg TRAINERS\n"
+    .string "På S.S. ANNE så jeg TRAINERS\n"
     .string "fra hele verden.$"
 
 Route25_Text_FlintIntro::
@@ -30,7 +30,7 @@ Route25_Text_FlintDefeat::
     .string "Aa, pokker...$"
 
 Route25_Text_FlintPostBattle::
-    .string "Aâ, ja.\n"
+    .string "Aå, ja.\n"
     .string "Min kæreste opmuntrer mig.$"
 
 Route25_Text_KelseyIntro::
@@ -42,14 +42,14 @@ Route25_Text_KelseyDefeat::
 
 Route25_Text_KelseyPostBattle::
     .string "Jeg ville ønske min kæreste var\n"
-    .string "sâ god som dig.$"
+    .string "så god som dig.$"
 
 Route25_Text_ChadIntro::
     .string "Jeg havde en fornemmelse...\n"
-    .string "Jeg vidste jeg mâtte kæmpe dig!$"
+    .string "Jeg vidste jeg måtte kæmpe dig!$"
 
 Route25_Text_ChadDefeat::
-    .string "Jeg vidste ogsâ jeg ville tabe!$"
+    .string "Jeg vidste også jeg ville tabe!$"
 
 Route25_Text_ChadPostBattle::
     .string "Hvis din POKéMON bliver forvirret,\n"
@@ -58,29 +58,29 @@ Route25_Text_ChadPostBattle::
 
 Route25_Text_HaleyIntro::
     .string "Min veninde har mange søde POKéMON.\n"
-    .string "Jeg er sâ misundelig!$"
+    .string "Jeg er så misundelig!$"
 
 Route25_Text_HaleyDefeat::
-    .string "Jeg er ikke sâ misundelig!$"
+    .string "Jeg er ikke så misundelig!$"
 
 Route25_Text_HaleyPostBattle::
     .string "Kom du fra MT. MOON?\n"
-    .string "Ma jeg fâ en CLEFAIRY?$"
+    .string "Ma jeg få en CLEFAIRY?$"
 
 Route25_Text_FranklinIntro::
     .string "Jeg kom lige ned fra MT. MOON,\n"
     .string "men jeg har stadig energi!$"
 
 Route25_Text_FranklinDefeat::
-    .string "Du arbejdede hârdt!$"
+    .string "Du arbejdede hårdt!$"
 
 Route25_Text_FranklinPostBattle::
     .string "Pokker!\n"
     .string "En ZUBAT bed mig i grotten.$"
 
 Route25_Text_NobIntro::
-    .string "Jeg er pâ vej for at se en\n"
-    .string "POKeMANIACs samling pâ odden.$"
+    .string "Jeg er på vej for at se en\n"
+    .string "POKeMANIACs samling på odden.$"
 
 Route25_Text_NobDefeat::
     .string "Du fik mig, og rigtig godt!$"
@@ -109,9 +109,9 @@ Route25_Text_SeaCottageSign::
 Route25_Text_MistyHighHopesAboutThisPlace::
     .string "Denne odde er et kendt stævnemødested.\p"
     .string "MISTY, GYM LEADER, har store\n"
-    .string "forhâbninger til dette sted.$"
+    .string "forhåbninger til dette sted.$"
 
 Route25_Text_AreYouHereAlone::
     .string "Hej, er du her alene?\p"
-    .string "Hvis du er ude pâ CERULEANs odde...\n"
-    .string "Ja, sâ burde det være som par.$"
+    .string "Hvis du er ude på CERULEANs odde...\n"
+    .string "Ja, så burde det være som par.$"

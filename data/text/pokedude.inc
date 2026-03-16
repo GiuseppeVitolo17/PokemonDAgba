@@ -12,10 +12,10 @@ Pokedude_Text_BattlersTakeTurnsAttacking::
 
 Pokedude_Text_MyRattataWonGetsEXP::
 	.string "Min RATTATA bragte modstanderens HP\n"
-	.string "ned pâ nul, sâ den vandt!\p"
+	.string "ned på nul, så den vandt!\p"
 	.string "POKéMON'en der deltog i kampen\n"
-	.string "fâr EXP.-point.\p"
-	.string "Nâr en POKéMON har samlet nok\n"
+	.string "får EXP.-point.\p"
+	.string "Når en POKéMON har samlet nok\n"
 	.string "EXP.-point, stiger den i niveau.\p"
 	.string "Niveaustigning gør din POKéMON\n"
 	.string "stærkere end før.$"
@@ -27,17 +27,17 @@ Pokedude_Text_UhOhRattataPoisoned::
 	.string "den HP jævnligt.$"
 
 Pokedude_Text_HealStatusRightAway::
-	.string "Hvis en POKéMON fâr et status-\n"
+	.string "Hvis en POKéMON får et status-\n"
 	.string "problem, helbred det med det samme.$"
 
 Pokedude_Text_UsingItemTakesTurn::
-	.string "At bruge et objekt pâ en POKéMON\n"
+	.string "At bruge et objekt på en POKéMON\n"
 	.string "bruger en tur, dog.\p"
 	.string "Nu er det modstanderens tur!$"
 
 Pokedude_Text_YayWeManagedToWin::
 	.string "Juhuu!\n"
-	.string "Vi formâede at vinde!$"
+	.string "Vi formåede at vinde!$"
 
 Pokedude_Text_WaterNotVeryEffectiveAgainstGrass::
 	.string "POKe DUDE: Truslen BUBBLE er\n"
@@ -52,10 +52,10 @@ Pokedude_Text_WaterNotVeryEffectiveAgainstGrass::
 
 Pokedude_Text_GrassEffectiveAgainstWater::
 	.string "Uha, det er ikke godt!\p"
-	.string "ABSORB-angrebet du lige sâ\n"
+	.string "ABSORB-angrebet du lige så\n"
 	.string "er en GRÆS-type trusel.\p"
 	.string "POLIWAG er en VAND-type POKéMON.\p"
-	.string "Sâ ABSORB bliver super effektiv\n"
+	.string "Så ABSORB bliver super effektiv\n"
 	.string "og fordobler skaden.$"
 
 Pokedude_Text_LetsTryShiftingMons::
@@ -73,10 +73,10 @@ Pokedude_Text_ButterfreeDoubleResistsGrass::
 	.string "POKéMON.\p"
 	.string "Mod denne POKéMON gør et GRÆS-\n"
 	.string "type angreb…\p"
-	.string "…kun halvt skade pâ BUG-type\n"
+	.string "…kun halvt skade på BUG-type\n"
 	.string "POKéMON…\p"
-	.string "…Og det gør ogsâ kun halvt\n"
-	.string "skade pâ FLYING-type POKéMON.\p"
+	.string "…Og det gør også kun halvt\n"
+	.string "skade på FLYING-type POKéMON.\p"
 	.string "Derfor tager BUTTERFREE, som er\n"
 	.string "BUG/FLYING POKéMON, kun en fjerdedel\l"
 	.string "af den sædvanlige skade.$"
@@ -88,14 +88,14 @@ Pokedude_Text_ButterfreeGoodAgainstOddish::
 	.string "angreb er super effektivt mod den.\p"
 	.string "Et af disse angreb vil gøre\n"
 	.string "dobbelt sædvanlig skade.\p"
-	.string "Okay, sâ gâr vi!$"
+	.string "Okay, så går vi!$"
 
 Pokedude_Text_YeahWeWon::
 	.string "Ja!\n"
 	.string "Vi vandt!$"
 
 Pokedude_Text_WeakenMonBeforeCatching::
-	.string "POKe DUDE: Nâr du prøver at\n"
+	.string "POKe DUDE: Når du prøver at\n"
 	.string "fange en POKéMON, kast ikke\l"
 	.string "POKe BALLS med det samme.\p"
 	.string "Først skal du svække den ved\n"
@@ -104,7 +104,7 @@ Pokedude_Text_WeakenMonBeforeCatching::
 Pokedude_Text_BestIfTargetStatused::
 	.string "Okay, det burde være nok.\p"
 	.string "Men hvis det er muligt, er det\n"
-	.string "bedst hvis mâlet har et status-\l"
+	.string "bedst hvis målet har et status-\l"
 	.string "problem.\p"
 	.string "For eksempel ville det være\n"
 	.string "nemmere at fange hvis den var\l"
@@ -114,10 +114,10 @@ Pokedude_Text_CantDoubleUpOnStatus::
 	.string "Det gør POKéMON'en meget\n"
 	.string "nemmere at fange!\p"
 	.string "Oh ja. Hvis du lammer en\n"
-	.string "POKéMON kan du ikke fâ den til at\l"
-	.string "sove oven pâ lamhed.\p"
+	.string "POKéMON kan du ikke få den til at\l"
+	.string "sove oven på lamhed.\p"
 	.string "Med andre ord kan du ikke lægge\n"
-	.string "to statusproblemer oven pâ hinanden.$"
+	.string "to statusproblemer oven på hinanden.$"
 
 Pokedude_Text_LetMeThrowBall::
 	.string "Okay!\n"

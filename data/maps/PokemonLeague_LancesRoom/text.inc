@@ -10,13 +10,13 @@ PokemonLeague_LancesRoom_Text_Intro::
     .string "men deres kræfter er overlegne.\p"
     .string "De er næsten uødelige.\n"
     .string "Man kan ikke være klog med dem.\p"
-    .string "Nâ, er du klar til at tabe?\p"
+    .string "Nå, er du klar til at tabe?\p"
     .string "Din LEAGUE udfordring ender med\n"
     .string "mig, {PLAYER}!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LancesRoom_Text_RematchIntro::
     .string "Ah!\n"
-    .string "Sâ du er tilbage, {PLAYER}!\p"
+    .string "Så du er tilbage, {PLAYER}!\p"
     .string "Jeg leder ELITE FOUR.\p"
     .string "Du kan kalde mig LANCE dragen\n"
     .string "TRÆNER.\p"
@@ -26,7 +26,7 @@ PokemonLeague_LancesRoom_Text_RematchIntro::
     .string "men deres kræfter er overlegne.\p"
     .string "De er næsten uødelige.\n"
     .string "Man kan ikke være klog med dem.\p"
-    .string "Nâ, er du klar til at tabe?\p"
+    .string "Nå, er du klar til at tabe?\p"
     .string "Din LEAGUE udfordring ender med\n"
     .string "mig, {PLAYER}!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 

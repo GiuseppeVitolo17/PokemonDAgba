@@ -1,15 +1,15 @@
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
     .string "LORELEI: Der er noget der tynger\n"
-    .string "meget pâ mit sind.\p"
-    .string "Hvis der skete noget pâ øen hvor\n"
+    .string "meget på mit sind.\p"
+    .string "Hvis der skete noget på øen hvor\n"
     .string "jeg er født…\p"
     .string "Ville jeg ikke vide det hvis jeg var\n"
     .string "i POKéMON LEAGUE.\p"
-    .string "Jeg spekulerer pâ om det ville\n"
+    .string "Jeg spekulerer på om det ville\n"
     .string "gøre mig uansvarlig over for mit hjem…$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
-    .string "LORELEI: Sâ du løste alle\n"
+    .string "LORELEI: Så du løste alle\n"
     .string "problemerne her?\p"
     .string "Det er vidunderligt.\p"
     .string "Det betyder der ikke er nogen grund\n"

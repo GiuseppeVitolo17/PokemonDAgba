@@ -2,25 +2,25 @@ CeruleanCity_Gym_Text_MistyIntro::
     .string "Hej, du er et nyt ansigt!\p"
     .string "Kun TRAINERS der har en politik om\n"
     .string "POKéMON kan blive professionelle.\p"
-    .string "Hvad er din tilgang nâr du\n"
+    .string "Hvad er din tilgang når du\n"
     .string "fanger og træner POKéMON?\p"
     .string "Min politik er et totalt angreb\n"
     .string "med WATER-type POKéMON!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
     .string "TM03 lærer WATER PULSE.\p"
-    .string "Brug det pâ en vand-POKéMON!$"
+    .string "Brug det på en vand-POKéMON!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-    .string "CASCADEBADGE fâr alle POKéMON\n"
+    .string "CASCADEBADGE får alle POKéMON\n"
     .string "op til Lv. 30 til at adlyde.\p"
     .string "Det inkluderer endda dem du\n"
     .string "fik ved bytte.\p"
     .string "Der er mere. Du kan nu bruge CUT\n"
-    .string "nâr som helst, endda uden kamp.\p"
-    .string "Du kan CUTte smâ træer ned for at\n"
-    .string "âbne nye stier.\p"
-    .string "Du kan ogsâ fâ min yndlings-TM.$"
+    .string "når som helst, endda uden kamp.\p"
+    .string "Du kan CUTte små træer ned for at\n"
+    .string "åbne nye stier.\p"
+    .string "Du kan også få min yndlings-TM.$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
     .string "{PLAYER} modtog TM03\n"
@@ -33,7 +33,7 @@ CeruleanCity_Gym_Text_MistyDefeat::
     .string "Wow!\n"
     .string "Du er for stærk!\p"
     .string "Okay!\p"
-    .string "Du kan fâ CASCADEBADGE for at\n"
+    .string "Du kan få CASCADEBADGE for at\n"
     .string "vise at du slog mig.$"
 
 CeruleanCity_Gym_Text_DianaIntro::
@@ -45,7 +45,7 @@ CeruleanCity_Gym_Text_DianaDefeat::
     .string "Du overvældede mig!$"
 
 CeruleanCity_Gym_Text_DianaPostBattle::
-    .string "Du mâ møde andre TRAINERS\n"
+    .string "Du må møde andre TRAINERS\n"
     .string "for at se hvor gode du virkelig er.$"
 
 CeruleanCity_Gym_Text_LuisIntro::
@@ -64,7 +64,7 @@ CeruleanCity_Gym_Text_LuisPostBattle::
 CeruleanCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
     .string "Champion i blive!\p"
-    .string "Lad mig give dig et râd!\p"
+    .string "Lad mig give dig et råd!\p"
     .string "LEADERen, MISTY, er en pro der\n"
     .string "bruger WATER-type POKéMON.\p"
     .string "Du kan dæne alt deres vand med\n"

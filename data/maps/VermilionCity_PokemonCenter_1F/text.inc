@@ -1,5 +1,5 @@
 VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild::
-    .string "Selv pâ samme niveau kan\n"
+    .string "Selv på samme niveau kan\n"
     .string "POKéMON have meget forskellige\l"
     .string "statistikker og evner.\p"
     .string "En POKéMON opfostret af en TRÆNER er\n"
@@ -10,21 +10,21 @@ VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
     .string "Den besvimede mens vi gik!$"
 
 VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
-    .string "Det er sandt at en POKéMON pâ højere\n"
+    .string "Det er sandt at en POKéMON på højere\n"
     .string "niveau vil være kraftigere…\p"
     .string "Men alle POKéMON har svagheder\n"
     .string "mod bestemte typer.\p"
-    .string "Sâ der ser ikke ud til at være nogen\n"
+    .string "Så der ser ikke ud til at være nogen\n"
     .string "universelt stærk POKéMON.$"
 
 VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain::
     .string "Trangen til at kæmpe med en du\n"
     .string "har mødt før…\p"
     .string "Har du nogensinde haft den trang?\n"
-    .string "Det er jeg sikker pâ du har.\p"
-    .string "Jeg ville ogsâ kæmpe mod visse\n"
+    .string "Det er jeg sikker på du har.\p"
+    .string "Jeg ville også kæmpe mod visse\n"
     .string "mennesker igen og igen.\p"
-    .string "Sâ jeg har givet disse væk.\n"
+    .string "Så jeg har givet disse væk.\n"
     .string "Tag venligst en!$"
 
 VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
@@ -41,4 +41,4 @@ VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
     .string "Hvis en TRÆNER vil have revanche,\n"
     .string "giver den dig besked med det samme.\p"
     .string "Lad batteriet op og brug den\n"
-    .string "nâr du er pâ vej.$"
+    .string "når du er på vej.$"

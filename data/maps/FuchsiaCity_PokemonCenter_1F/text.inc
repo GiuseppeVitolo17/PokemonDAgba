@@ -7,11 +7,11 @@ FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon::
 FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian::
     .string "Der er en smal sti vest for\n"
     .string "VIRIDIAN CITY.\p"
-    .string "Den gâr til POKéMON LEAGUE HQ.\n"
+    .string "Den går til POKéMON LEAGUE HQ.\n"
     .string "HQ styrer alle TRAINERs.$"
 
 FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedex::
-    .string "Hvis du arbejder pâ en POKéDEX,\n"
+    .string "Hvis du arbejder på en POKéDEX,\n"
     .string "besøg SAFARI ZONE.\p"
     .string "Alle mulige sjælde POKéMON\n"
     .string "yngler der.$"

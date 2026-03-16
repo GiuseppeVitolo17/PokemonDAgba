@@ -11,7 +11,7 @@ Route11_Text_HugoPostBattle::
 
 Route11_Text_JasperIntro::
     .string "Konkurrence!\n"
-    .string "Jeg fâr ikke nok!$"
+    .string "Jeg får ikke nok!$"
 
 Route11_Text_JasperDefeat::
     .string "Jeg havde en chance!$"
@@ -67,7 +67,7 @@ Route11_Text_DarianIntro::
     .string "Jeg har aldrig vundet før…$"
 
 Route11_Text_DarianDefeat::
-    .string "Jeg sâ det komme…$"
+    .string "Jeg så det komme…$"
 
 Route11_Text_DarianPostBattle::
     .string "Jeg var uheldig, som altid.$"
@@ -83,18 +83,18 @@ Route11_Text_YasuDefeat::
 Route11_Text_YasuPostBattle::
     .string "Der er en fed POKéMON der kommer\n"
     .string "ned fra bjergene.\p"
-    .string "Jeg vedder pâ den er stærk, hvis\n"
+    .string "Jeg vedder på den er stærk, hvis\n"
     .string "du kan fange den.$"
 
 Route11_Text_BernieIntro::
-    .string "Pas pâ de levende ledninger!$"
+    .string "Pas på de levende ledninger!$"
 
 Route11_Text_BernieDefeat::
     .string "Whoa!\n"
     .string "Du gnistplade!$"
 
 Route11_Text_BerniePostBattle::
-    .string "Nu mâ jeg tilbage til arbejdet.$"
+    .string "Nu må jeg tilbage til arbejdet.$"
 
 Route11_Text_DaveIntro::
     .string "Jeg har opdraget mine POKéMON\n"
@@ -106,7 +106,7 @@ Route11_Text_DaveDefeat::
 
 Route11_Text_DavePostBattle::
     .string "Tch…\n"
-    .string "Jeg mâ finde stærkere!$"
+    .string "Jeg må finde stærkere!$"
 
 Route11_Text_DiglettsCave::
     .string "DIGLETT'S CAVE$"

@@ -12,27 +12,27 @@ Route9_Text_AliciaPostBattle::
     .string "komme igennem.$"
 
 Route9_Text_ChrisIntro::
-    .string "Hvem er det der gâr med sâdanne\n"
+    .string "Hvem er det der går med sådanne\n"
     .string "flotte POKéMON?$"
 
 Route9_Text_ChrisDefeat::
     .string "Ude som et lys!$"
 
 Route9_Text_ChrisPostBattle::
-    .string "Bliv ved at gâ!$"
+    .string "Bliv ved at gå!$"
 
 Route9_Text_DrewIntro::
     .string "Jeg tager ROCK TUNNEL for at\n"
     .string "komme til LAVENDER…$"
 
 Route9_Text_DrewDefeat::
-    .string "Kan ikke mâle mig…$"
+    .string "Kan ikke måle mig…$"
 
 Route9_Text_DrewPostBattle::
-    .string "Skal du ogsâ til ROCK TUNNEL?$"
+    .string "Skal du også til ROCK TUNNEL?$"
 
 Route9_Text_CaitlinIntro::
-    .string "Du mâ ikke tale ned til mig!$"
+    .string "Du må ikke tale ned til mig!$"
 
 Route9_Text_CaitlinDefeat::
     .string "Nej!\n"
@@ -53,18 +53,18 @@ Route9_Text_JeremyDefeat::
 
 Route9_Text_JeremyPostBattle::
     .string "Du havde virkelig mod til at\n"
-    .string "stâ op mod mig, eh?$"
+    .string "stå op mod mig, eh?$"
 
 Route9_Text_BriceIntro::
     .string "Hahaha!\n"
-    .string "Er du ikke en lille hârdnakket en!$"
+    .string "Er du ikke en lille hårdnakket en!$"
 
 Route9_Text_BriceDefeat::
     .string "Hvad var det?$"
 
 Route9_Text_BricePostBattle::
     .string "Hahaha!\n"
-    .string "Børn bør være hârdnakkede!$"
+    .string "Børn bør være hårdnakkede!$"
 
 Route9_Text_BrentIntro::
     .string "Jeg stod op tidligt hver dag for at\n"
@@ -75,7 +75,7 @@ Route9_Text_BrentDefeat::
     .string "Sikke et spild af tid!$"
 
 Route9_Text_BrentPostBattle::
-    .string "Jeg mâ samle mere end insekter\n"
+    .string "Jeg må samle mere end insekter\n"
     .string "for at blive stærkere…$"
 
 Route9_Text_AlanIntro::

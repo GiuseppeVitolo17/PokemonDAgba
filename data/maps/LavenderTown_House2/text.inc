@@ -17,7 +17,7 @@ LavenderTown_House2_Text_GiveItANicerName::
 
 LavenderTown_House2_Text_WhatShallNewNicknameBe::
     .string "Ah, godt. Hvad skal det nye\n"
-    .string "kaldenavn sâ være?$"
+    .string "kaldenavn så være?$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
     .string "Færdig! Fra nu af skal denne\n"
@@ -26,7 +26,7 @@ LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
     .string "Heldigt for dig!$"
 
 LavenderTown_House2_Text_ISeeComeVisitAgain::
-    .string "Jeg forstâr.\n"
+    .string "Jeg forstår.\n"
     .string "Kom igen.$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
@@ -39,7 +39,7 @@ LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
 LavenderTown_House2_Text_TrulyImpeccableName::
     .string "{STR_VAR_1}, ikke?\n"
     .string "Det er et virkelig ufejlbarligt navn!\p"
-    .string "Pas godt pâ {STR_VAR_1}!$"
+    .string "Pas godt på {STR_VAR_1}!$"
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
     .string "Nej, nej.\n"

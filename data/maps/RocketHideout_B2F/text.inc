@@ -8,4 +8,4 @@ RocketHideout_B2F_Text_GruntDefeat::
 RocketHideout_B2F_Text_GruntPostBattle::
     .string "TEAM ROCKET HQ har fire\n"
     .string "underjordiske etager.\p"
-    .string "Tror du du kan nâ BOSS?$"
+    .string "Tror du du kan nå BOSS?$"

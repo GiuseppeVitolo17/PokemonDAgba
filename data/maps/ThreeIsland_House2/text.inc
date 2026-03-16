@@ -1,9 +1,9 @@
 ThreeIsland_House2_Text_CantMakeThisSpoonBend::
     .string "Urrrrrrrrgggghhhh…\n"
-    .string "Kwââah!\p"
-    .string "…Det er nytteløst! Jeg kan ikke fâ\n"
+    .string "Kwååah!\p"
+    .string "…Det er nytteløst! Jeg kan ikke få\n"
     .string "denne ske til at bøje med mit sind.\p"
-    .string "Mâske har jeg virkelig ikke nogen\n"
+    .string "Måske har jeg virkelig ikke nogen\n"
     .string "psykiske kræfter.$"
 
 ThreeIsland_House2_Text_IAdmireSabrina::
@@ -13,5 +13,5 @@ ThreeIsland_House2_Text_IAdmireSabrina::
     .string "ikke?\p"
     .string "Jeg beundrer hende, virkelig.\p"
     .string "Jeg har hørt at hun er cool\n"
-    .string "og smuk ogsâ.$"
+    .string "og smuk også.$"
 

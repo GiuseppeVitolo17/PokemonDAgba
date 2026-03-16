@@ -10,7 +10,7 @@ CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
     .string "Yay!\p"
     .string "FRESH WATER!\p"
     .string "Tak!\n"
-    .string "Du mâ fâ dette fra mig!$"
+    .string "Du må få dette fra mig!$"
 
 Text_ReceivedItemFromLittleGirl::
     .string "{PLAYER} modtog en {STR_VAR_2}\n"
@@ -25,7 +25,7 @@ CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
     .string "Yay!\p"
     .string "SODA POP!\p"
     .string "Tak!\n"
-    .string "Du mâ fâ dette fra mig!$"
+    .string "Du må få dette fra mig!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
     .string "TM20 indeholder SAFEGUARD.\p"
@@ -36,7 +36,7 @@ CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
     .string "Yay!\p"
     .string "LEMONADE!\p"
     .string "Tak!\n"
-    .string "Du mâ fâ dette fra mig!$"
+    .string "Du må få dette fra mig!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
     .string "TM33 indeholder REFLECT.\p"
@@ -52,7 +52,7 @@ CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
     .string "Min søster er TRAINER, tro det eller ej.\p"
-    .string "Men hun er sâ umoden, hun driver\n"
+    .string "Men hun er så umoden, hun driver\n"
     .string "mig til vanvid!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
@@ -71,7 +71,7 @@ CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney::
     .string "Ups, ikke nok penge!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOut::
-    .string "En dâse {STR_VAR_1} poppet ud!$"
+    .string "En dåse {STR_VAR_1} poppet ud!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff::
     .string "Der er ikke mere plads til ting!$"

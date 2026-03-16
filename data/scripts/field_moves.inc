@@ -45,14 +45,14 @@ EventScript_DontCutTree::
 	end
 
 Text_CutTreeDown::
-	.string "Dette træ kan mâske fældes med CUT!\p"
+	.string "Dette træ kan måske fældes med CUT!\p"
 	.string "Vil du bruge CUT?$"
 
 Text_MonUsedMove::
 	.string "{STR_VAR_1} brugte {STR_VAR_2}!$"
 
 Text_TreeCanBeCutDown::
-	.string "Dette træ kan mâske fældes med CUT!$"
+	.string "Dette træ kan måske fældes med CUT!$"
 
 EventScript_RockSmash::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -112,7 +112,7 @@ Text_UseRockSmash::
 
 Text_MonMaySmashRock::
 	.string "Det er en ru sten, men en POKéMON\n"
-	.string "kan mâske smadre den.$"
+	.string "kan måske smadre den.$"
 
 EventScript_StrengthBoulder::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -254,7 +254,7 @@ EventScript_EndSurface:
 
 Text_MonMayGoUnderwater::
 	.string "Havet er dybt her. En POKéMON\n"
-	.string "kan mâske dykke ned.$"
+	.string "kan måske dykke ned.$"
 
 Text_SeaIsDeepUseDive::
 	.string "Havet er dybt her.\n"
@@ -265,7 +265,7 @@ Text_MonUsedDive::
 
 Text_MonMaySurface::
 	.string "Lys sipper ned ovenfra.\n"
-	.string "En POKéMON kan mâske stige op.$"
+	.string "En POKéMON kan måske stige op.$"
 
 Text_LightFilteringUseDive::
 	.string "Lys sipper ned ovenfra.\n"

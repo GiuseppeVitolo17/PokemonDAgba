@@ -11,17 +11,17 @@ SevenIsland_TrainerTower_Text_DarioPostBattle::
     .string "hinanden ved en underlig kraft.$"
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
-    .string "Et sted pâ denne ø sover\n"
+    .string "Et sted på denne ø sover\n"
     .string "særlige POKéMON.$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
     .string "Hvilken fantastisk TRAINER!$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
-    .string "Et sted pâ denne ø sover\n"
+    .string "Et sted på denne ø sover\n"
     .string "særlige POKéMON.\p"
     .string "Kunne det være at de venter\n"
-    .string "pâ dig?$"
+    .string "på dig?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
     .string "TRAINER TOWER INDGANG\n"

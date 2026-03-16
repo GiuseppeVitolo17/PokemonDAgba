@@ -4,14 +4,14 @@ CeladonCity_Hotel_Text_ThisHotelIsForPeople::
     .string "Vi er desværre fuldt booket.$"
 
 CeladonCity_Hotel_Text_OnVacationWithBrotherAndBoyfriend::
-    .string "Jeg er pâ ferie med min bror og\n"
+    .string "Jeg er på ferie med min bror og\n"
     .string "kæreste.\p"
-    .string "CELADON er sâ flot en by!$"
+    .string "CELADON er så flot en by!$"
 
 CeladonCity_Hotel_Text_WhyDidSheBringBrother::
     .string "Hvorfor?\n"
     .string "Hvorfor tog hun sin bror med?$"
 
 CeladonCity_Hotel_Text_SisBroughtMeOnVacation::
-    .string "Yippee! Jeg er pâ ferie!\n"
+    .string "Yippee! Jeg er på ferie!\n"
     .string "Min søster tog mig med! Fedt!$"

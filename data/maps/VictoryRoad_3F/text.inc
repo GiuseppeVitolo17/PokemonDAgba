@@ -1,7 +1,7 @@
 Text_DoubleEdgeTeach::
     .string "Du skal være stolt af dig selv,\n"
     .string "som har kæmpet dig igennem\l"
-    .string "VICTORY ROAD sâ modigt.\p"
+    .string "VICTORY ROAD så modigt.\p"
     .string "Som anerkendelse af din bedrift\n"
     .string "lærer jeg dig DOUBLE-EDGE.\p"
     .string "Vil du have mig til at lære den\n"
@@ -9,7 +9,7 @@ Text_DoubleEdgeTeach::
 
 Text_DoubleEdgeDeclined::
     .string "Jeg lærer dig teknikken\n"
-    .string "nâr som helst.$"
+    .string "når som helst.$"
 
 Text_DoubleEdgeWhichMon::
     .string "Hvilken POKéMON skal jeg lære\n"
@@ -18,7 +18,7 @@ Text_DoubleEdgeWhichMon::
 Text_DoubleEdgeTaught::
     .string "Hold den drive kørende mod\n"
     .string "POKéMON LEAGUE!\p"
-    .string "Løb ind i dem og slâ dem ud!$"
+    .string "Løb ind i dem og slå dem ud!$"
 
 VictoryRoad_3F_Text_GeorgeIntro::
     .string "Jeg hørte rygter om et vidunderbarn.$"
@@ -27,7 +27,7 @@ VictoryRoad_3F_Text_GeorgeDefeat::
     .string "Rygterne var sande!$"
 
 VictoryRoad_3F_Text_GeorgePostBattle::
-    .string "Sâ det var dig der besejrede GIOVANNI\n"
+    .string "Så det var dig der besejrede GIOVANNI\n"
     .string "fra TEAM ROCKET?$"
 
 VictoryRoad_3F_Text_AlexaIntro::
@@ -36,10 +36,10 @@ VictoryRoad_3F_Text_AlexaIntro::
 
 VictoryRoad_3F_Text_AlexaDefeat::
     .string "Aah!\n"
-    .string "Sâ stærk!$"
+    .string "Så stærk!$"
 
 VictoryRoad_3F_Text_AlexaPostBattle::
-    .string "Ved at kæmpe hârde kampe bliver man\n"
+    .string "Ved at kæmpe hårde kampe bliver man\n"
     .string "stærkere.$"
 
 VictoryRoad_3F_Text_CarolineIntro::
@@ -60,7 +60,7 @@ VictoryRoad_3F_Text_ColbyDefeat::
     .string "Jeg tror det ikke!$"
 
 VictoryRoad_3F_Text_ColbyPostBattle::
-    .string "Alle TRÆNERE her er pâ vej til\n"
+    .string "Alle TRÆNERE her er på vej til\n"
     .string "POKéMON LEAGUE.\p"
     .string "Slap ikke af med vagtsomheden.$"
 
@@ -74,7 +74,7 @@ VictoryRoad_3F_Text_RayDefeat::
 
 VictoryRoad_3F_Text_RayPostBattle::
     .string "RAY: Du har besejret os.\n"
-    .string "Storhed forbliver uopnâelig…$"
+    .string "Storhed forbliver uopnåelig…$"
 
 VictoryRoad_3F_Text_RayNotEnoughMons::
     .string "RAY: Sammen stræber vi to efter\n"
