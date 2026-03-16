@@ -23,18 +23,18 @@ The built-in pixel glyphs are very basic. For **proper Danish letters** that mat
 2. **Either** let the script download it, or put the TTF in the repo:
    ```bash
    # Auto-download LanaPixel into tools/fonts/ and patch
-   python3 scripts/patch_danish_font.py --fetch-lanapixel
+   (obsolete: patch script removed)
    ```
    Or place `LanaPixel.ttf` in `tools/fonts/` (see `tools/fonts/README.md`), then:
    ```bash
-   python3 scripts/patch_danish_font.py
+   python3 scripts/import_font_from_desktop.py
    ```
    The script renders Æ, Ø, Å, æ, ø, å from the TTF at 16×16 with a FireRed-style shadow.
 
 3. **Patch all four Latin fonts** and rebuild:
    ```bash
    for f in graphics/fonts/latin_normal.png graphics/fonts/latin_small.png graphics/fonts/latin_male.png graphics/fonts/latin_female.png; do
-     python3 scripts/patch_danish_font.py --font "$f"
+     python3 scripts/import_font_from_desktop.py --font "$f"
    done
    make
    ```
@@ -44,7 +44,7 @@ Do **not** use the Pokemon Red (PokemonDA) font: it’s 8×8 and uses different 
 ### Option 2: Built-in glyphs (no download)
 
 ```bash
-python3 scripts/patch_danish_font.py
+python3 scripts/import_font_from_desktop.py
 make
 ```
 
