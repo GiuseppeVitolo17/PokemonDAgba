@@ -1687,7 +1687,14 @@ static s32 GetGlyphWidth_Female(u16 glyphId, bool32 isJapanese)
 
 static void DecompressGlyph_Bold(u16 glyphId)
 {
-    const u16 *glyphs = sFontBoldJapaneseGlyphs + (0x100 * (glyphId >> 0x4)) + (0x8 * (glyphId & 0xF));
+    const u16 *glyphs;
+    /* Latin (incl. Danish æ, ø, å): use small Latin font so bytes 0x09–0x0F etc. show correctly */
+    if (glyphId < 0x80)
+    {
+        DecompressGlyph_Small(glyphId, FALSE);
+        return;
+    }
+    glyphs = sFontBoldJapaneseGlyphs + (0x100 * (glyphId >> 0x4)) + (0x8 * (glyphId & 0xF));
     DecompressGlyphTile(glyphs, (u16 *)gGlyphInfo.pixels);
     DecompressGlyphTile(glyphs + 0x80, (u16 *)(gGlyphInfo.pixels + 0x40));
     gGlyphInfo.width = 8;

@@ -10,19 +10,13 @@
 #define CHAR_E_ACUTE           0x06
 #define CHAR_E_CIRCUMFLEX      0x07
 #define CHAR_E_DIAERESIS       0x08
-#define CHAR_I_GRAVE           0x09
-#define CHAR_O_STROKE          0x09  /* Danish Ø (shared with Ì) */
-//#define CHAR_I_ACUTE         0x0A // Is 0x5A instead
-#define CHAR_I_CIRCUMFLEX      0x0B
-#define CHAR_A_RING            0x01  /* Danish Å (shared with À; charmap Å=01) */
-#define CHAR_I_DIAERESIS       0x0C
-#define CHAR_a_RING            0x0B  /* Danish å (shared with Î; charmap å=0B) */
-#define CHAR_O_GRAVE           0x0D
-#define CHAR_o_STROKE          0x0D  /* Danish ø (shared with Ò) */
-#define CHAR_O_ACUTE           0x0E
-#define CHAR_O_CIRCUMFLEX      0x0F
+#define CHAR_o_STROKE          0x09  /* Danish ø (after Ë) */
+#define CHAR_O_STROKE          0x0A  /* Danish Ø */
+#define CHAR_a_RING            0x0B  /* Danish å */
+#define CHAR_A_RING            0x0C  /* Danish Å */
+#define CHAR_ae                0x0D  /* Danish æ */
+#define CHAR_AE_CAP            0x0E  /* Danish Æ */
 #define CHAR_OE                0x10
-#define CHAR_AE_CAP            0x10  /* Danish Æ (shared with Œ) */
 #define CHAR_U_GRAVE           0x11
 #define CHAR_U_ACUTE           0x12
 #define CHAR_U_CIRCUMFLEX      0x13
@@ -36,15 +30,17 @@
 #define CHAR_e_ACUTE           0x1B
 #define CHAR_e_CIRCUMFLEX      0x1C
 #define CHAR_e_DIAERESIS       0x1D
+#define CHAR_I_GRAVE           0x1E  /* Ì (shared tile with ì) */
 #define CHAR_i_GRAVE           0x1E
 //#define CHAR_i_ACUTE         0x1F // Is 0x6F instead
+#define CHAR_I_CIRCUMFLEX      0x20  /* Î (shared with î) */
 #define CHAR_i_CIRCUMFLEX      0x20
+#define CHAR_I_DIAERESIS       0x21  /* Ï (shared with ï) */
 #define CHAR_i_DIAERESIS       0x21
 #define CHAR_o_GRAVE           0x22
 #define CHAR_o_ACUTE           0x23
 #define CHAR_o_CIRCUMFLEX      0x24
 #define CHAR_oe                0x25
-#define CHAR_ae                0x25  /* Danish æ (shared with œ) */
 #define CHAR_u_GRAVE           0x26
 #define CHAR_u_ACUTE           0x27
 #define CHAR_u_CIRCUMFLEX      0x28
@@ -172,7 +168,7 @@
 #define CHAR_BLACK_TRIANGLE    0xEF
 #define CHAR_COLON             0xF0
 #define CHAR_A_DIAERESIS       0xF1
-#define CHAR_O_DIAERESIS       0xF2
+#define CHAR_O_DIAERESIS       0x0F  /* Ö (first row) */
 #define CHAR_U_DIAERESIS       0xF3
 #define CHAR_a_DIAERESIS       0xF4
 #define CHAR_o_DIAERESIS       0xF5

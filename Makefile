@@ -221,6 +221,15 @@ tidy:
 	$(RM) $(ALL_BUILDS:%=poke%{.gba,.elf,.map})
 	$(RM) -r $(BUILD_DIR)
 
+# Copy built ROM to Desktop(s) - ROM must never be committed to GitHub
+# Copies to Linux $HOME/Desktop and, if repo is on Windows fs, to Windows user Desktop
+desktop: rom
+	@cp -v $(ROM) "$${HOME}/Desktop/$(ROM)" && echo "ROM copied to $$HOME/Desktop"; \
+	if [ -d "/media/nes/Windows/Users/Administrator/Desktop" ]; then \
+	  cp -v $(ROM) "/media/nes/Windows/Users/Administrator/Desktop/$(ROM)" && echo "ROM copied to Windows Desktop"; \
+	fi; \
+	echo "Do not commit .gba to the repo."
+
 # "friendly" target names for convenience sake
 firered:                ; @$(MAKE) GAME_VERSION=FIRERED
 firered_rev1:           ; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1

@@ -51,7 +51,7 @@ $(CASTFORMGFXDIR)/shiny.gbapal: $(CASTFORMGFXDIR)/normal/shiny.gbapal \
 									$(CASTFORMGFXDIR)/snowy/shiny.gbapal
 	@cat $^ >$@
 
-$(FONTGFXDIR)/latin_small.latfont: $(FONTGFXDIR)/latin_small.png
+$(FONTGFXDIR)/latin_small.latfont: $(FONTGFXDIR)/latin_normal.png
 	$(GFX) $< $@
 
 $(FONTGFXDIR)/japanese_small.fwjpnfont: $(FONTGFXDIR)/japanese_small.png
@@ -72,7 +72,7 @@ $(FONTGFXDIR)/latin_male.latfont: $(FONTGFXDIR)/latin_male.png
 $(FONTGFXDIR)/japanese_male.fwjpnfont: $(FONTGFXDIR)/japanese_male.png
 	$(GFX) $< $@
 
-$(FONTGFXDIR)/latin_female.latfont: $(FONTGFXDIR)/latin_female.png
+$(FONTGFXDIR)/latin_female.latfont: $(FONTGFXDIR)/latin_normal.png
 	$(GFX) $< $@
 
 $(FONTGFXDIR)/japanese_female.fwjpnfont: $(FONTGFXDIR)/japanese_female.png

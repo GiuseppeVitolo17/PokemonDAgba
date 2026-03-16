@@ -1,14 +1,14 @@
 # Danish characters (æ, ø, å) in FireRed
 
-Danish letters **Æ, Ø, Å** and **æ, ø, å** are now in the character map (same approach as [PokemonDA](https://github.com/GiuseppeVitolo17/PokemonDA) for Pokémon Red/Blue).
+Danish letters **Æ, Ø, Å** and **æ, ø, å** are in the character map (first row of the font, right after È, É, Ê, Ë).
 
-## Charmap
+## Charmap (first row: tiles 0x09–0x0F)
 
-- **Æ** = `0x10`, **æ** = `0x25`
-- **Ø** = `0x08`, **ø** = `0x09`
-- **Å** = `0x01`, **å** = `0x0B`  ← in-game "på", "nå" use **lowercase** å; font tile 0x0B (row 0, col 11) must be **å** minuscola, non Å
+- **ø** = `0x09`, **Ø** = `0x0A`, **å** = `0x0B`, **Å** = `0x0C`, **æ** = `0x0D`, **Æ** = `0x0E`, **Ö** = `0x0F`
 
-So in-game text can use real **æ, ø, å** (and **Æ, Ø, Å**) and the preprocessor will emit the correct bytes.
+So in-game text can use **æ, ø, å** (and **Æ, Ø, Å**) and the preprocessor emits the correct bytes.
+
+**Small font (menus, bag, etc.):** Run `python3 scripts/sync_danish_small_font.py` after updating `latin_normal.png` so FONT_SMALL shows the same Danish glyphs. The import script runs this automatically.
 
 ## Font graphics (so they appear correctly in-game)
 

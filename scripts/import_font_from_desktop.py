@@ -18,10 +18,11 @@ except ImportError:
     print("Need Pillow: pip install Pillow", file=sys.stderr)
     sys.exit(1)
 
-# Game palette from tools/gbagfx/font.c
+# Game palette from tools/gbagfx/font.c (must match exactly for .latfont)
+# Danish Æ is at tile 0x10 = row 1, col 0 = pixels x 0–15, y 16–31 in 256×512
 PAL = [
     (0x90, 0xC8, 0xFF),  # 0 = bg
-    (0x38, 0x38, 0x38),  # 1 = fg
+    (0x38, 0x38, 0x38),  # 1 = fg (use for letter strokes)
     (0xD8, 0xD8, 0xD8),  # 2 = shadow
     (0xFF, 0xFF, 0xFF),  # 3 = white
 ]
@@ -55,17 +56,33 @@ def main():
                     continue
             else:
                 r, g, b = p[:3]
-            # Nearest of the 4 game colours (no reordering)
+            # Nearest of the 4 game colours; avoid mapping dark pixels to bg so Æ/æ don't wash out
             best_i = 0
             best_d = 1e9
             for i, (pr, pg, pb) in enumerate(PAL):
                 d = (r - pr) ** 2 + (g - pg) ** 2 + (b - pb) ** 2
+                if i == 0 and (r < 0x60 and g < 0x60 and b < 0x60):
+                    d += 40000
                 if d < best_d:
                     best_d, best_i = d, i
             out.putpixel((x, y), best_i)
 
     out.save(dest)
     print("Converted", src, "->", dest, "(4-colour nearest-palette)")
+
+    # Copy to male/female so all Latin fonts match
+    import shutil
+    for name in ("latin_male", "latin_female"):
+        path = os.path.join(os.path.dirname(dest), name + ".png")
+        shutil.copy2(dest, path)
+        print("Copied to", path)
+
+    # Sync Danish tiles into small font so FONT_SMALL shows æ, ø, å etc.
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    sync = os.path.join(script_dir, "sync_danish_small_font.py")
+    if os.path.isfile(sync):
+        import subprocess
+        subprocess.run([sys.executable, sync], check=True)
 
 if __name__ == "__main__":
     main()
