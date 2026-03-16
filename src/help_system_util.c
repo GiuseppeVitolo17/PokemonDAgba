@@ -99,7 +99,8 @@ u8 RunHelpSystemCallback(void)
     case 4:
         SetGpuReg(REG_OFFSET_BLDCNT, 0);
         SetGpuReg(REG_OFFSET_BG0HOFS, 0);
-        SetGpuReg(REG_OFFSET_BG0VOFS, 0);
+        /* Scroll BG down 8px so top bar (NÆSTE/TILBAGE) at BG y=0-15 appears in visible area (scanline 8+) on overscan displays */
+        SetGpuReg(REG_OFFSET_BG0VOFS, 8);
         SetGpuReg(REG_OFFSET_BG0CNT, BGCNT_PRIORITY(0) | BGCNT_CHARBASE(3) | BGCNT_16COLOR | BGCNT_SCREENBASE(31));
         SetGpuReg(REG_OFFSET_DISPCNT, DISPCNT_BG0_ON);
         sVideoState.state = 5;
@@ -591,10 +592,8 @@ void HelpSystem_PrintTextRightAlign_Row52(const u8 * str)
 {
     s32 left = 0x7C - GetStringWidth(FONT_SMALL, str, 0);
     GenerateFontHalfRowLookupTable(TEXT_COLOR_WHITE, TEXT_DYNAMIC_COLOR_6, TEXT_COLOR_DARK_GRAY);
-    /* Only bottom 8px of top bar visible; draw at y=8 and clip glyphs to 8px so text is in visible band */
-    sClipGlyphHeight = 8;
-    HelpSystemRenderText(0, gDecompressionBuffer + 0x3400, str, left, 8, 16, 2);
-    sClipGlyphHeight = 0;
+    /* Draw full 16px-tall text at top of bar; BG0VOFS=-8 in help system brings it into view on overscan displays */
+    HelpSystemRenderText(0, gDecompressionBuffer + 0x3400, str, left, 0, 16, 2);
 }
 
 void HelpSystem_PrintTextAt(const u8 * str, u8 x, u8 y)
