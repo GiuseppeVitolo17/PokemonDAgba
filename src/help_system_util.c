@@ -103,7 +103,7 @@ u8 RunHelpSystemCallback(void)
     case 4:
         SetGpuReg(REG_OFFSET_BLDCNT, 0);
         SetGpuReg(REG_OFFSET_BG0HOFS, 0);
-        /* Scroll BG down 8px so top bar (NÆSTE/TILBAGE) at BG y=0-15 appears in visible area (scanline 8+) on overscan displays */
+        /* Scroll BG down 8px so top bar (naeste/tilbage) at BG y=0-15 appears in visible area (scanline 8+) on overscan displays */
         SetGpuReg(REG_OFFSET_BG0VOFS, 8);
         SetGpuReg(REG_OFFSET_BG0CNT, BGCNT_PRIORITY(0) | BGCNT_CHARBASE(3) | BGCNT_16COLOR | BGCNT_SCREENBASE(31));
         SetGpuReg(REG_OFFSET_DISPCNT, DISPCNT_BG0_ON);
