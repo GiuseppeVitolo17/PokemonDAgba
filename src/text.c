@@ -1377,8 +1377,8 @@ void DecompressGlyph_Small(u16 glyphId, bool32 isJapanese)
     }
     else
     {
-        /* Use normal Latin font (left 8px) so Danish å, Æ etc. show correctly everywhere */
-        glyphs = sFontNormalLatinGlyphs + (0x20 * glyphId);
+        // Use the dedicated small Latin font tileset (latin_small.latfont)
+        glyphs = sFontSmallLatinGlyphs + (0x10 * glyphId);
         DecompressGlyphTile(glyphs, (u16 *)gGlyphInfo.pixels);
         DecompressGlyphTile(glyphs + 0x8, (u16 *)(gGlyphInfo.pixels + 0x40));
         gGlyphInfo.width = sFontSmallLatinGlyphWidths[glyphId];

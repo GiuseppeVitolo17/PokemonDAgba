@@ -580,10 +580,14 @@ void HelpSystem_PrintTextInTopLeftCorner(const u8 * str)
 
 void HelpSystem_PrintTextRightAlign_Row52(const u8 * str)
 {
-    s32 left = 0x7C - GetStringWidth(FONT_SMALL, str, 0);
+    // Render the help controls hint inside the main button box using the SMALL font,
+    // right-aligned on the bottom row of the main window.
+    s32 right = 26 * 8;  // main window width in pixels
+    s32 width = GetStringWidth(FONT_SMALL, str, 0);
+    s32 left = right - width;
+
     GenerateFontHalfRowLookupTable(TEXT_COLOR_WHITE, TEXT_DYNAMIC_COLOR_6, TEXT_COLOR_DARK_GRAY);
-    // Match upstream layout: text rendered into panel 2 at row 2.
-    HelpSystemRenderText(0, gDecompressionBuffer + 0x3400, str, left, 2, 16, 2);
+    HelpSystemRenderText(FONT_SMALL, gDecompressionBuffer + 0x0000, str, left, 14, 26, 16);
 }
 
 void HelpSystem_PrintTextAt(const u8 * str, u8 x, u8 y)
