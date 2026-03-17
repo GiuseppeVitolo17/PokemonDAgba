@@ -41,10 +41,6 @@ u8 RunHelpSystemCallback(void)
 {
     s32 i;
 
-    // Keep help system BG vertical scroll stable even if the underlying callback keeps updating BG regs.
-    if (sInHelpSystem && sVideoState.state >= 4 && sVideoState.state <= 5)
-        SetGpuReg(REG_OFFSET_BG0VOFS, 8);
-
     switch (sVideoState.state)
     {
     case 0:
@@ -102,7 +98,7 @@ u8 RunHelpSystemCallback(void)
     case 4:
         SetGpuReg(REG_OFFSET_BLDCNT, 0);
         SetGpuReg(REG_OFFSET_BG0HOFS, 0);
-        SetGpuReg(REG_OFFSET_BG0VOFS, 8);
+        SetGpuReg(REG_OFFSET_BG0VOFS, 0);
         SetGpuReg(REG_OFFSET_BG0CNT, BGCNT_PRIORITY(0) | BGCNT_CHARBASE(3) | BGCNT_16COLOR | BGCNT_SCREENBASE(31));
         SetGpuReg(REG_OFFSET_DISPCNT, DISPCNT_BG0_ON);
         sVideoState.state = 5;
@@ -586,8 +582,8 @@ void HelpSystem_PrintTextRightAlign_Row52(const u8 * str)
 {
     s32 left = 0x7C - GetStringWidth(FONT_SMALL, str, 0);
     GenerateFontHalfRowLookupTable(TEXT_COLOR_WHITE, TEXT_DYNAMIC_COLOR_6, TEXT_COLOR_DARK_GRAY);
-    // Draw a bit lower so small-font glyphs are fully visible in the top help bar.
-    HelpSystemRenderText(0, gDecompressionBuffer + 0x3400, str, left, 4, 16, 2);
+    // Match upstream layout: text rendered into panel 2 at row 2.
+    HelpSystemRenderText(0, gDecompressionBuffer + 0x3400, str, left, 2, 16, 2);
 }
 
 void HelpSystem_PrintTextAt(const u8 * str, u8 x, u8 y)
