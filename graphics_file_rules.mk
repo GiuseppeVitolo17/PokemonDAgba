@@ -51,7 +51,7 @@ $(CASTFORMGFXDIR)/shiny.gbapal: $(CASTFORMGFXDIR)/normal/shiny.gbapal \
 									$(CASTFORMGFXDIR)/snowy/shiny.gbapal
 	@cat $^ >$@
 
-$(FONTGFXDIR)/latin_small.latfont: $(FONTGFXDIR)/latin_normal.png
+$(FONTGFXDIR)/latin_small.latfont: $(FONTGFXDIR)/latin_small.png
 	$(GFX) $< $@
 
 $(FONTGFXDIR)/japanese_small.fwjpnfont: $(FONTGFXDIR)/japanese_small.png

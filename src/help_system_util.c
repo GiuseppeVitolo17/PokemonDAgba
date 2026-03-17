@@ -30,7 +30,6 @@ EWRAM_DATA u8 gDisableHelpSystemVolumeReduce = 0;
 EWRAM_DATA bool8 gHelpSystemToggleWithRButtonDisabled = FALSE;
 static EWRAM_DATA u8 sDelayTimer = 0;
 static EWRAM_DATA u8 sInHelpSystem = 0;
-static EWRAM_DATA u8 sClipGlyphHeight = 0;  /* when non-zero, limit blit height for top bar */
 static EWRAM_DATA struct HelpSystemVideoState sVideoState = {0};
 EWRAM_DATA struct HelpSystemListMenu gHelpSystemListMenu = {0};
 EWRAM_DATA struct ListMenuItem gHelpSystemListMenuItems[52] = {0};
@@ -41,10 +40,6 @@ static const u16 sPals[] = INCBIN_U16("graphics/help_system/bg_tiles.gbapal");
 u8 RunHelpSystemCallback(void)
 {
     s32 i;
-
-    /* Keep help system BG vertical scroll stable even if the underlying callback keeps updating BG regs. */
-    if (sInHelpSystem && sVideoState.state >= 4 && sVideoState.state <= 5)
-        SetGpuReg(REG_OFFSET_BG0VOFS, 8);
 
     switch (sVideoState.state)
     {
@@ -103,8 +98,7 @@ u8 RunHelpSystemCallback(void)
     case 4:
         SetGpuReg(REG_OFFSET_BLDCNT, 0);
         SetGpuReg(REG_OFFSET_BG0HOFS, 0);
-        /* Scroll BG down 8px so top bar (naeste/tilbage) at BG y=0-15 appears in visible area (scanline 8+) on overscan displays */
-        SetGpuReg(REG_OFFSET_BG0VOFS, 8);
+        SetGpuReg(REG_OFFSET_BG0VOFS, 0);
         SetGpuReg(REG_OFFSET_BG0CNT, BGCNT_PRIORITY(0) | BGCNT_CHARBASE(3) | BGCNT_16COLOR | BGCNT_SCREENBASE(31));
         SetGpuReg(REG_OFFSET_DISPCNT, DISPCNT_BG0_ON);
         sVideoState.state = 5;
@@ -525,13 +519,7 @@ void HelpSystemRenderText(u8 fontId, u8 * dest, const u8 * src, u8 x, u8 y, u8 w
             destBlit.pixels = dest;
             destBlit.width = width * 8;
             destBlit.height = height * 8;
-            {
-                u16 iconW = GetKeypadIconWidth(curChar);
-                u16 iconH = GetKeypadIconHeight(curChar);
-                if (sClipGlyphHeight != 0 && sClipGlyphHeight < iconH)
-                    iconH = sClipGlyphHeight;
-                BlitBitmapRect4Bit(&srcBlit, &destBlit, 0, 0, x, y, iconW, iconH, 0);
-            }
+            BlitBitmapRect4Bit(&srcBlit, &destBlit, 0, 0, x, y, GetKeypadIconWidth(curChar), GetKeypadIconHeight(curChar), 0);
             x += GetKeypadIconWidth(curChar);
             break;
         case CHAR_EXTRA_SYMBOL:
@@ -569,7 +557,6 @@ void HelpSystemRenderText(u8 fontId, u8 * dest, const u8 * src, u8 x, u8 y, u8 w
 
 void DecompressAndRenderGlyph(u8 fontId, u16 glyph, struct Bitmap *srcBlit, struct Bitmap *destBlit, u8 *destBuffer, u8 x, u8 y, u8 width, u8 height)
 {
-    u8 blitHeight;
     if (fontId == FONT_SMALL)
         DecompressGlyph_Small(glyph, FALSE);
     else if (fontId == FONT_FEMALE)
@@ -582,8 +569,7 @@ void DecompressAndRenderGlyph(u8 fontId, u16 glyph, struct Bitmap *srcBlit, stru
     destBlit->pixels = destBuffer;
     destBlit->width = width * 8;
     destBlit->height = height * 8;
-    blitHeight = (sClipGlyphHeight != 0 && sClipGlyphHeight < gGlyphInfo.height) ? sClipGlyphHeight : gGlyphInfo.height;
-    BlitBitmapRect4Bit(srcBlit, destBlit, 0, 0, x, y, gGlyphInfo.width, blitHeight, 0);
+    BlitBitmapRect4Bit(srcBlit, destBlit, 0, 0, x, y, gGlyphInfo.width, gGlyphInfo.height, 0);
 }
 
 void HelpSystem_PrintTextInTopLeftCorner(const u8 * str)
@@ -596,14 +582,7 @@ void HelpSystem_PrintTextRightAlign_Row52(const u8 * str)
 {
     s32 left = 0x7C - GetStringWidth(FONT_SMALL, str, 0);
     GenerateFontHalfRowLookupTable(TEXT_COLOR_WHITE, TEXT_DYNAMIC_COLOR_6, TEXT_COLOR_DARK_GRAY);
-    /*
-     * Many TV/overscan setups crop a few pixels at the very top of the frame.
-     * Draw this top-bar text a little lower, and clip the bottom a bit so it still fits
-     * in the 16px-tall buffer.
-     */
-    sClipGlyphHeight = 14;
     HelpSystemRenderText(0, gDecompressionBuffer + 0x3400, str, left, 2, 16, 2);
-    sClipGlyphHeight = 0;
 }
 
 void HelpSystem_PrintTextAt(const u8 * str, u8 x, u8 y)
