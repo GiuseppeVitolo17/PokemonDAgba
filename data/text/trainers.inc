@@ -167,7 +167,7 @@ Route9_Text_ConnerRematchIntro::
 
 Route10_Text_MarkRematchIntro::
 	.string "Wow, kom du her igen?\n"
-	.string "Måske er du også en POKeMANIAC?\l"
+	.string "Måske er du også en POKéMANIAC?\l"
 	.string "Vil du se min samling?$"
 
 Route10_Text_ClarkRematchIntro::
@@ -612,8 +612,8 @@ Route21_North_Text_SpencerRematchIntro::
 
 @ Unused trainer from RB that had a rematch intro added
 Route21_North_Text_CueBallRematchIntro::
-	.string "きょうも　およぎに\n"
-	.string "きちまったぜ$"
+	.string "I dag endte jeg også med\n"
+	.string "at svømme her igen!$"
 
 Route21_South_Text_JackRematchIntro::
 	.string "Jeg fangede mine POKéMON til havs.\n"
@@ -673,7 +673,7 @@ Route25_Text_FranklinRematchIntro::
 	.string "men jeg har stadig energi i tanken!$"
 
 Route25_Text_NobRematchIntro::
-	.string "En POKeMANIAC bor på næsset.\n"
+	.string "En POKéMANIAC bor på næsset.\n"
 	.string "Har du set hans samling?$"
 
 Route25_Text_WayneRematchIntro::

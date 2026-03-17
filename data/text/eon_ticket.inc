@@ -1,44 +1,43 @@
 @ The text here is a copy/paste from Hoenn's Eon Ticket event, all unused and untranslated
 
 Text_DadLetterArrivedForYouPlayer::
-	.string "パパ“{PLAYER}！　よく　きたな！\n"
-	.string "{PLAYER}あての　てがみが　とどけられたぞ$"
+	.string "Far: “{PLAYER}! Godt du kom!\n"
+	.string "Der er kommet et brev til dig.”$"
 
 Text_DadPassForShipNeverSeenBefore::
-	.string "パパ“わたしも　みたことのない\n"
-	.string "ふねの　チケット　だな‥‥\l"
-	.string "ミナモに　いってみると　いいだろう$"
+	.string "Far: “Det er en bådbillet,\n"
+	.string "jeg aldrig har set før…\l"
+	.string "Du burde prøve at tage til havnen.”$"
 
 Text_FerryToSlateportOhThatPass::
-	.string "カイナいき　れんらくせん‥‥\p"
-	.string "あら？\n"
-	.string "その　チケットは‥‥！$"
+	.string "Færge til havnen…\p"
+	.string "Hov?\n"
+	.string "Den billet der…!$"
 
 Text_YoureOneWhoBroughtOddPass::
-	.string "ヘンテコな　チケットを\n"
-	.string "もってきたのは　おまえさんか？\p"
-	.string "おまえが　いこうと　しているのは\n"
-	.string "みなみの　はての　ちっぽけな　しま‥‥\p"
-	.string "そこでは　なにが　おこるのか\n"
-	.string "だれも　わからねえ‥‥\l"
-	.string "ううむ　ふなのりの　ちが　さわぐぜ！\p"
-	.string "さあ　のりな！$"
+	.string "Er det dig med den mærkelige\n"
+	.string "billet?\p"
+	.string "Stedet du vil til er en lille ø\n"
+	.string "langt mod syd…\p"
+	.string "Ingen ved, hvad der sker derude…\l"
+	.string "Det vækker eventyrlysten i mig!\p"
+	.string "Kom så, hop om bord!$"
 
 Text_NothingHereSailBackToLilycove::
-	.string "なにもねえ　ちんけな　しま　だな‥‥\n"
-	.string "ミナモへ　かえるか？$"
+	.string "Der er ikke meget på den lille ø…\n"
+	.string "Skal vi sejle tilbage?$"
 
 Text_SailHomeWeWill::
-	.string "よし！　かえると　するか！$"
+	.string "Fint! Så sejler vi hjemad!$"
 
 Text_AsYouLikeThen::
-	.string "そうかい\n"
-	.string "まあ　すきにするが　いいさ$"
+	.string "Okay.\n"
+	.string "Gør som du vil.$"
 
 SouthernIsland_Interior_Text_Sign::
-	.string "すべての　ゆめは　もうひとつの　げんじつ\n"
-	.string "それを　わすれるべからず‥‥$"
+	.string "Alle drømme er en anden form for virkelighed.\n"
+	.string "Glem det aldrig…$"
 
 SouthernIsland_Exterior_Text_Sign::
-	.string "きおく　かすみし　ものは\n"
-	.string "こころに　きざみつける　ことを　のぞむ‥‥$"
+	.string "Det, som minderne slører,\n"
+	.string "ønsker hjertet at indprente for evigt…$"

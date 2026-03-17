@@ -20,7 +20,7 @@ Help_Text_Cancel::
 	.string "ANNULLER$"
 
 Help_Text_TryDoingItOnYourOwn::
-	.string "じぶんの ちからで やってみよう！$"
+	.string "Prøv at klare det med dine egne kræfter!$"
 
 Help_Text_DescWhatShouldIDo::
 	.string "Valg for at få tips til at komme\n"
@@ -119,7 +119,7 @@ Help_Text_RanOutOfPotions::
 	.string "Jeg har ikke flere HELBREDELSESMIDLER.$"
 
 Help_Text_CanIBuyPokeBalls::
-	.string "Kan jeg købe POKe BOLLE?$"
+	.string "Kan jeg købe POKé BALLS?$"
 
 Help_Text_WhatsATrainer::
 	.string "Hvad er en TRAINER?$"
@@ -193,9 +193,9 @@ Help_Text_AnswerPlayingForFirstTime::
 	.string "vidunderlige POKéMON.$"
 
 Help_Text_AnswerWhatShouldIBeDoing::
-	.string "Når du møder en anden, ga hen til\n"
+	.string "Når du møder en anden, gå hen til\n"
 	.string "dem og tryk A-knappen. Sådan får du\l"
-	.string "dem til at tale. Du kan også undersooge\l"
+	.string "dem til at tale. Du kan også undersøge\l"
 	.string "genstande og ting. Snak med folk og\l"
 	.string "tjek ting ofte for at få information.\l"
 	.string "\l"
@@ -956,7 +956,7 @@ Help_Text_KeyItems::
 	.string "KEY ITEMS$"
 
 Help_Text_PokeBalls::
-	.string "POKe BALLS$"
+	.string "POKé BALLS$"
 
 Help_Text_Pokedex::
 	.string "POKéDEX$"
@@ -1117,10 +1117,10 @@ Help_Text_DefineKeyItems::
 	.string "Brug eller REGISTRER med SELECT for hurtig brug uden menu.$"
 
 Help_Text_DefinePokeBalls::
-	.string "POKe BALLS bruges til at fange\n"
+	.string "POKé BALLS bruges til at fange\n"
 	.string "vilde POKéMON og ligger i\l"
-	.string "POKe BALLS LOMMEN.\l"
-	.string "POKe BALLS kan købes i POKéMON\l"
+	.string "POKé BALLS-LOMMEN.\l"
+	.string "POKé BALLS kan købes i POKéMON\l"
 	.string "MARTS. De kan bruges, gives til en\l"
 	.string "POKéMON at holde eller smides ud\l"
 	.string "som affald.$"

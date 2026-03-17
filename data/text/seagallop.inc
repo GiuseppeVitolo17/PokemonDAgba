@@ -1,6 +1,6 @@
 Text_WhereDoYouWantToGo::
-	.string "おつかれさん！\n"
-	.string "どこに　いきたいんだ？$"
+	.string "Godt gået!\n"
+	.string "Hvor vil du hen?$"
 
 Text_AllAboardSeagallopNum::
 	.string "Okay!\n"

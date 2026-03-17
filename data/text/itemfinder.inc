@@ -1,8 +1,8 @@
 @ Unused
 Text_ItemfinderResponding::
-	.string "おッ！　ダウジングマシンが\n"
-	.string "はんのう　してるぞ！\p"
-	.string "ましたに　どうぐが　うまってる！\n"
+	.string "Åh! DOWSING MACHINE\n"
+	.string "giver udslag!\p"
+	.string "Der er en genstand begravet lige her!\n"
 	.string "‥‥‥$"
 
 Text_DugUpItemFromGround::

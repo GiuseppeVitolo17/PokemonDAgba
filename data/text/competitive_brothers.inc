@@ -1,39 +1,39 @@
 @ The text here is a copy/paste from Hoenn's competitive brothers, the NPCs in Sootopolis who request to see big Barboach/Shroomish (Seedot/Lotad in Emerald). It's all unused and untranslated
 
 SootopolisCity_Text_PleaseShowMeBigMon::
-    .string "わしは　おおきな　{STR_VAR_1}に\n"
-    .string "とても　きょうみが　ある！\p"
-    .string "ん？　きみ　{STR_VAR_1}　もってるの？\n"
-    .string "ちょ　ちょ　ちょっと···\l"
-    .string "おじさんに　みせて　おくれ！$"
+    .string "Jeg er meget interesseret i store\n"
+    .string "{STR_VAR_1}!\p"
+    .string "Hvad? Har du en {STR_VAR_1}?\n"
+    .string "V-v-vent lige…\l"
+    .string "Vis den til mig!$"
 
 SootopolisCity_Text_GrandMonThanksForShowingMe::
-    .string "おお！　こいつは　でかい！\n"
-    .string "とても　すばらしい　{STR_VAR_1}だ！\p"
-    .string "みせて　くれて　ありがとう\n"
-    .string "おれいに　これを　もって　いきなさい$"
+    .string "Wow! Den er stor!\n"
+    .string "Sikke en fantastisk {STR_VAR_1}!\p"
+    .string "Tak fordi du viste mig den.\n"
+    .string "Tag det her som tak.$"
 
 SootopolisCity_Text_ReceivedOneItem::
-    .string "{PLAYER}は\n"
-    .string "{STR_VAR_2}を　もらった！$"
+    .string "{PLAYER} modtog\n"
+    .string "{STR_VAR_2}!$"
 
 SootopolisCity_Text_HuhBagIsCrammedFull::
-    .string "ありゃ？\n"
-    .string "きみ　もちもの　いっぱいだね$"
+    .string "Hov?\n"
+    .string "Din taske er helt fuld.$"
 
 SootopolisCity_Text_IveSeenBiggerMonThanThisOne::
-    .string "ううむ　わしは　これより　おおきい\n"
-    .string "{STR_VAR_1}を　みたこと　あるな···$"
+    .string "Hmm… Jeg har set en\n"
+    .string "større {STR_VAR_1} end den her…$"
 
 SootopolisCity_Text_QuiteSomethingButNotMon::
-    .string "おお　こいつは　なかなか···って\n"
-    .string "これ　{STR_VAR_1}じゃ　ないよ！$"
+    .string "Nå, den er da ellers ret… vent,\n"
+    .string "det er jo ikke en {STR_VAR_1}!$"
 
 SootopolisCity_Text_TooBadDontHaveBigMon::
-    .string "おおきい　{STR_VAR_1}　もってないの？\l"
-    .string "それは　ざんねん···\n"
-    .string "こんど　おおきい　{STR_VAR_1}　みせてね$"
+    .string "Har du ikke en stor {STR_VAR_1}?\l"
+    .string "Det var ærgerligt…\n"
+    .string "Vis mig en stor {STR_VAR_1} næste gang.$"
 
 SootopolisCity_Text_BiggestMonPlayersXCmColossus::
-    .string "しじょう　さいだいの　{STR_VAR_1}！\n"
-    .string "{STR_VAR_2}の　{STR_VAR_3}cmのやつ！$"
+    .string "Den største {STR_VAR_1} nogensinde!\n"
+    .string "{STR_VAR_2}s på {STR_VAR_3} cm!$"

@@ -495,7 +495,7 @@ gFameCheckerFlavorText_Lance5:: @ 0x81AF7CB
 gFameCheckerFlavorText_Bill0:: @ 0x81AF83E
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Hvad laver denne person?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL er jo verdensberømt som\n"
-	.string "POKeMANIAC.\p"
+	.string "POKéMANIAC.\p"
 	.string "Han opfandt også PC'ens\n"
 	.string "POKéMON-opbevaringssystem.$"
 
@@ -512,7 +512,7 @@ gFameCheckerFlavorText_Bill2:: @ 0x81AF929
 
 gFameCheckerFlavorText_Bill3:: @ 0x81AF998
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Yndlingstype POKéMON?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL er en POKeMANIAC, så han elsker\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL er en POKéMANIAC, så han elsker\n"
 	.string "dem alle.\p"
 	.string "Tilsyneladende var den første han\n"
 	.string "fangede en ABRA.$"

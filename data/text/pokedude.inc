@@ -1,5 +1,5 @@
 Pokedude_Text_SpeedierBattlerGoesFirst::
-	.string "POKe DUDE: Den hurtigste af de\n"
+	.string "POKé DUDE: Den hurtigste af de\n"
 	.string "to kæmpere angriber først.$"
 
 Pokedude_Text_MyRattataFasterThanPidgey::
@@ -21,7 +21,7 @@ Pokedude_Text_MyRattataWonGetsEXP::
 	.string "stærkere end før.$"
 
 Pokedude_Text_UhOhRattataPoisoned::
-	.string "POKe DUDE: Uha…\n"
+	.string "POKé DUDE: Uha…\n"
 	.string "Min RATTATA er blevet forgiftet…\p"
 	.string "Hvis en POKéMON er forgiftet, mister\n"
 	.string "den HP jævnligt.$"
@@ -40,7 +40,7 @@ Pokedude_Text_YayWeManagedToWin::
 	.string "Vi formåede at vinde!$"
 
 Pokedude_Text_WaterNotVeryEffectiveAgainstGrass::
-	.string "POKe DUDE: Truslen BUBBLE er\n"
+	.string "POKé DUDE: Truslen BUBBLE er\n"
 	.string "et VAND-type angreb.\p"
 	.string "ODDISH er en\n"
 	.string "GRÆS/GIFT-type POKéMON.\p"
@@ -95,9 +95,9 @@ Pokedude_Text_YeahWeWon::
 	.string "Vi vandt!$"
 
 Pokedude_Text_WeakenMonBeforeCatching::
-	.string "POKe DUDE: Når du prøver at\n"
+	.string "POKé DUDE: Når du prøver at\n"
 	.string "fange en POKéMON, kast ikke\l"
-	.string "POKe BALLS med det samme.\p"
+	.string "POKé BALLS med det samme.\p"
 	.string "Først skal du svække den ved\n"
 	.string "at reducere dens HP.$"
 
@@ -113,7 +113,7 @@ Pokedude_Text_BestIfTargetStatused::
 Pokedude_Text_CantDoubleUpOnStatus::
 	.string "Det gør POKéMON'en meget\n"
 	.string "nemmere at fange!\p"
-	.string "Oh ja. Hvis du lammer en\n"
+	.string "Åh ja. Hvis du lammer en\n"
 	.string "POKéMON kan du ikke få den til at\l"
 	.string "sove oven på lamhed.\p"
 	.string "Med andre ord kan du ikke lægge\n"
@@ -121,10 +121,10 @@ Pokedude_Text_CantDoubleUpOnStatus::
 
 Pokedude_Text_LetMeThrowBall::
 	.string "Okay!\n"
-	.string "Lad mig kaste min POKe BALL!$"
+	.string "Lad mig kaste min POKé BALL!$"
 
 Pokedude_Text_PickBestKindOfBall::
-	.string "Før du kaster en POKe BALL,\n"
+	.string "Før du kaster en POKé BALL,\n"
 	.string "overvej tilstanden og typen af\l"
 	.string "POKéMON og vælg den BALL der\l"
 	.string "ville virke bedst.$"

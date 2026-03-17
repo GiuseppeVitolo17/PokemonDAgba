@@ -2,7 +2,7 @@
 
 DayCare_Text_ImDaycareManSpeakToMyWife::
 	.string "Jeg er DAGPLEJEMANDEN.\p"
-	.string "Jeg hjælper med at passe TRAINERs\n"
+	.string "Jeg hjælper med at passe TRÆNERES\n"
 	.string "kære POKéMON.\p"
 	.string "Hvis du vil have mig til at opdrage\n"
 	.string "dine POKéMON, tal med min kone.$"

@@ -5,8 +5,8 @@ Text_Bookshelf::
 	.string "bøger.$"
 
 Text_NothingButPokemonBooks::
-	.string "ほんだなに　ならんでいるのは\n"
-	.string "ポケモンの　ほん　ばかりだ$"
+	.string "Bogreolen er fyldt op med\n"
+	.string "POKéMON-bøger.$"
 
 Text_ATownMap::
 	.string "Et BYKORT.$"

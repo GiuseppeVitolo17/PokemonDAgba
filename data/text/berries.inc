@@ -1,226 +1,227 @@
 @ The text here is a copy/paste from Hoenn's various berry NPCs, all unused and untranslated
 
 PetalburgCity_Gym_Text_GiveEnigmaBerry::
-	.string "パパ“やあ　{PLAYER}！\p"
-	.string "めずらしい　きのみを　てに　いれたから\n"
-	.string "プレゼント　するよ！$"
+	.string "Far: “Hej, {PLAYER}!\p"
+	.string "Jeg har fået en sjælden BÆR,\n"
+	.string "så den får du!”$"
 
 Route104_Text_PlantBerriesInSoilTakeThis::
-	.string "ふかふかの　つちに　はえている　きのみは\n"
-	.string "じゆうに　とっても　よいのじゃが‥\p"
-	.string "1つだけ　きのみを　おなじ　ばしょに　うめる\n"
-	.string "それが　れいぎと　いうものじゃ\p"
-	.string "ほれ　これを　わけてやろう$"
+	.string "BÆR der vokser i den bløde jord,\n"
+	.string "må du gerne plukke frit…\p"
+	.string "men det er god stil at plante ét\n"
+	.string "nyt BÆR samme sted bagefter.\p"
+	.string "Her, du får en af mig.$"
 
 Route104_Text_TrainersOftenMakeMonHoldBerries::
-	.string "あんた　みたところ　トレーナーじゃろ？\p"
-	.string "トレーナーは　よく　きのみを　ポケモンに\n"
-	.string "もたせとるわい\p"
-	.string "ふやすも　つかうも　あんた　しだいじゃ$"
+	.string "Du ligner en TRÆNER, ikke?\p"
+	.string "TRÆNERE lader ofte deres POKéMON\n"
+	.string "holde BÆR.\p"
+	.string "Om du vil dyrke dem eller bruge dem,\n"
+	.string "det er op til dig.$"
 
 Route111_Text_WateredPlantsEveryDayTakeBerry::
-	.string "いつも　みずを　あげてたら\n"
-	.string "たくさん　はなが　さいたんだ\p"
-	.string "そしたら　きのみも　たくさん　できた！\p"
-	.string "はい！\n"
-	.string "これ　あげる$"
+	.string "Jeg vandede planterne hver dag,\n"
+	.string "og så blomstrede de helt vildt.\p"
+	.string "Nu har jeg også masser af BÆR!\p"
+	.string "Her!\n"
+	.string "Tag det her.$"
 
 Route111_Text_TryToMakeRedPokeblock::
-	.string "がんばって　あかいポロック　つくるんだ！\n"
-	.string "{STR_VAR_1}も　がんばってね！$"
+	.string "Prøv at lave en rød POKEBLOCK!\n"
+	.string "Held og lykke, {STR_VAR_1}!$"
 
 Route111_Text_WhatColorBerriesToLookForToday::
-	.string "きょうは　なにいろの　きのみを\n"
-	.string "さがそっかなー$"
+	.string "Hvilken farve BÆR\n"
+	.string "skal jeg mon lede efter i dag?$"
 
 Route114_Text_GatheringBerriesForContest::
-	.string "ポケモンコンテストの　ゆうしょうを　めざして\n"
-	.string "きのみを　あつめているんだ\p"
-	.string "よかったら　きみにも　わけて　あげるよ！$"
+	.string "Jeg samler BÆR for at vinde\n"
+	.string "POKéMON-konkurrencer.\p"
+	.string "Du må gerne få nogle af mig!$"
 
 Route114_Text_GoodLuckToYouToo::
-	.string "きみも　がんばれ！$"
+	.string "Held og lykke til dig også!$"
 
 Route114_Text_WhatBerriesShouldIPlantToday::
-	.string "きょうは　どの　きのみを　うめるか‥\n"
-	.string "そして　なにいろの　ポロックを　つくるか‥\p"
-	.string "なやむのも　また　たのしいよ$"
+	.string "Hvilke BÆR skal jeg plante i dag…\n"
+	.string "og hvilken farve POKEBLOCK skal jeg lave…\p"
+	.string "Det er faktisk sjovt at tænke over.$"
 
 Route120_Text_PokeblocksExpressionOfLove::
-	.string "ケースを　ふると　でてくる　ポロック‥\p"
-	.string "そして　それを　キャッチして\n"
-	.string "たべてくれる　ポケモン‥\p"
-	.string "これって　あい　だよね？$"
+	.string "POKEBLOCKS der kommer ud af casen…\p"
+	.string "Og en POKéMON som griber den\n"
+	.string "og spiser den…\p"
+	.string "Det er kærlighed, ikke?$"
 
 Route120_Text_YouUnderstandTakeThis::
-	.string "うん　うん！\n"
-	.string "やっぱ　わかるひとには　わかるよね\p"
-	.string "これ　あげる$"
+	.string "Ja, ja!\n"
+	.string "Du forstår det virkelig.\p"
+	.string "Her, tag den her.$"
 
 Route120_Text_OwnImpressionsImportantTakeThis::
-	.string "そっか‥‥\n"
-	.string "でも　ちがうと　かんじることも　たいせつだね\p"
-	.string "これ　あげる$"
+	.string "Okay…\n"
+	.string "Men det er også vigtigt at føle anderledes.\p"
+	.string "Her, tag den her.$"
 
 Route120_Text_BerryIsRareRaiseItWithCare::
-	.string "その　きのみは　めずらしいもの　らしいから\n"
-	.string "たいせつに　そだててね！$"
+	.string "Det BÆR skulle være ret sjældent,\n"
+	.string "så pas godt på det, når du dyrker det!$"
 
 Route120_Text_IllGetMoreBerriesFromBerryMaster::
-	.string "また　きのみめいじんに　もらって　こようっと$"
+	.string "Jeg må hente flere BÆR hos BÆR-MESTEREN.$"
 
 LilycoveCity_Text_BerrySuitsYou::
-	.string "やっぱり\p"
-	.string "わたしに　スーツが　にあうように\n"
-	.string "うみには　しおかぜが　にあうな\l"
-	.string "そして　きみには　きのみが　にあいそうだ‥‥\p"
-	.string "なんでだろうね？$"
+	.string "Ja…\p"
+	.string "Ligesom et jakkesæt passer til mig,\n"
+	.string "og saltvind passer til havet,\l"
+	.string "så passer BÆR vist til dig…\p"
+	.string "Hvorfor mon?$"
 
 LilycoveCity_Text_BecauseYoureTrainer::
-	.string "やっぱり　それは‥‥‥‥\p"
-	.string "きみが　トレーナーだからだ！$"
+	.string "Det er selvfølgelig fordi…\p"
+	.string "du er TRÆNER!$"
 
 LilycoveCity_Text_PokeblocksSuitPokemon::
-	.string "やっぱり\p"
-	.string "わたしに　シンプルさが　にあうように\n"
-	.string "ポケモンには　ポロックが　にあうな$"
+	.string "Ja…\p"
+	.string "Ligesom enkelhed passer til mig,\n"
+	.string "så passer POKEBLOCKS til POKéMON.$"
 
 Route123_BerryMastersHouse_Text_YoureDeservingOfBerry::
-	.string "わしは　きのみめいじんと　よばれておる\p"
-	.string "わしは　せかいじゅうを　うつくしい　はなで\n"
-	.string "うめつくそうと　きのみを　そだてて\l"
-	.string "そして　くばり　まくって　おるのじゃ\p"
-	.string "きみにも　きのみを　わけて　あげよう！$"
+	.string "De kalder mig BÆR-MESTEREN.\p"
+	.string "Jeg dyrker og deler BÆR,\n"
+	.string "så verden kan blive fyldt med\l"
+	.string "smukke blomster.\p"
+	.string "Du skal også have et BÆR!$"
 
 Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother::
-	.string "ほれ　えんりょ　せずに　もう　ひとつ！$"
+	.string "Kom nu, vær ikke genert - tag et mere!$"
 
 Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop::
-	.string "カナズミの　ちかくにある　サン·トウカという\n"
-	.string "フラワーショップも　よろしくの\p"
-	.string "せかいに　はなを　さかせましょう！$"
+	.string "Husk også blomsterbutikken PRETTY PETAL\n"
+	.string "i nærheden af RUSTBORO.\p"
+	.string "Lad os få verden til at blomstre!$"
 
 Route123_BerryMastersHouse_Text_DoneForToday::
-	.string "きょうは　もう　おしまいじゃ\n"
-	.string "また　おいで\p"
-	.string "せかいに　はなを　さかせましょう！$"
+	.string "Det var alt for i dag.\n"
+	.string "Kom igen en anden dag.\p"
+	.string "Lad os få verden til at blomstre!$"
 
 Route123_BerryMastersHouse_Text_HeardAGoodSayingLately::
-	.string "じいさんの　きのみの　そだてかたは\n"
-	.string "そりゃあ　せかいいちじゃ\p"
-	.string "わしも　はなが　たかいわい\p"
-	.string "ところで　あんた\n"
-	.string "いい　ことばを　きいたことが　ないかい？$"
+	.string "Gamlingens måde at dyrke BÆR på\n"
+	.string "er verdens bedste.\p"
+	.string "Det er jeg stolt af.\p"
+	.string "For resten,\n"
+	.string "har du hørt et godt ordsprog for nylig?$"
 
 Route123_BerryMastersHouse_Text_InspirationalTakeThis::
-	.string "おお！　とても　よい　ことばじゃ！\n"
-	.string "かんどう　したわい\p"
-	.string "ほれ　これを　もっていきなされ$"
+	.string "Åh! Det var et virkelig godt ordsprog!\n"
+	.string "Det rørte mig.\p"
+	.string "Her, tag det her.$"
 
 Route123_BerryMastersHouse_Text_GoodSayingTakeThis::
-	.string "おお！　なかなか　よい　ことばじゃ\n"
-	.string "あんたも　たいしたもんじゃ\p"
-	.string "ほれ　これを　もっていきなされ$"
+	.string "Åh! Det var et ret godt ordsprog.\n"
+	.string "Du er også noget særligt.\p"
+	.string "Her, tag det her.$"
 
 Route123_BerryMastersHouse_Text_JoyNeverGoesOutOfMyLife::
-	.string "まごたち　4にんも　じいさんを　しのぐ\n"
-	.string "おおものに　なるじゃろうて\p"
-	.string "じんせい　たのしいことが　つきんのう！$"
+	.string "Mine fire børnebørn bliver sikkert\n"
+	.string "endnu større end den gamle.\p"
+	.string "Livet løber aldrig tør for glæde!$"
 
 Route123_BerryMastersHouse_Text_Ah::
-	.string "ほう‥‥$"
+	.string "Nå…$"
 
 Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop::
-	.string "こんにちは！\p"
-	.string "はなを　せかいに　ひろめる\n"
-	.string "フラワーショップ　サン·トウカです！$"
+	.string "Hej!\p"
+	.string "Vi er PRETTY PETAL BLOMSTERBUTIK,\n"
+	.string "og vi spreder blomster i verden!$"
 
 Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries::
-	.string "{PLAYER}{KUN}　きのみの　こと　しりたい？$"
+	.string "{PLAYER}{KUN}, vil du høre om BÆR?$"
 
 Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries::
-	.string "あなたの　なまえは‥‥\p"
-	.string "{PLAYER}{KUN}ね！\n"
-	.string "とっても　いい　なまえだね！\l"
-	.string "{PLAYER}{KUN}　きのみのこと　しりたい？$"
+	.string "Dit navn er…\p"
+	.string "{PLAYER}{KUN}, ikke?\n"
+	.string "Det er et rigtig fint navn!\l"
+	.string "{PLAYER}{KUN}, vil du høre om BÆR?$"
 
 Route104_PrettyPetalFlowerShop_Text_BerriesExplanation::
-	.string "きのみはね　くろい　ふかふかの　つちの\n"
-	.string "ところで　たまに　とれるの\l"
-	.string "でね‥‥\p"
-	.string "とったら　その1つを　また　うめるの！\p"
-	.string "そうすると　その　きのみ　から\n"
-	.string "めがでて　みきが　できて　はながさいて\l"
-	.string "また　きのみ　が　できるの\p"
-	.string "そうやって　はなを　ふやして\n"
-	.string "せかいじゅうを　はなに　するのが\l"
-	.string "わたしの　ゆめ　なんだ！\p"
-	.string "だから　{PLAYER}{KUN}も　きのみを　うめて\n"
-	.string "せかいに　はなを　ふやしてね！$"
+	.string "BÆR kan nogle gange findes i\n"
+	.string "mørk, blød jord.\l"
+	.string "Og så…\p"
+	.string "når du plukker et, skal du plante ét nyt!\p"
+	.string "Så spirer det,\n"
+	.string "vokser op, blomstrer,\l"
+	.string "og laver nye BÆR.\p"
+	.string "På den måde spreder vi blomster\n"
+	.string "i hele verden -\l"
+	.string "det er min drøm!\p"
+	.string "Så plant også BÆR, {PLAYER}{KUN},\n"
+	.string "og hjælp verden med at blomstre!$"
 
 Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness::
-	.string "おはなって　とっても　しあわせな　きぶんに\n"
-	.string "してくれるよね$"
+	.string "Blomster får én til at føle sig\n"
+	.string "virkelig glad, ikke?$"
 
 Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis::
-	.string "こんにちは！\p"
-	.string "おはなは　せわを　すれば　するほど\n"
-	.string "たくさん　きれいに　さいて　くれるの\p"
-	.string "あなたも　せわを　したく　なった　でしょ？\n"
-	.string "これ　あげるわ$"
+	.string "Hej!\p"
+	.string "Jo mere man passer blomster,\n"
+	.string "jo flottere blomstrer de.\p"
+	.string "Du fik også lyst til at passe dem,\n"
+	.string "ikke? Her, den er til dig.$"
 
 Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation::
-	.string "きのみが　そだつ　たびに\n"
-	.string "じょうろで　みずを　あげてね！\p"
-	.string "あとね\p"
-	.string "きのみは　ずっと　ずっと　ほうっておくと\n"
-	.string "じめんに　おちてしまうの\l"
-	.string "でもね　そこから　また　めがでて　くるの！\p"
-	.string "すごいよね！\n"
-	.string "いきものの　ちからを　かんじるよね$"
+	.string "Hver gang BÆR vokser,\n"
+	.string "så vand dem med en vandkande!\p"
+	.string "Og en ting mere:\p"
+	.string "Hvis BÆR får lov at sidde for længe,\n"
+	.string "falder de ned på jorden,\l"
+	.string "men så kan de spire igen!\p"
+	.string "Vildt, ikke?\n"
+	.string "Man mærker virkelig livets kraft.$"
 
 Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers::
-	.string "おねーちゃんたちを　みならって\n"
-	.string "がんばって　おはなを　そだててるの\p"
-	.string "はい！　これあげる！$"
+	.string "Jeg lærer af mine storesøstre,\n"
+	.string "og gør mig umage med at dyrke blomster.\p"
+	.string "Her! Den får du!$"
 
 Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries::
-	.string "きのみは　うめて　おおきく　したり\n"
-	.string "ポケモンに　もたせたり　できるの\p"
-	.string "でも　さいきん　きのみを　いくつか　まぜると\n"
-	.string "ポケモンの　おかしになる　きかいが\l"
-	.string "ある　らしいんだ\p"
-	.string "あたしも　おかし　ほしー$"
+	.string "Man kan plante BÆR så de vokser,\n"
+	.string "eller lade POKéMON holde dem.\p"
+	.string "Men jeg hørte, at der findes en maskine\n"
+	.string "som kan blande flere BÆR\l"
+	.string "til POKéMON-slik.\p"
+	.string "Jeg vil også have noget slik!$"
 
 SootopolisCity_Text_NameIsKiriHaveOneOfThese::
-	.string "{STR_VAR_1}　なまえ　なんていうの？\p"
-	.string "‥‥‥　‥‥‥　‥‥‥\n"
-	.string "へー　いいねー\p"
-	.string "わたしは　キリ　っていう　なまえなの\p"
-	.string "パパと　ママが　すくすくと　そだって\n"
-	.string "こころの　あたたかい　おんなのこに　なって\l"
-	.string "ほしいっていう　ねがいを　こめたんだって！\p"
-	.string "{STR_VAR_1}にも　これ　あげる$"
+	.string "Hvad hedder du, {STR_VAR_1}?\p"
+	.string "… … …\n"
+	.string "Nåh, fint navn!\p"
+	.string "Jeg hedder KIRI.\p"
+	.string "Mor og far gav mig navnet,\n"
+	.string "fordi de ønskede jeg voksede op\l"
+	.string "til at blive et varmt menneske!\p"
+	.string "Her, du får også den her.$"
 
 SootopolisCity_Text_GiveYouThisBerryToo::
-	.string "あと　{STR_VAR_1}には　キリの　だいすきな\n"
-	.string "この　きのみも　あげちゃう！$"
+	.string "Og {STR_VAR_1}, du får også\n"
+	.string "det her BÆR - det er KIRIs yndlings!$"
 
 SootopolisCity_Text_WhatKindOfWishInYourName::
-	.string "{STR_VAR_1}の　なまえには\n"
-	.string "どんな　ねがいが　こめられてるの？$"
+	.string "Hvilket ønske mon gemmer sig\n"
+	.string "i dit navn, {STR_VAR_1}?$"
 
 SootopolisCity_Text_LikeSeasonBornIn::
-	.string "はる　なつ　あき　ふゆ\n"
-	.string "はるに　うまれると　はるが　すきで\l"
-	.string "なつに　うまれると　なつが　すきなのかな？$"
+	.string "Forår, sommer, efterår, vinter…\n"
+	.string "Mon man elsker forår hvis man er født der,\l"
+	.string "og sommer hvis man er født om sommeren?$"
 
 SootopolisCity_Text_ThenILoveAutumn::
-	.string "じゃあ　キリは　あきに　うまれたから\n"
-	.string "あきが　だいすき！\p"
-	.string "{STR_VAR_1}は　いつが　すき？$"
+	.string "Så fordi KIRI er født i efteråret,\n"
+	.string "elsker jeg efterår!\p"
+	.string "Hvad kan du bedst lide, {STR_VAR_1}?$"
 
 SootopolisCity_Text_OhDoesntMatter::
-	.string "そっか‥\n"
-	.string "かんけいないのか‥\p"
-	.string "しりたいことって　たくさんあるなー$"
+	.string "Okay…\n"
+	.string "Måske hænger det ikke sammen…\p"
+	.string "Der er så meget jeg gerne vil vide.$"

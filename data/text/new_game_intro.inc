@@ -238,5 +238,5 @@ gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
     .string "Din egen POKéMON-legende er\n"
     .string "ved at begynde!\p"
-    .string "En verden af dromme og eventyr\n"
+    .string "En verden af drømme og eventyr\n"
     .string "med POKéMON venter! Lad os gøre det!$"
