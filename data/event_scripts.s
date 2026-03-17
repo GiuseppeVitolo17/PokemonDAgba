@@ -855,8 +855,8 @@ Text_WantWhichFloor::
 	.string "Which floor do you want?$"
 
 Text_BagItemCanBeRegistered::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "En genstand i TASKEN kan\n"
+	.string "registreres til SELECT til hurtig brug.$"
 
 @ Unused (email from R/S Rivals computer)
 Text_TrainerSchoolEmail::

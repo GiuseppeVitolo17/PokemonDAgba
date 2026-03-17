@@ -231,834 +231,660 @@ Help_Text_AnswerSomeoneBlockingMyWay::
 	.string "blokerer din vej igen.$"
 
 Help_Text_AnswerICantGoOn::
-	.string "Try talking to people by going up to\n"
-	.string "them and pressing the A Button.\l"
-	.string "Also, try checking things like odd trees\l"
-	.string "and strange rocks with the A Button.\l"
-	.string "Press the {PLUS} Control Pad and try going\l"
-	.string "to places that look impassable, too.$"
+	.string "Prøv at tale med folk ved at gå hen til\n"
+	.string "dem og trykke A-knappen.\l"
+	.string "Undersøg også ting som mærkelige træer\l"
+	.string "og sten med A-knappen.\l"
+	.string "Brug {PLUS}-retningsknapperne og prøv at gå\l"
+	.string "til steder der ser ufremkommelige ud.$"
 
 Help_Text_AnswerOutOfThingsToDo::
-	.string "Try going to places where you \n"
-	.string "haven't visited yet.\l"
-	.string "Also, check everything that looks\l"
-	.string "suspicious by pressing the A Button.$"
+	.string "Prøv at gå til steder du endnu\n"
+	.string "ikke har besøgt.\l"
+	.string "Tjek også alt der ser mistænkeligt\l"
+	.string "ud ved at trykke A-knappen.$"
 
 Help_Text_AnswerWhatHappenedToItemIGot::
-	.string "Any item that you are given by another\n"
-	.string "character gøs in your BAG.\l"
-	.string "The item is automatically sorted and\l"
-	.string "placed in one of three pockets.\l"
-	.string "For instructions on the BAG's use,\l"
-	.string "please refer to the HELP System's\l"
-	.string "“How do I do this?” heading.$"
+	.string "Genstande du får af andre figurer\n"
+	.string "kommer i din TASKE.\l"
+	.string "Genstanden sorteres automatisk og\l"
+	.string "placeres i en af tre lommer.\l"
+	.string "For brug af TASKEN, se under\l"
+	.string "HJÆLP-systemets overskrift\l"
+	.string "“Hvordan gør jeg det her?”$"
 
 Help_Text_AnswerWhatAreMyAdventureBasics::
-	.string "If POKéMON are hurt in battle,\n"
-	.string "take them to a POKéMON CENTER and\l"
-	.string "have them healed by the staff.\l"
-	.string "Get in the habit of saving your\l"
-	.string "game and recording your progress.\l"
-	.string "Stock up on healing items at\l"
-	.string "POKéMON MARTS before traveling far.$"
+	.string "Hvis POKéMON er skadet i kamp, tag dem\n"
+	.string "til et POKéMON CENTER og lad dem\l"
+	.string "blive helbredt.\l"
+	.string "Værn om at gemme spillet og\l"
+	.string "registrere din fremgang.\l"
+	.string "Køb helbredelsesgenstande på\l"
+	.string "POKéMON MARTS før du rejser langt.$"
 
 Help_Text_AnswerHowAreRoadsForestsDifferent::
-	.string "Forests are basically the same as\n"
-	.string "roads but they can be like mazes.\l"
-	.string "All forests have a way out, so don't\l"
-	.string "give up if you get lost.$"
+	.string "Skovene er stort set som veje,\n"
+	.string "men kan være som labyrinter.\l"
+	.string "Alle skove har en udvej, så giv ikke\l"
+	.string "op hvis du kommer væk.$"
 
 Help_Text_AnswerHowAreCavesDifferent::
-	.string "Caves are dark and dangerous. Wild\n"
-	.string "POKéMON can appear anywhere in them.\l"
-	.string "If there is an emergency, rush to a\l"
-	.string "POKéMON CENTER or use items.\l"
-	.string "New towns await discovery beyond some\l"
-	.string "caves, so don't give up.$"
+	.string "Huler er mørke og farlige. Vilde\n"
+	.string "POKéMON kan dukke op overalt.\l"
+	.string "Ved nødstilfælde, skynd dig til et\l"
+	.string "POKéMON CENTER eller brug genstande.\l"
+	.string "Nye byer venter bag nogle huler,\l"
+	.string "så giv ikke op.$"
 
 Help_Text_AnswerHowDoIProgress::
-	.string "The object of the game is to train\n"
-	.string "your POKéMON and move forward.\l"
-	.string "You must collect info and solve\l"
-	.string "problems. For example, what do you\l"
-	.string "need to get around an obstacle?\l"
-	.string "What would get that impeding\l"
-	.string "person out of the way?$"
+	.string "Målet er at træne dine POKéMON og\n"
+	.string "komme videre.\l"
+	.string "Du skal indsamle info og løse\l"
+	.string "problemer. F.eks.: hvad skal du bruge\l"
+	.string "for at komme forbi en forhindring?\l"
+	.string "Hvad får den person der\l"
+	.string "blokerer dig til at flytte sig?$"
 
 Help_Text_AnswerWhenCanIUseItem::
-	.string "There are several kinds of items.\n"
-	.string "Some can be used only on the field.\l"
-	.string "Some are only for use during battle.\l"
-	.string "Some can be used anytime.\l"
-	.string "Try using an item - if it can't be used,\l"
-	.string "you will be alerted.$"
+	.string "Der findes flere slags genstande.\n"
+	.string "Nogle kan kun bruges i feltet.\l"
+	.string "Nogle er kun til kamp.\l"
+	.string "Nogle kan bruges når som helst.\l"
+	.string "Prøv at bruge en genstand - hvis den\l"
+	.string "ikke kan bruges, får du besked.$"
 
 Help_Text_AnswerWhatsABattle::
-	.string "In a battle, POKéMON try to reduce\n"
-	.string "one another's vitality, expressed as\l"
-	.string "HP. If a POKéMON's HP falls to zero,\l"
-	.string "it faints, and the other POKéMON\l"
-	.string "wins. By winning a battle, POKéMON\l"
-	.string "earn EXP. Points, which help them\l"
-	.string "level up (grow stronger).$"
+	.string "I kamp forsøger POKéMON at reducere\n"
+	.string "hinandens vitalitet (HP).\l"
+	.string "Hvis en POKéMONs HP når nul,\l"
+	.string "besvimer den, og modparten vinder.\l"
+	.string "Ved at vinde får POKéMON\l"
+	.string "EXP.-point, så de kan stige i niveau\l"
+	.string "(blive stærkere).$"
 
 Help_Text_AnswerHowDoIPrepareForBattle::
-	.string "First, fully heal the POKéMON in your\n"
-	.string "party (the POKéMON with you) at any\l"
+	.string "Helbred først alle POKéMON i dit hold\n"
+	.string "(dem du har med) på et\l"
 	.string "POKéMON CENTER.\l"
-	.string "You should also buy healing items for\l"
-	.string "emergencies at a POKéMON MART.$"
+	.string "Køb også helbredelsesgenstande til\l"
+	.string "nødstilfælde på en POKéMON MART.$"
 
 Help_Text_AnswerWhatIsAMonsVitality::
-	.string "A POKéMON's vitality is expressed in HP.\n"
-	.string "If a POKéMON is hurt in battle, HP is\l"
-	.string "subtracted. If its HP drops to zero,\l"
-	.string "the POKéMON faints.\l"
-	.string "Heal hurt or fainted POKéMON at a\l"
-	.string "POKéMON CENTER or by using items.$"
+	.string "En POKéMONs vitalitet er HP.\n"
+	.string "Skades den i kamp, falder HP.\l"
+	.string "Ved nul HP besvimer POKéMON.\l"
+	.string "Helbred skadede eller besvimede\l"
+	.string "POKéMON på et POKéMON CENTER\l"
+	.string "eller med genstande.$"
 
 Help_Text_AnswerMyMonsAreHurt::
-	.string "A POKéMON CENTER is like an inn for\n"
-	.string "POKéMON. It will fully heal POKéMON of\l"
-	.string "any status problems and fully restore\l"
-	.string "their HP using a special machine.\l"
-	.string "This service is free, so get in the\l"
-	.string "habit of healing your POKéMON often.$"
+	.string "Et POKéMON CENTER er som et herberg\n"
+	.string "for POKéMON. Det helbreder alle\l"
+	.string "statusproblemer og genopretter HP\l"
+	.string "med en speciel maskine.\l"
+	.string "Tjenesten er gratis - helbred dine\l"
+	.string "POKéMON ofte.$"
 
 Help_Text_AnswerWhatIsStatusProblem::
-	.string "A status problem refers to an ailment\n"
-	.string "that is inflicted on a POKéMON by its\l"
-	.string "fø's attack. These include burns,\l"
-	.string "paralysis, poisoning, sleep, and\l"
-	.string "freezing. These can be healed by\l"
-	.string "visiting a POKéMON CENTER or using\l"
-	.string "the appropriate item.$"
+	.string "Et statusproblem er en lidelse som\n"
+	.string "påføres en POKéMON af modstanderens\l"
+	.string "angreb: forbrænding, lammelse,\l"
+	.string "forgiftning, søvn og frysning.\l"
+	.string "Helbredes på et POKéMON CENTER eller\l"
+	.string "med passende genstand.$"
 
 Help_Text_AnswerWhatHappensIfAllMyMonsFaint::
-	.string "If all the POKéMON in your party\n"
-	.string "(all the POKéMON with you) faint, you\l"
-	.string "lose some MONEY, and you are\l"
-	.string "returned home or to a POKéMON\l"
-	.string "CENTER. To reduce that chance, visit\l"
-	.string "POKéMON CENTERS often. Also, get\l"
-	.string "in the habit of saving often.$"
+	.string "Hvis alle POKéMON i dit hold besvimer,\n"
+	.string "taber du PENGE og bliver bragt hjem\l"
+	.string "eller til et POKéMON CENTER.\l"
+	.string "Besøg POKéMON CENTER ofte og gem\l"
+	.string "ofte for at mindske risikoen.$"
 
 Help_Text_AnswerCantCatchMons::
-	.string "If a wild POKéMON escapes from a POKe\n"
-	.string "BALL, it's obviously still feisty.\l"
-	.string "Try reducing its HP some more, and\l"
-	.string "try to weaken it with paralysis or sleep\l"
-	.string "before trying to catch it.\l"
-	.string "If the POKe BALL rocks for a while,\l"
-	.string "the quarry is close to being caught!$"
+	.string "Hvis en vild POKéMON slipper ud af en\n"
+	.string "POKé BALL, er den stadig kampklar.\l"
+	.string "Reducer dens HP mere og svækk den\l"
+	.string "med lammelse eller søvn før fangst.\l"
+	.string "Ryster POKé BALLen længe, er den\l"
+	.string "tæt på at blive fanget!$"
 
 Help_Text_AnswerRanOutOfPotions::
-	.string "There are shops, known as POKéMON\n"
-	.string "MARTS, that sell items.\l"
-	.string "You will not find POKéMON MARTS on\l"
-	.string "roads, in forests, or in caves.\l"
-	.string "Stock up on needed items while you are\l"
-	.string "visiting a town with a POKéMON MART.$"
+	.string "POKéMON MARTS sælger genstande.\n"
+	.string "De findes ikke på veje, i skove eller\l"
+	.string "huler. Køb det du mangler, når du er\l"
+	.string "i en by med en POKéMON MART.$"
 
 Help_Text_AnswerCanIBuyPokeBalls::
-	.string "You may buy POKe BALLS at any\n"
-	.string "POKéMON MART in any town.\l"
-	.string "You will not find POKéMON MARTS on\l"
-	.string "roads, in forests, or in caves.\l"
-	.string "Stock up on POKe BALLS while you are\l"
-	.string "visiting a town with a POKéMON MART.$"
+	.string "Du kan købe POKé BALLS på enhver\n"
+	.string "POKéMON MART i byer.\l"
+	.string "POKéMON MARTS findes ikke på veje,\l"
+	.string "i skove eller huler. Køb POKé BALLS\l"
+	.string "når du er i en by med MART.$"
 
 Help_Text_AnswerWhatsATrainer::
-	.string "A TRAINER is a person who raises\n"
-	.string "POKéMON through battling.\l"
-	.string "TRAINERS will challenge you \l"
-	.string "wherever they are - it could be on\l"
-	.string "a road, in forests, caves, anywhere.\l"
-	.string "If your eyes meet, you have to accept\l"
-	.string "their challenge. So be careful!$"
+	.string "En TRÆNER træner POKéMON via kampe.\n"
+	.string "TRÆNERE udfordrer dig overalt - på\l"
+	.string "vej, i skove, huler. Møder I blikke,\l"
+	.string "skal du acceptere udfordringen.\l"
+	.string "Vær forsigtig!$"
 
 Help_Text_AnswerHowDoIWinAgainstTrainer::
-	.string "To beat a TRAINER in battle, use\n"
-	.string "POKéMON that have type advantages\l"
-	.string "over the fø's POKéMON. You may also\l"
-	.string "use highly trained POKéMON with\l"
-	.string "overwhelming power. Outnumbering the\l"
-	.string "fø's POKéMON is another obvious\l"
-	.string "tactic.$"
+	.string "Brug POKéMON med typefordele over\n"
+	.string "modstanderens. Eller stærkt trænede\l"
+	.string "POKéMON. At have flere POKéMON end\l"
+	.string "modstanderen er også en god taktik.$"
 
 Help_Text_AnswerWhereDoMonsAppear::
-	.string "Wild POKéMON will appear in tall grass,\n"
-	.string "on roads, and in forests. They will\l"
-	.string "appear anywhere in dark caves.\l"
-	.string "There are no wild POKéMON or TRAINERS\l"
-	.string "in towns, so they are safe places.$"
+	.string "Vilde POKéMON dukker op i højt græs,\n"
+	.string "på veje og i skove. Overalt i mørke\l"
+	.string "huler. I byer er der ingen vilde\l"
+	.string "POKéMON eller TRÆNERE - trygte steder.$"
 
 Help_Text_AnswerWhatAreMoves::
-	.string "POKéMON may learn up to four different\n"
-	.string "techniques, or moves. There is a great\l"
-	.string "variety of moves including attacks and\l"
-	.string "those with special effects. The kinds\l"
-	.string "of moves that can be learned vary\l"
-	.string "for each POKéMON. Some moves\l"
-	.string "can be learned from machines.$"
+	.string "POKéMON kan lære op til fire angreb.\n"
+	.string "Der findes mange - angreb og\l"
+	.string "særlige effekter. Hver POKéMON kan\l"
+	.string "lære forskellige. Nogle læres fra\l"
+	.string "maskiner (TM/HM).$"
 
 Help_Text_AnswerWhatAreHiddenMoves::
-	.string "HIDDEN moves are those that are\n"
-	.string "especially important for your\l"
-	.string "adventure. To use such a move outside\l"
-	.string "of battle, open the “POKéMON” MENU\l"
-	.string "and make the POKéMON that knows the\l"
-	.string "move use it. A fainted POKéMON may use\l"
-	.string "a HIDDEN move outside of battle.$"
+	.string "HEMMELIGE angreb er vigtige for\n"
+	.string "eventyret. Brug dem uden for kamp\l"
+	.string "via POKéMON-menuen - vælg POKéMON\l"
+	.string "der kan angrebet. Besvimede kan også\l"
+	.string "bruge HEMMELIGE angreb uden for kamp.$"
 
 Help_Text_AnswerWhatMovesShouldIUse::
-	.string "Select “FIGHT,” and the MENU of moves\n"
-	.string "will appear. Consider the type\l"
-	.string "matchups, and use the most effective\l"
-	.string "moves. You can check the effects of\l"
-	.string "moves by opening “POKéMON,”\l"
-	.string "picking a POKéMON, opening “SUMMARY,”\l"
-	.string "then opening “POKéMON SKILLS.”$"
+	.string "Vælg KAMP - så vises angrebsmenuen.\n"
+	.string "Tænk på typefordele og brug de mest\l"
+	.string "effektive. Se effekter under POKéMON,\l"
+	.string "VÆLG POKéMON, OPSUMMERING,\l"
+	.string "POKéMON FÆRDIGHEDER.$"
 
 Help_Text_AnswerWantToAddMoreMoves::
-	.string "The most a POKéMON can learn is four\n"
-	.string "moves. They are learned as the\l"
-	.string "POKéMON levels up. It can also be\l"
-	.string "taught a move using a TM (Technical\l"
-	.string "Machine) or HM (Hidden Machine).\l"
-	.string "There are also people who teach moves.$"
+	.string "En POKéMON kan lære højst fire angreb.\n"
+	.string "De læres ved niveaustigning eller med\l"
+	.string "TM (Teknisk Maskine) eller HM\l"
+	.string "(Hemmelig Maskine). Nogle personer\l"
+	.string "lærer også angreb.$"
 
 Help_Text_AnswerWantToMakeMonStronger::
-	.string "The key to making your POKéMON\n"
-	.string "strong is to battle and win often.\l"
-	.string "The EXP. (Experience) Points earned\l"
-	.string "by winning battles accumulate to\l"
-	.string "level up POKéMON that participated in\l"
-	.string "them. Battle wild POKéMON often to\l"
-	.string "level up your party.$"
+	.string "Kæmp og vind ofte - så bliver dine\n"
+	.string "POKéMON stærkere. EXP. fra kampe\l"
+	.string "giver niveaustigning. Kæmp mod vilde\l"
+	.string "POKéMON for at løfte hele holdet.$"
 
 Help_Text_AnswerFoeMonsTooStrong::
-	.string "If your føs are too strong, try\n"
-	.string "leveling up your POKéMON some more.\l"
-	.string "Go back the way you came and battle\l"
-	.string "wild POKéMON to level up your party.\l"
-	.string "You may also battle TRAINERS whom you\l"
-	.string "have not battled before.$"
+	.string "Er fjenden for stærk, løft niveau ved\n"
+	.string "at kæmpe mod vilde POKéMON eller\l"
+	.string "TRÆNERE du ikke har slået endnu.\l"
+	.string "Gå tilbage og træn mere.$"
 
 Help_Text_AnswerWhatDoIDoInCave::
-	.string "Unlike roads and forests, wild POKéMON\n"
-	.string "can appear anywhere in caves.\l"
-	.string "If your POKéMON are hurt in a cave,\l"
-	.string "rush to a POKéMON CENTER or use items\l"
-	.string "to heal them right away. It is very\l"
-	.string "dangerous to force your luck in caves.$"
+	.string "I huler kan vilde POKéMON dukke op\n"
+	.string "overalt. Er dine skadet, skynd dig til\l"
+	.string "et POKéMON CENTER eller brug genstande.\l"
+	.string "Det er farligt at tage for store\l"
+	.string "chancer i huler.$"
 
 Help_Text_AnswerNothingIWantToKnow::
-	.string "Trust your own knowledge and power.\n"
-	.string "Believe in yourself and find your way!$"
+	.string "Stol på din viden og styrke.\n"
+	.string "Tro på dig selv og find din vej!$"
 
 Help_Text_AnswerWhatsPokemonCenter::
-	.string "A POKéMON CENTER is identified by its\n"
-	.string "red roof and a “P.C” sign. Every\l"
-	.string "POKéMON CENTER offers such services as\l"
-	.string "fully healing POKéMON and free PC use,\l"
-	.string "making it essential for your travels.\l"
-	.string "On the upper floor are facilities for\l"
-	.string "linking with friends and others.$"
+	.string "Et POKéMON CENTER kendes på rødt tag\n"
+	.string "og P.C.-skilt. De helbreder POKéMON\l"
+	.string "og har gratis PC. På øverste etage\l"
+	.string "er link til venner og andre.$"
 
 Help_Text_AnswerWhatsPokemonMart::
-	.string "A POKéMON MART is identified by its\n"
-	.string "blue roof and a “MART” sign.\l"
-	.string "Items can be bought and sold at any\l"
-	.string "POKéMON MART. Some MARTS carry items\l"
-	.string "that are available only in their towns.$"
+	.string "En POKéMON MART kendes på blåt tag\n"
+	.string "og MART-skilt. Køb og sælg genstande.\l"
+	.string "Nogle MARTS har genstande kun i den by.$"
 
 Help_Text_AnswerWantToEndGame::
-	.string "You can safely end your game by\n"
-	.string "selecting “SAVE” on the MENU.\l"
-	.string "Once you have saved, the game can be\l"
-	.string "safely turned off. When the game is\l"
-	.string "turned back on, you can resume from\l"
-	.string "where you last saved.$"
+	.string "Gem spillet via GEM i menuen. Efter\l"
+	.string "gem kan du slukke sikkert. Når du\l"
+	.string "tænder igen, fortsætter du hvor du gemte.$"
 
 Help_Text_AnswerWhatsAMon::
-	.string "POKéMON are living beings about which\n"
-	.string "many mysteries still remain. You may\l"
-	.string "see them in grass, the sea, and caves.\l"
-	.string "They appear to obey the wishes of the\l"
-	.string "TRAINERS that caught them.$"
+	.string "POKéMON er væsner med mange mysterier.\n"
+	.string "De findes i græs, hav og huler og\l"
+	.string "lyder TRÆNEREN der fangede dem.$"
 
 Help_Text_AnswerWhatIsThatPersonLike::
-	.string "Use the FAME CHECKER among the\n"
-	.string "KEY ITEMS in your BAG.\l"
-	.string "It may give you a hint, so try it out.$"
+	.string "Brug BERØMMELSESCHECKER blandt\n"
+	.string "NØGLEGENSTANDE i TASKEN.\l"
+	.string "Den kan give et tip.$"
 
 Help_Text_AnswerWhatDoesHiddenMoveDo::
-	.string "A HIDDEN move is taught to a POKéMON\n"
-	.string "using an HM (Hidden Machine).\l"
-	.string "A HIDDEN move is important for helping\l"
-	.string "your adventure. For example, one is\l"
-	.string "used to light up dark caves. Another\l"
-	.string "cuts down small trees. There is one\l"
-	.string "for traveling on water, and so on.$"
+	.string "HEMMELIGE angreb læres med HM.\n"
+	.string "De er vigtige for eventyret: f.eks.\l"
+	.string "lys i mørke huler, fæld små træer,\l"
+	.string "rejse på vand osv.$"
 
 Help_Text_AnswerWhatDoIDoInSafari::
-	.string "Try to catch wild POKéMON by throwing\n"
-	.string "the special SAFARI BALLS.\l"
-	.string "You may keep any item you find, too.$"
+	.string "Fang vilde POKéMON med de særlige\n"
+	.string "SAFARI BALLS. Du må beholde genstande\l"
+	.string "du finder.$"
 
 Help_Text_AnswerWhatAreSafariRules::
-	.string "Your SAFARI GAME ends once you have\n"
-	.string "traveled a certain distance or thrown\l"
-	.string "all your SAFARI BALLS.\l"
-	.string "Open the MENU to check the remaining\l"
-	.string "number of steps and SAFARI BALLS.$"
+	.string "SAFARI slutter når du har gået et\n"
+	.string "vist antal skridt eller brugt alle\l"
+	.string "SAFARI BALLS. Tjek menuen for resterende\l"
+	.string "skridt og SAFARI BALLS.$"
 
 Help_Text_AnswerWantToEndSafari::
-	.string "If you would like to cut your SAFARI\n"
-	.string "GAME short, open the MENU and select\l"
-	.string "“RETIRE” at the top of the list.$"
+	.string "Vil du afbryde SAFARI, åbn menuen og\l"
+	.string "vælg AFGÅ øverst på listen.$"
 
 Help_Text_AnswerWhatIsAGym::
-	.string "POKéMON GYMS are operated by the\n"
-	.string "POKéMON LEAGUE and are training\l"
-	.string "facilities for TRAINERS. They are all\l"
-	.string "across the land in cities and towns.\l"
-	.string "Each one is headed by a LEADER, who\l"
-	.string "is a very skilled TRAINER. Beat the\l"
-	.string "LEADER to collect a BADGE.$"
+	.string "POKéMON ARENE drives af LIGAEN og er\n"
+	.string "træningssteder for TRÆNERE. Hver har\l"
+	.string "en LEDER. Besejr LEDEREN for at få\l"
+	.string "et MÆRKE.$"
 
 Help_Text_UsingPokedex::
-	.string " Using “POKéDEX”$"
+	.string " Bruge POKéDEX$"
 
 Help_Text_UsingPokemon::
-	.string " Using “POKéMON”$"
+	.string " Bruge POKéMON$"
 
 Help_Text_UsingSummary::
-	.string "  Using “SUMMARY”$"
+	.string "  Bruge OPSUMMERING$"
 
 Help_Text_UsingSwitch::
-	.string "  Using “SWITCH”$"
+	.string "  Bruge UDSKIFT$"
 
 Help_Text_UsingItem::
-	.string "  Using “ITEM”$"
+	.string "  Bruge GENSTAND$"
 
 Help_Text_UsingBag::
-	.string " Using “BAG”$"
+	.string " Bruge TASKE$"
 
 Help_Text_UsingAnItem::
-	.string "  Using an item$"
+	.string "  Bruge en genstand$"
 
 Help_Text_UsingKeyItem::
-	.string "  Using a key item$"
+	.string "  Bruge nøglegenstand$"
 
 Help_Text_UsingPokeBall::
-	.string "  Using a POKe BALL$"
+	.string "  Bruge POKé BALL$"
 
 Help_Text_UsingPlayer::
-	.string " Using “{PLAYER}”$"
+	.string " Bruge {PLAYER}$"
 
 Help_Text_UsingSave::
-	.string " Using “SAVE”$"
+	.string " Bruge GEM$"
 
 Help_Text_UsingOption::
-	.string " Using “OPTION”$"
+	.string " Bruge VALGMULIGHED$"
 
 Help_Text_UsingPotion::
-	.string "    Using a POTION$"
+	.string "    Bruge POTION$"
 
 Help_Text_UsingTownMap::
-	.string "    Using the TOWN MAP$"
+	.string "    Bruge BYKORT$"
 
 Help_Text_UsingTM::
-	.string "    Using a TM$"
+	.string "    Bruge TM$"
 
 Help_Text_UsingHM::
-	.string "    Using an HM$"
+	.string "    Bruge HM$"
 
 Help_Text_UsingMoveOutsideOfBattle::
-	.string "Using a move outside of battle$"
+	.string "Bruge angreb uden for kamp$"
 
 Help_Text_RidingBicycle::
-	.string "    Riding the BICYCLE$"
+	.string "    Køre på CYKEL$"
 
 Help_Text_EnteringName::
-	.string "Entering a name$"
+	.string "Indtaste et navn$"
 
 Help_Text_UsingPC::
-	.string "Using a PC$"
+	.string "Bruge PC$"
 
 Help_Text_UsingBillsPC::
-	.string " Using “{STR_VAR_1}'S PC”$"
+	.string " Bruge {STR_VAR_1}S PC$"
 
 Help_Text_UsingWithdraw::
-	.string "  Using “WITHDRAW”$"
+	.string "  Bruge HÆV$"
 
 Help_Text_UsingDeposit::
-	.string "  Using “DEPOSIT”$"
+	.string "  Bruge DEPONER$"
 
 Help_Text_UsingMove::
-	.string "  Using “MOVE”$"
+	.string "  Bruge FLYT$"
 
 Help_Text_MovingItems::
-	.string "  Moving items$"
+	.string "  Flytte genstande$"
 
 Help_Text_UsingPlayersPC::
-	.string " Using “{PLAYER}'s PC”$"
+	.string " Bruge {PLAYER}s PC$"
 
 Help_Text_UsingWithdrawItem::
-	.string "  Using “WITHDRAW ITEM”$"
+	.string "  Bruge HÆV GENSTAND$"
 
 Help_Text_UsingDepositItem::
-	.string "  Using “DEPOSIT ITEM”$"
+	.string "  Bruge DEPONER GENSTAND$"
 
 Help_Text_UsingMailbox::
-	.string "  Using “MAILBOX”$"
+	.string "  Bruge MAILKASSE$"
 
 Help_Text_UsingProfOaksPC::
-	.string " Using “PROF. OAK'S PC”$"
+	.string " Bruge PROF. OAKS PC$"
 
 Help_Text_OpeningMenu::
-	.string "Opening the MENU$"
+	.string "Åbne menuen$"
 
 Help_Text_UsingFight::
-	.string " Using “FIGHT”$"
+	.string " Bruge KAMP$"
 
 Help_Text_UsingPokemon2::
-	.string " Using “POKéMON”$"
+	.string " Bruge POKéMON$"
 
 Help_Text_UsingShift::
-	.string "  Using “SHIFT”$"
+	.string "  Bruge SKIFT$"
 
 Help_Text_UsingSummary2::
-	.string "  Using “SUMMARY”$"
+	.string "  Bruge OPSUMMERING$"
 
 Help_Text_UsingBag2::
-	.string " Using “BAG”$"
+	.string " Bruge TASKE$"
 
 Help_Text_ReadingPokedex::
-	.string " Reading the “POKéDEX”$"
+	.string " Læse POKéDEX$"
 
 Help_Text_UsingHomePC::
-	.string "Using the PC at home$"
+	.string "Bruge PC derhjemme$"
 
 Help_Text_UsingItemStorage::
-	.string "Using the Item Storage System$"
+	.string "Bruge genstandslager$"
 
 Help_Text_UsingWithdrawItem2::
-	.string "  Using “WITHDRAW ITEM”$"
+	.string "  Bruge HÆV GENSTAND$"
 
 Help_Text_UsingDepositItem2::
-	.string "  Using “DEPOSIT ITEM”$"
+	.string "  Bruge DEPONER GENSTAND$"
 
 Help_Text_UsingMailbox2::
-	.string "Using the MAILBOX$"
+	.string "Bruge MAILKASSEN$"
 
 Help_Text_UsingRun::
-	.string " Using “RUN”$"
+	.string " Bruge LØB$"
 
 Help_Text_RegisterKeyItem::
-	.string "  “REGISTER” a key item$"
+	.string " REGISTRER nøglegenstand$"
 
 Help_Text_UsingBall::
-	.string " Using “BALL”$"
+	.string " Bruge BALL$"
 
 Help_Text_UsingBait::
-	.string " Using “BAIT”$"
+	.string " Bruge MADD$"
 
 Help_Text_UsingRock::
-	.string " Using “ROCK”$"
+	.string " Bruge STEN$"
 
 Help_Text_UsingHallOfFame::
-	.string " Using “HALL OF FAME”$"
+	.string " Bruge ÆRESGALLERI$"
 
 Help_Text_HowToUsePokedex::
-	.string "{CIRCLE_1} Select “POKéDEX” on the MENU.\n"
-	.string "{CIRCLE_2} Choose POKéMON using commands such\n"
-	.string "   as “POKéMON LIST,”\n"
-	.string "   “HABITATS OF POKéMON,” and\n"
-	.string "   “SEARCH.”\n"
-	.string "{CIRCLE_3} Select a POKéMON to obtain detailed\n"
-	.string "   information.$"
+	.string "{CIRCLE_1} Vælg POKéDEX i menuen.\n"
+	.string "{CIRCLE_2} Vælg POKéMON via POKéMON LISTE,\n"
+	.string "   POKéMON LEVESTEDER og SØG.\n"
+	.string "{CIRCLE_3} Vælg en POKéMON for detaljer.$"
 
 Help_Text_HowToUsePokemon::
-	.string "{CIRCLE_1} Select “POKéMON” on the MENU.\n"
-	.string "{CIRCLE_2} Choose a POKéMON in your party.\n"
-	.string "{CIRCLE_3} Select “SUMMARY,” “SWITCH,”\n"
-	.string "   or “ITEM.”$"
+	.string "{CIRCLE_1} Vælg POKéMON i menuen.\n"
+	.string "{CIRCLE_2} Vælg en POKéMON i dit hold.\n"
+	.string "{CIRCLE_3} Vælg OPSUMMERING, UDSKIFT eller GENSTAND.$"
 
 Help_Text_HowToUseSummary::
-	.string "{CIRCLE_1} Select “SUMMARY.”\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the information:\n"
-	.string "   “POKéMON INFO”\n"
-	.string "   “POKéMON SKILLS”\n"
-	.string "   “KNOWN MOVES”$"
+	.string "{CIRCLE_1} Vælg OPSUMMERING.\n"
+	.string "{CIRCLE_2} Brug venstre/højre på {PLUS} for at se\n"
+	.string "   POKéMON INFO, POKéMON FÆRDIGHEDER,\n"
+	.string "   KENDTE ANGREB.$"
 
 Help_Text_HowToUseSwitch::
-	.string "{CIRCLE_1} Choose the POKéMON you want to\n"
-	.string "   switch around.\n"
-	.string "{CIRCLE_2} Select “SWITCH.”\n"
-	.string "{CIRCLE_3} Select the POKéMON to switch with\n"
-	.string "   the first one.\n"
-	.string "The POKéMON at the left of the screen\n"
-	.string "will be the first one out in a battle.$"
+	.string "{CIRCLE_1} Vælg den POKéMON du vil udskifte.\n"
+	.string "{CIRCLE_2} Vælg UDSKIFT.\n"
+	.string "{CIRCLE_3} Vælg POKéMON der skal bytte med.\n"
+	.string "POKéMON til venstre kommer først i kamp.$"
 
 Help_Text_HowToUseItem::
-	.string "{CIRCLE_1} Select “ITEM.”\n"
-	.string "{CIRCLE_2} Select whether you want to “GIVE”\n"
-	.string "   an item to the POKéMON to hold,\n"
-	.string "   or “TAKE” an item it is holding.\n"
-	.string "A POKéMON can hold no more than one\n"
-	.string "item!$"
+	.string "{CIRCLE_1} Vælg GENSTAND.\n"
+	.string "{CIRCLE_2} Vælg GIV (til POKéMON) eller TAG.\n"
+	.string "En POKéMON kan kun bære én genstand!$"
 
 Help_Text_HowToUseBag::
-	.string "{CIRCLE_1} Select “BAG” on the MENU.\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the data headings:\n"
-	.string "   “ITEMS”\n"
-	.string "   “KEY ITEMS”\n"
-	.string "   “POKe BALLS”\n"
-	.string "   Press up or down to select an item.$"
+	.string "{CIRCLE_1} Vælg TASKE i menuen.\n"
+	.string "{CIRCLE_2} Brug venstre/højre på {PLUS} for\n"
+	.string "   GENSTANDE, NØGLEGENSTANDE, POKé BALLS.\n"
+	.string "   Op/ned for at vælge.$"
 
 Help_Text_HowToUseAnItem::
-	.string "{CIRCLE_1} Select the “ITEMS” POCKET.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select an item.\n"
-	.string "{CIRCLE_3} Select “USE” to use the selected\n"
-	.string "   item.\n"
-	.string "Some items may not be used depending\n"
-	.string "on the place and/or situation.$"
+	.string "{CIRCLE_1} Vælg GENSTANDE-lommen.\n"
+	.string "{CIRCLE_2} Brug op/ned på {PLUS} til at vælge.\n"
+	.string "{CIRCLE_3} Vælg BRUG. Nogle genstande kan ikke\n"
+	.string "bruges overalt.$"
 
 Help_Text_HowToUseKeyItem::
-	.string "{CIRCLE_1} Select the “KEY ITEMS” POCKET.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select a key item.\n"
-	.string "{CIRCLE_3} Select “USE” to use the selected\n"
-	.string "   key item.$"
+	.string "{CIRCLE_1} Vælg NØGLEGENSTANDE-lommen.\n"
+	.string "{CIRCLE_2} Brug op/ned på {PLUS}.\n"
+	.string "{CIRCLE_3} Vælg BRUG.$"
 
 Help_Text_HowToUsePokeBall::
-	.string "{CIRCLE_1} While battling a wild POKéMON,\n"
-	.string "   select the BAG's “POKe BALLS”\n"
-	.string "   POCKET.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select a POKe BALL.\n"
-	.string "{CIRCLE_3} Select “USE” to throw the selected\n"
-	.string "   POKe BALL.$"
+	.string "{CIRCLE_1} I kamp: vælg TASKENs POKé BALLS.\n"
+	.string "{CIRCLE_2} Op/ned på {PLUS} for at vælge ball.\n"
+	.string "{CIRCLE_3} Vælg BRUG for at kaste.$"
 
 Help_Text_HowToUsePlayer::
-	.string "{CIRCLE_1} Select “{PLAYER}” on the MENU.\n"
-	.string "{CIRCLE_2} Your TRAINER CARD is displayed face\n"
-	.string "   up with basic information. Press the\n"
-	.string "   A Button to turn the CARD over.\n"
-	.string "{CIRCLE_3} A variety of data can be found on\n"
-	.string "   the reverse side of the CARD.$"
+	.string "{CIRCLE_1} Vælg {PLAYER} i menuen.\n"
+	.string "{CIRCLE_2} TRÆNERKORT vises. Tryk A for at vende.\n"
+	.string "{CIRCLE_3} Mere info på bagsiden.$"
 
 Help_Text_HowToUseSave::
-	.string "{CIRCLE_1} Select “SAVE” on the MENU.\n"
-	.string "{CIRCLE_2} Select “YES” and your progress is\n"
-	.string "   recorded in the save file.\n"
-	.string "Once the game is saved, you may turn\n"
-	.string "off the game. Your game can be resumed\n"
-	.string "from where you saved.$"
+	.string "{CIRCLE_1} Vælg GEM i menuen.\n"
+	.string "{CIRCLE_2} Vælg JA - fremgang gemmes.\n"
+	.string "Efter gem kan du slukke og fortsætte senere.$"
 
 Help_Text_HowToUseOption::
-	.string "{CIRCLE_1} Select “OPTION” on the MENU.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select an optional item, then\n"
-	.string "   press left or right to alter the\n"
-	.string "   settings.\n"
-	.string "{CIRCLE_3} Select “CANCEL” or press the\n"
-	.string "   B Button after making changes.$"
+	.string "{CIRCLE_1} Vælg VALGMULIGHED i menuen.\n"
+	.string "{CIRCLE_2} Op/ned for valg, venstre/højre for at ændre.\n"
+	.string "{CIRCLE_3} ANNULLER eller B når du er færdig.$"
 
 Help_Text_HowToUsePotion::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad and select “BAG.”\n"
-	.string "{CIRCLE_3} Select “POTION” in the “ITEMS”\n"
-	.string "   POCKET.\n"
-	.string "{CIRCLE_4} Select “USE.”\n"
-	.string "{CIRCLE_5} Select the POKéMON to be healed.$"
+	.string "{CIRCLE_1} Åbn menuen.\n"
+	.string "{CIRCLE_2} Vælg TASKE.\n"
+	.string "{CIRCLE_3} Vælg POTION i GENSTANDE.\n"
+	.string "{CIRCLE_4} Vælg BRUG.\n"
+	.string "{CIRCLE_5} Vælg POKéMON der skal helbredes.$"
 
 Help_Text_HowToUseTownMap::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad and select “BAG.”\n"
-	.string "{CIRCLE_3} Press left or right to open the\n"
-	.string "   “KEY ITEMS” POCKET, then press\n"
-	.string "   up or down to select “TOWN MAP.” \n"
-	.string "{CIRCLE_4} Select “USE” to open the TOWN MAP.$"
+	.string "{CIRCLE_1} Åbn menuen.\n"
+	.string "{CIRCLE_2} Vælg TASKE.\n"
+	.string "{CIRCLE_3} Åbn NØGLEGENSTANDE, vælg BYKORT.\n"
+	.string "{CIRCLE_4} Vælg BRUG for at åbne kortet.$"
 
 Help_Text_HowToUseTM::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n"
-	.string "   “BAG.”\n"
-	.string "{CIRCLE_3} “OPEN” the TM CASE.\n"
-	.string "{CIRCLE_4} Select and “USE” a TM.\n"
-	.string "{CIRCLE_5} Select a POKéMON that can learn the\n"
-	.string "   move in the TM.$"
+	.string "{CIRCLE_1} Åbn menuen.\n"
+	.string "{CIRCLE_2} Åbn NØGLEGENSTANDE i TASKEN.\n"
+	.string "{CIRCLE_3} Åbn TM-BOKSEN.\n"
+	.string "{CIRCLE_4} Vælg og BRUG en TM.\n"
+	.string "{CIRCLE_5} Vælg POKéMON der kan lære angrebet.$"
 
 Help_Text_HowToUseHM::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n"
-	.string "   “BAG.”\n"
-	.string "{CIRCLE_3} “OPEN” the TM CASE.\n"
-	.string "{CIRCLE_4} Select and “USE” an HM.\n"
-	.string "{CIRCLE_5} Select a POKéMON that can learn it.\n"
-	.string "HMs are hard to remove, so be careful!$"
+	.string "{CIRCLE_1} Åbn menuen.\n"
+	.string "{CIRCLE_2} Åbn NØGLEGENSTANDE i TASKEN.\n"
+	.string "{CIRCLE_3} Åbn TM-BOKSEN.\n"
+	.string "{CIRCLE_4} Vælg og BRUG en HM.\n"
+	.string "{CIRCLE_5} Vælg POKéMON der kan lære den.\n"
+	.string "HM er svære at fjerne - pas på!$"
 
 Help_Text_HowToUseMoveOutsideOfBattle::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Select “POKéMON.”\n"
-	.string "{CIRCLE_3} Select a POKéMON that knows an\n"
-	.string "   HM move. The usable HM move(s)\n"
-	.string "   will be shown in blue. Select and\n"
-	.string "   use the desired move to destroy an\n"
-	.string "   obstacle, fly, surf, etc.$"
+	.string "{CIRCLE_1} Åbn menuen.\n"
+	.string "{CIRCLE_2} Vælg POKéMON.\n"
+	.string "{CIRCLE_3} Vælg POKéMON med HM-angreb (blå).\n"
+	.string "Brug angrebet til at fjerne forhindringer,\n"
+	.string "flyve, surfe osv.$"
 
 Help_Text_HowToRideBicycle::
-	.string "{CIRCLE_1} Open the MENU. Open the\n"
-	.string "   “KEY ITEMS” POCKET in the “BAG”\n"
-	.string "   and select the “BICYCLE.”\n"
-	.string "{CIRCLE_2} The BICYCLE can be ridden by\n"
-	.string "   selecting “USE.” You may also\n"
-	.string "   “REGISTER” it for instant use by\n"
-	.string "   pressing SELECT.$"
+	.string "{CIRCLE_1} Åbn menuen, NØGLEGENSTANDE, vælg CYKEL.\n"
+	.string "{CIRCLE_2} Vælg BRUG for at køre. REGISTRER med\n"
+	.string "   SELECT for hurtig brug.$"
 
 Help_Text_HowToEnterName::
-	.string "{CIRCLE_1} Move the cursor to the letter you\n"
-	.string "   want with the {PLUS} Control Pad, then\n"
-	.string "   press the A Button to enter it.\n"
-	.string "{CIRCLE_2} Press the B Button to back up.\n"
-	.string "{CIRCLE_3} Press SELECT to switch between\n"
-	.string "   uppercase and lowercase letters.\n"
-	.string "{CIRCLE_4} Press the A Button on “OK.”$"
+	.string "{CIRCLE_1} Flyt markøren med {PLUS}, tryk A.\n"
+	.string "{CIRCLE_2} B for at gå tilbage.\n"
+	.string "{CIRCLE_3} SELECT skifter store/små bogstaver.\n"
+	.string "{CIRCLE_4} Tryk A på OK.$"
 
 Help_Text_HowToUsePC::
-	.string "{CIRCLE_1} Go to any POKéMON CENTER, go up\n"
-	.string "   to the PC, then press the A Button.$"
+	.string "{CIRCLE_1} Gå til et POKéMON CENTER, hen til PC,\n"
+	.string "   tryk A-knappen.$"
 
 Help_Text_HowToUseBillsPC::
-	.string "{CIRCLE_1} Select “{STR_VAR_1}'S PC” on the PC.\n"
-	.string "{CIRCLE_2} Select from one of the top three\n"
-	.string "   MENU items to access the POKéMON\n"
-	.string "   Storage System.\n"
-	.string "If you catch a POKéMON when you have\n"
-	.string "six in your party, the POKéMON is sent\n"
-	.string "automatically to a BOX in the System!$"
+	.string "{CIRCLE_1} Vælg {STR_VAR_1}S PC.\n"
+	.string "{CIRCLE_2} Vælg et af de tre menupunkter for\n"
+	.string "   POKéMON-opbevaring.\n"
+	.string "Fanger du en 7. POKéMON, sendes den\n"
+	.string "automatisk til en BOKS!$"
 
 Help_Text_HowToUseWithdraw::
-	.string "{CIRCLE_1} Select a POKéMON in the open BOX\n"
-	.string "   with the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_2} Select “WITHDRAW” to remove the\n"
-	.string "   POKéMON from the BOX and add it to\n"
-	.string "   your party.\n"
-	.string "You may not withdraw a POKéMON if you\n"
-	.string "already have six POKéMON with you!$"
+	.string "{CIRCLE_1} Vælg POKéMON i boksen med {PLUS}.\n"
+	.string "{CIRCLE_2} Vælg HÆV for at tilføje til holdet.\n"
+	.string "Du kan ikke hæve hvis du allerede har 6!$"
 
 Help_Text_HowToUseDeposit::
-	.string "{CIRCLE_1} Select a POKéMON in your party with\n"
-	.string "   the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_2} Select “DEPOSIT.”\n"
-	.string "{CIRCLE_3} Select the BOX, then press the\n"
-	.string "   A Button to store the POKéMON.\n"
-	.string "If you have only one POKéMON with you,\n"
-	.string "it may not be stored!$"
+	.string "{CIRCLE_1} Vælg POKéMON i dit hold med {PLUS}.\n"
+	.string "{CIRCLE_2} Vælg DEPONER.\n"
+	.string "{CIRCLE_3} Vælg BOKS og tryk A for at gemme.\n"
+	.string "Du kan ikke deponere hvis du kun har én\l"
+	.string "POKéMON med!$"
 
 Help_Text_HowToUseMove::
-	.string "{CIRCLE_1} Select a POKéMON in the open BOX.\n"
-	.string "{CIRCLE_2} Pick up the POKéMON by selecting\n"
-	.string "   “MOVE” and move it anywhere with\n"
-	.string "   the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_3} Move the POKéMON to the BOX name\n"
-	.string "   and press left or right to move it\n"
-	.string "   to another BOX.$"
+	.string "{CIRCLE_1} Vælg en POKéMON i boksen.\n"
+	.string "{CIRCLE_2} Vælg FLYT og flyt med {PLUS}.\n"
+	.string "{CIRCLE_3} Flyt til BOKS-navn, venstre/højre for anden BOKS.$"
 
 Help_Text_HowToMoveItems::
-	.string "{CIRCLE_1} Faintly shown POKéMON can be made\n"
-	.string "   to hold an item by selecting it and\n"
-	.string "   pressing the A Button.\n"
-	.string "{CIRCLE_2} Clearly shown POKéMON can be made\n"
-	.string "   to give the item they are holding to\n"
-	.string "   another POKéMON, or return the item\n"
-	.string "   to the BAG with the A Button.$"
+	.string "{CIRCLE_1} Svagt viste POKéMON: vælg og tryk A for at give genstand.\n"
+	.string "{CIRCLE_2} Klart viste: give genstand til anden POKéMON eller tilbage til TASKE med A.$"
 
 Help_Text_HowToUsePlayersPC::
-	.string "{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\n"
-	.string "{CIRCLE_2} Select either “ITEM STORAGE” or\n"
-	.string "   “MAILBOX.”\n"
-	.string "You may store things in your own PC\n"
-	.string "if your BAG is full. You may also\n"
-	.string "withdraw items stored in your PC.$"
+	.string "{CIRCLE_1} Vælg {PLAYER}s PC.\n"
+	.string "{CIRCLE_2} Vælg GENSTANDSOPBEVARING eller MAILKASSE.\n"
+	.string "Gem genstande når TASKEN er fuld. Hæv også her.$"
 
 Help_Text_HowToUseWithdrawItem::
-	.string "{CIRCLE_1} Select “WITHDRAW ITEM.”\n"
-	.string "{CIRCLE_2} Select the item to be withdrawn.\n"
-	.string "{CIRCLE_3} The item can be withdrawn and\n"
-	.string "   placed in the BAG's ITEMS POCKET.\n"
-	.string "   It may also be directly given to a\n"
-	.string "   POKéMON to hold.$"
+	.string "{CIRCLE_1} Vælg HÆV GENSTAND.\n"
+	.string "{CIRCLE_2} Vælg genstand.\n"
+	.string "{CIRCLE_3} Genstanden kommer i TASKEN eller kan\n"
+	.string "   gives til en POKéMON.$"
 
 Help_Text_HowToUseDepositItem::
-	.string "{CIRCLE_1} Select “DEPOSIT ITEM.”\n"
-	.string "{CIRCLE_2} Select the item in the BAG to be\n"
-	.string "   deposited using the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_3} If there is more than one \n"
-	.string "   item to be deposited, enter the\n"
-	.string "   quantity with the {PLUS} Control Pad,\n"
-	.string "   then press the A Button.$"
+	.string "{CIRCLE_1} Vælg DEPONER GENSTAND.\n"
+	.string "{CIRCLE_2} Vælg genstand i TASKEN med {PLUS}.\n"
+	.string "{CIRCLE_3} Ved flere: indtast antal med {PLUS}, tryk A.$"
 
 Help_Text_HowToUseMailbox::
-	.string "When MAIL is taken from a POKéMON,\n"
-	.string "it is moved to the MAILBOX. If it has\n"
-	.string "no MAIL, the MAILBOX can't be used.\n"
-	.string "{CIRCLE_1} Select “{PLAYER}'S PC” on the PC.\n"
-	.string "{CIRCLE_2} Select “MAILBOX” to read MAIL or\n"
-	.string "   make a POKéMON hold MAIL.$"
+	.string "MAIL fra POKéMON flyttes til MAILKASSEN.\n"
+	.string "Uden MAIL kan den ikke bruges.\n"
+	.string "{CIRCLE_1} Vælg {PLAYER}S PC.\n"
+	.string "{CIRCLE_2} Vælg MAILKASSE for at læse eller give MAIL.$"
 
 Help_Text_HowToUseProfOaksPC::
-	.string "{CIRCLE_1} Select “PROF. OAK'S PC” on the PC.\n"
-	.string "{CIRCLE_2} PROF. OAK will evaluate your\n"
-	.string "   POKéDEX.\n"
-	.string "His evaluations should give you hints\n"
-	.string "for catching more POKéMON!$"
+	.string "{CIRCLE_1} Vælg PROF. OAKS PC.\n"
+	.string "{CIRCLE_2} PROF. OAK vurderer din POKéDEX.\n"
+	.string "Tip til at fange flere POKéMON!$"
 
 Help_Text_HowToOpenMenu::
-	.string "{CIRCLE_1} Press START.\n"
-	.string "{CIRCLE_2} The MENU will open on the right.\n"
-	.string "{CIRCLE_3} Depending on the situation, the MENU\n"
-	.string "   may feature different headings.\n"
-	.string "The MENU will not open in certain\n"
-	.string "situations such as when talking, doing\n"
-	.string "something, battling, etc.$"
+	.string "{CIRCLE_1} Tryk START.\n"
+	.string "{CIRCLE_2} Menuen åbnes til højre.\n"
+	.string "{CIRCLE_3} Menuen ændres efter situation.\n"
+	.string "Den åbnes ikke under samtale, kamp osv.$"
 
 Help_Text_HowToUseFight::
-	.string "{CIRCLE_1} Select “FIGHT.”\n"
-	.string "{CIRCLE_2} Select one of the moves shown,\n"
-	.string "and that move will be used!$"
+	.string "{CIRCLE_1} Vælg KAMP.\n"
+	.string "{CIRCLE_2} Vælg et angreb - det bruges!$"
 
 Help_Text_HowToUsePokemon2::
-	.string "{CIRCLE_1} Select “POKéMON.”\n"
-	.string "{CIRCLE_2} Select the POKéMON in your party\n"
-	.string "   that you want to use.\n"
-	.string "{CIRCLE_3} If you have two or more POKéMON\n"
-	.string "   with you, they may be switched by\n"
-	.string "   selecting “SHIFT.” Check POKéMON\n"
-	.string "   data by selecting “SUMMARY.”$"
+	.string "{CIRCLE_1} Vælg POKéMON.\n"
+	.string "{CIRCLE_2} Vælg POKéMON du vil bruge.\n"
+	.string "{CIRCLE_3} Skift med SKIFT. Se data under OPSUMMERING.$"
 
 Help_Text_HowToUseShift::
-	.string "This command switches the POKéMON in\n"
-	.string "battle with another one in your party.\n"
-	.string "{CIRCLE_1} Select the POKéMON to be sent out.\n"
-	.string "{CIRCLE_2} Select “SHIFT.”\n"
-	.string "{CIRCLE_3} The selected POKéMON will switch\n"
-	.string "   places with the POKéMON in battle!$"
+	.string "Bytter POKéMON i kamp med en fra holdet.\n"
+	.string "{CIRCLE_1} Vælg POKéMON der skal ud.\n"
+	.string "{CIRCLE_2} Vælg SKIFT.\n"
+	.string "{CIRCLE_3} Den valgte bytter plads med den i kamp!$"
 
 Help_Text_HowToUseSummary2::
-	.string "{CIRCLE_1} Select “SUMMARY.”\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the information:\n"
-	.string "   “POKéMON INFO”\n"
-	.string "   “POKéMON SKILLS”\n"
-	.string "   “KNOWN MOVES”$"
+	.string "{CIRCLE_1} Vælg OPSUMMERING.\n"
+	.string "{CIRCLE_2} Venstre/højre på {PLUS} for INFO, FÆRDIGHEDER, KENDTE ANGREB.$"
 
 Help_Text_HowToUseBag2::
-	.string "{CIRCLE_1} Select “BAG.”\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the data headings:\n"
-	.string "   “ITEMS”\n"
-	.string "   “KEY ITEMS”\n"
-	.string "   “POKe BALLS”\n"
-	.string "   Press up or down to select an item.$"
+	.string "{CIRCLE_1} Vælg TASKE.\n"
+	.string "{CIRCLE_2} Venstre/højre for GENSTANDE, NØGLEGENSTANDE, POKé BALLS. Op/ned for at vælge.$"
 
 Help_Text_HowToReadPokedex::
-	.string "{CIRCLE_1} POKéMON that you have caught are\n"
-	.string "   identified by a POKe BALL mark on\n"
-	.string "   the POKéDEX list.\n"
-	.string "{CIRCLE_2} A caught POKéMON will provide a\n"
-	.string "   large amount of data.\n"
+	.string "{CIRCLE_1} Fangede POKéMON har POKé BALL-mærke i listen.\n"
+	.string "{CIRCLE_2} Fangede giver meget data.\n"
 	.if REVISION < 1
-	.string "{CIRCLE_3} Select “AREA” to display the TOWN\n"
-	.string "   MAP with the POKéMON's habitat(s).$"
+	.string "{CIRCLE_3} Vælg OMRÅDE for BYKORT med levested(er).$"
 	.else
-	.string "{CIRCLE_3} Select “NEXT DATA” to display the\n"
-	.string "   TOWN MAP with its habitat(s).$"
+	.string "{CIRCLE_3} Vælg NÆSTE DATA for BYKORT med levested(er).$"
 	.endif
 
 Help_Text_HowToUseHomePC::
-	.string "{CIRCLE_1} Go up to the PC at home, then press\n"
-	.string "   the A Button.\n"
-	.string "{CIRCLE_2} The PC will turn on.\n"
-	.string "{CIRCLE_3} Select either “ITEM STORAGE” or\n"
-	.string "   “MAILBOX.”$"
+	.string "{CIRCLE_1} Gå hen til PC derhjemme, tryk A.\n"
+	.string "{CIRCLE_2} PC tændes.\n"
+	.string "{CIRCLE_3} Vælg GENSTANDSOPBEVARING eller MAILKASSE.$"
 
 Help_Text_HowToUseItemStorage::
-	.string "{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\n"
-	.string "   an item stored on your PC.\n"
-	.string "{CIRCLE_2} Select “DEPOSIT ITEM” to put \n"
-	.string "   an item from your BAG into your PC.$"
+	.string "{CIRCLE_1} HÆV GENSTAND for at tage fra PC.\n"
+	.string "{CIRCLE_2} DEPONER GENSTAND for at lægge fra TASKE i PC.$"
 
 Help_Text_HowToUseWithdrawItem2::
-	.string "{CIRCLE_1} Select “WITHDRAW ITEM.”\n"
-	.string "{CIRCLE_2} Select the item to be withdrawn.\n"
-	.string "{CIRCLE_3} The item can be withdrawn and\n"
-	.string "   placed in the BAG's ITEMS POCKET.\n"
-	.string "   It may also be directly given to a\n"
-	.string "   POKéMON to hold.$"
+	.string "{CIRCLE_1} Vælg HÆV GENSTAND.\n"
+	.string "{CIRCLE_2} Vælg genstand.\n"
+	.string "{CIRCLE_3} Genstanden kan i TASKEN eller gives til POKéMON.$"
 
 Help_Text_HowToUseDepositItem2::
-	.string "{CIRCLE_1} Select “DEPOSIT ITEM.”\n"
-	.string "{CIRCLE_2} Select the item in the BAG to be\n"
-	.string "   deposited using the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_3} If there is nothing in the BAG, this\n"
-	.string "   command can't be used!$"
+	.string "{CIRCLE_1} Vælg DEPONER GENSTAND.\n"
+	.string "{CIRCLE_2} Vælg genstand i TASKEN med {PLUS}.\n"
+	.string "{CIRCLE_3} Tom TASKE - kommandoen kan ikke bruges!$"
 
 Help_Text_HowToUseMailbox2::
-	.string "When MAIL is taken from a POKéMON,\n"
-	.string "it is moved to the MAILBOX. If it has\n"
-	.string "no MAIL, the MAILBOX can't be used.\n"
-	.string "{CIRCLE_1} Select MAIL by name to read it or\n"
-	.string "   make a POKéMON hold it.$"
+	.string "MAIL fra POKéMON flyttes til MAILKASSEN.\n"
+	.string "Uden MAIL kan den ikke bruges.\n"
+	.string "{CIRCLE_1} Vælg MAIL efter navn for at læse eller give til POKéMON.$"
 
 Help_Text_HowToUseRun::
-	.string "You may not “RUN” from a TRAINER\n"
-	.string "battle!\n"
-	.string "{CIRCLE_1} You may “RUN” from a wild POKéMON.\n"
-	.string "{CIRCLE_2} Your chance of escape is improved\n"
-	.string "   if your POKéMON in battle is fast.$"
+	.string "Du kan ikke LØBE fra TRÆNER-kamp!\n"
+	.string "{CIRCLE_1} Du kan LØBE fra vild POKéMON.\n"
+	.string "{CIRCLE_2} Hurtigere POKéMON giver bedre flugtchance.$"
 
 Help_Text_HowToRegisterKeyItem::
-	.string "You may “REGISTER” a key item for\n"
-	.string "instant use by pressing SELECT!\n"
-	.string "{CIRCLE_1} Open the “KEY ITEMS” POCKET.\n"
-	.string "{CIRCLE_2} Select the key item, then select\n"
-	.string "   “REGISTER.”$"
+	.string "REGISTRER en nøglegenstand med SELECT for hurtig brug!\n"
+	.string "{CIRCLE_1} Åbn NØGLEGENSTANDE-lommen.\n"
+	.string "{CIRCLE_2} Vælg nøglegenstand, vælg REGISTRER.$"
 
 Help_Text_HowToUseBall::
-	.string "{CIRCLE_1} Select to throw the special POKe\n"
-	.string "   BALL used only in the SAFARI ZONE.\n"
-	.string "When wild POKéMON appear, throw lots\n"
-	.string "of SAFARI BALLS to catch them!$"
+	.string "{CIRCLE_1} Kast den særlige POKé BALL kun brugt i SAFARI.\n"
+	.string "Kast mange SAFARI BALLS for at fange!$"
 
 Help_Text_HowToUseBait::
-	.string "{CIRCLE_1} Select to throw the special food\n"
-	.string "   used only in the SAFARI ZONE.\n"
-	.string "It is POKéMON food rolled up into\n"
-	.string "a ball for easy eating. When BAIT is\n"
-	.string "thrown, the wild POKéMON may get\n"
-	.string "attracted by it, and may not flee!$"
+	.string "{CIRCLE_1} Kast særlig mad kun brugt i SAFARI.\n"
+	.string "MADD tiltrækker vilde POKéMON så de ikke flygter!$"
 
 Help_Text_HowToUseRock::
-	.string "{CIRCLE_1} Select to throw a rock lying on\n"
-	.string "   the ground in the SAFARI ZONE.\n"
-	.string "Throwing a rock at a POKéMON may \n"
-	.string "make it run away, but it becomes easier\n"
-	.string "to catch!$"
+	.string "{CIRCLE_1} Kast en sten fra jorden i SAFARI.\n"
+	.string "Sten kan få POKéMON til at flygte, men gør fangst nemmere!$"
 
 Help_Text_HowToUseHallOfFame::
-	.string "{CIRCLE_1} Select “HALL OF FAME” on the PC.\n"
-	.string "{CIRCLE_2} The POKéMON that have entered the\n"
-	.string "   HALL OF FAME can be examined.$"
+	.string "{CIRCLE_1} Vælg ÆRESGALLERI på PC.\n"
+	.string "{CIRCLE_2} POKéMON der er kommet ind kan ses.$"
 
 Help_Text_HP::
 	.string "HP$"
@@ -1190,77 +1016,46 @@ Help_Text_Badges2::
 	.string "BADGES$"
 
 Help_Text_DefineHP::
-	.string "HP indicates a POKéMON's vitality.\n"
-	.string "If a POKéMON's HP drops to zero, it\l"
-	.string "faints and is unable to battle.\l"
-	.string "So, the key in battle is to try to\l"
-	.string "reduce the fø's HP to zero.\l"
-	.string "If your POKéMON are hurt, restore their\l"
-	.string "HP at a POKéMON CENTER or use items.$"
+	.string "HP er en POKéMONs vitalitet.\n"
+	.string "Ved nul HP besvimer den og kan ikke kæmpe.\l"
+	.string "Reducer modstanderens HP til nul.\l"
+	.string "Helbred dine POKéMON på POKéMON CENTER eller med genstande.$"
 
 Help_Text_DefineEXP::
-	.string "EXP. Points stands for “Experience\n"
-	.string "Points.” POKéMON gain EXP. Points by\l"
-	.string "participating in winning battles.\l"
-	.string "When a POKéMON accumulates sufficient\l"
-	.string "EXP. Points, it levels up. The EXP. Bar\l"
-	.string "indicates accumulated EXP. Points.\l"
-	.string "It returns to zero upon leveling up.$"
+	.string "EXP. = Erfaringspoint. POKéMON får EXP. ved at vinde kampe.\l"
+	.string "Nok EXP. giver niveaustigning. EXP.-linjen viser ophobet EXP.\l"
+	.string "Den nulstilles ved niveaustigning.$"
 
 Help_Text_DefineMoves::
-	.string "POKéMON may learn up to four different\n"
-	.string "moves. There are many kinds of moves\l"
-	.string "including attacks and those with\l"
-	.string "special effects. The kinds of moves\l"
-	.string "that can be learned vary for each\l"
-	.string "POKéMON. Some moves can be learned\l"
-	.string "from items.$"
+	.string "POKéMON kan lære op til fire angreb.\n"
+	.string "Mange slags - angreb og særlige effekter.\l"
+	.string "Hver POKéMON kan lære forskellige. Nogle fra genstande.$"
 
 Help_Text_DefineAttack::
-	.string "ATTACK indicates the power of an\n"
-	.string "offensive move. The higher this stat,\l"
-	.string "the more powerful the move.\l"
-	.string "It is applied for the following move\l"
-	.string "types: NORMAL, POISON, GROUND,\l"
-	.string "FLYING, BUG, FIGHTING, ROCK, GHOST,\l"
-	.string "and STEEL.$"
+	.string "ANGREB viser styrken af fysiske angreb.\n"
+	.string "Højere = mere skade. Gælder typer:\l"
+	.string "NORMAL, GIFT, JORD, FLYV, INSEKT, KAMP, STEN, SPØGELSE, STÅL.$"
 
 Help_Text_DefineDefense::
-	.string "DEFENSE indicates the resistance a\n"
-	.string "POKéMON has against physical attacks.\l"
-	.string "The higher this stat, the less damage\l"
-	.string "sustained from a fø's physical hit.$"
+	.string "FORSVAR er modstand mod fysiske angreb.\n"
+	.string "Højere = mindre skade fra modstanderens slag.$"
 
 Help_Text_DefineSpAtk::
-	.string "SP. ATK (Special Attack) indicates the\n"
-	.string "power of a special attack move.\l"
-	.string "The higher this stat, the more powerful\l"
-	.string "the special attack move.\l"
-	.string "It is applied for the following move\l"
-	.string "types: FIRE, WATER, ELECTRIC, GRASS,\l"
-	.string "ICE, PSYCHIC, DRAGON, and DARK.$"
+	.string "SP. ANGREB = styrke af særangreb.\l"
+	.string "Gælder: ILD, VAND, ELEKTRIK, GRÆS, IS, PSYKISK, DRAKE, MØRK.$"
 
 Help_Text_DefineSpDef::
-	.string "SP. DEF (Special Defense) indicates\n"
-	.string "the resistance a POKéMON has against\l"
-	.string "special attacks.\l"
-	.string "The higher this stat, the less damage\l"
-	.string "sustained from a fø's special attack.$"
+	.string "SP. FORSVAR = modstand mod særangreb.\n"
+	.string "Højere = mindre skade fra modstanderens særangreb.$"
 
 Help_Text_DefineSpeed::
-	.string "SPEED indicates the agility of a\n"
-	.string "POKéMON. If this stat exceeds the fø's\l"
-	.string "in battle, the POKéMON can make a move\l"
-	.string "before its slower opponent.$"
+	.string "Hastighed = POKéMONs hurtighed. Overgår du modstanderens,\l"
+	.string "angriber du først.$"
 
 Help_Text_DefineLevel::
-	.string "Lv. (Level) indicates the growth and\n"
-	.string "strength of a POKéMON.\l"
-	.string "In general, when a POKéMON levels up,\l"
-	.string "its stats such as HP, ATTACK, and\l"
-	.string "DEFENSE rise, making it stronger.\l"
-	.string "POKéMON may learn a new move upon\l"
-	.string "leveling up.$"
+	.string "Lv. (Niveau) viser vækst og styrke.\l"
+	.string "Ved niveaustigning stiger HP, ANGREB, FORSVAR osv.\l"
+	.string "Nye angreb kan læres ved niveaustigning.$"
 
 Help_Text_DefineType::
 	.string "POKéMON og angreb inddeles i typer.\n"
@@ -1275,20 +1070,12 @@ Help_Text_DefineOT::
 	.string "OT-navnet ændres ikke ved bytte.$"
 
 Help_Text_DefineItem::
-	.string "All POKéMON can be made to hold one\n"
-	.string "item each. Some items will be used by\l"
-	.string "the POKéMON automatically in certain\l"
-	.string "situations. To make a POKéMON hold an\l"
-	.string "item, select the item from the BAG and\l"
-	.string "“GIVE” it to the POKéMON.$"
+	.string "POKéMON kan bære én genstand. Nogle bruges automatisk.\l"
+	.string "Giv genstand fra TASKEN med GIV.$"
 
 Help_Text_DefineAbility::
-	.string "All POKéMON have a special ABILITY.\n"
-	.string "There are many different kinds of these\l"
-	.string "abilities, some used in battle, some\l"
-	.string "elsewhere. The abilities differ from\l"
-	.string "species to species. Some species may\l"
-	.string "have more than one kind of ability.$"
+	.string "Alle POKéMON har en særlig EVNE. Mange slags - i kamp og uden.\l"
+	.string "Evner varierer mellem arter.$"
 
 Help_Text_DefineMoney::
 	.string "Når du vinder mod en TRÆNER,\l"
@@ -1296,202 +1083,119 @@ Help_Text_DefineMoney::
 	.string "indkøb i POKéMON MART!$"
 
 Help_Text_DefineMoveType::
-	.string "Moves are also classified by types.\n"
-	.string "If a POKéMON of a certain type uses\l"
-	.string "a move of the same type, the move's\l"
-	.string "power is boosted. If the move's type\l"
-	.string "har fordel mod målet, øges\l"
-	.string "effektiviteten også.$"
+	.string "Angreb har også typer. Samme type som POKéMON giver ekstra styrke.\l"
+	.string "Typefordel mod målet øger effektiviteten.$"
 
 Help_Text_DefineNature::
-	.string "All POKéMON have a personality,\n"
-	.string "or “NATURE.” The POKéMON's\l"
-	.string "nature appears to affect how the\l"
-	.string "POKéMON will grow upon leveling up.$"
+	.string "Alle POKéMON har en NATUR (personlighed).\l"
+	.string "Natur påvirker vækst ved niveaustigning.$"
 
 Help_Text_DefineIDNo::
-	.string "The ID No. is a special number assigned\n"
-	.string "specifically to you as a TRAINER.\l"
-	.string "Together with the OT name, the ID No.\l"
-	.string "is used to precisely identify the\l"
-	.string "Original TRAINER.\l"
-	.string "The ID No. døs not change even if the\l"
-	.string "POKéMON is traded.$"
+	.string "ID No. er dit TRÆNER-nummer. Sammen med OT identificerer det\l"
+	.string "den oprindelige TRÆNER. ID No. ændres ikke ved bytte.$"
 
 Help_Text_DefinePP::
-	.string "PP stands for “Power Points.”\n"
-	.string "It indicates the number of times a\l"
-	.string "certain move can be used in battle.\l"
-	.string "Like HP, PP can be restored by visiting\l"
-	.string "a POKéMON CENTER or using certain\l"
-	.string "items.$"
+	.string "PP = Kraftpoint. Antal gange et angreb kan bruges i kamp.\l"
+	.string "PP genoprettes på POKéMON CENTER eller med genstande.$"
 
 Help_Text_DefinePower::
-	.string "POWER indicates the strength of an\n"
-	.string "attack. The higher this number, the\l"
-	.string "greater the damage that can be\l"
-	.string "inflicted on the fø!$"
+	.string "STYRKE viser angrebets styrke. Højere = mere skade på modstanderen.$"
 
 Help_Text_DefineAccuracy::
-	.string "ACCURACY indicates the probability of\n"
-	.string "the move hitting the fø.\l"
-	.string "The higher this number, the more likely\l"
-	.string "the move will strike the target.$"
+	.string "PRÆCISION = sandsynlighed for at ramme. Højere = større chance.$"
 
 Help_Text_DefineFNT::
-	.string "FNT stands for “fainted.”\n"
-	.string "A POKéMON faints if its HP is reduced\l"
-	.string "to zero. It becomes incapable of taking\l"
-	.string "part in battle.\l"
-	.string "Restore a fainted POKéMON at a POKéMON\l"
-	.string "CENTER, or use an item.$"
+	.string "FNT = besvimet. Ved nul HP kan POKéMON ikke kæmpe.\l"
+	.string "Helbred på POKéMON CENTER eller med genstand.$"
 
 Help_Text_DefineItems::
-	.string "Ordinary items bought at any POKéMON\n"
-	.string "MART are placed in the ITEMS POCKET.\l"
-	.string "Items may be used, given to a POKéMON\l"
-	.string "to hold, or tossed out as garbage.$"
+	.string "Genstande fra POKéMON MART ligger i GENSTANDE-lommen.\l"
+	.string "Brug, giv til POKéMON eller kast ud.$"
 
 Help_Text_DefineKeyItems::
-	.string "Important items that you find or \n"
-	.string "receive from people are placed in the\l"
-	.string "KEY ITEMS POCKET.\l"
-	.string "Key items may be used, or registered\l"
-	.string "for use instantly with SELECT. Once\l"
-	.string "registered, the item can be used\l"
-	.string "without opening the MENU and BAG.$"
+	.string "Vigtige genstande ligger i NØGLEGENSTANDE-lommen.\l"
+	.string "Brug eller REGISTRER med SELECT for hurtig brug uden menu.$"
 
 Help_Text_DefinePokeBalls::
-	.string "POKe BALLS, which are used for\n"
-	.string "catching wild POKéMON, are placed in\l"
-	.string "the POKe BALLS POCKET.\l"
-	.string "POKe BALLS may be bought at POKéMON\l"
-	.string "MARTS. They may be used, given to a\l"
-	.string "POKéMON to hold, or tossed out as\l"
-	.string "garbage.$"
+	.string "POKe BALLS bruges til at fange\n"
+	.string "vilde POKéMON og ligger i\l"
+	.string "POKe BALLS LOMMEN.\l"
+	.string "POKe BALLS kan købes i POKéMON\l"
+	.string "MARTS. De kan bruges, gives til en\l"
+	.string "POKéMON at holde eller smides ud\l"
+	.string "som affald.$"
 
 Help_Text_DefinePokedex::
-	.string "This indicates the number of species of\n"
-	.string "POKéMON you have caught and/or\l"
-	.string "evolved to fill the POKéDEX.\l"
-	.string "Try hard to catch all sorts of\l"
-	.string "POKéMON!$"
+	.string "Her vises hvor mange arter af\n"
+	.string "POKéMON du har fanget og/eller\l"
+	.string "udviklet til din POKéDEX.\l"
+	.string "Prøv at fange så mange forskellige\l"
+	.string "POKéMON som muligt!$"
 
 Help_Text_DefinePlayTime::
-	.string "This is the total amount of time that\n"
-	.string "you have played this game.$"
+	.string "Her vises den samlede tid du har\n"
+	.string "spillet dette spil.$"
 
 Help_Text_DefineBadges::
-	.string "The POKéMON LEAGUE BADGES that you\n"
-	.string "have won are registered and shown.\l"
-	.string "Earn BADGES by defeating GYM LEADERS\l"
-	.string "in various cities and towns.$"
+	.string "Her vises de POKéMON LEAGUE BADGES\n"
+	.string "du har vundet.\l"
+	.string "Få BADGES ved at besejre GYM LEDERE\l"
+	.string "i forskellige byer og områder.$"
 
 Help_Text_DefineTextSpeed::
-	.string "You can adjust how quickly the text is\n"
-	.string "displayed. Choose one: SLOW, MID,\l"
-	.string "or FAST.$"
+	.string "Juster tekstens hastighed. Vælg LANGSAM, MIDDEL eller HURTIG.$"
 
 Help_Text_DefineBattleScene::
-	.string "You can choose to turn the battle\n"
-	.string "animation ON or OFF.$"
+	.string "Slå kampanimation TIL eller FRA.$"
 
 Help_Text_DefineBattleStyle::
-	.string "You can choose whether or not a\n"
-	.string "TRAINER can switch a POKéMON after\l"
-	.string "it has made its fø faint.\l"
-	.string "Set to “SHIFT” if you would like the\l"
-	.string "chance to switch a POKéMON after it\l"
-	.string "has made its fø faint.$"
+	.string "Vælg om TRÆNER må skifte POKéMON efter at have slået modstanderens ud.\l"
+	.string "SKIFT giver mulighed for at skifte i det tilfælde.$"
 
 Help_Text_DefineSound::
-	.string "You can choose between MONO and\n"
-	.string "STEREO sound output.$"
+	.string "Vælg MONO eller STEREO lyd.$"
 
 Help_Text_DefineButtonMode::
-	.string "Set to “HELP” to display help messages\n"
-	.string "by pressing the L or R Button.\l"
-	.string "Set to “LR” to enable the switching\l"
-	.string "of the POKéDEX pages and BAG POCKETS\l"
-	.string "using the L and R Buttons.\l"
-	.string "Set to “L=A” to make the L Button\l"
-	.string "work the same as the A Button.$"
+	.string "HJÆLP: L/R viser hjælp. LR: L/R skifter POKéDEX-sider og taskelommer.\l"
+	.string "L=A: L virker som A.$"
 
 Help_Text_DefineFrame::
-	.string "You may choose the design of the frame\n"
-	.string "around certain menus. Try them out and\l"
-	.string "see what you like.$"
+	.string "Vælg rammedesign omkring menuer. Prøv dem af.$"
 
 Help_Text_DefineCancel2::
-	.string "The settings will be changed to the\n"
-	.string "selections shown in red, and you will\l"
-	.string "return to the MENU.$"
+	.string "Valgene (vist i rødt) gemmes og du vender tilbage til menuen.$"
 
 Help_Text_DefineTM::
-	.string "A TM (Technical Machine) is a device\n"
-	.string "used to teach a move to a POKéMON.\l"
-	.string "There are many different kinds.\l"
-	.string "Moves can be taught only to those\l"
-	.string "POKéMON capable of using them.\l"
-	.string "A TM breaks after a single use.$"
+	.string "TM (Teknisk Maskine) lærer et angreb til en POKéMON.\l"
+	.string "Kun POKéMON der kan bruge det. TM går til efter én brug.$"
 
 Help_Text_DefineHM::
-	.string "An HM (Hidden Machine) is a device used\n"
-	.string "to teach a HIDDEN move to a POKéMON.\l"
-	.string "A HIDDEN move can be taught only to\l"
-	.string "those POKéMON capable of using it.\l"
-	.string "Unlike a TM, an HM can be used over\l"
-	.string "and over. A HIDDEN move can be tough\l"
-	.string "for a POKéMON to forget.$"
+	.string "HM (Hemmelig Maskine) lærer et HEMMELIGT angreb.\l"
+	.string "HM kan bruges igen og igen. HEMMELIGE angreb er svære at glemme.$"
 
 Help_Text_DefineHMMove::
-	.string "HIDDEN moves are those that are\n"
-	.string "especially important for your\l"
-	.string "adventure. To use such a move outside\l"
-	.string "of battle, open the “POKéMON” MENU\l"
-	.string "and make the POKéMON that knows the\l"
-	.string "move use it. A fainted POKéMON may use\l"
-	.string "a HIDDEN move outside of battle.$"
+	.string "HEMMELIGE angreb er vigtige for eventyret. Brug dem uden for kamp\l"
+	.string "via POKéMON-menuen. Besvimede kan også bruge dem uden for kamp.$"
 
 Help_Text_DefineEvolution::
-	.string "Among POKéMON, there are some that\n"
-	.string "undergo major changes (evolution) upon\l"
-	.string "growing to certain levels. Evolution\l"
-	.string "causes a POKéMON to alter form, change\l"
-	.string "its name, and perhaps change the moves\l"
-	.string "it may learn. Some POKéMON evolve\l"
-	.string "due to reasons other than leveling up.$"
+	.string "Nogle POKéMON udvikler sig ved visse niveauer - skifter form og navn.\l"
+	.string "Nogle udvikler sig af andre årsager end niveau.$"
 
 Help_Text_DefineStatusProblem::
-	.string "Status problems include:\n"
-	.string "Sleep: Can't use moves.\l"
-	.string "Poison: Causes steady HP loss.\l"
-	.string "Paralysis: May prevent moves.\l"
-	.string "Burn: HP loss and lowers ATTACK.\l"
-	.string "Freeze: Can't use moves.\l"
-	.string "These can be healed with items, etc.$"
+	.string "Statusproblemer: Søvn (kan ikke angribe), Gift (HP-tab), Lammelse,\l"
+	.string "Forbrænding (HP-tab, lavere ANGREB), Frysning. Helbredes med genstande.$"
 
 Help_Text_DefinePokemon::
-	.string "POKéMON is a name given to describe\n"
-	.string "wondrous creatures that inhabit all\l"
-	.string "corners of this world.\l"
-	.string "People raise POKéMON to be their pets,\l"
-	.string "use them for battling, and so on.$"
+	.string "POKéMON er vidunderlige væsner overalt i verden.\l"
+	.string "Folk holder dem som kæledyr og bruger dem i kamp.$"
 
 Help_Text_DefineIDNo2::
-	.string "The ID No. is a special number assigned\n"
-	.string "specifically to you as a TRAINER.\l"
-	.string "Together with the OT name, the ID No.\l"
-	.string "is used to precisely identify the\l"
-	.string "Original TRAINER.\l"
-	.string "The ID No. døs not change even if the\l"
-	.string "POKéMON is traded.$"
+	.string "ID No. er dit TRÆNER-nummer. Sammen med OT identificerer det\l"
+	.string "den oprindelige TRÆNER. Ændres ikke ved bytte.$"
 
 Help_Text_DefineMoney2::
-	.string "Whenever you win a battle against a\n"
-	.string "TRAINER, you are given prize money.\l"
-	.string "Save up your prize money so you can\l"
-	.string "enjoy shopping at POKéMON MARTS!$"
+	.string "Vinder du mod en TRÆNER, får du premiepenge.\l"
+	.string "Spar op til indkøb i POKéMON MARTS!$"
 
 Help_Text_DefineBadges2::
 	.string "Dette viser antallet af POKéMON\n"
@@ -1572,258 +1276,256 @@ Help_Text_DescWhatArePokemon::
 	.string "TRÆNERE der fangede dem.$"
 
 Help_Text_UsingTypeMatchupList::
-	.string "Using the Type Matchup List$"
+	.string "Bruge typematchlisten$"
 
 Help_Text_OwnMoveDark::
-	.string "Own move type: DARK$"
+	.string "Eget angrebstype: DARK$"
 
 Help_Text_OwnPokemonDark::
-	.string "Own POKéMON type: DARK$"
+	.string "Egen POKéMON-type: DARK$"
 
 Help_Text_OwnMoveRock::
-	.string "Own move type: ROCK$"
+	.string "Eget angrebstype: ROCK$"
 
 Help_Text_OwnPokemonRock::
-	.string "Own POKéMON type: ROCK$"
+	.string "Egen POKéMON-type: ROCK$"
 
 Help_Text_OwnMovePsychic::
-	.string "Own move type: PSYCHIC$"
+	.string "Eget angrebstype: PSYCHIC$"
 
 Help_Text_OwnPokemonPsychic::
-	.string "Own POKéMON type: PSYCHIC$"
+	.string "Egen POKéMON-type: PSYCHIC$"
 
 Help_Text_OwnMoveFighting::
-	.string "Own move type: FIGHTING$"
+	.string "Eget angrebstype: FIGHTING$"
 
 Help_Text_OwnPokemonFighting::
-	.string "Own POKéMON type: FIGHTING$"
+	.string "Egen POKéMON-type: FIGHTING$"
 
 Help_Text_OwnMoveGrass::
-	.string "Own move type: GRASS$"
+	.string "Eget angrebstype: GRASS$"
 
 Help_Text_OwnPokemonGrass::
-	.string "Own POKéMON type: GRASS$"
+	.string "Egen POKéMON-type: GRASS$"
 
 Help_Text_OwnMoveGhost::
-	.string "Own move type: GHOST$"
+	.string "Eget angrebstype: GHOST$"
 
 Help_Text_OwnPokemonGhost::
-	.string "Own POKéMON type: GHOST$"
+	.string "Egen POKéMON-type: GHOST$"
 
 Help_Text_OwnMoveIce::
-	.string "Own move type: ICE$"
+	.string "Eget angrebstype: ICE$"
 
 Help_Text_OwnPokemonIce::
-	.string "Own POKéMON type: ICE$"
+	.string "Egen POKéMON-type: ICE$"
 
 Help_Text_OwnMoveGround::
-	.string "Own move type: GROUND$"
+	.string "Eget angrebstype: GROUND$"
 
 Help_Text_OwnPokemonGround::
-	.string "Own POKéMON type: GROUND$"
+	.string "Egen POKéMON-type: GROUND$"
 
 Help_Text_OwnMoveElectric::
-	.string "Own move type: ELECTRIC$"
+	.string "Eget angrebstype: ELECTRIC$"
 
 Help_Text_OwnPokemonElectric::
-	.string "Own POKéMON type: ELECTRIC$"
+	.string "Egen POKéMON-type: ELECTRIC$"
 
 Help_Text_OwnMovePoison::
-	.string "Own move type: POISON$"
+	.string "Eget angrebstype: POISON$"
 
 Help_Text_OwnPokemonPoison::
-	.string "Own POKéMON type: POISON$"
+	.string "Egen POKéMON-type: POISON$"
 
 Help_Text_OwnMoveDragon::
-	.string "Own move type: DRAGON$"
+	.string "Eget angrebstype: DRAGON$"
 
 Help_Text_OwnPokemonDragon::
-	.string "Own POKéMON type: DRAGON$"
+	.string "Egen POKéMON-type: DRAGON$"
 
 Help_Text_OwnMoveNormal::
-	.string "Own move type: NORMAL$"
+	.string "Eget angrebstype: NORMAL$"
 
 Help_Text_OwnPokemonNormal::
-	.string "Own POKéMON type: NORMAL$"
+	.string "Egen POKéMON-type: NORMAL$"
 
 Help_Text_OwnMoveSteel::
-	.string "Own move type: STEEL$"
+	.string "Eget angrebstype: STEEL$"
 
 Help_Text_OwnPokemonSteel::
-	.string "Own POKéMON type: STEEL$"
+	.string "Egen POKéMON-type: STEEL$"
 
 Help_Text_OwnMoveFlying::
-	.string "Own move type: FLYING$"
+	.string "Eget angrebstype: FLYING$"
 
 Help_Text_OwnPokemonFlying::
-	.string "Own POKéMON type: FLYING$"
+	.string "Egen POKéMON-type: FLYING$"
 
 Help_Text_OwnMoveFire::
-	.string "Own move type: FIRE$"
+	.string "Eget angrebstype: FIRE$"
 
 Help_Text_OwnPokemonFire::
-	.string "Own POKéMON type: FIRE$"
+	.string "Egen POKéMON-type: FIRE$"
 
 Help_Text_OwnMoveWater::
-	.string "Own move type: WATER$"
+	.string "Eget angrebstype: WATER$"
 
 Help_Text_OwnPokemonWater::
-	.string "Own POKéMON type: WATER$"
+	.string "Egen POKéMON-type: WATER$"
 
 Help_Text_OwnMoveBug::
-	.string "Own move type: BUG$"
+	.string "Eget angrebstype: BUG$"
 
 Help_Text_OwnPokemonBug::
-	.string "Own POKéMON type: BUG$"
+	.string "Egen POKéMON-type: BUG$"
 
 Help_Text_HowToUseTypeMatchupList::
-	.string "Depending on the matchup of the\n"
-	.string "move type and the target POKéMON's\l"
-	.string "type, the move's effectiveness varies:\l"
-	.string "{CIRCLE_DOT}: Super effective!\l"
-	.string "{TRIANGLE}: Not very effective\l"
-	.string "{BIG_MULT_X}: Not effective at all\l"
-	.string "(No changes for other matchups.)$"
+	.string "Effekten afhænger af angrebstype og mål-POKéMONs type:\l"
+	.string "{CIRCLE_DOT}: Super effektivt!\l"
+	.string "{TRIANGLE}: Ikke særlig effektivt\l"
+	.string "{BIG_MULT_X}: Ingen effekt\l"
+	.string "(Ingen ændring for andre matchups.)$"
 
 Help_Text_TypeMatchupOwnMoveDark::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: PSYCHIC, GHOST\p"
 	.string "   {TRIANGLE}: FIGHTING, DARK, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonDark::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIGHTING, BUG\p"
 	.string "   {TRIANGLE}: GHOST, DARK\p"
 	.string "   {BIG_MULT_X}: PSYCHIC$"
 
 Help_Text_TypeMatchupOwnMoveRock::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\p"
 	.string "   {TRIANGLE}: FIGHTING, GROUND, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonRock::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: WATER, GRASS, FIGHTING,\n"
 	.string "       GROUND, STEEL\p"
 	.string "   {TRIANGLE}: NORMAL, FIRE, POISON, FLYING$"
 
 Help_Text_TypeMatchupOwnMovePsychic::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIGHTING, POISON\p"
 	.string "   {TRIANGLE}: PSYCHIC, STEEL\p"
 	.string "   {BIG_MULT_X}: DARK$"
 
 Help_Text_TypeMatchupOwnPokemonPsychic::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: BUG, GHOST, DARK\p"
 	.string "   {TRIANGLE}: FIGHTING, PSYCHIC$"
 
 Help_Text_TypeMatchupOwnMoveFighting::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: NORMAL, ICE, ROCK, DARK, STEEL\p"
 	.string "   {TRIANGLE}: POISON, FLYING, PSYCHIC, BUG\p"
 	.string "   {BIG_MULT_X}: GHOST$"
 
 Help_Text_TypeMatchupOwnPokemonFighting::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FLYING, PSYCHIC\p"
 	.string "   {TRIANGLE}: BUG, ROCK, DARK$"
 
 Help_Text_TypeMatchupOwnMoveGrass::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: WATER, GROUND, ROCK\p"
 	.string "   {TRIANGLE}: FIRE, GRASS, POISON, FLYING,\n"
 	.string "       BUG, DRAGON, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonGrass::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\p"
 	.string "   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND$"
 
 Help_Text_TypeMatchupOwnMoveGhost::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: PSYCHIC, GHOST\p"
 	.string "   {TRIANGLE}: DARK, STEEL\p"
 	.string "   {BIG_MULT_X}: NORMAL$"
 
 Help_Text_TypeMatchupOwnPokemonGhost::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GHOST, DARK\p"
 	.string "   {TRIANGLE}: POISON, BUG\p"
 	.string "   {BIG_MULT_X}: NORMAL, FIGHTING$"
 
 Help_Text_TypeMatchupOwnMoveIce::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GRASS, GROUND, FLYING, DRAGON\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonIce::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, ROCK, STEEL\p"
 	.string "   {TRIANGLE}: ICE$"
 
 Help_Text_TypeMatchupOwnMoveGround::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, ELECTRIC, POISON, ROCK,\n"
 	.string "       STEEL\p"
 	.string "   {TRIANGLE}: GRASS, BUG\n"
 	.string "   {BIG_MULT_X}: FLYING$"
 
 Help_Text_TypeMatchupOwnPokemonGround::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: WATER, GRASS, ICE\p"
 	.string "   {TRIANGLE}: POISON, ROCK\p"
 	.string "   {BIG_MULT_X}: ELECTRIC$"
 
 Help_Text_TypeMatchupOwnMoveElectric::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: WATER, FLYING\p"
 	.string "   {TRIANGLE}: ELECTRIC, GRASS, DRAGON\p"
 	.string "   {BIG_MULT_X}: GROUND$"
 
 Help_Text_TypeMatchupOwnPokemonElectric::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GROUND\p"
 	.string "   {TRIANGLE}: ELECTRIC, FLYING, STEEL$"
 
 Help_Text_TypeMatchupOwnMovePoison::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GRASS\p"
 	.string "   {TRIANGLE}: POISON, GROUND, ROCK, GHOST\p"
 	.string "   {BIG_MULT_X}: STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonPoison::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GROUND, PSYCHIC\p"
 	.string "   {TRIANGLE}: GRASS, FIGHTING, POISON, BUG$"
 
 Help_Text_TypeMatchupOwnMoveDragon::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: DRAGON\p"
 	.string "   {TRIANGLE}: STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonDragon::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: ICE, DRAGON\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, GRASS$"
 
 Help_Text_TypeMatchupOwnMoveNormal::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {TRIANGLE}: ROCK, STEEL\p"
 	.string "   {BIG_MULT_X}: GHOST$"
 
 Help_Text_TypeMatchupOwnPokemonNormal::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIGHTING\p"
 	.string "   {BIG_MULT_X}: GHOST$"
 
 Help_Text_TypeMatchupOwnMoveSteel::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: ICE, ROCK\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonSteel::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, GROUND\n"
 	.string "   {TRIANGLE}: NORMAL, GRASS, ICE, FLYING,\l"
 	.string "       PSYCHIC, BUG, ROCK, GHOST,\l"
@@ -1831,44 +1533,44 @@ Help_Text_TypeMatchupOwnPokemonSteel::
 	.string "   {BIG_MULT_X}: POISON$"
 
 Help_Text_TypeMatchupOwnMoveFlying::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GRASS, FIGHTING, BUG\p"
 	.string "   {TRIANGLE}: ELECTRIC, ROCK, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonFlying::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: ELECTRIC, ICE, ROCK\p"
 	.string "   {TRIANGLE}: GRASS, FIGHTING, BUG\p"
 	.string "   {BIG_MULT_X}: GROUND$"
 
 Help_Text_TypeMatchupOwnMoveFire::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GRASS, ICE, BUG, STEEL\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ROCK, DRAGON$"
 
 Help_Text_TypeMatchupOwnPokemonFire::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: WATER, GROUND, ROCK\p"
 	.string "   {TRIANGLE}: FIRE, GRASS, ICE, BUG, STEEL$"
 
 Help_Text_TypeMatchupOwnMoveWater::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, GROUND, ROCK\p"
 	.string "   {TRIANGLE}: WATER, GRASS, DRAGON$"
 
 Help_Text_TypeMatchupOwnPokemonWater::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: ELECTRIC, GRASS\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
 
 Help_Text_TypeMatchupOwnMoveBug::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Effekt på fjendens POKéMON:\p"
 	.string "   {CIRCLE_DOT}: GRASS, PSYCHIC, DARK\p"
 	.string "   {TRIANGLE}: FIRE, FIGHTING, POISON,\n"
 	.string "       FLYING, GHOST, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonBug::
-	.string "Effect of fø's move on own POKéMON:\p"
+	.string "Effekt af fjendens angreb på egen POKéMON:\p"
 	.string "   {CIRCLE_DOT}: FIRE, FLYING, ROCK\p"
 	.string "   {TRIANGLE}: GRASS, FIGHTING, GROUND$"
 
