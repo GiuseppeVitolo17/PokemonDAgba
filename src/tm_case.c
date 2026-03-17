@@ -665,7 +665,9 @@ static void InitTMCaseListMenuItems(void)
     gMultiuseListMenuTemplate.itemVerticalPadding = 2;
     gMultiuseListMenuTemplate.upText_Y = 2;
     gMultiuseListMenuTemplate.maxShowed = sTMCaseDynamicResources->maxTMsShown;
-    gMultiuseListMenuTemplate.fontId = FONT_NORMAL;
+    // Use FONT_SMALL as the base font so the TM/HM number (printed with {FONT_SMALL}) isn't clipped by line height calculations.
+    // The move name switches back to normal via control codes inside the string.
+    gMultiuseListMenuTemplate.fontId = FONT_SMALL;
     gMultiuseListMenuTemplate.cursorPal = 2;
     gMultiuseListMenuTemplate.fillValue = 0;
     gMultiuseListMenuTemplate.cursorShadowPal = 3;

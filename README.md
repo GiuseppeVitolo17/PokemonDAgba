@@ -11,6 +11,24 @@ Original English ROM references:
 
 After building this repo (Danish strings), run `make` to produce **pokefirered.gba** (and optionally `make leafgreen`). To get SHA1 hashes of your build: on Linux/macOS use `sha1sum pokefirered.gba`; on Windows use `Get-FileHash -Algorithm SHA1 pokefirered.gba`.
 
+## macOS quick build
+
+From a Terminal on macOS:
+
+```bash
+cd ~/Documents/PokemonDAgba
+brew install pkg-config libpng arm-none-eabi-gcc
+cd ..
+git clone https://github.com/pret/agbcc
+cd agbcc
+./build.sh
+./install.sh ../PokemonDAgba
+cd ../PokemonDAgba
+make -j8
+```
+
+This will produce `pokefirered.gba` in the project folder (you can then copy it to e.g. the Desktop).
+
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
 **Project repository (push here to track progress):** [GiuseppeVitolo17/PokemonDAgba](https://github.com/GiuseppeVitolo17/PokemonDAgba)  
