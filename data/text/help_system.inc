@@ -299,7 +299,7 @@ Help_Text_AnswerWhatsABattle::
 	.string "Hvis en POKéMONs HP når nul,\l"
 	.string "besvimer den, og modparten vinder.\l"
 	.string "Ved at vinde får POKéMON\l"
-	.string "EXP.-point, så de kan stige i niveau\l"
+	.string "EXP. point, så de kan stige i niveau\l"
 	.string "(blive stærkere).$"
 
 Help_Text_AnswerHowDoIPrepareForBattle::

@@ -14,9 +14,9 @@ Pokedude_Text_MyRattataWonGetsEXP::
 	.string "Min RATTATA bragte modstanderens HP\n"
 	.string "ned på nul, så den vandt!\p"
 	.string "POKéMON'en der deltog i kampen\n"
-	.string "får EXP.-point.\p"
+	.string "får EXP. point.\p"
 	.string "Når en POKéMON har samlet nok\n"
-	.string "EXP.-point, stiger den i niveau.\p"
+	.string "EXP. point, stiger den i niveau.\p"
 	.string "Niveaustigning gør din POKéMON\n"
 	.string "stærkere end før.$"
 
