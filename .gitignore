@@ -11,7 +11,6 @@
 *.fwjpnfont
 # Compiled ROM - must never be committed to the repo
 *.gba
-!data/*.gba
 *.sgm
 *.sa1
 *.sg1
