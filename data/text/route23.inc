@@ -1,5 +1,5 @@
 Text_OnlySkilledTrainersAllowedThrough::
-	.string "Kun virkelig dygtige TRAINERs\n"
+	.string "Kun virkelig dygtige TRÆNERE\n"
 	.string "må komme forbi.\p"
 	.string "Du har ikke {STR_VAR_1}\n"
 	.string "endnu!$"
@@ -9,8 +9,8 @@ Text_CantLetYouPass::
 	.string "Jeg kan ikke lade dig komme forbi.$"
 
 Text_OhThatsBadgeGoRightAhead::
-	.string "Oh! Det er {STR_VAR_1}!\n"
-	.string "Ga bare videre.$"
+	.string "Åh! Det er {STR_VAR_1}!\n"
+	.string "Gå bare videre.$"
 
 Text_OnlyPassWithBadgeDontHaveYet::
 	.string "Du kan kun komme forbi her med\n"
@@ -23,6 +23,6 @@ Text_OnlyPassWithBadgeDontHaveYet::
 Text_OnlyPassWithBadgeOhGoAhead::
 	.string "Du kan kun komme forbi her med\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Oh! Det er {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\p"
+	.string "Åh! Det er {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\p"
 	.string "Okay da.\n"
-	.string "Ga endelig videre.$"
+	.string "Gå endelig videre.$"

@@ -6,10 +6,10 @@ Aide_Text_HaventCaughtEnoughMonsForItem::
 	.string "for at få {STR_VAR_2}.$"
 
 Aide_Text_GetEnoughMonsComeBackForItem::
-	.string "…Oh. Jeg forstår.\p"
+	.string "…Åh. Jeg forstår.\p"
 	.string "Når du har {STR_VAR_1} slags POKéMON,\n"
 	.string "kom tilbage efter {STR_VAR_2}.$"
 
 Aide_Text_DontHaveAnyRoomForItem::
-	.string "Oh! Du har ikke plads til\n"
+	.string "Åh! Du har ikke plads til\n"
 	.string "{STR_VAR_2}.$"

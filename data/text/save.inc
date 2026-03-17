@@ -6,14 +6,14 @@ gText_AlreadySaveFile_WouldLikeToOverwrite::
 	.string "Er det okay at overskrive den?$"
 
 gText_SavingDontTurnOffThePower::
-	.string "GEMmer…\n"
+	.string "GEMMER…\n"
 	.string "SLUK IKKE FOR STRØMMEN.$"
 
 gText_PlayerSavedTheGame::
 	.string "{PLAYER} gemte spillet.$"
 
 gText_SaveFailed2::
-	.string "セーブに　しっぱい　しました‥$"
+	.string "Kunne ikke gemme…$"
 
 gText_DifferentGameFile::
 	.string "ADVARSEL!\p"
@@ -21,6 +21,6 @@ gText_DifferentGameFile::
 	.string "er gemt.\p"
 	.string "Hvis du gemmer nu, vil den anden\n"
 	.string "fils eventyr, inkl. genstande og\l"
-	.string "POKéMON, ga tabt.\p"
+	.string "POKéMON, gå tabt.\p"
 	.string "Er du sikker på at du vil gemme nu\n"
 	.string "og overskrive den anden gemte fil?$"

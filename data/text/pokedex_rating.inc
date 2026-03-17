@@ -10,15 +10,15 @@ PokedexRating_Text_SeenXOwnedY::
 	.string "{FONT_NORMAL}PROF. OAKs vurdering:$"
 
 PokedexRating_Text_LessThan10::
-	.string "Du har stadig meget at gore.\p"
-	.string "Ga ind i hver græsplet du ser\n"
+	.string "Du har stadig meget at gøre.\p"
+	.string "Gå ind i hver græsplet du ser\n"
 	.string "og led efter POKéMON!$"
 
 PokedexRating_Text_LessThan20::
 	.string "Det ser ud til at du er på rette\n"
 	.string "vej!\p"
 	.string "Jeg har givet en af mine assistenter\n"
-	.string "en FLASH-HM. Hænt den!$"
+	.string "en FLASH-HM. Hent den!$"
 
 PokedexRating_Text_LessThan30::
 	.string "Din POKéDEX kunne bruge lidt mere\n"
@@ -30,17 +30,17 @@ PokedexRating_Text_LessThan40::
 	.string "Godt, det er tydeligt at du\n"
 	.string "gør dig umage!\p"
 	.string "Jeg har givet en af mine assistenter\n"
-	.string "en GENSTANDSFINDER. Hænt den!$"
+	.string "en GENSTANDSFINDER. Hent den!$"
 
 PokedexRating_Text_LessThan50::
 	.string "Din POKéDEX kommer godt fra sted!\p"
 	.string "Jeg har givet en af mine assistenter\n"
-	.string "et AMULET-MØNT. Hænt det!$"
+	.string "et AMULET-MØNT. Hent det!$"
 
 PokedexRating_Text_LessThan60::
 	.string "Ah, du har endelig over 50 arter!\p"
 	.string "Jeg har givet en af mine assistenter\n"
-	.string "et EXP.-DELER. Hænt det!$"
+	.string "et EXP.-DELER. Hent det!$"
 
 PokedexRating_Text_LessThan70::
 	.string "Hoho! Det her bliver en rigtig\n"
@@ -72,7 +72,7 @@ PokedexRating_Text_LessThan130::
 	.string "at få flere!$"
 
 PokedexRating_Text_LessThan140::
-	.string "Enestænde!\n"
+	.string "Enestående!\n"
 	.string "Du er blevet en rigtig ekspert!$"
 
 PokedexRating_Text_LessThan150::
@@ -108,7 +108,7 @@ PokedexRating_Text_HaHa::
 PokedexRating_Text_ThankYouMadeDreamReality::
 	.string "Tak, {PLAYER}!\n"
 	.string "Oprigtig tak!\l"
-	.string "Du har virkeliggjort min drom!$"
+	.string "Du har virkeliggjort min drøm!$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
 	.string "OAK: Ah, velkommen!\p"

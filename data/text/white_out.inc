@@ -26,7 +26,7 @@ Text_HadQuiteAnExperienceTakeRest::
 	.string "hvile.$"
 
 Text_MomExplainHPGetPotions::
-	.string "MOR: Oh, godt! Du og dine\n"
+	.string "MOR: Åh, godt! Du og dine\n"
 	.string "POKéMON ser gode ud.\p"
 	.string "Jeg har lige hørt fra PROF. OAK.\p"
 	.string "Han sagde at POKéMONs energi\n"

@@ -36,8 +36,8 @@ DayCare_Text_TakeGoodCareOfIt::
 	.string "Pas godt på det.$"
 
 DayCare_Text_SeeWifeIfYouWantToPickUpMon::
-	.string "ポケモンを　ひきとりたい　ときは\n"
-	.string "ばさんに　いって　おくれ$"
+	.string "Hvis du vil hente en POKéMON,\n"
+	.string "så tal med konen.$"
 
 DayCare_Text_YourMonsAreDoingFine::
 	.string "Ah, det er dig! Din {STR_VAR_1} og\n"
@@ -70,7 +70,7 @@ DayCare_Text_HusbandWasLookingForYou::
 	.string "Min mand ledte efter dig.$"
 
 DayCare_Text_FineThenComeAgain::
-	.string "Oh, fint da.\n"
+	.string "Åh, fint da.\n"
 	.string "Kom igen.$"
 
 DayCare_Text_NotEnoughMoney::
@@ -94,11 +94,11 @@ DayCare_Text_YourMonHasGrownXLevels::
 	.string "{STR_VAR_2} niveau.$"
 
 DayCare_Text_YourPartyIsFull::
-	.string "Din POKéMON-hold er fuldt.\n"
+	.string "Dit POKéMON-hold er fuldt.\n"
 	.string "Lav plads, og kom så til mig.$"
 
 DayCare_Text_TakeBackWhichMon::
-	.string "どっちの　ポケモンを　ひきとるかい？$"
+	.string "Hvilken af POKéMON vil du hente?$"
 
 DayCare_Text_ItWillCostX::
 	.string "Hvis du vil have din {STR_VAR_1} tilbage,\n"
@@ -113,7 +113,7 @@ DayCare_Text_TookBackMon::
 	.string "DAGPLEJEKONEN.$"
 
 DayCare_Text_YouHaveJustOneMon::
-	.string "Oh? Men du har kun en\n"
+	.string "Åh? Men du har kun en\n"
 	.string "POKéMON.\p"
 	.string "Kom tilbage en anden gang.$"
 
