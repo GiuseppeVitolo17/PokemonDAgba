@@ -41,6 +41,10 @@ u8 RunHelpSystemCallback(void)
 {
     s32 i;
 
+    // Keep help system BG vertical scroll stable even if the underlying callback keeps updating BG regs.
+    if (sInHelpSystem && sVideoState.state >= 4 && sVideoState.state <= 5)
+        SetGpuReg(REG_OFFSET_BG0VOFS, 8);
+
     switch (sVideoState.state)
     {
     case 0:
@@ -98,7 +102,7 @@ u8 RunHelpSystemCallback(void)
     case 4:
         SetGpuReg(REG_OFFSET_BLDCNT, 0);
         SetGpuReg(REG_OFFSET_BG0HOFS, 0);
-        SetGpuReg(REG_OFFSET_BG0VOFS, 0);
+        SetGpuReg(REG_OFFSET_BG0VOFS, 8);
         SetGpuReg(REG_OFFSET_BG0CNT, BGCNT_PRIORITY(0) | BGCNT_CHARBASE(3) | BGCNT_16COLOR | BGCNT_SCREENBASE(31));
         SetGpuReg(REG_OFFSET_DISPCNT, DISPCNT_BG0_ON);
         sVideoState.state = 5;
