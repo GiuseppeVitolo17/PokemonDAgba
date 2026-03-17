@@ -26,7 +26,7 @@ FourIsland_House2_Text_WishICouldShowOffStickers::
 	.string "Jeg ville ønske jeg kunne vise dem frem…$"
 
 FourIsland_House2_Text_GiveYouStickerIfYouBrag::
-	.string "Oh, glimrende!\n"
+	.string "Åh, glimrende!\n"
 	.string "Du er kommet til det rette sted!\p"
 	.string "Se, se! Se? Se?\n"
 	.string "Det her er mine STICKERS!\l"
@@ -39,23 +39,23 @@ FourIsland_House2_Text_GiveYouStickerIfYouBrag::
 	.string "Hvad vil du prale af?$"
 
 FourIsland_House2_Text_BragAboutSomethingForMe::
-	.string "Præl af noget for mig.\n"
+	.string "Pral af noget for mig.\n"
 	.string "Så giver jeg dig en STICKER.$"
 
 FourIsland_House2_Text_BragAboutWhatToday::
-	.string "Oh, hej!\n"
+	.string "Åh, hej!\n"
 	.string "Her kommer praleren.\p"
 	.string "Hvad vil du prale af\n"
 	.string "i dag?$"
 
 FourIsland_House2_Text_WowHoFLowest::
-	.string "Oh, wow, du kom med i\n"
+	.string "Åh, wow, du kom med i\n"
 	.string "ÆREGALLERIET.\p"
 	.string "Det er ret godt, ja!\n"
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowHoFLow::
-	.string "Oh, wow, du har været i\n"
+	.string "Åh, wow, du har været i\n"
 	.string "ÆREGALLERIET mange gange!\p"
 	.string "Det er imponerende, ja!\n"
 	.string "Jeg giver dig en af disse.$"
@@ -83,12 +83,12 @@ FourIsland_House2_Text_ComeBackWithBetterStoryHoF::
 	.string "næste gang, okay?$"
 
 FourIsland_House2_Text_LivingLegendHoF::
-	.string "Oh, nej, det kan jeg ikke.\p"
+	.string "Åh nej, det kan jeg ikke.\p"
 	.string "Du er næsten en levende legende.\n"
 	.string "Jeg har ingen STICKERS tilbage at give.$"
 
 FourIsland_House2_Text_WowEggsLowest::
-	.string "Oh, wow, der findes POKéMON ÆG?\n"
+	.string "Åh, wow, der findes POKéMON ÆG?\n"
 	.string "Det vidste jeg ikke!\p"
 	.string "Det er ret godt, ja!\n"
 	.string "Jeg giver dig en af disse.$"
@@ -106,7 +106,7 @@ FourIsland_House2_Text_WowEggsHigh::
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowEggsHighest::
-	.string "Wh… Du har klækket så mange ÆG?\p"
+	.string "Hva… Du har klækket så mange ÆG?\p"
 	.string "Hvad er bag din kærlighed til ÆG?\n"
 	.string "Det er mere end utroligt, ja!\p"
 	.string "Du er for sej, siger jeg.\n"
@@ -122,12 +122,12 @@ FourIsland_House2_Text_ComeBackWithBetterStoryEggs::
 	.string "næste gang, okay?$"
 
 FourIsland_House2_Text_LivingLegendEggs::
-	.string "Oh, nej, det kan jeg ikke.\p"
+	.string "Åh nej, det kan jeg ikke.\p"
 	.string "Du er næsten en levende legende.\n"
 	.string "Jeg har ingen STICKERS tilbage at give.$"
 
 FourIsland_House2_Text_WowLinkWinsLowest::
-	.string "Oh, wow, du har haft succes\n"
+	.string "Åh, wow, du har haft succes\n"
 	.string "med link-kampe?\p"
 	.string "Du er ret stærk, ja!\n"
 	.string "Jeg giver dig en af disse.$"
@@ -145,7 +145,7 @@ FourIsland_House2_Text_WowLinkWinsHigh::
 	.string "Jeg giver dig en af disse.$"
 
 FourIsland_House2_Text_WowLinkWinsHighest::
-	.string "Wh… For vildt!\n"
+	.string "Hva… For vildt!\n"
 	.string "Du har vundet utroligt mange gange!\p"
 	.string "Jeg bliver helt påvirket af at tænke\n"
 	.string "på hvor hård du er.\p"
@@ -162,6 +162,6 @@ FourIsland_House2_Text_ComeBackWithBetterStoryLinkWins::
 	.string "næste gang, okay?$"
 
 FourIsland_House2_Text_LivingLegendLinkWins::
-	.string "Oh, nej, det kan jeg ikke.\p"
+	.string "Åh nej, det kan jeg ikke.\p"
 	.string "Du er næsten en levende legende.\n"
 	.string "Jeg har ingen STICKERS tilbage at give.$"

@@ -273,7 +273,7 @@ Route12_Text_JesRematchIntro::
 	.string "frier til min GIA.$"
 
 Route12_Text_GiaRematchIntro::
-	.string "GIA: Hey, JES…\n"
+	.string "GIA: Hej, JES…\n"
 	.string "Jeg har ventet længe nu.\p"
 	.string "Hvis vi vinder i dag, gifter jeg mig med dig!$"
 
@@ -425,7 +425,7 @@ Route16_Text_LaoRematchIntro::
 	.string "Hvad vil du?$"
 
 Route16_Text_KojiRematchIntro::
-	.string "Nice BIKE!\n"
+	.string "Fed BIKE!\n"
 	.string "Ræk den over med det samme!$"
 
 Route16_Text_LukeRematchIntro::
@@ -441,7 +441,7 @@ Route16_Text_CamronRematchIntro::
 	.string "Jeg har virkelig brug for en boksepude!$"
 
 Route16_Text_RubenRematchIntro::
-	.string "Hey, there!\n"
+	.string "Hej du!\n"
 	.string "Vi skal nok få det sjovt!$"
 
 Route16_Text_JedRematchIntro::
@@ -501,7 +501,7 @@ Route18_Text_RamiroRematchIntro::
 
 Route18_Text_JacobRematchIntro::
 	.string "Jeg advarede dig før, det her er mit\n"
-	.string "turf!\p"
+	.string "område!\p"
 	.string "Jeg vil ikke have dig rendende her.$"
 
 Route19_Text_RichardRematchIntro::
@@ -560,55 +560,55 @@ Route19_Text_LucRematchIntro::
 	.string "Mon jeg er blevet bedre?$"
 
 Route20_Text_BarryRematchIntro::
-	.string "The water is shallow here.\n"
-	.string "There are many people swimming.$"
+	.string "Vandet er lavt her.\n"
+	.string "Der er mange mennesker der svømmer.$"
 
 Route20_Text_ShirleyRematchIntro::
-	.string "Are you jealous that I'm\n"
-	.string "vacationing on SEAFOAM?$"
+	.string "Er du misundelig over at jeg\n"
+	.string "holder ferie på SEAFOAM?$"
 
 Route20_Text_TiffanyRematchIntro::
-	.string "I love floating with the fishes\n"
-	.string "here among the waves.$"
+	.string "Jeg elsker at flyde med fiskene\n"
+	.string "her ude mellem bølgerne.$"
 
 Route20_Text_IreneRematchIntro::
-	.string "Were you on vacation, too?$"
+	.string "Var du også på ferie?$"
 
 Route20_Text_DeanRematchIntro::
-	.string "Check out my physique!\p"
-	.string "It's even more buff than ever\n"
-	.string "before!$"
+	.string "Se min fysik!\p"
+	.string "Den er endnu mere muskuløs end\n"
+	.string "nogensinde før!$"
 
 Route20_Text_DarrinRematchIntro::
-	.string "Why are you riding a POKéMON?\n"
-	.string "Haven't you learned to swim yet?$"
+	.string "Hvorfor rider du på en POKéMON?\n"
+	.string "Har du ikke lært at svømme endnu?$"
 
 Route20_Text_RogerRematchIntro::
-	.string "I rode my bird POKéMON here.$"
+	.string "Jeg red hertil på min fugle-POKéMON.$"
 
 Route20_Text_NoraRematchIntro::
-	.string "My boyfriend gave me big pearls.\n"
-	.string "And, they've grown bigger!$"
+	.string "Min kæreste gav mig store perler.\n"
+	.string "Og de er blevet endnu større!$"
 
 Route20_Text_MissyRematchIntro::
-	.string "I swam here from CINNABAR ISLAND.\n"
-	.string "It wasn't easy, like I said.$"
+	.string "Jeg svømmede hertil fra CINNABAR ISLAND.\n"
+	.string "Det var ikke nemt, som jeg sagde.$"
 
 Route20_Text_MelissaRematchIntro::
-	.string "CINNABAR, in the west, has a LAB\n"
+	.string "CINNABAR i vest har et LAB\n"
 	.string "for POKéMON.\p"
-	.string "My daddy works there.$"
+	.string "Min far arbejder der.$"
 
 Route21_North_Text_RonaldRematchIntro::
-	.string "You want to know if the fish are\n"
-	.string "biting?$"
+	.string "Vil du vide om fiskene\n"
+	.string "bider?$"
 
 Route21_North_Text_WadeRematchIntro::
-	.string "I got a big haul again!\n"
-	.string "Wanna go for it once more?$"
+	.string "Jeg fik en stor fangst igen!\n"
+	.string "Vil du tage en omgang mere?$"
 
 Route21_North_Text_SpencerRematchIntro::
-	.string "The sea cleanses my body and soul!$"
+	.string "Havet renser min krop og sjæl!$"
 
 @ Unused trainer from RB that had a rematch intro added
 Route21_North_Text_CueBallRematchIntro::
@@ -616,392 +616,392 @@ Route21_North_Text_CueBallRematchIntro::
 	.string "きちまったぜ$"
 
 Route21_South_Text_JackRematchIntro::
-	.string "I caught my POKéMON at sea.\n"
-	.string "And that's where I train them.$"
+	.string "Jeg fangede mine POKéMON til havs.\n"
+	.string "Og det er der jeg træner dem.$"
 
 Route21_South_Text_JeromeRematchIntro::
-	.string "Right now, I'm in another triathlon\n"
-	.string "meet!$"
+	.string "Lige nu er jeg med i endnu et\n"
+	.string "triatlonstævne!$"
 
 Route21_South_Text_RolandRematchIntro::
 	.string "Ahh!\n"
-	.string "Feel the sun and the wind!$"
+	.string "Mærk solen og vinden!$"
 
 Route21_South_Text_ClaudeRematchIntro::
-	.string "Hey, cut it out already.\n"
-	.string "You always scare away the fish!$"
+	.string "Hey, stop så.\n"
+	.string "Du skræmmer altid fiskene væk!$"
 
 Route21_South_Text_NolanRematchIntro::
-	.string "Keep me company till I get a hit.$"
+	.string "Hold mig med selskab til jeg får bid.$"
 
 Route21_North_Text_LilRematchIntro::
-	.string "LIL: Huh? A battle again?\n"
-	.string "IAN, can't you do it alone?$"
+	.string "LIL: Hva'? En kamp igen?\n"
+	.string "IAN, kan du ikke klare det alene?$"
 
 Route21_North_Text_IanRematchIntro::
-	.string "IAN: My sis is still a slob.\n"
-	.string "Help me get her into shape!$"
+	.string "IAN: Min søster er stadig doven.\n"
+	.string "Hjælp mig med at få hende i form!$"
 
 Route25_Text_JoeyRematchIntro::
-	.string "I won't lose while I'm here!$"
+	.string "Jeg taber ikke mens jeg er her!$"
 
 Route25_Text_DanRematchIntro::
-	.string "Dad took me to a great party on\n"
-	.string "the S.S. ANNE at VERMILION CITY.$"
+	.string "Far tog mig med til en fed fest på\n"
+	.string "S.S. ANNE i VERMILION CITY.$"
 
 Route25_Text_FlintRematchIntro::
-	.string "I'm a cool guy.\n"
-	.string "I've got a girlfriend!\p"
-	.string "I'll show her how cool I am for\n"
-	.string "sure this time!$"
+	.string "Jeg er en sej fyr.\n"
+	.string "Jeg har en kæreste!\p"
+	.string "Denne gang skal jeg helt sikkert vise\n"
+	.string "hvor sej jeg er!$"
 
 Route25_Text_KelseyRematchIntro::
-	.string "Hi!\n"
-	.string "My boyfriend is cool!\l"
-	.string "My conditioning's good today!$"
+	.string "Hej!\n"
+	.string "Min kæreste er sej!\l"
+	.string "Min form er god i dag!$"
 
 Route25_Text_ChadRematchIntro::
-	.string "I had this feeling…\n"
-	.string "I knew I had to battle you again!$"
+	.string "Jeg havde en fornemmelse…\n"
+	.string "Jeg vidste jeg måtte kæmpe mod dig igen!$"
 
 Route25_Text_HaleyRematchIntro::
-	.string "My friend has many cute POKéMON.\n"
-	.string "I'm so jealous!$"
+	.string "Min ven har mange søde POKéMON.\n"
+	.string "Jeg er så misundelig!$"
 
 Route25_Text_FranklinRematchIntro::
-	.string "I just trained up on MT. MOON,\n"
-	.string "but I've still got gas in the tank!$"
+	.string "Jeg trænede lige oppe på MT. MOON,\n"
+	.string "men jeg har stadig energi i tanken!$"
 
 Route25_Text_NobRematchIntro::
-	.string "A POKeMANIAC lives on the cape.\n"
-	.string "Have you seen his collection?$"
+	.string "En POKeMANIAC bor på næsset.\n"
+	.string "Har du set hans samling?$"
 
 Route25_Text_WayneRematchIntro::
-	.string "You're going to see BILL again?\n"
-	.string "First, we battle!$"
+	.string "Skal du besøge BILL igen?\n"
+	.string "Først kæmper vi!$"
 
 Route24_Text_ShaneRematchIntro::
-	.string "I saw your feat from the grass!$"
+	.string "Jeg så din bedrift fra græsset!$"
 
 Route24_Text_EthanRematchIntro::
 	.string "Okay!\n"
-	.string "I'll stomp you!$"
+	.string "Jeg knuser dig!$"
 
 Route24_Text_ReliRematchIntro::
-	.string "You always look so busy…\n"
-	.string "Aren't you getting tired?$"
+	.string "Du ser altid så travl ud…\n"
+	.string "Bliver du ikke træt?$"
 
 Route24_Text_TimmyRematchIntro::
-	.string "You really must love coming to\n"
+	.string "Du må virkelig elske at komme til\n"
 	.string "NUGGET BRIDGE.$"
 
 Route24_Text_AliRematchIntro::
-	.string "The time we battled…\p"
-	.string "Even though I was the second in\n"
-	.string "line, I was the best, wasn't I?$"
+	.string "Dengang vi kæmpede…\p"
+	.string "Selvom jeg var nummer to i\n"
+	.string "rækken, var jeg den bedste, ikke?$"
 
 Route24_Text_CaleRematchIntro::
-	.string "People call this the NUGGET\n"
+	.string "Folk kalder dette NUGGET\n"
 	.string "BRIDGE!\p"
-	.string "You've already beaten us, so you're\n"
-	.string "not allowed to take the challenge…\p"
-	.string "…But, you're welcome to battle with\n"
-	.string "us again.$"
+	.string "Du har allerede slået os, så du\n"
+	.string "må ikke tage udfordringen…\p"
+	.string "…Men du er velkommen til at kæmpe\n"
+	.string "mod os igen.$"
 
 OneIsland_TreasureBeach_Text_AmaraRematchIntro::
-	.string "Lying back, rocked by the waves…\n"
-	.string "I don't notice time slipping by…$"
+	.string "Liggende tilbage, vugget af bølgerne…\n"
+	.string "Jeg mærker ikke tiden flyve afsted…$"
 
 OneIsland_KindleRoad_Text_MariaRematchIntro::
-	.string "The weather's gorgeous!\n"
-	.string "I'll try not to spoil it.$"
+	.string "Vejret er fantastisk!\n"
+	.string "Jeg skal prøve ikke at ødelægge det.$"
 
 OneIsland_KindleRoad_Text_AbigailRematchIntro::
-	.string "My sunburn is starting to hurt…$"
+	.string "Min solskoldning begynder at gøre ondt…$"
 
 OneIsland_KindleRoad_Text_FinnRematchIntro::
-	.string "The fire bird's mountain casts\n"
-	.string "a huge shadow…$"
+	.string "Ildfuglens bjerg kaster\n"
+	.string "en kæmpe skygge…$"
 
 OneIsland_KindleRoad_Text_GarrettRematchIntro::
-	.string "I have this strong feeling that\n"
-	.string "I can win this time!$"
+	.string "Jeg har en stærk fornemmelse af at\n"
+	.string "jeg kan vinde denne gang!$"
 
 OneIsland_KindleRoad_Text_TommyRematchIntro::
-	.string "Wait! Wait a second!\n"
-	.string "I'm sure I've hooked a big one!$"
+	.string "Vent! Vent lige!\n"
+	.string "Jeg er sikker på jeg har kroget en stor en!$"
 
 OneIsland_KindleRoad_Text_SharonRematchIntro::
-	.string "You'll help me out with my\n"
-	.string "training again?$"
+	.string "Vil du hjælpe mig med min\n"
+	.string "træning igen?$"
 
 OneIsland_KindleRoad_Text_TanyaRematchIntro::
-	.string "We haven't missed a single day of\n"
-	.string "training yet!$"
+	.string "Vi har endnu ikke misset en eneste\n"
+	.string "træningsdag!$"
 
 OneIsland_KindleRoad_Text_SheaRematchIntro::
-	.string "Every morning, before breakfast,\n"
-	.string "I swim around this island…\l"
-	.string "Three times!$"
+	.string "Hver morgen, før morgenmad,\n"
+	.string "svømmer jeg rundt om denne ø…\l"
+	.string "Tre gange!$"
 
 OneIsland_KindleRoad_Text_HughRematchIntro::
-	.string "Dress appropriately for battle!\n"
-	.string "Lose that frivolous outfit, I said!$"
+	.string "Klæd dig passende til kamp!\n"
+	.string "Skift det pjattede outfit ud, siger jeg!$"
 
 OneIsland_KindleRoad_Text_BryceRematchIntro::
-	.string "You know, everything tastes great\n"
-	.string "when you're out in the wild.$"
+	.string "Du ved, alt smager fantastisk\n"
+	.string "når man er ude i naturen.$"
 
 OneIsland_KindleRoad_Text_ClaireRematchIntro::
-	.string "I ate too much again, so will you\n"
-	.string "battle us for some exercise?$"
+	.string "Jeg spiste for meget igen, så vil du\n"
+	.string "kæmpe mod os for lidt motion?$"
 
 OneIsland_KindleRoad_Text_KiaRematchIntro::
-	.string "KIA: My big brother and I make\n"
-	.string "an awesome combination!\p"
-	.string "We won't lose this time!$"
+	.string "KIA: Min storebror og jeg er\n"
+	.string "en fantastisk kombination!\p"
+	.string "Vi taber ikke denne gang!$"
 
 OneIsland_KindleRoad_Text_MikRematchIntro::
-	.string "MIK: Together with KIA, we're\n"
-	.string "afraid of nothing!\p"
-	.string "We'll prove it to you this time!$"
+	.string "MIK: Sammen med KIA er vi\n"
+	.string "ikke bange for noget!\p"
+	.string "Det beviser vi for dig denne gang!$"
 
 ThreeIsland_BondBridge_Text_NikkiRematchIntro::
-	.string "Are we to battle again?$"
+	.string "Skal vi kæmpe igen?$"
 
 ThreeIsland_BondBridge_Text_VioletRematchIntro::
-	.string "From where have you come, and\n"
-	.string "where are you bound?$"
+	.string "Hvor kommer du fra, og\n"
+	.string "hvor er du på vej hen?$"
 
 ThreeIsland_BondBridge_Text_AmiraRematchIntro::
-	.string "I want to swim without my float\n"
-	.string "ring soon.$"
+	.string "Jeg vil snart svømme uden min\n"
+	.string "badering.$"
 
 ThreeIsland_BondBridge_Text_AlexisRematchIntro::
-	.string "Yay, yay!\n"
+	.string "Hurra, hurra!\n"
 	.string "POKéMON!$"
 
 ThreeIsland_BondBridge_Text_TishaRematchIntro::
-	.string "Oh, no, didn't I tell you already?\n"
-	.string "Please, stay away from me!$"
+	.string "Åh nej, sagde jeg det ikke allerede?\n"
+	.string "Hold dig venligst væk fra mig!$"
 
 ThreeIsland_BondBridge_Text_JoyRematchIntro::
-	.string "JOY: We've gotten stronger!\n"
-	.string "Lots and lots!$"
+	.string "JOY: Vi er blevet stærkere!\n"
+	.string "Meget, meget stærkere!$"
 
 ThreeIsland_BondBridge_Text_MegRematchIntro::
-	.string "MEG: You can't beat us today!$"
+	.string "MEG: Du kan ikke slå os i dag!$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeRematchIntro::
-	.string "Oh, hello!\p"
-	.string "Are you raising your POKéMON in a\n"
-	.string "good environment?$"
+	.string "Åh, hej!\p"
+	.string "Opdrætter du dine POKéMON i et\n"
+	.string "godt miljø?$"
 
 FiveIsland_ResortGorgeous_Text_DaisyRematchIntro::
-	.string "With these hands, I will create\n"
-	.string "my victory today.$"
+	.string "Med disse hænder vil jeg skabe\n"
+	.string "min sejr i dag.$"
 
 FiveIsland_ResortGorgeous_Text_CelinaRematchIntro::
-	.string "Must I repeat myself?\n"
-	.string "I'm trying to paint.\l"
-	.string "Please keep out of my sight!$"
+	.string "Skal jeg gentage mig selv?\n"
+	.string "Jeg prøver at male.\l"
+	.string "Hold dig venligst uden for mit synsfelt!$"
 
 FiveIsland_ResortGorgeous_Text_RaynaRematchIntro::
-	.string "I haven't made any progress…\n"
-	.string "I still can't get the right angle…$"
+	.string "Jeg har ikke gjort fremskridt…\n"
+	.string "Jeg kan stadig ikke få den rigtige vinkel…$"
 
 FiveIsland_ResortGorgeous_Text_JackiRematchIntro::
-	.string "Oh, you will give me another\n"
-	.string "opportunity to match wits with you?$"
+	.string "Åh, vil du give mig endnu en\n"
+	.string "mulighed for at måle mig med dig?$"
 
 FiveIsland_ResortGorgeous_Text_GillianRematchIntro::
-	.string "They're almost finished making the\n"
-	.string "pool for my POKéMON.\p"
-	.string "You must drop in for a visit.$"
+	.string "De er næsten færdige med at lave\n"
+	.string "poolen til mine POKéMON.\p"
+	.string "Du må kigge forbi på besøg.$"
 
 FiveIsland_ResortGorgeous_Text_DestinRematchIntro::
-	.string "I'm a good runner.\n"
-	.string "I've gotten even faster!$"
+	.string "Jeg er en god løber.\n"
+	.string "Jeg er blevet endnu hurtigere!$"
 
 FiveIsland_ResortGorgeous_Text_TobyRematchIntro::
-	.string "I say, friend!\n"
-	.string "Let us enjoy our time together!$"
+	.string "Hør her, ven!\n"
+	.string "Lad os nyde tiden sammen!$"
 
 FiveIsland_MemorialPillar_Text_MiloRematchIntro::
-	.string "I'm the eldest of the BIRD\n"
-	.string "BROTHERS. Remember me?\p"
-	.string "That's right, I'm the one who loves\n"
-	.string "birds for their beaks!$"
+	.string "Jeg er den ældste af BIRD\n"
+	.string "BROTHERS. Husker du mig?\p"
+	.string "Det er rigtigt, jeg er ham der elsker\n"
+	.string "fugle for deres næb!$"
 
 FiveIsland_MemorialPillar_Text_ChazRematchIntro::
-	.string "I'm the middle kid of the BIRD\n"
+	.string "Jeg er mellembarnet i BIRD\n"
 	.string "BROTHERS.\p"
-	.string "I'm the one that loves wings.\n"
-	.string "Let's battle again!$"
+	.string "Jeg er ham der elsker vinger.\n"
+	.string "Lad os kæmpe igen!$"
 
 FiveIsland_MemorialPillar_Text_HaroldRematchIntro::
-	.string "I'm the youngest of the BIRD\n"
+	.string "Jeg er den yngste af BIRD\n"
 	.string "BROTHERS.\p"
-	.string "I love birds for their down.\n"
-	.string "I didn't think I'd see you again!$"
+	.string "Jeg elsker fugle for deres dun.\n"
+	.string "Jeg troede ikke jeg ville se dig igen!$"
 
 SixIsland_OutcastIsland_Text_TylorRematchIntro::
-	.string "I'm still having no luck at all.\n"
-	.string "A battle'd be a change of pace!$"
+	.string "Jeg har stadig slet ingen held.\n"
+	.string "En kamp ville være et afbræk!$"
 
 SixIsland_OutcastIsland_Text_MymoRematchIntro::
-	.string "Gasp… Gasp…\p"
-	.string "I swam here from SIX ISLAND's port\n"
-	.string "in one go again.$"
+	.string "Hah… Hah…\p"
+	.string "Jeg svømmede hertil fra SIX ISLANDs havn\n"
+	.string "i ét stræk igen.$"
 
 SixIsland_OutcastIsland_Text_NicoleRematchIntro::
-	.string "You always come along while I'm\n"
-	.string "swimming.$"
+	.string "Du dukker altid op mens jeg\n"
+	.string "svømmer.$"
 
 SixIsland_OutcastIsland_Text_AvaRematchIntro::
-	.string "AVA: Let's have another\n"
-	.string "two-on-two marine battle today!$"
+	.string "AVA: Lad os tage endnu en\n"
+	.string "to-mod-to havkamp i dag!$"
 
 SixIsland_OutcastIsland_Text_GebRematchIntro::
-	.string "GEB: My big sister and I are way\n"
-	.string "tougher than before!$"
+	.string "GEB: Min storesøster og jeg er\n"
+	.string "meget hårdere end før!$"
 
 SixIsland_GreenPath_Text_JaclynRematchIntro::
-	.string "…Huh?\p"
-	.string "I envision my house, but TELEPORT\n"
-	.string "always brings me here!$"
+	.string "…Hva'?\p"
+	.string "Jeg forestiller mig mit hus, men TELEPORT\n"
+	.string "bringer mig altid hertil!$"
 
 SixIsland_WaterPath_Text_RoseRematchIntro::
-	.string "Oh, hello.\n"
-	.string "A pleasant breeze is blowing again.$"
+	.string "Åh, hej.\n"
+	.string "En behagelig brise blæser igen.$"
 
 SixIsland_WaterPath_Text_EdwardRematchIntro::
-	.string "Hehehe, I'm practicing in secret\n"
-	.string "again.$"
+	.string "Hehehe, jeg træner i hemmelighed\n"
+	.string "igen.$"
 
 SixIsland_WaterPath_Text_SamirRematchIntro::
-	.string "What, you're sick of seeing\n"
-	.string "SWIMMERS like me?\p"
-	.string "Aww, don't be hatin'!\n"
-	.string "Battle with me again.$"
+	.string "Hvad, er du træt af at se\n"
+	.string "SWIMMERS som mig?\p"
+	.string "Aww, lad være med at hade!\n"
+	.string "Kæmp mod mig igen.$"
 
 SixIsland_WaterPath_Text_DeniseRematchIntro::
-	.string "Sigh…\n"
-	.string "My boyfriend's busy again…$"
+	.string "Suk…\n"
+	.string "Min kæreste har travlt igen…$"
 
 SixIsland_WaterPath_Text_EarlRematchIntro::
-	.string "Come on, tell me, where are the\n"
-	.string "mountains around these parts?$"
+	.string "Kom nu, sig mig, hvor er bjergene\n"
+	.string "her omkring?$"
 
 SixIsland_WaterPath_Text_MiuRematchIntro::
-	.string "MIU: Hello, POKéMON!\n"
-	.string "It's time to play again!$"
+	.string "MIU: Hej, POKéMON!\n"
+	.string "Det er tid til at lege igen!$"
 
 SixIsland_WaterPath_Text_MiaRematchIntro::
-	.string "MIA: Hello, POKéMON!\n"
-	.string "It's time to battle again!$"
+	.string "MIA: Hej, POKéMON!\n"
+	.string "Det er tid til at kæmpe igen!$"
 
 SixIsland_RuinValley_Text_StanlyRematchIntro::
-	.string "There appear to be many secrets\n"
-	.string "still unsolved in this world.$"
+	.string "Der ser ud til at være mange hemmeligheder\n"
+	.string "i denne verden som stadig er uløste.$"
 
 SixIsland_RuinValley_Text_FosterRematchIntro::
-	.string "Hi, didn't we meet before?\n"
-	.string "What compelled you to come back?$"
+	.string "Hej, mødtes vi ikke før?\n"
+	.string "Hvad fik dig til at komme tilbage?$"
 
 SixIsland_RuinValley_Text_LarryRematchIntro::
-	.string "It's been said that there are\n"
-	.string "mysterious stones on this island.\p"
-	.string "Have you discovered anything since\n"
-	.string "we last met?$"
+	.string "Det siges at der er\n"
+	.string "mystiske sten på denne ø.\p"
+	.string "Har du opdaget noget siden\n"
+	.string "vi sidst mødtes?$"
 
 SixIsland_RuinValley_Text_DarylRematchIntro::
-	.string "A rematch with you, so high up!$"
+	.string "En omkamp med dig, helt heroppe!$"
 
 SixIsland_RuinValley_Text_HectorRematchIntro::
-	.string "I'm pretty familiar with the land\n"
-	.string "around these parts.$"
+	.string "Jeg kender området her\n"
+	.string "ret godt.$"
 
 SevenIsland_TrainerTower_Text_DarioRematchIntro::
-	.string "I sensed your approach.$"
+	.string "Jeg mærkede at du nærmede dig.$"
 
 SevenIsland_TrainerTower_Text_RodetteRematchIntro::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.$"
+	.string "Et sted på denne ø sover særlige\n"
+	.string "POKéMON.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahRematchIntro::
 	.string "Kyahaha!\p"
-	.string "Coming back won't change a thing.\n"
-	.string "I'll flick you away effortlessly!$"
+	.string "At komme tilbage ændrer ingenting.\n"
+	.string "Jeg fejer dig væk uden besvær!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonRematchIntro::
-	.string "Howdy! You're a member of my\n"
-	.string "fan club, isn't that right?$"
+	.string "Hej du! Du er medlem af min\n"
+	.string "fanklub, ikke sandt?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasRematchIntro::
-	.string "This island is too spread out…\n"
-	.string "Patrolling the place is a drag…$"
+	.string "Denne ø er alt for udstrakt…\n"
+	.string "Det er surt at patruljere stedet…$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineRematchIntro::
-	.string "I don't forgive people who abuse\n"
+	.string "Jeg tilgiver ikke folk der misbruger\n"
 	.string "POKéMON!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveRematchIntro::
-	.string "EVE: I'll team up with JON and\n"
-	.string "battle together again.$"
+	.string "EVE: Jeg slår mig sammen med JON og\n"
+	.string "vi kæmper sammen igen.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonRematchIntro::
-	.string "JON: When I'm with EVE, it feels\n"
-	.string "like we could never lose, not ever.$"
+	.string "JON: Når jeg er med EVE, føles det\n"
+	.string "som om vi aldrig kan tabe, aldrig.$"
 
 SevenIsland_SevaultCanyon_Text_CyndyRematchIntro::
-	.string "Let's have another battle.\n"
-	.string "My conditioning's in top form!$"
+	.string "Lad os tage endnu en kamp.\n"
+	.string "Min form er i top!$"
 
 SevenIsland_SevaultCanyon_Text_EvanRematchIntro::
-	.string "It døsn't matter if you happen to\n"
-	.string "have the strongest POKéMON…\p"
-	.string "It døsn't mean a thing if you don't\n"
-	.string "know how to use them properly!$"
+	.string "Det betyder ikke noget om du tilfældigvis\n"
+	.string "har de stærkeste POKéMON…\p"
+	.string "Det betyder intet hvis du ikke\n"
+	.string "ved hvordan du bruger dem ordentligt!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonRematchIntro::
-	.string "I work to protect the environment.\n"
-	.string "In turn, nature protects me!$"
+	.string "Jeg arbejder for at beskytte miljøet.\n"
+	.string "Til gengæld beskytter naturen mig!$"
 
 SevenIsland_SevaultCanyon_Text_KatelynRematchIntro::
-	.string "Every time we meet, you have those\n"
-	.string "snazzy shøs on.$"
+	.string "Hver gang vi mødes, har du de\n"
+	.string "smarte sko på.$"
 
 SevenIsland_SevaultCanyon_Text_LeroyRematchIntro::
-	.string "You must have gotten tougher.\n"
-	.string "Let me battle you, please!$"
+	.string "Du må være blevet hårdere.\n"
+	.string "Lad mig kæmpe mod dig, tak!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleRematchIntro::
-	.string "I was given the best possible\n"
-	.string "education to become this strong.\p"
-	.string "I won't lose this time.\n"
-	.string "Absolutely not!$"
+	.string "Jeg har fået den bedst mulige\n"
+	.string "uddannelse for at blive så stærk.\p"
+	.string "Jeg taber ikke denne gang.\n"
+	.string "Helt sikkert ikke!$"
 
 SevenIsland_SevaultCanyon_Text_LexRematchIntro::
-	.string "LEX: My darling NYA, together\n"
-	.string "we will win for certain!$"
+	.string "LEX: Min elskede NYA, sammen\n"
+	.string "vinder vi helt sikkert!$"
 
 SevenIsland_SevaultCanyon_Text_NyaRematchIntro::
-	.string "NYA: I won't drag down my mentor\n"
-	.string "LEX! We're going to win!$"
+	.string "NYA: Jeg vil ikke holde min mentor\n"
+	.string "LEX tilbage! Vi kommer til at vinde!$"
 
 SevenIsland_TanobyRuins_Text_BrandonRematchIntro::
-	.string "Have you discovered anything about\n"
-	.string "this stone chamber?$"
+	.string "Har du opdaget noget om\n"
+	.string "dette stenkammer?$"
 
 SevenIsland_TanobyRuins_Text_BenjaminRematchIntro::
-	.string "A mystic POKéMON is said to sleep\n"
-	.string "inside here.$"
+	.string "Det siges at en mystisk POKéMON sover\n"
+	.string "herinde.$"
 
 SevenIsland_TanobyRuins_Text_EdnaRematchIntro::
-	.string "My teacher is showing me how to\n"
-	.string "paint some more.$"
+	.string "Min lærer viser mig hvordan man\n"
+	.string "maler mere.$"
 
 SevenIsland_TanobyRuins_Text_CliffordRematchIntro::
-	.string "Today, in addition to our lesson,\n"
-	.string "we came to see the chamber again.$"
+	.string "I dag, ud over vores lektion,\n"
+	.string "kom vi for at se kammeret igen.$"
