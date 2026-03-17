@@ -79,7 +79,10 @@ void CopyItemName(u16 itemId, u8 * dest)
     }
     else
     {
-        StringCopy(dest, ItemId_GetName(itemId));
+        // gItems[].name is a fixed-length array (ITEM_NAME_LENGTH) and may not contain EOS.
+        // Copy at most ITEM_NAME_LENGTH bytes and always terminate.
+        StringCopyN(dest, ItemId_GetName(itemId), ITEM_NAME_LENGTH);
+        dest[ITEM_NAME_LENGTH] = EOS;
     }
 }
 
