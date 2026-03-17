@@ -42,6 +42,10 @@ u8 RunHelpSystemCallback(void)
 {
     s32 i;
 
+    /* Keep help system BG vertical scroll stable even if the underlying callback keeps updating BG regs. */
+    if (sInHelpSystem && sVideoState.state >= 4 && sVideoState.state <= 5)
+        SetGpuReg(REG_OFFSET_BG0VOFS, 8);
+
     switch (sVideoState.state)
     {
     case 0:
@@ -592,8 +596,14 @@ void HelpSystem_PrintTextRightAlign_Row52(const u8 * str)
 {
     s32 left = 0x7C - GetStringWidth(FONT_SMALL, str, 0);
     GenerateFontHalfRowLookupTable(TEXT_COLOR_WHITE, TEXT_DYNAMIC_COLOR_6, TEXT_COLOR_DARK_GRAY);
-    /* Draw full 16px-tall text at top of bar; BG0VOFS=-8 in help system brings it into view on overscan displays */
-    HelpSystemRenderText(0, gDecompressionBuffer + 0x3400, str, left, 0, 16, 2);
+    /*
+     * Many TV/overscan setups crop a few pixels at the very top of the frame.
+     * Draw this top-bar text a little lower, and clip the bottom a bit so it still fits
+     * in the 16px-tall buffer.
+     */
+    sClipGlyphHeight = 14;
+    HelpSystemRenderText(0, gDecompressionBuffer + 0x3400, str, left, 2, 16, 2);
+    sClipGlyphHeight = 0;
 }
 
 void HelpSystem_PrintTextAt(const u8 * str, u8 x, u8 y)

@@ -673,6 +673,9 @@ static void InitTMCaseListMenuItems(void)
     gMultiuseListMenuTemplate.itemPrintFunc = List_ItemPrintFunc;
     gMultiuseListMenuTemplate.cursorKind = 0;
     gMultiuseListMenuTemplate.scrollMultiple = 0;
+    // Use FONT_SMALL as the base font so the TM number (printed with {FONT_SMALL}) isn't clipped by line height calculations.
+    // The move name still switches back to normal via control codes inside the string.
+    gMultiuseListMenuTemplate.fontId = FONT_SMALL;
 }
 
 static void GetTMNumberAndMoveString(u8 * dest, u16 itemId)

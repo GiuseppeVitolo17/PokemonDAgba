@@ -37,7 +37,6 @@
 #include "constants/quest_log.h"
 
 #define FREE_IF_SET(ptr) ({ if (ptr) Free(ptr); })
-#define BAG_LIST_TASK_DESTROYED 0xFF  /* data[0] when list menu was destroyed for context menu */
 
 struct BagMenuAlloc
 {
@@ -1131,17 +1130,6 @@ static void Task_ItemContextMenuByLocation(u8 taskId)
         gTasks[taskId].func = Task_BagMenu_HandleInput;
 }
 
-/* Recreate list menu if it was destroyed when opening the context menu (avoids input conflict / freeze). */
-static void BagMenu_RecreateListMenuIfDestroyed(u8 taskId)
-{
-    s16 *data = gTasks[taskId].data;
-    if ((u8)data[0] == BAG_LIST_TASK_DESTROYED)
-    {
-        Bag_BuildListMenuTemplate(gBagMenuState.pocket);
-        data[0] = ListMenuInit(&gMultiuseListMenuTemplate, gBagMenuState.cursorPos[gBagMenuState.pocket], gBagMenuState.itemsAbove[gBagMenuState.pocket]);
-    }
-}
-
 static void Task_RedrawArrowsAndReturnToBagMenuSelect(u8 taskId)
 {
     Bag_FillMessageBoxWithPalette(0);
@@ -1480,10 +1468,6 @@ static void OpenContextMenu(u8 taskId)
 
 static void Task_ItemContext_FieldOrBattle(u8 taskId)
 {
-    s16 *data = gTasks[taskId].data;
-    /* Destroy list menu task so it does not run alongside context menu (was causing freeze on item select). */
-    DestroyListMenuTask(data[0], &gBagMenuState.cursorPos[gBagMenuState.pocket], &gBagMenuState.itemsAbove[gBagMenuState.pocket]);
-    data[0] = BAG_LIST_TASK_DESTROYED;
     OpenContextMenu(taskId);
     gTasks[taskId].func = Task_FieldItemContextMenuHandleInput;
 }
@@ -1566,7 +1550,6 @@ static void Task_TossItem_No(u8 taskId)
     HideBagWindow(6);
     PutWindowTilemap(1);
     ScheduleBgCopyTilemapToVram(0);
-    BagMenu_RecreateListMenuIfDestroyed(taskId);
     bag_menu_print_cursor_(data[0], 1);
     Task_RedrawArrowsAndReturnToBagMenuSelect(taskId);
 }
@@ -1596,7 +1579,6 @@ static void Task_SelectQuantityToToss(u8 taskId)
         PutWindowTilemap(0);
         PutWindowTilemap(1);
         ScheduleBgCopyTilemapToVram(0);
-        BagMenu_RecreateListMenuIfDestroyed(taskId);
         bag_menu_print_cursor_(data[0], 1);
         BagDestroyPocketScrollArrowPair();
         Task_RedrawArrowsAndReturnToBagMenuSelect(taskId);
@@ -1622,8 +1604,7 @@ static void Task_WaitAB_RedrawAndReturnToBag(u8 taskId)
         PlaySE(SE_SELECT);
         RemoveBagItem(gSpecialVar_ItemId, data[8]);
         HideBagWindow(6);
-        if ((u8)data[0] != BAG_LIST_TASK_DESTROYED)
-            DestroyListMenuTask(data[0], &gBagMenuState.cursorPos[gBagMenuState.pocket], &gBagMenuState.itemsAbove[gBagMenuState.pocket]);
+        DestroyListMenuTask(data[0], &gBagMenuState.cursorPos[gBagMenuState.pocket], &gBagMenuState.itemsAbove[gBagMenuState.pocket]);
         Pocket_CalculateNItemsAndMaxShowed(gBagMenuState.pocket);
         PocketCalculateInitialCursorPosAndItemsAbove(gBagMenuState.pocket);
         Bag_BuildListMenuTemplate(gBagMenuState.pocket);
@@ -1704,8 +1685,7 @@ void Task_ReturnToBagFromContextMenu(u8 taskId)
 {
     s16 *data = gTasks[taskId].data;
     CloseBagWindow(5);
-    if ((u8)data[0] != BAG_LIST_TASK_DESTROYED)
-        DestroyListMenuTask(data[0], &gBagMenuState.cursorPos[gBagMenuState.pocket], &gBagMenuState.itemsAbove[gBagMenuState.pocket]);
+    DestroyListMenuTask(data[0], &gBagMenuState.cursorPos[gBagMenuState.pocket], &gBagMenuState.itemsAbove[gBagMenuState.pocket]);
     Pocket_CalculateNItemsAndMaxShowed(gBagMenuState.pocket);
     PocketCalculateInitialCursorPosAndItemsAbove(gBagMenuState.pocket);
     Bag_BuildListMenuTemplate(gBagMenuState.pocket);
@@ -1720,7 +1700,6 @@ static void Task_UnusedReturnToBag(u8 taskId)
     s16 *data = gTasks[taskId].data;
     u16 itemsAbove;
     u16 cursorPos;
-    BagMenu_RecreateListMenuIfDestroyed(taskId);
     ListMenuGetScrollAndRow(data[0], &cursorPos, &itemsAbove);
     PrintItemDescriptionOnMessageWindow(cursorPos + itemsAbove);
     PutWindowTilemap(0);
@@ -1737,7 +1716,6 @@ static void Task_ItemMenuAction_Cancel(u8 taskId)
     PutWindowTilemap(0);
     PutWindowTilemap(1);
     ScheduleBgCopyTilemapToVram(0);
-    BagMenu_RecreateListMenuIfDestroyed(taskId);
     bag_menu_print_cursor_(data[0], 1);
     Task_RedrawArrowsAndReturnToBagMenuSelect(taskId);
 }
@@ -1918,7 +1896,6 @@ static void Task_SellItem_No(u8 taskId)
     PutWindowTilemap(0);
     PutWindowTilemap(1);
     ScheduleBgCopyTilemapToVram(0);
-    BagMenu_RecreateListMenuIfDestroyed(taskId);
     bag_menu_print_cursor_(data[0], 1);
     Task_RedrawArrowsAndReturnToBagMenuSelect(taskId);
 }
@@ -1969,7 +1946,6 @@ static void Task_SelectQuantityToSell(u8 taskId)
         PutWindowTilemap(1);
         ScheduleBgCopyTilemapToVram(0);
         BagDestroyPocketScrollArrowPair();
-        BagMenu_RecreateListMenuIfDestroyed(taskId);
         bag_menu_print_cursor_(data[0], 1);
         Task_RedrawArrowsAndReturnToBagMenuSelect(taskId);
     }
@@ -1993,8 +1969,7 @@ static void Task_FinalizeSaleToShop(u8 taskId)
     RemoveBagItem(gSpecialVar_ItemId, data[8]);
     AddMoney(&gSaveBlock1Ptr->money, ItemId_GetPrice(gSpecialVar_ItemId) / 2 * data[8]);
     RecordItemTransaction(gSpecialVar_ItemId, data[8], QL_EVENT_SOLD_ITEM - QL_EVENT_USED_POKEMART);
-    if ((u8)data[0] != BAG_LIST_TASK_DESTROYED)
-        DestroyListMenuTask(data[0], &gBagMenuState.cursorPos[gBagMenuState.pocket], &gBagMenuState.itemsAbove[gBagMenuState.pocket]);
+    DestroyListMenuTask(data[0], &gBagMenuState.cursorPos[gBagMenuState.pocket], &gBagMenuState.itemsAbove[gBagMenuState.pocket]);
     Pocket_CalculateNItemsAndMaxShowed(gBagMenuState.pocket);
     PocketCalculateInitialCursorPosAndItemsAbove(gBagMenuState.pocket);
     sBagMenuDisplay->inhibitItemDescriptionPrint = TRUE;
@@ -2057,7 +2032,6 @@ static void Task_SelectQuantityToDeposit(u8 taskId)
         HideBagWindow(0);
         PutWindowTilemap(1);
         ScheduleBgCopyTilemapToVram(0);
-        BagMenu_RecreateListMenuIfDestroyed(taskId);
         bag_menu_print_cursor_(data[0], 1);
         BagDestroyPocketScrollArrowPair();
         Task_RedrawArrowsAndReturnToBagMenuSelect(taskId);

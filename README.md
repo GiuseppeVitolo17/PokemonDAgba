@@ -16,7 +16,7 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 **Project repository (push here to track progress):** [GiuseppeVitolo17/PokemonDAgba](https://github.com/GiuseppeVitolo17/PokemonDAgba)  
 After cloning, add the remote and push:  
 `git remote add origin https://github.com/GiuseppeVitolo17/PokemonDAgba.git`  
-`git push -u origin master`
+`git push -u origin main`
 
 **Danish characters:** The charmap includes **Æ, Ø, Å, æ, ø, å** (see `charmap.txt` and `DANISH_FONT.md`). The font is the hand-edited image from Desktop; copy it to `graphics/fonts/latin_normal.png` (and latin_male/female) or use `scripts/import_font_from_desktop.py`.
 

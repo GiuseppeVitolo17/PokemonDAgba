@@ -12,6 +12,9 @@ So in-game text can use **æ, ø, å** (and **Æ, Ø, Å**) and the preprocessor
 
 ## Font graphics (so they appear correctly in-game)
 
+**Important:** You do **not** need to edit any fonts to **compile/build the ROM**.  
+Font work is only needed if you want **æ, ø, å** (and **Æ, Ø, Å**) to **render as the correct glyphs** in-game. If the font graphics are not updated, the bytes are still correct, but you may see the “old” glyphs (e.g. German/French symbols) in those slots.
+
 ### Option 1 (recommended): TTF font for best-looking glyphs
 
 The built-in pixel glyphs are very basic. For **proper Danish letters** that match a pixel-font style:
@@ -20,12 +23,8 @@ The built-in pixel glyphs are very basic. For **proper Danish letters** that mat
    - OpenGameArt: [LanaPixel – localization-friendly pixel font](https://opengameart.org/content/lanapixel-localization-friendly-pixel-font) (extract the `.ttf` from the zip), or  
    - GitHub: [pixel-utf8-fonts/lanapixel/LanaPixel.ttf](https://github.com/ericoporto/pixel-utf8-fonts/blob/main/lanapixel/LanaPixel.ttf)
 
-2. **Either** let the script download it, or put the TTF in the repo:
-   ```bash
-   # Auto-download LanaPixel into tools/fonts/ and patch
-   (obsolete: patch script removed)
-   ```
-   Or place `LanaPixel.ttf` in `tools/fonts/` (see `tools/fonts/README.md`), then:
+2. **Put the TTF in the repo**, then run the import script (optional):
+   - Place `LanaPixel.ttf` in `tools/fonts/` (see `tools/fonts/README.md`), then:
    ```bash
    python3 scripts/import_font_from_desktop.py
    ```
