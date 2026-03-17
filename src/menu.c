@@ -193,7 +193,8 @@ void TopBarWindowPrintString(const u8 *string, u8 unused, bool8 copyToVram)
         PutWindowTilemap(sTopBarWindowId);
         FillWindowPixelBuffer(sTopBarWindowId, PIXEL_FILL(15));
         width = GetStringWidth(FONT_SMALL, string, 0);
-        AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -20 - width, 1, sTopBarWindowTextColors, 0, string);
+        // Draw 1px higher so the small-font top bar text isn't vertically clipped.
+        AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -20 - width, 0, sTopBarWindowTextColors, 0, string);
         if (copyToVram)
             CopyWindowToVram(sTopBarWindowId, COPYWIN_FULL);
     }
@@ -224,9 +225,10 @@ void TopBarWindowPrintTwoStrings(const u8 *string, const u8 *string2, bool8 fgCo
         if (string2)
         {
             width = GetStringWidth(FONT_SMALL, string2, 0);
-            AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -20 - width, 1, color, 0, string2);
+            // Draw 1px higher so the small-font top bar text isn't vertically clipped.
+            AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -20 - width, 0, color, 0, string2);
         }
-        AddTextPrinterParameterized4(sTopBarWindowId, FONT_NORMAL_COPY_1, 4, 1, 0, 0, color, 0, string);
+        AddTextPrinterParameterized4(sTopBarWindowId, FONT_NORMAL_COPY_1, 4, 0, 0, 0, color, 0, string);
         if (copyToVram)
             CopyWindowToVram(sTopBarWindowId, COPYWIN_FULL);
     }
