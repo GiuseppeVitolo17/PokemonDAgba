@@ -731,7 +731,7 @@ static void BagListMenuItemPrintFunc(u8 windowId, u32 itemId, u8 y)
         {
             ConvertIntToDecimalStringN(gStringVar1, bagItemQuantity, STR_CONV_MODE_RIGHT_ALIGN, 3);
             StringExpandPlaceholders(gStringVar4, gText_TimesStrVar1);
-            BagPrintTextOnWindow(windowId, FONT_NORMAL, gStringVar4, 0x64, y, 0, 0, 0xFF, 1);
+            BagPrintTextOnWindow(windowId, FONT_SMALL, gStringVar4, 0x6e, y, 0, 0, 0xFF, 1);
         }
         else if (gSaveBlock1Ptr->registeredItem != ITEM_NONE && gSaveBlock1Ptr->registeredItem == bagItemId)
         {
@@ -1338,7 +1338,7 @@ static void InitQuantityToTossOrDeposit(u16 cursorPos, const u8 *str)
     r4 = ShowBagWindow(0, 0);
     ConvertIntToDecimalStringN(gStringVar1, 1, STR_CONV_MODE_LEADING_ZEROS, 3);
     StringExpandPlaceholders(gStringVar4, gText_TimesStrVar1);
-    BagPrintTextOnWindow(r4, FONT_NORMAL, gStringVar4, 4, 10, 1, 0, 0, 1);
+    BagPrintTextOnWindow(r4, FONT_SMALL, gStringVar4, 4, 10, 1, 0, 0, 1);
     CreateArrowPair_QuantitySelect();
 }
 
@@ -1348,7 +1348,7 @@ static void UpdateQuantityToTossOrDeposit(s16 value, u8 ndigits)
     FillWindowPixelBuffer(r6, PIXEL_FILL(1));
     ConvertIntToDecimalStringN(gStringVar1, value, STR_CONV_MODE_LEADING_ZEROS, ndigits);
     StringExpandPlaceholders(gStringVar4, gText_TimesStrVar1);
-    BagPrintTextOnWindow(r6, FONT_NORMAL, gStringVar4, 4, 10, 1, 0, 0, 1);
+    BagPrintTextOnWindow(r6, FONT_SMALL, gStringVar4, 4, 10, 1, 0, 0, 1);
 }
 
 // row of 0 is the bottom row in the list, up to LIST_TILES_HEIGHT at the top
@@ -1906,7 +1906,7 @@ static void Task_InitSaleQuantitySelectInterface(u8 taskId)
     u8 r4 = ShowBagWindow(0, 1);
     ConvertIntToDecimalStringN(gStringVar1, 1, STR_CONV_MODE_LEADING_ZEROS, 2);
     StringExpandPlaceholders(gStringVar4, gText_TimesStrVar1);
-    BagPrintTextOnWindow(r4, FONT_NORMAL, gStringVar4, 4, 10, 1, 0, 0xFF, 1);
+    BagPrintTextOnWindow(r4, FONT_SMALL, gStringVar4, 4, 10, 1, 0, 0xFF, 1);
     UpdateSalePriceDisplay(ItemId_GetPrice(BagGetItemIdByPocketPosition(gBagMenuState.pocket + 1, data[1])) / 2 * data[8]);
     BagPrintMoneyAmount();
     CreatePocketScrollArrowPair_SellQuantity();
