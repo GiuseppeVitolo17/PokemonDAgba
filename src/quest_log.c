@@ -457,17 +457,11 @@ void TryStartQuestLogPlayback(u8 taskId)
             sNumScenes++;
     }
 
-    if (sNumScenes != 0)
-    {
-        gHelpSystemEnabled = FALSE;
-        Task_BeginQuestLogPlayback(taskId);
-        DestroyTask(taskId);
-    }
-    else
-    {
-        SetMainCallback2(CB2_ContinueSavedGame);
-        DestroyTask(taskId);
-    }
+    // Disable automatic recap playback on load.
+    // Large text/script localization changes can invalidate older quest-log scene data
+    // in existing saves and cause a freeze when recap starts.
+    SetMainCallback2(CB2_ContinueSavedGame);
+    DestroyTask(taskId);
 }
 
 static void Task_BeginQuestLogPlayback(u8 taskId)
