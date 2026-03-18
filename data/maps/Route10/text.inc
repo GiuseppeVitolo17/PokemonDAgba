@@ -1,6 +1,6 @@
 Route10_Text_MarkIntro::
     .string "Wow, du kom hele vejen her?\n"
-    .string "Måske er du også POKeMANIAC?\l"
+    .string "Måske er du også POKéMANIAC?\l"
     .string "Vil du se min samling?$"
 
 Route10_Text_MarkDefeat::
@@ -45,7 +45,7 @@ Route10_Text_HeidiDefeat::
     .string "Efter al min træning!$"
 
 Route10_Text_HeidiPostBattle::
-    .string "Jeg lagde mærke til nogle POKeMANIACs\n"
+    .string "Jeg lagde mærke til nogle POKéMANIACs\n"
     .string "der strejfede omkring.\p"
     .string "Kan du forestille dig? Dem?\n"
     .string "Her oppe i bjergene?$"

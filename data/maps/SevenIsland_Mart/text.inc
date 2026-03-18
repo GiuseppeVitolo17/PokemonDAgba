@@ -13,5 +13,5 @@ SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
     .string "Det vil fuldende min fisketur\n"
     .string "gennem SEVII ISLANDS.\p"
     .string "Jeg bør lige købe nogle\n"
-    .string "POKe BALLS først.$"
+    .string "POKé BALLS først.$"
 

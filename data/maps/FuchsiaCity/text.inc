@@ -51,7 +51,7 @@ FuchsiaCity_Text_ChanseySign::
 
 FuchsiaCity_Text_VoltorbSign::
     .string "Navn: VOLTORB\n"
-    .string "Billedet af en POKe BALL.$"
+    .string "Billedet af en POKé BALL.$"
 
 FuchsiaCity_Text_KangaskhanSign::
     .string "Navn: KANGASKHAN\p"

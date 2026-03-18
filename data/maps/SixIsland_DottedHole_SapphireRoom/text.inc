@@ -18,7 +18,7 @@ SixIsland_DottedHole_SapphireRoom_Text_SellToTeamRocketTellPassword::
     .string "adgangskoderne til TEAM ROCKETs\l"
     .string "WAREHOUSE.\p"
     .string "WAREHOUSE-adgangskoden jeg kender er\n"
-    .string "Yes, nah, CHANSEY.\p"
+    .string "Ja, næh, CHANSEY.\p"
     .string "Jeg er færdig.\n"
     .string "Tænk ikke dårligt om mig!$"
 

@@ -8,7 +8,7 @@ ALIGNED(4) const u8 gText_UR_EmptyString[] = _("");
 ALIGNED(4) const u8 gText_UR_Colon[] = _(":");
 ALIGNED(4) const u8 gText_UR_ID[] = _("{ID}");
 ALIGNED(4) const u8 gText_UR_PleaseStartOver[] = _("Start forfra fra begyndelsen.");
-ALIGNED(4) const u8 gText_UR_WirelessSearchCanceled[] = _("TRÅDLØS KOMMUNIKATION\nsøgning er annulleret.");
+ALIGNED(4) const u8 gText_UR_WirelessSearchCanceled[] = _("TRÂDLØS KOMMUNIKATION\nsøgning er annulleret.");
 ALIGNED(4) static const u8 sText_AwaitingCommunucation2[] = _("ともだちからの れんらくを\nまっています");
 ALIGNED(4) const u8 gText_UR_AwaitingCommunication[] = _("{STR_VAR_1}! Venter på\nkommunikation fra anden spiller.");
 ALIGNED(4) const u8 gText_UR_AwaitingLinkPressStart[] = _("{STR_VAR_1}! Venter på link!\nTryk START når alle er klar.");
@@ -83,8 +83,8 @@ const u8 *const gTexts_UR_PlayersNeededOrMode[][5] = {
 
 ALIGNED(4) const u8 gText_UR_BButtonCancel[] = _("{B_BUTTON}ANNULLER");
 ALIGNED(4) static const u8 sText_SearchingForParticipants[] = _("ため\nさんかしゃ ぼしゅうちゅう です！");
-ALIGNED(4) const u8 gText_UR_PlayerContactedYouForXAccept[] = _("{STR_VAR_2} contacted you for\n{STR_VAR_1}. Accept?");
-ALIGNED(4) const u8 gText_UR_PlayerContactedYouShareX[] = _("{STR_VAR_2} contacted you.\nWill you share {STR_VAR_1}?");
+ALIGNED(4) const u8 gText_UR_PlayerContactedYouForXAccept[] = _("{STR_VAR_2} kontaktede dig om\n{STR_VAR_1}. Accepter?");
+ALIGNED(4) const u8 gText_UR_PlayerContactedYouShareX[] = _("{STR_VAR_2} kontaktede dig.\nVil du dele {STR_VAR_1}?");
 ALIGNED(4) const u8 gText_UR_PlayerContactedYouAddToMembers[] = _("{STR_VAR_2} kontaktede dig.\nTilføj til medlemmerne?");
 ALIGNED(4) const u8 gText_UR_AreTheseMembersOK[] = _("{STR_VAR_1}!\nEr disse medlemmer OK?");
 ALIGNED(4) const u8 gText_UR_CancelModeWithTheseMembers[] = _("Annuller {STR_VAR_1} MODE\nmed disse medlemmer?");
@@ -128,8 +128,8 @@ const u8 *const gTexts_UR_PlayerDisconnected[] = {
     [RFU_STATUS_LEAVE_GROUP]         = sText_StoppedBeingMember
 };
 
-ALIGNED(4) const u8 gText_UR_WirelessLinkEstablished[] = _("TRÅDLØS KOMMUNIKATION-\nSYSTEM forbindelsen er etableret.");
-ALIGNED(4) const u8 gText_UR_WirelessLinkDropped[] = _("TRÅDLØS KOMMUNIKATION-\nSYSTEM forbindelsen er afbrudt…");
+ALIGNED(4) const u8 gText_UR_WirelessLinkEstablished[] = _("TRÂDLØS KOMMUNIKATION-\nSYSTEM forbindelsen er etableret.");
+ALIGNED(4) const u8 gText_UR_WirelessLinkDropped[] = _("TRÂDLØS KOMMUNIKATION-\nSYSTEM forbindelsen er afbrudt…");
 ALIGNED(4) const u8 gText_UR_LinkWithFriendDropped[] = _("Forbindelsen med din ven\nblev afbrudt…");
 ALIGNED(4) static const u8 sText_PlayerRepliedNo2[] = _("{STR_VAR_1} replied, “No…”");
 
@@ -170,8 +170,8 @@ const u8 *const gTexts_UR_CommunicatingWait[] = {
 
 ALIGNED(4) static const u8 sText_HiDoSomethingMale[] = _("Hej! Er der noget du\nville gøre?");
 ALIGNED(4) static const u8 sText_HiDoSomethingFemale[] = _("Hej!\nVil du gøre noget?");
-ALIGNED(4) static const u8 sText_HiDoSomethingAgainMale[] = _("{STR_VAR_1}: Hiya, we meet again!\nWhat are you up for this time?");
-ALIGNED(4) static const u8 sText_HiDoSomethingAgainFemale[] = _("{STR_VAR_1}: Oh! {PLAYER}, hello!\nWould you like to do something?");
+ALIGNED(4) static const u8 sText_HiDoSomethingAgainMale[] = _("{STR_VAR_1}: Hej, vi ses igen!\nHvad har du lyst til denne gang?");
+ALIGNED(4) static const u8 sText_HiDoSomethingAgainFemale[] = _("{STR_VAR_1}: Åh! {PLAYER}, hej!\nVil du lave noget?");
 
 const u8 *const gTexts_UR_HiDoSomething[][GENDER_COUNT] = {
     {
@@ -185,7 +185,7 @@ const u8 *const gTexts_UR_HiDoSomething[][GENDER_COUNT] = {
 
 ALIGNED(4) static const u8 sText_DoSomethingMale[] = _("Want to do something?");
 ALIGNED(4) static const u8 sText_DoSomethingFemale[] = _("Vil du gøre noget?");
-ALIGNED(4) static const u8 sText_DoSomethingAgainMale[] = _("{STR_VAR_1}: What would you like to\ndo now?");
+ALIGNED(4) static const u8 sText_DoSomethingAgainMale[] = _("{STR_VAR_1}: Hvad vil du gerne\ngøre nu?");
 ALIGNED(4) static const u8 sText_DoSomethingAgainFemale[] = _("{STR_VAR_1}‘また なにかする？");
 
 // Unused
@@ -200,7 +200,7 @@ static const u8 *const sDoSomethingTexts[][GENDER_COUNT] = {
 };
 
 ALIGNED(4) static const u8 sText_SomebodyHasContactedYou[] = _("Nogen har kontaktet dig.{PAUSE 60}");
-ALIGNED(4) static const u8 sText_PlayerHasContactedYou[] = _("{STR_VAR_1} has contacted you.{PAUSE 60}");
+ALIGNED(4) static const u8 sText_PlayerHasContactedYou[] = _("{STR_VAR_1} har kontaktet dig.{PAUSE 60}");
 
 const u8 *const gTexts_UR_PlayerContactedYou[] = {
     sText_SomebodyHasContactedYou,
@@ -333,7 +333,7 @@ ALIGNED(4) const u8 gText_UR_TrainerBattleBusy[] = _("Ups! Undskyld, jeg skal\ng
 ALIGNED(4) const u8 gText_UR_NeedTwoMonsOfLevel30OrLower1[] = _("Til kamp skal du have\nto POKéMON under Niv. 30.\p");
 ALIGNED(4) const u8 gText_UR_NeedTwoMonsOfLevel30OrLower2[] = _("Til kamp skal du have to\nPOKéMON under Niv. 30.\p");
 
-ALIGNED(4) static const u8 sText_DeclineChatMale[] = _("Oh, all right.\nCome see me anytime, okay?\p");
+ALIGNED(4) static const u8 sText_DeclineChatMale[] = _("Åh, okay.\nKom og besøg mig når som helst, okay?\p");
 ALIGNED(4) static const u8 stext_DeclineChatFemale[] = _("Oh…\nKom forbi når som helst.\p");
 
 // Response from partner when player declines chat
@@ -342,8 +342,8 @@ const u8 *const gTexts_UR_DeclineChat[GENDER_COUNT] = {
     stext_DeclineChatFemale
 };
 
-ALIGNED(4) static const u8 sText_ChatDeclinedMale[] = _("Oh, sorry!\nI just can't right this instant.\lLet's chat another time.\p");
-ALIGNED(4) static const u8 sText_ChatDeclinedFemale[] = _("Oh, I'm sorry.\nI have too much to do right now.\lLet's chat some other time.\p");
+ALIGNED(4) static const u8 sText_ChatDeclinedMale[] = _("Åh, undskyld!\nJeg kan ikke lige nu.\lLad os chatte en anden gang.\p");
+ALIGNED(4) static const u8 sText_ChatDeclinedFemale[] = _("Åh, undskyld.\nJeg har for meget at lave lige nu.\lLad os chatte en anden gang.\p");
 
 // Response from partner when they decline chat
 const u8 *const gTexts_UR_ChatDeclined[GENDER_COUNT] = {
@@ -493,11 +493,11 @@ const u8 *const gTexts_UR_ChooseTrainer[] = {
     [LINK_GROUP_WONDER_NEWS]   = sText_ChooseTrainerToShareWonderNews
 };
 
-ALIGNED(4) const u8 gText_UR_SearchingForWirelessSystemWait[] = _("Searching for a WIRELESS\nCOMMUNICATION SYSTEM. Wait...");
+ALIGNED(4) const u8 gText_UR_SearchingForWirelessSystemWait[] = _("Søger efter et TRÅDLØST\nKOMMUNIKATIONSSYSTEM. Vent...");
 ALIGNED(4) static const u8 sText_MustHaveTwoMonsForDoubleBattle[] = _("ダブルバトルでは 2ひき いじょうの\nポケモンが ひつようです\p");
 ALIGNED(4) const u8 gText_UR_AwaitingPlayersResponse[] = _("Awaiting {STR_VAR_1}'s response…");
-ALIGNED(4) const u8 gText_UR_PlayerHasBeenAskedToRegisterYouPleaseWait[] = _("{STR_VAR_1} has been asked to register\nyou as a member. Please wait.");
-ALIGNED(4) const u8 gText_UR_AwaitingResponseFromWirelessSystem[] = _("Venter på svar fra\nTRÅDLØS KOMMUNIKATION.");
+ALIGNED(4) const u8 gText_UR_PlayerHasBeenAskedToRegisterYouPleaseWait[] = _("{STR_VAR_1} er blevet bedt om at registrere\ndig som medlem. Vent venligst.");
+ALIGNED(4) const u8 gText_UR_AwaitingResponseFromWirelessSystem[] = _("Venter på svar fra\nTRÂDLØS KOMMUNIKATION.");
 ALIGNED(4) static const u8 sText_PleaseWaitForOtherTrainersToGather[] = _("ほかの さんかしゃが そろうまで\nしょうしょう おまちください");
 
 ALIGNED(4) static const u8 sText_NoCardsSharedRightNow[] = _("Ingen KORT deles lige nu.");
@@ -548,8 +548,8 @@ const u8 *const gTexts_UR_CardColor[] = {
 
 ALIGNED(4) const u8 gText_UR_TrainerCardInfoPage1[] = _("Dette er {DYNAMIC 0} {DYNAMIC 1}s\nTRÆNERKORT…\l{DYNAMIC 2}\pPOKéDEX: {DYNAMIC 3}\nTID:     {DYNAMIC 4}:{DYNAMIC 5}\p");
 ALIGNED(4) const u8 gText_UR_TrainerCardInfoPage2[] = _("BATTLES: {DYNAMIC 0} WINS  {DYNAMIC 2} LOSSES\nTRADES:  {DYNAMIC 3} TIMES\p“{DYNAMIC 4} {DYNAMIC 5}\n{DYNAMIC 6} {DYNAMIC 7}”\p");
-ALIGNED(4) static const u8 sText_GladToMeetYouMale[] = _("{DYNAMIC 1}: Glad to have met you!{PAUSE 60}");
-ALIGNED(4) static const u8 sText_GladToMeetYouFemale[] = _("{DYNAMIC 1}: Glad to meet you!{PAUSE 60}");
+ALIGNED(4) static const u8 sText_GladToMeetYouMale[] = _("{DYNAMIC 1}: Glad for at møde dig!{PAUSE 60}");
+ALIGNED(4) static const u8 sText_GladToMeetYouFemale[] = _("{DYNAMIC 1}: Rart at møde dig!{PAUSE 60}");
 
 const u8 *const gTexts_UR_GladToMeetYou[GENDER_COUNT] = {
     sText_GladToMeetYouMale,

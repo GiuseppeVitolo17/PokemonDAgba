@@ -11,7 +11,7 @@ FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
     .string "Det bliver ¥500!\p"
     .string "Vi bruger kun en særlig slags\n"
-    .string "POKe BALLS her.$"
+    .string "POKé BALLS her.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
     .string "{PLAYER} modtog 30 SAFARI BALLS\n"

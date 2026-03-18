@@ -1,5 +1,5 @@
 CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMons::
-    .string "En POKe FLUTE vækker sovende\n"
+    .string "En POKé FLUTE vækker sovende\n"
     .string "POKéMON. Det ved du.\p"
     .string "Den gør det med en lyd som kun\n"
     .string "de kan høre.$"

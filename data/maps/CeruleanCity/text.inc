@@ -19,7 +19,7 @@ CeruleanCity_Text_RivalPostBattle::
     .string "Det tilføjede mange sider til min\n"
     .string "POKéDEX!\p"
     .string "BILL er trods alt verdensberømt som\n"
-    .string "POKeMANIAC.\p"
+    .string "POKéMANIAC.\p"
     .string "Han opfandt også POKéMON Storage\n"
     .string "System på PC.\p"
     .string "Siden du bruger hans system,\n"

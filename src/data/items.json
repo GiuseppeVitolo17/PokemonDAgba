@@ -54,7 +54,7 @@
       "price": 600,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "En god BALL med bedre fangstrate\\nend en almindelig POKe BALL.",
+      "description_english": "En god BALL med bedre fangstrate\\nend en almindelig POKé BALL.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -65,7 +65,7 @@
       "secondaryId": 2
     },
     {
-      "english": "POKe BALL",
+      "english": "POKé BALL",
       "itemId": "ITEM_POKE_BALL",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1281,7 +1281,7 @@
       "secondaryId": 0
     },
     {
-      "english": "POKe DUKKE",
+      "english": "POKé DUKKE",
       "itemId": "ITEM_POKE_DOLL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",

@@ -20,7 +20,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
 
 Text_MimicTeach::
     .string "Oh wow!\n"
-    .string "En POKe DOLL!\p"
+    .string "En POKé DOLL!\p"
     .string "Til mig?\n"
     .string "Tak!\p"
     .string "Ved du hvad?\n"
@@ -80,8 +80,8 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemaleJP::
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
     .string "DODUO: Giiih!\p"
-    .string "PRETTY MIRROR LOOK AT ME,\n"
-    .string "SEE HOW PRETTY I CAN BE?$"
+    .string "SPEJL, SE HVOR PÆN JEG ER,\n"
+    .string "SE HVOR PÆN JEG KAN VÆRE?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
     .string "Det her er et sjældent POKéMON!\n"

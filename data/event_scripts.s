@@ -809,42 +809,42 @@ gStdScriptsEnd::
 
 @ Unused
 Text_WouldYouLikeToMixRecords::
-	.string "Would you like to mix records with\n"
-	.string "other TRAINERS?$"
+	.string "Vil du udveksle data med\n"
+	.string "andre TRÆNERE?$"
 
 @ Unused
 Text_WeHopeToSeeYouAgain2::
-	.string "We hope to see you again!$"
+	.string "Vi håber at se dig igen!$"
 
 	.include "data/text/pc.inc"
 
 @ Unused
 Text_WelcomeTradeCenter::
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Velkommen til POKéMON CABLE CLUB\n"
 	.string "TRADE CENTER.$"
 
 @ Unused
 Text_WelcomeColosseum::
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Velkommen til POKéMON CABLE CLUB\n"
 	.string "COLOSSEUM.$"
 
 @ Unused
 Text_WelcomeTimeCapsule::
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Velkommen til POKéMON CABLE CLUB\n"
 	.string "TIME CAPSULE.$"
 
 Text_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "Kom venligst igen!$"
 
 @ Unused
 Text_HavingDiscountSaleToday::
-	.string "Welcome!\p"
-	.string "We're having a discount sale today!$"
+	.string "Velkommen!\p"
+	.string "Vi har tilbud i dag!$"
 
 @ Unused
 Text_PlayerWhatCanIDoForYou::
-	.string "{PLAYER}{KUN}, welcome!\p"
-	.string "What can I do for you?$"
+	.string "{PLAYER}{KUN}, velkommen!\p"
+	.string "Hvad kan jeg gøre for dig?$"
 
 	.include "data/text/obtain_item.inc"
 
@@ -852,7 +852,7 @@ Text_MakingPreparations::
 	.string "じゅんびちゅうです！$"
 
 Text_WantWhichFloor::
-	.string "Which floor do you want?$"
+	.string "Hvilken etage vil du til?$"
 
 Text_BagItemCanBeRegistered::
 	.string "En genstand i TASKEN kan\n"
@@ -882,7 +882,7 @@ Text_GiveNicknameToReceivedMon::
 	.string "{STR_VAR_2} du modtog?$"
 
 gText_PkmnFainted3::
-	.string "{STR_VAR_1} fainted…\p"
+	.string "{STR_VAR_1} besvimede…\p"
 	.string "$"
 
 Text_WelcomeWantToHealPkmn::
@@ -915,16 +915,16 @@ Text_BigHoleInTheWall::
 	.string "おおきな　あなが　あいている！$"
 
 Text_WirelessClubUndergoingAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "Jeg beklager virkelig.\n"
+	.string "POKéMON WIRELESS CLUB er\l"
+	.string "under justering lige nu.$"
 
 Text_AppearsToBeUndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "Det ser ud til at være under\n"
+	.string "justering…$"
 
 Text_HandedOverItem::
-	.string "{PLAYER} handed over the\n"
+	.string "{PLAYER} afleverede\n"
 	.string "{STR_VAR_1}.$"
 
 Text_GiveNicknameToThisMon::
@@ -938,11 +938,11 @@ Text_GiveNicknameToThisMon::
 
 Text_CardKeyOpenedDoor::
 	.string "Bingo!\n"
-	.string "The CARD KEY opened the door!$"
+	.string "CARD KEY åbnede døren!$"
 
 Text_ItNeedsCardKey::
 	.string "No!\n"
-	.string "It needs a CARD KEY!$"
+	.string "Den kræver en CARD KEY!$"
 
 Text_AccessedProfOaksPC::
 	.string "Fik adgang til PROF. OAK's PC…\p"
@@ -957,8 +957,8 @@ Text_ClosedLinkToProfOaksPC::
 	.string "Lukket forbindelse til PROF. OAK's PC.$"
 
 Text_VoiceRangOutDontRunAway::
-	.string "Someone's voice rang out,\n"
-	.string "“Don't run away!”$"
+	.string "En stemme lød,\n"
+	.string "“Løb ikke væk!”$"
 
 @ Uncear what the below unused JP texts were for
 Text_IdLikeToSeeRequest::
@@ -983,22 +983,22 @@ Text_TheDoorIsClosed::
 	.string "ドアは　しまっている‥$"
 
 Text_TheDoorIsOpen::
-	.string "The door is open…$"
+	.string "Døren er åben…$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/white_out.inc"
 	.include "data/text/poke_mart.inc"
 
 Text_MonFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "{STR_VAR_1} fløj væk!$"
 
 Text_TheresBedLetsRest::
 	.string "ベッドが　ある‥‥\n"
 	.string "やすんでいこう$"
 
 Text_FoundTMHMContainsMove::
-	.string "{PLAYER} found a {STR_VAR_2}!\n"
-	.string "It contains {STR_VAR_1}.$"
+	.string "{PLAYER} fandt en {STR_VAR_2}!\n"
+	.string "Den indeholder {STR_VAR_1}.$"
 
 	.include "data/text/seagallop.inc"
 
@@ -1007,8 +1007,8 @@ Text_Gyaoo::
 	.string "Gyaoo!$"
 
 Text_MoveCanOnlyBeLearnedOnce::
-	.string "This move can be learned only\n"
-	.string "once. Is that okay?$"
+	.string "Dette træk kan kun læres\n"
+	.string "én gang. Er det okay?$"
 
 EventScript_ResetAllMapFlags::
 	setflag FLAG_HIDE_OAK_IN_HIS_LAB

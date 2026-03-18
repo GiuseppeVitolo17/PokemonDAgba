@@ -70,14 +70,14 @@ MtMoon_B2F_Text_Grunt4PostBattle::
     .string "mennesker kom.$"
 
 MtMoon_B2F_Text_YouWantDomeFossil::
-    .string "Vil du have DOME FOSSIL?$"
+    .string "Vil du have KUPOL FOSSIL?$"
 
 MtMoon_B2F_Text_YouWantHelixFossil::
-    .string "Vil du have HELIX FOSSIL?$"
+    .string "Vil du have SPIRAL FOSSIL?$"
 
 MtMoon_B2F_Text_ObtainedHelixFossil::
-    .string "Fik HELIX FOSSIL!$"
+    .string "Fik SPIRAL FOSSIL!$"
 
 MtMoon_B2F_Text_ObtainedDomeFossil::
-    .string "Fik DOME FOSSIL!$"
+    .string "Fik KUPOL FOSSIL!$"
 

@@ -59,12 +59,12 @@ PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
     .string "ved et POKéMON LAB et sted.$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
-    .string "{PLAYER} modtog OLD AMBER\n"
+    .string "{PLAYER} modtog GAMMEL RAV\n"
     .string "fra manden.$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::
     .string "Ssst!\n"
-    .string "Fa OLD AMBER tjekket!$"
+    .string "Få GAMMEL RAV tjekket!$"
 
 PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
     .string "Du har ikke plads til dette.$"

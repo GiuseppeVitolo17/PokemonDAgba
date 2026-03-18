@@ -123,7 +123,7 @@ Route17_Text_RouteSign::
 
 Route17_Text_DontThrowGameThrowBalls::
     .string "Det er en besked!\p"
-    .string "Kast ikke spillet, kast POKe-\n"
+    .string "Kast ikke spillet, kast POKé-\n"
     .string "BALLS i stedet!$"
 
 Route17_Text_CyclingRoadSign::

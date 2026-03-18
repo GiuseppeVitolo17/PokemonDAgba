@@ -19,7 +19,7 @@ SilphCo_5F_Text_Grunt1PostBattle::
     .string "TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
-    .string "Vi studerer POKe BALL-teknologi på\n"
+    .string "Vi studerer POKé BALL-teknologi på\n"
     .string "denne sal.$"
 
 SilphCo_5F_Text_BeauDefeat::
@@ -27,7 +27,7 @@ SilphCo_5F_Text_BeauDefeat::
     .string "Forbandet!$"
 
 SilphCo_5F_Text_BeauPostBattle::
-    .string "Vi arbejdede på den ultimative POKe\n"
+    .string "Vi arbejdede på den ultimative POKé\n"
     .string "BALL der kunne fange hvad som helst.$"
 
 SilphCo_5F_Text_DaltonIntro::

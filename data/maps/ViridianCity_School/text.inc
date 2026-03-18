@@ -10,7 +10,7 @@ ViridianCity_School_Text_ReadBlackboardCarefully::
 ViridianCity_School_Text_NotebookFirstPage::
     .string "Lad os tjekke notesbogen.\p"
     .string "Første side…\p"
-    .string "POKe BALLS bruges til at fange\n"
+    .string "POKé BALLS bruges til at fange\n"
     .string "POKéMON.\p"
     .string "Op til seks POKéMON kan bæres\n"
     .string "i din gruppe.\p"

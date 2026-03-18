@@ -1,5 +1,5 @@
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-    .string "Okay, sæt seks POKe BALLS i mit\n"
+    .string "Okay, sæt seks POKé BALLS i mit\n"
     .string "bælte…\p"
     .string "Ja, det gør det. Du kan højest have\n"
     .string "seks POKéMON med dig.$"

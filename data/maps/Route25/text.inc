@@ -80,13 +80,13 @@ Route25_Text_FranklinPostBattle::
 
 Route25_Text_NobIntro::
     .string "Jeg er på vej for at se en\n"
-    .string "POKeMANIACs samling på odden.$"
+    .string "POKéMANIACs samling på odden.$"
 
 Route25_Text_NobDefeat::
     .string "Du fik mig, og rigtig godt!$"
 
 Route25_Text_NobPostBattle::
-    .string "POKeMANIAC lever virkelig op til\n"
+    .string "POKéMANIAC lever virkelig op til\n"
     .string "sit navn.\p"
     .string "Hans samling indeholder mange\n"
     .string "sjældne POKéMON-arter.$"

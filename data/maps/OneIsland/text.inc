@@ -22,7 +22,7 @@ OneIsland_Text_LuckyToHaveCelioHere::
     .string "Min barnebarn var helt oppe at køre\n"
     .string "over CELIOs ven.\p"
     .string "Noget om en berømt\n"
-    .string "POKeMANIAC?\p"
+    .string "POKéMANIAC?\p"
     .string "Jeg ved ikke hvad det betyder, men\n"
     .string "CELIO er virkelig manden!$"
 

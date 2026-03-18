@@ -9,7 +9,7 @@ SaffronCity_House_Text_Pidgey::
 
 SaffronCity_House_Text_GettingCopycatPokeDoll::
     .string "COPYCAT er sød!\n"
-    .string "Jeg skaffer hende en POKe DOLL.$"
+    .string "Jeg skaffer hende en POKé DOLL.$"
 
 SaffronCity_House_Text_ExplainPPUp::
     .string "Jeg fik en PP UP i gave.\p"

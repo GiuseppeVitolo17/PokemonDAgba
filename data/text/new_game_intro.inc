@@ -134,8 +134,8 @@ gControlsGuide_Text_DPad::
     .string "og overskrifter.$"
 
 gControlsGuide_Text_AButton::
-    .string "Bruges til at bekræfte valg, tjekke\n"
-    .string "ting, snakke og scrolle i teksten.$"
+    .string "Bruges til at bekræfte valg,\n"
+    .string "tjekke ting, tale og scrolle.$"
 
 gControlsGuide_Text_BButton::
     .string "Bruges til at lukke, annullere et\n"

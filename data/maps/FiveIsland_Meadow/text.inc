@@ -5,15 +5,15 @@ FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
 
 FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
     .string "{PLAYER} indtastede en adgangskode.\p"
-    .string "GOLDEEN need log.\p"
+    .string "GOLDEEN skal have log.\p"
     .string "… …  … …  … …\p"
     .string "En adgangskode mere behøves for at\n"
     .string "åbne døren…$"
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
     .string "{PLAYER} indtastede to adgangskoder.\p"
-    .string "GOLDEEN need log.\n"
-    .string "Yes, nah, CHANSEY.\p"
+    .string "GOLDEEN skal have log.\n"
+    .string "Ja, næh, CHANSEY.\p"
     .string "… …  … …  … …\p"
     .string "LAGERETS dør gik op!$"
 

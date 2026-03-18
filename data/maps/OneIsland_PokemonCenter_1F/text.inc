@@ -287,7 +287,7 @@ OneIsland_PokemonCenter_1F_Text_CelioHearingRumorsAboutYou::
 OneIsland_PokemonCenter_1F_Text_BillsFirstMonWasAbra::
     .string "{PLAYER}, hvad er din yndlings-\n"
     .string "POKéMON?\p"
-    .string "BILL er en POKeMANIAC, så han\n"
+    .string "BILL er en POKéMANIAC, så han\n"
     .string "elsker alle slags.\p"
     .string "Åbenbart var den første han\n"
     .string "fangede en ABRA.$"

@@ -37,11 +37,11 @@ LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
     .string "jeg vil gerne give dig dette.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-    .string "{PLAYER} modtog en POKe FLUTE\n"
+    .string "{PLAYER} modtog en POKé FLUTE\n"
     .string "fra MR. FUJI.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-    .string "Når man hører POKe FLUTE, vågner\n"
+    .string "Når man hører POKé FLUTE, vågner\n"
     .string "sovende POKéMON med det samme.\p"
     .string "Prøv at bruge den på POKéMON der\n"
     .string "er sovende hindringer.$"
@@ -50,7 +50,7 @@ LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
     .string "Du skal gøre plads til dette!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
-    .string "MR. FUJI: Har min POKe FLUTE\n"
+    .string "MR. FUJI: Har min POKé FLUTE\n"
     .string "hjulpet dig?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::

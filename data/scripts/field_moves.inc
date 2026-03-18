@@ -158,7 +158,7 @@ EventScript_DontUseStrength::
 Text_UseStrength::
 	.string "It's a big boulder, but a POKéMON\n"
 	.string "may be able to push it aside.\p"
-	.string "Would you like to use STRENGTH?$"
+	.string "Vil du bruge STRENGTH?$"
 
 Text_MonUsedStrengthCanMoveBoulders::
 	.string "{STR_VAR_1} used STRENGTH!\p"

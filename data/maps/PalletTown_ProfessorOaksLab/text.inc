@@ -77,7 +77,7 @@ PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
     .string "Der er tre POKéMON her.\p"
     .string "Haha!\p"
     .string "POKéMON er inde i\n"
-    .string "disse POKe BALLS.\p"
+    .string "disse POKé BALLS.\p"
     .string "Da jeg var ung, var jeg en seriøs\n"
     .string "POKéMON TRÆNER.\p"
     .string "Men nu, i min alderdom, har jeg\n"
@@ -91,7 +91,7 @@ PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
     .string "OAK: Nu, {PLAYER}.\p"
-    .string "I de tre POKe BALLS er der\n"
+    .string "I de tre POKé BALLS er der\n"
     .string "POKéMON.\p"
     .string "Hvilken vil du vælge til\n"
     .string "dig selv?$"
@@ -152,7 +152,7 @@ PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
     .string "Ah!\n"
-    .string "Det er den speciallavede POKe BALL!\p"
+    .string "Det er den speciallavede POKé BALL!\p"
     .string "Jeg havde bestilt den.\n"
     .string "Tak!$"
 
@@ -184,12 +184,12 @@ PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
     .string "fange vilde POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
-    .string "{PLAYER} modtog fem POKe BALLS.$"
+    .string "{PLAYER} modtog fem POKé BALLS.$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
     .string "Når en vild POKéMON dukker op,\n"
     .string "er det frit spil.\p"
-    .string "Bare kast en POKe BALL efter den og\n"
+    .string "Bare kast en POKé BALL efter den og\n"
     .string "prøv at fange den!\p"
     .string "Det virker dog ikke altid.\p"
     .string "En rask POKéMON kan slippe væk.\n"
@@ -233,7 +233,7 @@ PalletTown_ProfessorOaksLab_Text_BlankEncyclopedia::
     .string "siderne er tomme.$"
 
 PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::
-    .string "Det er POKe BALLS.\n"
+    .string "Det er POKé BALLS.\n"
     .string "De indeholder POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_OaksLastMon::

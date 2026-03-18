@@ -699,7 +699,7 @@ const u8 gKinglerPokedexTextUnused[] = _("");
 
 const u8 gVoltorbPokedexText[] = _(
     "Findes sædvanligvis i kraftværker. Forveksles\n"
-    "nemt med en POKe BALL og har givet mange\n"
+    "nemt med en POKé BALL og har givet mange\n"
     "mennesker stød.");
 
 const u8 gVoltorbPokedexTextUnused[] = _("");
@@ -2037,7 +2037,7 @@ const u8 gNinjaskPokedexTextUnused[] = _("");
 
 const u8 gShedinjaPokedexText[] = _(
     "En meget ejendommelig POKéMON der på\n"
-    "mystisk vis dukker op i en POKe BALL når\n"
+    "mystisk vis dukker op i en POKé BALL når\n"
     "en NINCADA udvikler sig.");
 
 const u8 gShedinjaPokedexTextUnused[] = _("");

@@ -7,7 +7,7 @@ CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
 
 CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
     .string "Har du hørt om BILL?\p"
-    .string "Alle kalder ham en POKeMANIAC!\p"
+    .string "Alle kalder ham en POKéMANIAC!\p"
     .string "Jeg tror folk bare er misundelige på\n"
     .string "BILL, dog.\p"
     .string "Hvem ville ikke ville prale af\n"

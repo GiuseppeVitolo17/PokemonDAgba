@@ -1,5 +1,5 @@
 ViridianCity_Text_CanCarryMonsAnywhere::
-    .string "De POKe BALLS ved din talje!\n"
+    .string "De POKé BALLS ved din talje!\n"
     .string "Du har POKéMON, ikke?\p"
     .string "Det er fedt at du kan bære og\n"
     .string "bruge POKéMON når som helst, overalt.$"

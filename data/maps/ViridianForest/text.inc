@@ -67,10 +67,10 @@ ViridianForest_Text_CharliePostBattle::
     .string "De er rigtig sjove!$"
 
 ViridianForest_Text_RanOutOfPokeBalls::
-    .string "Jeg kastede POKe BALLS for at\n"
+    .string "Jeg kastede POKé BALLS for at\n"
     .string "fange POKéMON, og jeg løb tør.\p"
     .string "Derfor kan man aldrig have for\n"
-    .string "mange POKe BALLS.$"
+    .string "mange POKé BALLS.$"
 
 ViridianForest_Text_AvoidGrassyAreasWhenWeak::
     .string "TRÆNER TIPS\p"
@@ -91,7 +91,7 @@ ViridianForest_Text_CantCatchOwnedMons::
     .string "TRÆNER TIPS\p"
     .string "Du kan ikke fange en POKéMON der\n"
     .string "tilhører en anden.\p"
-    .string "Kast kun POKe BALLS mod vilde\n"
+    .string "Kast kun POKé BALLS mod vilde\n"
     .string "POKéMON for at fange dem!$"
 
 ViridianForest_Text_WeakenMonsBeforeCapture::
