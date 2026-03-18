@@ -1393,7 +1393,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_HITMONCHAN] =
     {
-        .categoryName = _("SLÂ"),
+        .categoryName = _("SLÅ"),
         .height = 14,
         .weight = 502,
         .description = gHitmonchanPokedexText,
@@ -2563,7 +2563,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_UMBREON] =
     {
-        .categoryName = _("MÂNESKIN"),
+        .categoryName = _("MÅNESKIN"),
         .height = 10,
         .weight = 270,
         .description = gUmbreonPokedexText,
@@ -3070,7 +3070,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_TYROGUE] =
     {
-        .categoryName = _("SLAGSMÂL"),
+        .categoryName = _("SLAGSMÅL"),
         .height = 7,
         .weight = 210,
         .description = gTyroguePokedexText,
@@ -3083,7 +3083,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_HITMONTOP] =
     {
-        .categoryName = _("HÂNDSTAND"),
+        .categoryName = _("HÅNDSTAND"),
         .height = 14,
         .weight = 480,
         .description = gHitmontopPokedexText,
@@ -3213,7 +3213,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_PUPITAR] =
     {
-        .categoryName = _("HÂRD SKAL"),
+        .categoryName = _("HÅRD SKAL"),
         .height = 12,
         .weight = 1520,
         .description = gPupitarPokedexText,
@@ -3616,7 +3616,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_WINGULL] =
     {
-        .categoryName = _("MÂGE"),
+        .categoryName = _("MÅGE"),
         .height = 6,
         .weight = 95,
         .description = gWingullPokedexText,
@@ -4045,7 +4045,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_PLUSLE] =
     {
-        .categoryName = _("HEJRÂB"),
+        .categoryName = _("HEJRÅB"),
         .height = 4,
         .weight = 42,
         .description = gPluslePokedexText,
@@ -4058,7 +4058,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_MINUN] =
     {
-        .categoryName = _("HEJRÂB"),
+        .categoryName = _("HEJRÅB"),
         .height = 4,
         .weight = 42,
         .description = gMinunPokedexText,
@@ -4409,7 +4409,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_BARBOACH] =
     {
-        .categoryName = _("KNURHÂR"),
+        .categoryName = _("KNURHÅR"),
         .height = 4,
         .weight = 19,
         .description = gBarboachPokedexText,
@@ -4422,7 +4422,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_WHISCASH] =
     {
-        .categoryName = _("KNURHÂR"),
+        .categoryName = _("KNURHÅR"),
         .height = 9,
         .weight = 236,
         .description = gWhiscashPokedexText,

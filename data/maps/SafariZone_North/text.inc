@@ -6,7 +6,7 @@ SafariZone_North_Text_SecretHouseStillAhead::
     .string "DET HEMMELIGE HUS er stadig foran.$"
 
 SafariZone_North_Text_Area2::
-    .string "OMRÂDE 2$"
+    .string "OMRÅDE 2$"
 
 SafariZone_North_Text_ZigzagThroughTallGrass::
     .string "TRAINER TIPS\p"

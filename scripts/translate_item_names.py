@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Translate all English item names in items.json to Danish (max 14 chars, ä/ö/â)."""
+"""Translate all English item names in items.json to Danish (max 14 chars, ä/ö/å)."""
 import json
 import os
 
@@ -25,7 +25,7 @@ NAME_MAP = {
     "ANTIDOTE": "MODGIFT",
     "BURN HEAL": "BRÆNDHELING",
     "ICE HEAL": "ISHELING",
-    "AWAKENING": "VÂGNING",
+    "AWAKENING": "VÅGNING",
     "PARLYZ HEAL": "PARALYSE HEL",
     "FULL RESTORE": "FULD GENOPRET",
     "MAX POTION": "MAX DRIK",
@@ -50,7 +50,7 @@ NAME_MAP = {
     "MAX ELIXIR": "MAX ELIXIR",
     "LAVA COOKIE": "LAVA SMÅKAGE",
     # Flutes
-    "BLUE FLUTE": "BLÂ FLÖJTE",
+    "BLUE FLUTE": "BLÅ FLÖJTE",
     "YELLOW FLUTE": "GUL FLÖJTE",
     "RED FLUTE": "RÖD FLÖJTE",
     "BLACK FLUTE": "SORT FLÖJTE",
@@ -61,7 +61,7 @@ NAME_MAP = {
     "SHOAL SALT": "REVET SALT",
     "SHOAL SHELL": "REVSKAL",
     "RED SHARD": "RÖD SKÅRV",
-    "BLUE SHARD": "BLÂ SKÅRV",
+    "BLUE SHARD": "BLÅ SKÅRV",
     "YELLOW SHARD": "GUL SKÅRV",
     "GREEN SHARD": "GRÖN SKÅRV",
     # Vitamins
@@ -149,8 +149,8 @@ NAME_MAP = {
     # Hold items
     "MACHO BRACE": "MACHO ARM",
     "QUICK CLAW": "HURTIG KLO",
-    "SOOTHE BELL": "BEDÂRINGS KL",
-    "CHOICE BAND": "VALGBÂND",
+    "SOOTHE BELL": "BEDÅRINGS KL",
+    "CHOICE BAND": "VALGBÅND",
     "LUCKY EGG": "HELDIG ÄG",
     "DEEPSEASCALE": "DYBHAVSKAL",
     "DRAGON FANG": "DRAGE TAND",
@@ -162,7 +162,7 @@ NAME_MAP = {
     # Key items
     "LETTER": "BREV",
     "EON TICKET": "EON BILLET",
-    "BLUE ORB": "BLÂ KUGLE",
+    "BLUE ORB": "BLÅ KUGLE",
     "SCANNER": "SCANNER",
     "GO-GOGGLES": "GO-BRILLER",
     "METEORITE": "METEORIT",

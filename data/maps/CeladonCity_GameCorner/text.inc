@@ -138,7 +138,7 @@ CeladonCity_GameCorner_Text_OutOfOrder::
     .string "Denne er i stykker.$"
 
 CeladonCity_GameCorner_Text_OutToLunch::
-    .string "PÂ FROKOST\n"
+    .string "PÅ FROKOST\n"
     .string "Denne er reserveret.$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::

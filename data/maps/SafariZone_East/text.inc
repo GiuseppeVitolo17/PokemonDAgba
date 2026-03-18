@@ -7,5 +7,5 @@ SafariZone_East_Text_TimeDeclinesOnlyWhileYouWalk::
     .string "når du går.$"
 
 SafariZone_East_Text_AreaSign::
-    .string "OMRÂDE 1\n"
-    .string "VEST: CENTER OMRÂDE$"
+    .string "OMRÅDE 1\n"
+    .string "VEST: CENTER OMRÅDE$"

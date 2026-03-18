@@ -7807,7 +7807,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Double_Unused3 = {
 					.spDefenseIV = 10,
 					.abilityNum = 0,
 					.personality = 0x84, // MALE RELAXED
-					.nickname = _("FLÂFFY"),
+					.nickname = _("FLÅFFY"),
 					.friendship = 255
 				},
 				{
@@ -8752,7 +8752,7 @@ static const struct TrainerTowerFloor sTrainerTowerFloor_Knockout_5 = {
 					.spDefenseIV = 15,
 					.abilityNum = 0,
 					.personality = 0x07, // FEMALE RELAXED
-					.nickname = _("FLÂFFY"),
+					.nickname = _("FLÅFFY"),
 					.friendship = 255
 				},
 				{

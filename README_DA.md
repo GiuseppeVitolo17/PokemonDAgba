@@ -24,6 +24,6 @@ Dette bygger `pokefirered.gba` i projektmappen (som du f.eks. kan kopiere til Sk
 
 **Status:** Dansk oversættelse med **æ, ø, å** i charmap og font (data-tekster, evner, menuer, item-navne m.m. på dansk).
 
-**Danske bogstaver:** Charmap og font understøtter **Æ, Ø, Å, æ, ø, å** (se `charmap.txt` og `DANISH_FONT.md`). Brug **å** (ikke â) i spiltekst.
+**Danske bogstaver:** Charmap og font understøtter **Æ, Ø, Å, æ, ø, å** (se `charmap.txt` og `DANISH_FONT.md`). Brug **å** (ikke å) i spiltekst.
 
 **Se også:** [pret](https://pret.github.io/) · [pokefirered (original)](https://github.com/pret/pokefirered) · [README in English](README.md)

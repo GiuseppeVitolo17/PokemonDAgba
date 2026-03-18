@@ -1,7 +1,7 @@
 
 static const u8 sEasyChatWord_Thanks[] = _("TAK");
 static const u8 sEasyChatWord_Yes[] = _("JA");
-static const u8 sEasyChatWord_HereGoes[] = _("SÂ SÂ");
+static const u8 sEasyChatWord_HereGoes[] = _("SÅ SÅ");
 static const u8 sEasyChatWord_HereICome[] = _("HER KOMMER JEG");
 static const u8 sEasyChatWord_HereItIs[] = _("HER ER DEN");
 static const u8 sEasyChatWord_Yeah[] = _("JAH");
@@ -22,11 +22,11 @@ static const u8 sEasyChatWord_Pardon[] = _("TILGIV MIG");
 static const u8 sEasyChatWord_Excuse[] = _("UNDSKYLD");
 static const u8 sEasyChatWord_SeeYa[] = _("VI SES");
 static const u8 sEasyChatWord_ExcuseMe[] = _("UNSKYLD MIG");
-static const u8 sEasyChatWord_WellThen[] = _("NÂ, SÂ");
+static const u8 sEasyChatWord_WellThen[] = _("NÅ, SÅ");
 static const u8 sEasyChatWord_GoAhead[] = _("FORTSÆT");
 static const u8 sEasyChatWord_Appreciate[] = _("VÆRDSÆTTER");
 static const u8 sEasyChatWord_HeyQues[] = _("HEY?");
-static const u8 sEasyChatWord_WhatsUpQues[] = _("HVAD SÂ?");
+static const u8 sEasyChatWord_WhatsUpQues[] = _("HVAD SÅ?");
 static const u8 sEasyChatWord_HuhQues[] = _("HVA?");
 static const u8 sEasyChatWord_No[] = _("NEJ");
 static const u8 sEasyChatWord_Hi[] = _("HEJ");

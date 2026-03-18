@@ -15,5 +15,5 @@ SafariZone_West_Text_SearchForSecretHouse::
     .string "Søgningen efter DET HEMMELIGE HUS!$"
 
 SafariZone_West_Text_AreaSign::
-    .string "OMRÂDE 3\n"
-    .string "OST: CENTER OMRÂDE$"
+    .string "OMRÅDE 3\n"
+    .string "OST: CENTER OMRÅDE$"

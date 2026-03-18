@@ -8,7 +8,7 @@ ALIGNED(4) const u8 gText_UR_EmptyString[] = _("");
 ALIGNED(4) const u8 gText_UR_Colon[] = _(":");
 ALIGNED(4) const u8 gText_UR_ID[] = _("{ID}");
 ALIGNED(4) const u8 gText_UR_PleaseStartOver[] = _("Start forfra fra begyndelsen.");
-ALIGNED(4) const u8 gText_UR_WirelessSearchCanceled[] = _("TRÂDLØS KOMMUNIKATION\nsøgning er annulleret.");
+ALIGNED(4) const u8 gText_UR_WirelessSearchCanceled[] = _("TRÅDLØS KOMMUNIKATION\nsøgning er annulleret.");
 ALIGNED(4) static const u8 sText_AwaitingCommunucation2[] = _("ともだちからの れんらくを\nまっています");
 ALIGNED(4) const u8 gText_UR_AwaitingCommunication[] = _("{STR_VAR_1}! Venter på\nkommunikation fra anden spiller.");
 ALIGNED(4) const u8 gText_UR_AwaitingLinkPressStart[] = _("{STR_VAR_1}! Venter på link!\nTryk START når alle er klar.");
@@ -128,8 +128,8 @@ const u8 *const gTexts_UR_PlayerDisconnected[] = {
     [RFU_STATUS_LEAVE_GROUP]         = sText_StoppedBeingMember
 };
 
-ALIGNED(4) const u8 gText_UR_WirelessLinkEstablished[] = _("TRÂDLØS KOMMUNIKATION-\nSYSTEM forbindelsen er etableret.");
-ALIGNED(4) const u8 gText_UR_WirelessLinkDropped[] = _("TRÂDLØS KOMMUNIKATION-\nSYSTEM forbindelsen er afbrudt…");
+ALIGNED(4) const u8 gText_UR_WirelessLinkEstablished[] = _("TRÅDLØS KOMMUNIKATION-\nSYSTEM forbindelsen er etableret.");
+ALIGNED(4) const u8 gText_UR_WirelessLinkDropped[] = _("TRÅDLØS KOMMUNIKATION-\nSYSTEM forbindelsen er afbrudt…");
 ALIGNED(4) const u8 gText_UR_LinkWithFriendDropped[] = _("Forbindelsen med din ven\nblev afbrudt…");
 ALIGNED(4) static const u8 sText_PlayerRepliedNo2[] = _("{STR_VAR_1} replied, “No…”");
 
@@ -497,7 +497,7 @@ ALIGNED(4) const u8 gText_UR_SearchingForWirelessSystemWait[] = _("Searching for
 ALIGNED(4) static const u8 sText_MustHaveTwoMonsForDoubleBattle[] = _("ダブルバトルでは 2ひき いじょうの\nポケモンが ひつようです\p");
 ALIGNED(4) const u8 gText_UR_AwaitingPlayersResponse[] = _("Awaiting {STR_VAR_1}'s response…");
 ALIGNED(4) const u8 gText_UR_PlayerHasBeenAskedToRegisterYouPleaseWait[] = _("{STR_VAR_1} has been asked to register\nyou as a member. Please wait.");
-ALIGNED(4) const u8 gText_UR_AwaitingResponseFromWirelessSystem[] = _("Venter på svar fra\nTRÂDLØS KOMMUNIKATION.");
+ALIGNED(4) const u8 gText_UR_AwaitingResponseFromWirelessSystem[] = _("Venter på svar fra\nTRÅDLØS KOMMUNIKATION.");
 ALIGNED(4) static const u8 sText_PleaseWaitForOtherTrainersToGather[] = _("ほかの さんかしゃが そろうまで\nしょうしょう おまちください");
 
 ALIGNED(4) static const u8 sText_NoCardsSharedRightNow[] = _("Ingen KORT deles lige nu.");

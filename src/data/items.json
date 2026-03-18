@@ -273,7 +273,7 @@
       "secondaryId": 0
     },
     {
-      "english": "VÂGNING",
+      "english": "VÅGNING",
       "itemId": "ITEM_AWAKENING",
       "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -609,7 +609,7 @@
       "secondaryId": 0
     },
     {
-      "english": "LAVA SMÂKAGE",
+      "english": "LAVA SMÅKAGE",
       "itemId": "ITEM_LAVA_COOKIE",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -625,7 +625,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BLÂ FLÖJTE",
+      "english": "BLÅ FLÖJTE",
       "itemId": "ITEM_BLUE_FLUTE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -769,7 +769,7 @@
       "secondaryId": 0
     },
     {
-      "english": "RÖD SKÂRV",
+      "english": "RÖD SKÅRV",
       "itemId": "ITEM_RED_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -785,7 +785,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BLÂ SKÂRV",
+      "english": "BLÅ SKÅRV",
       "itemId": "ITEM_BLUE_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -801,7 +801,7 @@
       "secondaryId": 0
     },
     {
-      "english": "GUL SKÂRV",
+      "english": "GUL SKÅRV",
       "itemId": "ITEM_YELLOW_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -817,7 +817,7 @@
       "secondaryId": 0
     },
     {
-      "english": "GRÖN SKÂRV",
+      "english": "GRÖN SKÅRV",
       "itemId": "ITEM_GREEN_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1505,7 +1505,7 @@
       "secondaryId": 0
     },
     {
-      "english": "MÂNESTEN",
+      "english": "MÅNESTEN",
       "itemId": "ITEM_MOON_STONE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2945,7 +2945,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BEDÂRINGS KL",
+      "english": "BEDÅRINGS KL",
       "itemId": "ITEM_SOOTHE_BELL",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_FRIENDSHIP_UP",
@@ -2977,7 +2977,7 @@
       "secondaryId": 0
     },
     {
-      "english": "VALGBÂND",
+      "english": "VALGBÅND",
       "itemId": "ITEM_CHOICE_BAND",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_CHOICE_BAND",
@@ -3137,7 +3137,7 @@
       "secondaryId": 0
     },
     {
-      "english": "FOKUSBÂND",
+      "english": "FOKUSBÅND",
       "itemId": "ITEM_FOCUS_BAND",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_FOCUS_BAND",
@@ -4081,7 +4081,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BLÂT TÖRKLÄDE",
+      "english": "BLÅT TÖRKLÄDE",
       "itemId": "ITEM_BLUE_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -4433,7 +4433,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BLÂ KUGLE",
+      "english": "BLÅ KUGLE",
       "itemId": "ITEM_BLUE_ORB",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",

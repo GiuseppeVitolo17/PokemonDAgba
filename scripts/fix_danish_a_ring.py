@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Replace French â (0x68) with Danish å (0x0B) in all game text files."""
+"""Replace French å (0x68) with Danish å (0x0B) in all game text files."""
 import os
 import sys
 
@@ -19,12 +19,12 @@ def main():
                     text = f.read()
             except (OSError, UnicodeDecodeError):
                 continue
-            if "â" not in text:
+            if "å" not in text:
                 continue
-            new_text = text.replace("â", "å")
+            new_text = text.replace("å", "å")
             with open(path, "w", encoding="utf-8") as f:
                 f.write(new_text)
-            n = text.count("â")
+            n = text.count("å")
             count += n
             print(rel, n)
     print("Total replacements:", count)

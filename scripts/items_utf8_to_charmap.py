@@ -3,15 +3,15 @@
 agbcc rejects \\x and \\3; using raw charmap bytes in Latin-1 source avoids escapes."""
 import sys
 
-# Charmap byte values (decimal): ä=F4=244, ö=F5=245, â=68, ø->ö=245, Ä=F1=241, Ö=F2=242, Â=3
+# Charmap byte values (decimal): ä=F4=244, ö=F5=245, å=68, ø->ö=245, Ä=F1=241, Ö=F2=242, Å=3
 MAP = {
     "ä": chr(0xF4),
     "ö": chr(0xF5),
-    "â": chr(0x68),
+    "å": chr(0x68),
     "ø": chr(0xF5),
     "Ä": chr(0xF1),
     "Ö": chr(0xF2),
-    "Â": chr(0x03),
+    "Å": chr(0x03),
 }
 
 def convert(content: str) -> str:
