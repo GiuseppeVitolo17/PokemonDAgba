@@ -394,8 +394,10 @@ void PSA_PrintMessage(u8 messageId)
     switch (messageId)
     {
     case 0: // Item was used on Mon
-        str = StringCopy(scene->textBuf, ItemId_GetName(itemId));
-        str = StringCopy(str, gText_WasUsedOn);
+        /* ItemId_GetName points at gItems[].name[ITEM_NAME_LENGTH] without guaranteed EOS;
+         * StringCopy would read past the field and corrupt / endless-print the message. */
+        CopyItemName(itemId, scene->textBuf);
+        str = StringAppend(scene->textBuf, gText_WasUsedOn);
         GetMonData(pokemon, MON_DATA_NICKNAME, str);
         StringAppend(scene->textBuf, gText_Period);
         break;
